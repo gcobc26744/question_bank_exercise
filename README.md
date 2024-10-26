@@ -1,16 +1,24 @@
 question_bank_exercise
+
 step 1 clone github
+
 把專案載入你想要放的資料夾底下，去 git bash 輸入以下指令
 git clone https://github.com/Shaila-Hsiao/question_bank_exercise/
 step 2 安裝所需套件
 eel
 pip install eel
+
+
 或者直接輸入
 pip install -r requirements.txt
+
+
 開啟程式碼
 輸入指令開啟 app.py
 python app.py
 直接點選 launch.py
+
+
 會出現，若介面顯示綠色代表可以點選開啟練習題畫面 image
 記得要在檔案位置下點選開啟 image
 成功開啟的畫面
