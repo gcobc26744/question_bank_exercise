@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "12",
+        "question_number": "1)",
+        "description": "Frederick Taylor referred to the tendency of employees to work at the slowest pace possible\nand to produce at the minimum acceptable level as ________.",
+        "options": {
+            "A": "social loafing",
+            "B": "systematic soldiering",
+            "C": "work shifting",
+            "D": "group logrolling"
+        },
+        "answer": "B",
+        "explanation": "B) Frederick Taylor popularized using financial incentives in the late 1800s. As a\nsupervisory employee of the Midvale Steel Company, Taylor was concerned with what he called\n\"systematic soldiering\"—the tendency of employees to work at the slowest pace possible and to\nproduce at the minimum acceptable level."
+    },
+    {
+        "chapter": "12",
+        "question_number": "2)",
+        "description": "Which of the following terms refers to financial rewards paid to workers whose production\nexceeds some predetermined standard?",
+        "options": {
+            "A": "indirect financial payments",
+            "B": "merit payments",
+            "C": "hardship allowances",
+            "D": "financial incentives"
+        },
+        "answer": "D",
+        "explanation": "D) Financial incentives are financial rewards paid to workers whose production\nexceeds some predetermined standard. Indirect financial payments are a type of employee\ncompensation that includes health benefits."
+    },
+    {
+        "chapter": "12",
+        "question_number": "3)",
+        "description": "A management approach based on improving work methods through observation and analysis\nis known as ________.",
+        "options": {
+            "A": "strategic management",
+            "B": "scientific management",
+            "C": "management by objectives",
+            "D": "performance management"
+        },
+        "answer": "B",
+        "explanation": "B) Frederick Taylor spearheaded the scientific management movement, a\nmanagement approach that emphasized improving work methods through observation and\nanalysis. Taylor also popularized the use of incentive pay as a way to reward employees who\nproduced over standard."
+    },
+    {
+        "chapter": "12",
+        "question_number": "4)",
+        "description": "Who proposed a two-factor theory that explains how motivator factors relate to satisfaction\nand hygiene factors relate to dissatisfaction?",
+        "options": {
+            "A": "Frederick Taylor",
+            "B": "Abraham Maslow",
+            "C": "Frederick Herzberg",
+            "D": "David McClelland"
+        },
+        "answer": "C",
+        "explanation": "C) Herzberg says the factors (\"hygienes\") that satisfy lower-level needs are\ndifferent from those (\"motivators\") that satisfy or partially satisfy higher-level needs."
+    },
+    {
+        "chapter": "12",
+        "question_number": "5)",
+        "description": "Which of the following is a true statement about Herzberg's Hygiene-Motivator theory?",
+        "options": {
+            "A": "Highly motivated workers rely equally on lower-level and higher-level needs.",
+            "B": "Assigning workers to teams can eliminate job-associated stress and frustration.",
+            "C": "Providing employees with feedback and challenge satisfies their lower-level needs.",
+            "D": "Managers can create a self-motivated workforce by providing feedback and recognition."
+        },
+        "answer": "D",
+        "explanation": "D) Instead of relying on lower-level hygienes, says Herzberg, managers interested\nin creating a self-motivated workforce should emphasize \"job content\" or motivator factors.\nManagers do this by enriching workers' jobs so that the jobs are more challenging and by\nproviding feedback and recognition."
+    },
+    {
+        "chapter": "12",
+        "question_number": "6)",
+        "description": "According to Herzberg's Hygiene-Motivator theory, which of the following factors will most\nlikely satisfy employees' higher-level needs?",
+        "options": {
+            "A": "base salary",
+            "B": "achievement",
+            "C": "incentive pay",
+            "D": "co-worker relationships"
+        },
+        "answer": "B",
+        "explanation": "B) Feedback, recognition, challenging work, and achievement help satisfy a\nworker's higher-level needs. Working conditions, salary, and incentives address a worker's\nlower-level needs."
+    },
+    {
+        "chapter": "12",
+        "question_number": "7)",
+        "description": "Which of the following found that extrinsic rewards could detract from an employee's intrinsic\nmotivation?",
+        "options": {
+            "A": "Frederick Taylor",
+            "B": "Frederick Herzberg",
+            "C": "David McClelland",
+            "D": "Edward Deci"
+        },
+        "answer": "D",
+        "explanation": "D) Psychologist Edward Deci's work highlights a potential downside to relying too\nheavily on extrinsic rewards: They may backfire. Deci found that extrinsic rewards could at\ntimes actually detract from the person's intrinsic motivation. Herzberg's work indicates that it is\nmore effective to satisfy an employee's higher-level rather than lower-level needs."
+    },
+    {
+        "chapter": "12",
+        "question_number": "8)",
+        "description": "Rebecca's manager wants to acknowledge her outstanding service record for the past quarter.\nThe manager decides to give Rebecca a bonus of $1000 as a reward. According to Edward Deci,\nwhich of the following will most likely occur as a result?",
+        "options": {
+            "A": "The bonus will encourage Rebecca to work harder than before.",
+            "B": "The bonus will detract from Rebecca's inner desire to work hard.",
+            "C": "Rebecca's bonus will satisfy her higher-level needs and increase her motivation.",
+            "D": "Rebecca will feel inadequate because the bonus fails to address hygiene factors."
+        },
+        "answer": "B",
+        "explanation": "B) Psychologist Edward Deci's work highlights a potential downside to relying too\nheavily on extrinsic rewards: They may backfire. Deci found that extrinsic rewards could at\ntimes actually detract from the person's intrinsic motivation. Herzberg's work indicates that it is\nmore effective to satisfy an employee's higher-level rather than lower-level needs."
+    },
+    {
+        "chapter": "12",
+        "question_number": "9)",
+        "description": "According to Victor Vroom, expectancy could also be referred to as the ________.",
+        "options": {
+            "A": "probability that effort will lead to success",
+            "B": "relationship between performance and reward",
+            "C": "perceived value a person attaches to a reward",
+            "D": "employer's strategy for motivating employees"
+        },
+        "answer": "A",
+        "explanation": "A) Vroom says a person's motivation to exert effort depends on the person's\nexpectancy that his or her effort will lead to performance; instrumentality, or the perceived\nconnection between successful performance and actually obtaining the rewards; and valence,\nwhich represents the perceived value the person attaches to the reward."
+    },
+    {
+        "chapter": "12",
+        "question_number": "10)",
+        "description": "The perceived relationship between successful performance and obtaining the reward is\nreferred to by Vroom as ________.",
+        "options": {
+            "A": "instrumentality",
+            "B": "valence",
+            "C": "expectancy",
+            "D": "optimism"
+        },
+        "answer": "A",
+        "explanation": "A) Instrumentality is the perceived connection (if any) between successful\nperformance and actually obtaining the rewards."
+    },
+    {
+        "chapter": "12",
+        "question_number": "11)",
+        "description": "In Vroom's theory of motivation, motivation is equal to E * I * V, where E represents\n________.",
+        "options": {
+            "A": "existence",
+            "B": "expectancy",
+            "C": "esteem",
+            "D": "energy"
+        },
+        "answer": "B",
+        "explanation": "B) In Vroom's theory, motivation is thus a product of three things:\nMotivation = (E × I × V), where, of course, E represents expectancy, I instrumentality,\nand V valence. If E or I or V is zero or inconsequential, there will be no motivation."
+    },
+    {
+        "chapter": "12",
+        "question_number": "12)",
+        "description": "In Vroom's theory of motivation, motivation is equal to E * I * V, where I represents\n________.",
+        "options": {
+            "A": "intrinsic needs",
+            "B": "internalization",
+            "C": "instrumentality",
+            "D": "incentives"
+        },
+        "answer": "C",
+        "explanation": "C) In Vroom's theory, motivation is thus a product of three things:\nMotivation = (E × I × V), where, of course, E represents expectancy, I instrumentality,\nand V valence. If E or I or V is zero or inconsequential, there will be no motivation."
+    },
+    {
+        "chapter": "12",
+        "question_number": "13)",
+        "description": "In Vroom's theory of motivation, which of the following terms refers to the perceived value a\nperson attaches to a reward?",
+        "options": {
+            "A": "valence",
+            "B": "instrumentality",
+            "C": "expectancy",
+            "D": "variable pay"
+        },
+        "answer": "A",
+        "explanation": "A) Valence represents the perceived value the person attaches to the reward."
+    },
+    {
+        "chapter": "12",
+        "question_number": "14)",
+        "description": "According to Vroom's theory, when managers design incentive plans they should do all of\nthe following EXCEPT ________.",
+        "options": {
+            "A": "focus on behavior modification methods",
+            "B": "make incentive plans easy to understand",
+            "C": "provide training and support to employees",
+            "D": "boost the confidence level of employees"
+        },
+        "answer": "A",
+        "explanation": "A) Vroom's theory has implications for how managers design incentive plans.\nManagers must ensure that their employees have the skills to do the job, and believe they can do\nthe job. Thus training, job descriptions, and confidence building and support are important in\nusing incentives. Managers should also create easy to understand incentive plans. Skinner\naddressed behavior modification methods rather than Vroom."
+    },
+    {
+        "chapter": "12",
+        "question_number": "15)",
+        "description": "Behavior modification is based upon the principles of rewards and punishments advanced by\n________.",
+        "options": {
+            "A": "Frederick Taylor",
+            "B": "Frederick Herzberg",
+            "C": "B.F. Skinner",
+            "D": "Edward Deci"
+        },
+        "answer": "C",
+        "explanation": "C) Psychologist B. F. Skinner's findings provide the foundation for much of what\nwe know about incentives. Managers apply Skinner's principles by using behavior modification."
+    },
+    {
+        "chapter": "12",
+        "question_number": "16)",
+        "description": "Which of the following terms refers to changing behavior through rewards or punishments\nthat are contingent on performance?",
+        "options": {
+            "A": "behavior modification",
+            "B": "personal development",
+            "C": "instrumentality",
+            "D": "internal motivation"
+        },
+        "answer": "A",
+        "explanation": "A) Managers apply Skinner's principles by using behavior modification. Behavior\nmodification means changing behavior through rewards or punishments that are contingent on\nperformance."
+    },
+    {
+        "chapter": "12",
+        "question_number": "17)",
+        "description": "Which of the following is NOT a basic tenet of behavior modification?",
+        "options": {
+            "A": "Behavior that leads to rewards tends to be repeated.",
+            "B": "Properly scheduled rewards can be used to encourage some behaviors.",
+            "C": "Properly scheduled punishments can be used to minimize some behaviors.",
+            "D": "Employees must understand the link between rewards, punishments, and behavior."
+        },
+        "answer": "D",
+        "explanation": "D) For managers, behavior modification boils down to following two main\nprinciples: (1) That behavior that appears to lead to a positive consequence (reward) tends to be\nrepeated, while behavior that appears to lead to a negative consequence (punishment) tends not\nto be repeated; and (2) that, therefore, managers can get someone to change his or her behavior\nby providing the properly scheduled rewards (or punishment)."
+    },
+    {
+        "chapter": "12",
+        "question_number": "18)",
+        "description": "Which of the following terms refers to an incentive plan that ties a group's pay to the firm's\nprofitability?",
+        "options": {
+            "A": "piecework",
+            "B": "variable pay",
+            "C": "pay-for-performance",
+            "D": "merit pay"
+        },
+        "answer": "B",
+        "explanation": "B) Traditionally, all incentive plans are pay-for-performance plans. They all tie\nemployees' pay to the employees' performance."
+    },
+    {
+        "chapter": "12",
+        "question_number": "19)",
+        "description": "Under the Fair Labor Standards Act, which of the following would NOT be included in\novertime pay computations?",
+        "options": {
+            "A": "bonus for new hires",
+            "B": "Christmas bonus",
+            "C": "efficiency bonus",
+            "D": "union contract bonus"
+        },
+        "answer": "B",
+        "explanation": "B) Christmas bonuses are not based on hours worked and may be excluded from\novertime pay calculations. Other types of incentive pay must be included according to the Fair\nLabor Standards Act (FLSA). Bonuses to include in overtime pay computations include those\npromised to newly hired employees, those provided for in union contracts, those announced to\ninduce employees to work more efficiently, and those for attendance."
+    },
+    {
+        "chapter": "12",
+        "question_number": "33)",
+        "description": "What type of pay plan is being used when workers are paid a sum for each unit they\nproduce?",
+        "options": {
+            "A": "competency-based pay",
+            "B": "job-based pay",
+            "C": "piecework",
+            "D": "bonus"
+        },
+        "answer": "C",
+        "explanation": "C) Piecework is the oldest and still most popular individual incentive plan. Here\nyou pay the worker a sum (called a piece rate) for each unit he or she produces."
+    },
+    {
+        "chapter": "12",
+        "question_number": "34)",
+        "description": "Which of the following terms refers to an incentive plan in which a person is paid a sum for\neach item he or she makes or sells, with a strict proportionality between results and rewards?",
+        "options": {
+            "A": "variable pay",
+            "B": "straight piecework",
+            "C": "straight hourly pay",
+            "D": "standard hour plan"
+        },
+        "answer": "B",
+        "explanation": "B) Piecework generally implies straight piecework, which entails a strict\nproportionality between results and rewards regardless of output. However, some piecework\nplans allow for sharing productivity gains between employer and worker."
+    },
+    {
+        "chapter": "12",
+        "question_number": "35)",
+        "description": "In which of the following do workers receive a basic hourly rate plus a premium equal to the\npercent by which their performance exceeds the standard?",
+        "options": {
+            "A": "variable pay",
+            "B": "straight piecework",
+            "C": "standard hour plan",
+            "D": "standard piecework"
+        },
+        "answer": "C",
+        "explanation": "C) The standard hour plan is a plan by which a worker is paid a basic hourly rate\nbut is paid an extra percentage of his or her rate for production exceeding the standard per hour\nor per day. It is similar to piecework payment but based on a percent premium."
+    },
+    {
+        "chapter": "12",
+        "question_number": "36)",
+        "description": "All of the following are disadvantages associated with piecework plans EXCEPT that\nworkers ________.",
+        "options": {
+            "A": "resist attempts to modify production standards",
+            "B": "focus on production quantity instead of quality",
+            "C": "view the plans as unfair and complicated",
+            "D": "dislike new technology or processes"
+        },
+        "answer": "C",
+        "explanation": "C) Piecework plans are understandable, appear equitable in principle, and can be\npowerful incentives, since rewards are proportionate to performance. However, workers on\npiecework may resist attempts to revise production standards, downplay quality, or resist\nswitching from job to job. Attempts to introduce new technology or processes may also trigger\nresistance."
+    },
+    {
+        "chapter": "12",
+        "question_number": "37)",
+        "description": "Which of the following is the primary advantage of piecework plans?",
+        "options": {
+            "A": "powerful incentive to workers",
+            "B": "workers earn efficiency bonuses",
+            "C": "firms save on overtime wages",
+            "D": "entices independent contractors"
+        },
+        "answer": "A",
+        "explanation": "A) Piecework plans are understandable, appear equitable in principle, and can be\npowerful incentives, since rewards are proportionate to performance."
+    },
+    {
+        "chapter": "12",
+        "question_number": "38)",
+        "description": "Which of the following terms refers to any salary increase the firm awards to an individual\nemployee based on his or her individual performance?",
+        "options": {
+            "A": "competency-based pay",
+            "B": "variable pay",
+            "C": "merit pay",
+            "D": "base pay"
+        },
+        "answer": "C",
+        "explanation": "C) Merit pay is any salary increase the firm awards to an individual employee\nbased on his or her individual performance. It is different from a bonus in that it usually becomes\npart of the employee's base salary, whereas a bonus is a one-time payment."
+    },
+    {
+        "chapter": "12",
+        "question_number": "39)",
+        "description": "How does merit pay differ from a bonus?",
+        "options": {
+            "A": "Merit pay becomes part of an employee's base pay, but a bonus does not.",
+            "B": "A bonus becomes part of an employee's base pay, but merit pay does not.",
+            "C": "Merit pay is linked to individual performance, while a bonus is linked to profits.",
+            "D": "A bonus is linked to individual performance, while merit pay is linked to profits."
+        },
+        "answer": "A",
+        "explanation": "A) Merit pay is any salary increase the firm awards to an individual employee\nbased on his or her individual performance. It is different from a bonus in that it usually becomes\npart of the employee's base salary, whereas a bonus is a one-time payment."
+    },
+    {
+        "chapter": "12",
+        "question_number": "40)",
+        "description": "Studies indicate that in order for merit pay to be most effective, it should be linked to\n________.",
+        "options": {
+            "A": "company profits",
+            "B": "annual base salary",
+            "C": "employee overtime",
+            "D": "employee performance"
+        },
+        "answer": "D",
+        "explanation": "D) Merit raises are more likely to be effective if they are linked to performance,\nwhich involves establishing effective appraisal procedures. Merit pay linked to company profits\nor employees' salaries, overtime, or awards are less likely to be effective incentives."
+    },
+    {
+        "chapter": "12",
+        "question_number": "41)",
+        "description": "Ryobi is a large, international power tool manufacturer that develops affordable, high-quality\nproducts, such as drills, circular saws, and routers, for both homeowners and craftspeople. As the\ncompany continues to grow, its top executives want to ensure that employees are appropriately\npaid for their performance and that financial incentives are both fair and effective. Currently, the\nfirm provides merit raises based on performance appraisals; however, executives are considering\nchanging the current incentive plan.\nWhich of the following, if true, supports the argument that Ryobi should eliminate all merit\nraises?",
+        "options": {
+            "A": "Performance appraisals at Ryobi occur annually, and standards vary from manager to\nmanager.",
+            "B": "Ryobi employees have the option of accepting lump-sum raises or traditional merit raises.",
+            "C": "Ryobi recently began using an enterprise incentive management system to automate\ncompensation.",
+            "D": "The commission percentage for Ryobi salespeople is based on the ability to meet monthly\nquotas."
+        },
+        "answer": "A",
+        "explanation": "A) In order for merit raises to be effective, performance appraisals need to be\nconsistent and fair. The distribution method of a merit raise, monthly sales quotas, and enterprise\nmanagement systems are less relevant to the decision."
+    },
+    {
+        "chapter": "12",
+        "question_number": "42)",
+        "description": "Ryobi is a large, international power tool manufacturer that develops affordable, high-quality\nproducts, such as drills, circular saws, and routers, for both homeowners and craftspeople. As the\ncompany continues to grow, its top executives want to ensure that employees are appropriately\npaid for their performance and that financial incentives are both fair and effective. Currently, the\nfirm provides merit raises based on performance appraisals; however, executives are considering\nchanging the current incentive plan.\nWhich of the following, if true, undermines the argument that Ryobi should discontinue all merit\nraises?",
+        "options": {
+            "A": "Ryobi employees have expressed that they would prefer stock options to merit raises.",
+            "B": "Ryobi managers have not received significant training about conducting performance\nappraisals.",
+            "C": "Ryobi managers have noticed significant productivity improvements among employees who\nreceive merit raises.",
+            "D": "Ryobi's top executives receive a combination of base salary and stock options to encourage\nthem to focus on the firm's strategic goals."
+        },
+        "answer": "C",
+        "explanation": "C) If Ryobi managers have noticed productivity improvements among employees\nwho receive merit raises, then the system is most likely effective and should not be discontinued.\nThe decision to discontinue merit raises is supported by employees who prefer stock options and\nmanagers who lack performance appraisal training. Executive pay is less relevant to the decision."
+    },
+    {
+        "chapter": "12",
+        "question_number": "43)",
+        "description": "Ryobi is a large, international power tool manufacturer that develops affordable, high-quality\nproducts, such as drills, circular saws, and routers, for both homeowners and craftspeople. As the\ncompany continues to grow, its top executives want to ensure that employees are appropriately\npaid for their performance and that financial incentives are both fair and effective. Currently, the\nfirm provides merit raises based on performance appraisals; however, executives are considering\nchanging the current incentive plan.\nWhich of the following questions is most relevant to the decision by Ryobi executives to\ndiscontinue all merit raises?",
+        "options": {
+            "A": "What are the guidelines for implementing a gainsharing plan?",
+            "B": "What types of merit raises are effective for high-performing managers?",
+            "C": "What organization-wide incentive plans are used by other manufacturing firms?",
+            "D": "What is the connection between merit pay increases and employee productivity?"
+        },
+        "answer": "D",
+        "explanation": "D) In order for merit raises to be effective, there should be a clear and consistent\nconnection between productivity and merit pay. There are not different types of merit raises."
+    },
+    {
+        "chapter": "12",
+        "question_number": "44)",
+        "description": "________ is a program where informal manager-employee exchanges such as praise,\napproval, or expressions of appreciation are given for a job well done.",
+        "options": {
+            "A": "Merit pay",
+            "B": "A social recognition program",
+            "C": "Performance feedback",
+            "D": "Variable pay"
+        },
+        "answer": "B",
+        "explanation": "B) Social recognition programs are programs where informal manager-employee\nexchanges such as praise, approval, or expressions of appreciation are given for a job well done."
+    },
+    {
+        "chapter": "12",
+        "question_number": "45)",
+        "description": "Craig is a line manager at a paper supply company. All of the following are methods that\nCraig should most likely implement to motivate his subordinates EXCEPT ________.",
+        "options": {
+            "A": "recognizing an employee's contribution",
+            "B": "encouraging workers to earn overtime pay",
+            "C": "gaining agreement on goals with employees",
+            "D": "using positive reinforcement on a daily basis"
+        },
+        "answer": "B",
+        "explanation": "B) The best option for motivating employees is to make sure the employee has a\ndoable goal and that he or she agrees with that. Next, recognizing an employee's contribution is a\npowerful motivation tool. Finally, managers can use social recognition as daily positive\nreinforcement. Encouraging overtime is less likely to motivate employees."
+    },
+    {
+        "chapter": "12",
+        "question_number": "46)",
+        "description": "Which of the following was shown by the Harvard Business School to have the greatest\nimpact on employee engagement?",
+        "options": {
+            "A": "feedback",
+            "B": "job design",
+            "C": "responsibility",
+            "D": "challenging work"
+        },
+        "answer": "B",
+        "explanation": "B) A study by Harvard Business School researchers concluded that job design is a\nprimary driver of employee engagement. A study by Sibson consulting concluded that job\nresponsibility and feedback from a job were the fifth and seventh most important drivers of\nemployee engagement. A study by Towers Watson concluded that challenging work ranked as\nthe seventh most important driver for attracting employees."
+    },
+    {
+        "chapter": "12",
+        "question_number": "58)",
+        "description": "Sometimes managers need to reinforce positive behavior but cannot turn to a cash incentive\nto do so. Identify some positive reinforcement rewards that a manager could use on a day-to-day\nbasis to reward employees.\nAnswer: There is a long list possible, such as: employee recognition, gift certificates, special\nevents, cash rewards, merchandise incentives, e-mail/print communications, training programs,\nwork/life benefits, variable pay, group travel, individual travel, sweepstakes, encouraging\nlearning and continuous improvement, providing encouragement, giving compliments, allowing\nemployees to set their own goals, expressing appreciation in front of others, sending a note of\nthanks, giving an employee-of-the-month award, providing a bigger or nicer desk or office.\nResearch indicates that both the financial and nonfinancial incentives improve employee and\nstore performance. The term recognition program usually refers to formal programs, such as\nemployee-of-the-month programs. Social recognition programs generally refer to informal\nmanager-employee exchanges such as praise, approval, or expression of appreciation for a job\nwell done. Employers often supplement financial incentives with various non-financial and\nrecognition based awards. Performance feedback means providing quantitative or qualitative\ninformation on task performance to change or maintain performance; showing workers a graph\nof how their performance is trending is an example.\nDifficulty: Hard\nChapter: 12\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 12.2 Discuss the main incentives for individual employees.\n59) Enterprise incentive management systems enable firms to ________.",
+        "options": {
+            "A": "compare corporate incentive programs",
+            "B": "accurately calculate sales commissions",
+            "C": "efficiently administer employee incentive programs",
+            "D": "create a matrix of merit awards and incentive options"
+        },
+        "answer": "C",
+        "explanation": "C) Incentive programs can be expensive and complicated to administer. As one\nsolution, vendors provide enterprise incentive management (EIM) systems. These automate the\nplanning, analysis, and management of incentive compensation plans."
+    },
+    {
+        "chapter": "12",
+        "question_number": "60)",
+        "description": "A straight salary is most appropriate when a salesperson's primary duties involve ________.",
+        "options": {
+            "A": "finding new clients",
+            "B": "meeting sales quotas",
+            "C": "pushing hard-to-sell items",
+            "D": "fostering relationships with customers"
+        },
+        "answer": "A",
+        "explanation": "A) Some firms pay salespeople fixed salaries, which makes sense when the main\ntask involves prospecting (finding new clients) or account servicing (such as participating in\ntrade shows). Meeting with clients and selling difficult items should be paid with commissions."
+    },
+    {
+        "chapter": "12",
+        "question_number": "61)",
+        "description": "Using a straight salary to compensate salespeople is most likely ineffective because it\n________.",
+        "options": {
+            "A": "discourages sales flexibility",
+            "B": "lacks connection to performance",
+            "C": "makes it hard to switch territories",
+            "D": "depends on annual corporate profits"
+        },
+        "answer": "B",
+        "explanation": "B) The main disadvantage is that straight salary can demotivate potentially high-\nperforming salespeople. The straight salary approach makes it easier to switch territories or to\nreassign salespeople, and it can foster sales staff loyalty."
+    },
+    {
+        "chapter": "12",
+        "question_number": "62)",
+        "description": "All of the following are disadvantages of straight commission plans EXCEPT ________.",
+        "options": {
+            "A": "salespeople avoid pushing hard-to-sell items",
+            "B": "salespeople fail to service small accounts",
+            "C": "payments are complicated to calculate",
+            "D": "significant variations in pay exist"
+        },
+        "answer": "C",
+        "explanation": "C) Straight commission plans are easy to understand and compute. However,\nsalespeople tend to focus on making the sale and on high-volume items, and may neglect\nnonselling duties like servicing small accounts, cultivating dedicated customers, and pushing\nhard-to-sell items. Wide variations in pay may occur; this can make some feel the plan is\ninequitable."
+    },
+    {
+        "chapter": "12",
+        "question_number": "63)",
+        "description": "Which of the following is the primary advantage of using a combination of salary and\ncommission as compensation for salespeople?",
+        "options": {
+            "A": "provides a guaranteed minimum salary",
+            "B": "allows freedom to choose own work activities",
+            "C": "completely links to performance",
+            "D": "offers simple administration"
+        },
+        "answer": "A",
+        "explanation": "A) The main advantage of combination plans is that they offer salespeople a floor\nto their earnings. However, such plans are usually complicated and difficult to administer, and\nonly the commission percentage is linked to performance."
+    },
+    {
+        "chapter": "12",
+        "question_number": "64)",
+        "description": "Edward is the new sales manager at Wilson Auto Mart. The previous sales manager set\ncommission rates informally without considering how much each sale covered expenses. As a\nresult, Wilson Auto Mart barely breaks even on each car sale once commissions are paid.\nEdward wants to motivate his sales force but avoid having excessive commissions.\nAll of the following questions are relevant to developing an effective sales compensation plan\nEXCEPT:",
+        "options": {
+            "A": "How much time does each Wilson salesperson spend with qualified prospects?",
+            "B": "What are the motivation and skill levels of Wilson sales team members?",
+            "C": "What is the average annual bonus received by Wilson's CEO?",
+            "D": "What is Wilson's desired profit for each car sale?"
+        },
+        "answer": "C",
+        "explanation": "C) Questions about profit, motivation, skill levels, and time spent with likely\ncustomers are relevant to developing an effective sales compensation plan. The annual bonus\nreceived by Wilson's CEO is not directly relevant to motivating the sales team."
+    },
+    {
+        "chapter": "12",
+        "question_number": "65)",
+        "description": "Edward is the new sales manager at Wilson Auto Mart. The previous sales manager set\ncommission rates informally without considering how much each sale covered expenses. As a\nresult, Wilson Auto Mart barely breaks even on each car sale once commissions are paid.\nEdward wants to motivate his sales force but avoid having excessive commissions.\nWhich of the following, if true, supports the argument that Edward should pay his sales team a\ncombination of salary plus commission?",
+        "options": {
+            "A": "Wilson Auto Mart's sales team consists of high-performing, experienced salespeople.",
+            "B": "Wilson Auto Mart has a sales force that has a significant desire for a floor to their earnings.",
+            "C": "Each Wilson Auto Mart salesperson is encouraged to sell at least ten vehicles each month.",
+            "D": "Wilson Auto Mart salespeople are primarily asked to find new clients and service current\naccounts."
+        },
+        "answer": "B",
+        "explanation": "B) A major advantage of combination plans is they give salespeople a floor to their\nearnings."
+    },
+    {
+        "chapter": "12",
+        "question_number": "66)",
+        "description": "What percentage of employers track sales performance using spreadsheets?",
+        "options": {
+            "A": "15%",
+            "B": "35%",
+            "C": "60%",
+            "D": "85%"
+        },
+        "answer": "C",
+        "explanation": "C) Somewhat astonishingly, given the amount of money employers pay out in\ncommissions and significant technological advancement, about 60% of employers track sales\nperformance and sales commissions much as they did decades ago, using spreadsheets."
+    },
+    {
+        "chapter": "12",
+        "question_number": "69)",
+        "description": "Which of the following terms refers to the right to purchase a stated number of shares of a\ncompany stock at today's price at some time in the future?",
+        "options": {
+            "A": "at-risk variable plan",
+            "B": "multiplier method",
+            "C": "stock option",
+            "D": "gainsharing plan"
+        },
+        "answer": "C",
+        "explanation": "C) A stock option is the right to purchase a specific number of shares of company\nstock at a specific price during a specific period. The assumption is that the price of the stock\nwill go up."
+    },
+    {
+        "chapter": "12",
+        "question_number": "70)",
+        "description": "With which of the following can an executive NOT profit until the stock makes significant\ngains?",
+        "options": {
+            "A": "indexed options",
+            "B": "phantom stock",
+            "C": "restricted stock",
+            "D": "premium priced options"
+        },
+        "answer": "D",
+        "explanation": "D) With premium priced options, the exercise price is higher than the stock's\nclosing price on the date of the grant, so the executive can't profit from the options until the stock\nmakes significant gains."
+    },
+    {
+        "chapter": "12",
+        "question_number": "71)",
+        "description": "With a ________, an executive receives units instead of shares of company stock. In the\nfuture, the executive receives cash equal to the appreciation of the units owned.",
+        "options": {
+            "A": "nonqualified stock option",
+            "B": "premium priced option",
+            "C": "phantom stock plan",
+            "D": "restricted stock plan"
+        },
+        "answer": "C",
+        "explanation": "C) Under phantom stock plans, executives receive not shares but \"units\" that are\nsimilar to shares of company stock. Then at some future time, they receive value (usually in\ncash) equal to the appreciation of the \"phantom\" stock they own."
+    },
+    {
+        "chapter": "12",
+        "question_number": "72)",
+        "description": "Which term refers to payments companies make in connection with a change in ownership or\ncontrol of a company?",
+        "options": {
+            "A": "pension",
+            "B": "golden parachute",
+            "C": "retirement bonus",
+            "D": "stock option"
+        },
+        "answer": "B",
+        "explanation": "B) Golden parachutes are extraordinary payments companies make to executives in\nconnection with a change in ownership or control of a company. For example, a company's\ngolden parachute clause might state that, with a change in ownership of the firm, the executive\nwould receive a one-time payment of two million dollars."
+    },
+    {
+        "chapter": "12",
+        "question_number": "73)",
+        "description": "The most common eligibility determinant for bonuses is:",
+        "options": {
+            "A": "salary grade",
+            "B": "job title",
+            "C": "officer status",
+            "D": "base salary"
+        },
+        "answer": "A",
+        "explanation": "A) Rather than job title or officer status, salary grade or band was the most\ncommon eligibility determinant, reported by 42% of employers in one survey."
+    },
+    {
+        "chapter": "12",
+        "question_number": "80)",
+        "description": "All of the following are advantages of team incentive plans EXCEPT that ________.",
+        "options": {
+            "A": "jealousy is reduced",
+            "B": "wage equity is guaranteed",
+            "C": "team planning is reinforced",
+            "D": "problem solving is encouraged"
+        },
+        "answer": "B",
+        "explanation": "B) The benefits of team incentive plans include reduced jealousy and increased\nteam planning, problem solving, and collaboration. The primary problem relates to inequity in\nfinancial compensation because everyone is paid equally but does not work equally."
+    },
+    {
+        "chapter": "12",
+        "question_number": "81)",
+        "description": "The employees at DataMax participate in a profit-sharing plan. DataMax distributes 15% of\nits profits as profit shares to employees at regular intervals. Which of the following is most likely\nused at DataMax?",
+        "options": {
+            "A": "current profit-sharing",
+            "B": "Lincoln incentive system",
+            "C": "deferred profit-sharing plan",
+            "D": "employee stock ownership plan"
+        },
+        "answer": "A",
+        "explanation": "A) There are several types of profit-sharing plans. With current profit-sharing or\ncash plans, employees share in a portion of the employer's profits quarterly or annually. In cash\nplans, the firm simply distributes a percentage of profits (usually 15% to 20%) as profit shares to\nemployees at regular intervals."
+    },
+    {
+        "chapter": "12",
+        "question_number": "82)",
+        "description": "Tanner's employer puts a predetermined portion of profits into a trust account for Tanner's\nretirement. Which of the following is most likely the type of profit-sharing plan used by Tanner's\nemployer?",
+        "options": {
+            "A": "deferred profit-sharing plan",
+            "B": "Lincoln incentive system",
+            "C": "Jefferson incentive system",
+            "D": "gainsharing plan"
+        },
+        "answer": "A",
+        "explanation": "A) With deferred profit-sharing plans, the employer puts cash awards into trust\naccounts for the employees' retirement. Here the employer generally distributes the awards based\non a percentage of the employee's salary, or some measure of the employee's contribution to\ncompany profits."
+    },
+    {
+        "chapter": "12",
+        "question_number": "83)",
+        "description": "Which profit-sharing plan provides tax advantages for employees by postponing income\ntaxes, often until the employee retires?",
+        "options": {
+            "A": "cash plan",
+            "B": "Lincoln incentive system",
+            "C": "deferred profit-sharing plan",
+            "D": "employee stock ownership plan"
+        },
+        "answer": "C",
+        "explanation": "C) With deferred profit-sharing plans, the employer puts cash awards into trust\naccounts for the employees' retirement. Here the employer generally distributes the awards based\non a percentage of the employee's salary, or some measure of the employee's contribution to\ncompany profits. There is a tax advantage, since employees' income taxes on the distributions are\ndeferred, often until the employee retires."
+    },
+    {
+        "chapter": "12",
+        "question_number": "84)",
+        "description": "The Scanlon plan includes all of the following features EXCEPT ________.",
+        "options": {
+            "A": "identity",
+            "B": "competency",
+            "C": "a philosophy of cooperation",
+            "D": "a focus on individual achievement"
+        },
+        "answer": "D",
+        "explanation": "D) The five features of the Scanlon plan include a philosophy of cooperation,\nidentity, competency, an involvement system, and a sharing of benefits formula. The plan does\nnot call for focusing on individual achievement."
+    },
+    {
+        "chapter": "12",
+        "question_number": "85)",
+        "description": "Which incentive plan is based on a philosophy that managers and employees must cooperate\ntogether?",
+        "options": {
+            "A": "cash plan",
+            "B": "Scanlon plan",
+            "C": "deferred profit-sharing plan",
+            "D": "employee stock ownership plan"
+        },
+        "answer": "B",
+        "explanation": "B) The Scanlon plan is based on a philosophy of cooperation. This philosophy\nassumes that managers and workers must rid themselves of the \"us\" and \"them\" attitudes that\nnormally inhibit employees from developing a sense of ownership in the company."
+    },
+    {
+        "chapter": "12",
+        "question_number": "86)",
+        "description": "Which of the following best explains identity in regards to the Scanlon plan?",
+        "options": {
+            "A": "philosophy of cooperation among employees",
+            "B": "clear articulation of the company mission",
+            "C": "high level of competency from all employees",
+            "D": "corporate-wide benefits and savings"
+        },
+        "answer": "B",
+        "explanation": "B) One feature of the Scanlon plan is identity. Identity means that in order to focus\nemployee involvement, the company must articulate its mission or purpose, and employees must\nunderstand how the business operates in terms of customers, prices, and costs."
+    },
+    {
+        "chapter": "12",
+        "question_number": "87)",
+        "description": "Competence in the Scanlon plan refers to a focus on ________.",
+        "options": {
+            "A": "cooperation",
+            "B": "corporate vision",
+            "C": "employee abilities",
+            "D": "significant improvements"
+        },
+        "answer": "C",
+        "explanation": "C) Competence is a third basic feature of the Scanlon plan. The program, say three\nexperts, \"explicitly recognizes that a Scanlon plan demands a high level of competency from\nemployees at all levels.\" This suggests careful selection and training."
+    },
+    {
+        "chapter": "12",
+        "question_number": "88)",
+        "description": "The Scanlon plan is an early version of a ________ plan, an incentive plan that engages\nemployees in a common effort to achieve productivity objectives.",
+        "options": {
+            "A": "performance achievement",
+            "B": "golden parachute",
+            "C": "gainsharing",
+            "D": "variable pay"
+        },
+        "answer": "C",
+        "explanation": "C) The Scanlon plan is one early version of a gainsharing plan. Gainsharing is an\nincentive plan that engages many or all employees in a common effort to achieve a company's\nproductivity objectives, with any resulting cost-savings gains shared among employees and the\ncompany."
+    },
+    {
+        "chapter": "12",
+        "question_number": "89)",
+        "description": "Gainsharing is an incentive plan that ________.",
+        "options": {
+            "A": "uses a trust to hold stock in individual employee accounts and distributes it to employees\nupon retirement",
+            "B": "engages employees in a common effort to achieve a company's productivity objectives with\nany resulting cost-savings gains shared among employees and the company",
+            "C": "contributes company shares of its own stock or cash to be used to purchase company stock to\na trust established to purchase shares of the firm's stock for employees",
+            "D": "provides tax advantages for employees by deferring income taxes, often until the employee\nretires"
+        },
+        "answer": "B",
+        "explanation": "B) Gainsharing is an incentive plan that engages many or all employees in a\ncommon effort to achieve a company's productivity objectives, with any resulting cost-savings\ngains shared among employees and the company."
+    },
+    {
+        "chapter": "12",
+        "question_number": "90)",
+        "description": "Which of the following is NOT a type of gainsharing plan?",
+        "options": {
+            "A": "Improshare",
+            "B": "Lincoln",
+            "C": "Rucker",
+            "D": "Roth"
+        },
+        "answer": "D",
+        "explanation": "D) In addition to the Scanlon plan, other popular gainsharing plans include the\nLincoln, Rucker, and Improshare plans. Roth is not a type of gainsharing plan."
+    },
+    {
+        "chapter": "12",
+        "question_number": "91)",
+        "description": "Tyler Oil offers a profit-sharing plan to its employees. Each year, Tyler Oil distributes total\nannual profits less taxes among employees based on employee merit ratings. Which of the\nfollowing is most likely used by Tyler Oil?",
+        "options": {
+            "A": "cash plan",
+            "B": "Lincoln incentive system",
+            "C": "deferred profit-sharing plan",
+            "D": "employee stock ownership plan"
+        },
+        "answer": "B",
+        "explanation": "B) In one version of the Lincoln incentive system, first instituted at the Lincoln\nElectric Company of Ohio, employees work on a guaranteed piecework basis. The company\ndistributes total annual profits (less taxes, 6% dividends to stockholders, and a reserve) each year\namong employees based on their merit rating."
+    },
+    {
+        "chapter": "12",
+        "question_number": "92)",
+        "description": "The Lincoln incentive system is an incentive plan that ________.",
+        "options": {
+            "A": "uses a trust to hold stock in individual employee accounts and distributes it to employees\nupon retirement",
+            "B": "engages many or all employees in a common effort to achieve a company's productivity\nobjectives with any resulting cost-savings gains shared among employees and the company",
+            "C": "contributes company shares of its own stock or cash to be used to purchase company stock to\na trust established to purchase shares of the firm's stock for employees",
+            "D": "involves the firm distributing total annual profits each year among employees based on their\nmerit rating"
+        },
+        "answer": "D",
+        "explanation": "D) In one version of the Lincoln incentive system, first instituted at the Lincoln\nElectric Company of Ohio, employees work on a guaranteed piecework basis. The company\ndistributes total annual profits each year among employees based on their merit rating."
+    },
+    {
+        "chapter": "12",
+        "question_number": "93)",
+        "description": "When hired by Delmar Designs, Shane agreed to forego 6% of his normal pay if he didn't\nmeet his goals in return for a 12% bonus if he exceeded his goals. In which type of plan does\nShane most likely participate?",
+        "options": {
+            "A": "earnings-at-risk pay plan",
+            "B": "variable risk sharing plan",
+            "C": "at-risk gainsharing plan",
+            "D": "employee at-risk plan"
+        },
+        "answer": "A",
+        "explanation": "A) At-risk variable pay plans are plans that put some portion of the employee's\nweekly, monthly, or yearly pay at risk. If employees meet or exceed their goals, they earn back\nnot only the portion of their pay that was at risk, but also an incentive. If they fail to meet their\ngoals, they forego some of the pay they would normally earn."
+    },
+    {
+        "chapter": "12",
+        "question_number": "94)",
+        "description": "Elaine, the HR manager at Western Enterprises, will get stock distributed to her from a trust\nwhen she retires. This is known as a(n):",
+        "options": {
+            "A": "profit-sharing plan",
+            "B": "earnings-at-risk plan",
+            "C": "Employee stock ownership plan (ESOP)",
+            "D": "gainsharing plan"
+        },
+        "answer": "C",
+        "explanation": "C) Employee stock ownership plans (ESOP) are company-wide plans in which the\nemployer contributes shares of its own stock (or cash to be used to purchase such stock) to a trust\nestablished to purchase shares of the firm's stock for employees. The trust holds the stock in\nindividual employee accounts. It then distributes the stock to employees upon retirement."
+    },
+    {
+        "chapter": "12",
+        "question_number": "95)",
+        "description": "In ________, employees agree to put some portion of their normal pay at risk if they don't\nmeet their goals, in return for a much larger bonus if they exceed their goals.",
+        "options": {
+            "A": "earnings-at-risk pay plans",
+            "B": "gainsharing",
+            "C": "the Scanlon plan",
+            "D": "team incentive plans"
+        },
+        "answer": "A",
+        "explanation": "A) In earnings-at-risk pay plans, employees agree to put some portion (say, 10%)\nof their normal pay at risk (forego it) if they don't meet their goals, in return for possibly\nobtaining a much larger bonus if they exceed their goals."
+    },
+    {
+        "chapter": "12",
+        "question_number": "96)",
+        "description": "Studies suggest that ESOPs probably do lead to increases in employee:",
+        "options": {
+            "A": "performance",
+            "B": "sense of ownership",
+            "C": "motivation",
+            "D": "helping behaviors"
+        },
+        "answer": "B",
+        "explanation": "B) Studies suggest that ESOPs probably do encourage employees to develop a\nsense of ownership in and commitment to the firm, but their effects on motivation and\nperformance are questionable."
+    },
+    {
+        "chapter": "12",
+        "question_number": "97)",
+        "description": "What percentage of large employers use some type of group- or team-based incentives?",
+        "options": {
+            "A": "15%",
+            "B": "40%",
+            "C": "60%",
+            "D": "85%"
+        },
+        "answer": "D",
+        "explanation": "D) About 85% of large employers reportedly use some type of group- or team-\nbased incentives,"
+    },
+    {
+        "chapter": "12",
+        "question_number": "98)",
+        "description": "The main feature of broad-based stock option plans is:",
+        "options": {
+            "A": "monthly stock options",
+            "B": "option to buy as many shares as desired",
+            "C": "restricted to closely held organizations",
+            "D": "all or most employees can participate"
+        },
+        "answer": "D",
+        "explanation": "D) All or most employees can participate in broad-based stock option plans. The\nbasic thinking is that sharing ownership in the company with employees makes motivational and\npractical sense."
+    },
+    {
+        "chapter": "12",
+        "question_number": "99)",
+        "description": "Employees at GameTime Software participate in a gainsharing plan. Employee bonuses are\ncalculated by dividing payroll expenses by total sales. GameTime Software most likely uses\nwhich of the following plans?",
+        "options": {
+            "A": "Lincoln",
+            "B": "Rucker",
+            "C": "Improshare",
+            "D": "Scanlon"
+        },
+        "answer": "D",
+        "explanation": "D) The Scanlon formula divides payroll expenses by total sales (or, sometimes, by\ntotal sales plus increases in inventory)."
+    },
+    {
+        "chapter": "12",
+        "question_number": "100)",
+        "description": "McDonald Manufacturing contributes cash to a trust established to purchase shares of\nMcDonald stock for employees. Which of the following is most likely offered by McDonald\nManufacturing?",
+        "options": {
+            "A": "cash plans",
+            "B": "Lincoln incentive systems",
+            "C": "deferred profit-sharing plans",
+            "D": "employee stock ownership plans"
+        },
+        "answer": "D",
+        "explanation": "D) Employee stock ownership plans (ESOPs) are company-wide plans in which\nthe employer contributes shares of its own stock to a trust established to purchase shares of the\nfirm's stock for employees. The firm generally makes these contributions annually in proportion\nto total employee compensation, with a limit of 15% of compensation."
+    },
+    {
+        "chapter": "12",
+        "question_number": "101)",
+        "description": "Which of the following is the primary benefit of employee stock ownership plans?",
+        "options": {
+            "A": "Firms are able to implement the plans with minimal costs and complications.",
+            "B": "Firms pay distribution taxes for employees prior to retirement.",
+            "C": "Firms may borrow against employee stock held in trust.",
+            "D": "Employees are able to diversify their investments."
+        },
+        "answer": "C",
+        "explanation": "C) The main reason that ESOPs are popular is that a firm gets a tax deduction\nequal to the fair market value of the shares it transfers to the trustee and can claim an income tax\ndeduction for dividends paid on ESOP-owned stock. Employees are taxed when they receive a\ndistribution from the trust, usually at retirement."
+    },
+    {
+        "chapter": "12",
+        "question_number": "102)",
+        "description": "Research indicates that employee stock ownership plans most likely ________.",
+        "options": {
+            "A": "encourage employees to retire too early",
+            "B": "place firms at greater risk for employee lawsuits",
+            "C": "increase employee commitment",
+            "D": "encourage transparency within global organizations"
+        },
+        "answer": "C",
+        "explanation": "C) Research suggests that ESOPs do encourage employees to develop a sense of\nownership in and commitment to the firm. For the plans to be effective, firms must be\nresponsible for their funds."
+    },
+    {
+        "chapter": "12",
+        "question_number": "103)",
+        "description": "Top executives at DYS Enterprises are considering the idea of implementing an employee\nincentive plan. Which of the following suggests that an incentive plan would NOT be\nappropriate at DYS Enterprises?",
+        "options": {
+            "A": "Delays rarely occur.",
+            "B": "The job is standardized.",
+            "C": "Employees are unskilled but motivated.",
+            "D": "A link exists between employee effort and output."
+        },
+        "answer": "C",
+        "explanation": "C) Incentive plans are effective and appropriate when motivation (and not ability)\nis the problem. They are also appropriate when there is a clear relationship between employee\neffort and quantity or quality of output, the job is standardized, and delays are few or consistent."
+    }
+]

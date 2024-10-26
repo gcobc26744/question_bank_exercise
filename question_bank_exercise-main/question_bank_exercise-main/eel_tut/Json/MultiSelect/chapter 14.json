@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "14",
+        "question_number": "1)",
+        "description": "Joel is a manager who is doing an activity that involves establishing and maintaining the\npositive employee-employer relationships that contribute to satisfactory productivity and a\ncohesive work environment. This is defined as:",
+        "options": {
+            "A": "employee relations",
+            "B": "organizational justice",
+            "C": "public policy",
+            "D": "ethics"
+        },
+        "answer": "A",
+        "explanation": "A) Employee relations is the managerial activity that involves establishing and\nmaintaining the positive employee-employer relationships that contribute to satisfactory\nproductivity, motivation, morale, and discipline, and to maintaining a positive, productive, and\ncohesive work environment."
+    },
+    {
+        "chapter": "14",
+        "question_number": "2)",
+        "description": "________ is the activity that involves establishing and maintaining the positive employee-\nemployer relationship.",
+        "options": {
+            "A": "Quality circles",
+            "B": "Employee relations",
+            "C": "Suggestion teams",
+            "D": "Focus groups"
+        },
+        "answer": "B",
+        "explanation": "B) Employee relations is the activity that involves establishing and maintaining the\npositive employee-employer relationship that contributes to satisfactory productivity, motivation,\nmorale, discipline and to maintaining a positive, productive and cohesive work environment."
+    },
+    {
+        "chapter": "14",
+        "question_number": "5)",
+        "description": "Unfair treatment of employees in the workplace causes all the following EXCEPT ________.",
+        "options": {
+            "A": "demoralization",
+            "B": "negative performance",
+            "C": "reduced stress",
+            "D": "reduced morale"
+        },
+        "answer": "C",
+        "explanation": "C) Employees who suffered unfair treatment at work know it is demoralizing.\nUnfair treatment reduces morale, increases stress, and has negative effects on performance."
+    },
+    {
+        "chapter": "14",
+        "question_number": "6)",
+        "description": "Which of the following is NOT an effect of an abusive supervisor?",
+        "options": {
+            "A": "more likely to stay with the company",
+            "B": "higher stress",
+            "C": "low job satisfaction",
+            "D": "more likely to quit"
+        },
+        "answer": "A",
+        "explanation": "A) Employees of abusive supervisors are more likely to quit and to report lower\njob and life satisfaction and higher stress."
+    },
+    {
+        "chapter": "14",
+        "question_number": "7)",
+        "description": "According to surveys, at work, fair treatment reflects concrete actions such as, \"Employees are\ntreated with respect and ________.\"",
+        "options": {
+            "A": "properly served",
+            "B": "treated fairly",
+            "C": "terminated",
+            "D": "not abused"
+        },
+        "answer": "B",
+        "explanation": "B) One survey found 45% of employees said they had worked for abusive bosses.\nAt work, fair treatment reflects concrete actions such as \"Employees are treated with respect\"\nand \"Employees are treated fairly.\""
+    },
+    {
+        "chapter": "14",
+        "question_number": "8)",
+        "description": "What are the two main components of organizational justice?",
+        "options": {
+            "A": "distributive justice and normative judgments",
+            "B": "procedural justice and distributive justice",
+            "C": "normative justice and ethical treatment",
+            "D": "interactional justice and ethical justice"
+        },
+        "answer": "B",
+        "explanation": "B) Experts generally define organizational justice in terms of at least two\ncomponents—distributive justice and procedural justice. Distributive justice refers to the fairness\nof outcomes. Procedural justice refers to the fairness of the process."
+    },
+    {
+        "chapter": "14",
+        "question_number": "9)",
+        "description": "Which component of organizational justice refers to the fairness and justice of a decision's\nresult?",
+        "options": {
+            "A": "distributive justice",
+            "B": "procedural justice",
+            "C": "normative justice",
+            "D": "interpersonal justice"
+        },
+        "answer": "A",
+        "explanation": "A) Distributive justice refers to the fairness and justice of the outcomes."
+    },
+    {
+        "chapter": "14",
+        "question_number": "10)",
+        "description": "The distributive justice component of organizational justice is best defined as the ________.",
+        "options": {
+            "A": "fairness of the decision process",
+            "B": "fairness of the decision's outcomes",
+            "C": "degree to which the decision is moral",
+            "D": "extent to which the decision is good or bad"
+        },
+        "answer": "B",
+        "explanation": "B) Distributive justice refers to the fairness and justice of the outcomes."
+    },
+    {
+        "chapter": "14",
+        "question_number": "11)",
+        "description": "Which component of organizational justice refers to the fairness of a process?",
+        "options": {
+            "A": "distributive justice",
+            "B": "procedural justice",
+            "C": "interactional justice",
+            "D": "normative justice"
+        },
+        "answer": "B",
+        "explanation": "B) Procedural justice refers to the fairness of the process."
+    },
+    {
+        "chapter": "14",
+        "question_number": "12)",
+        "description": "Which of the following best defines procedural justice?",
+        "options": {
+            "A": "fairness of a decision's result",
+            "B": "manner in which firms conduct business",
+            "C": "fairness of the process used to make a decision",
+            "D": "manner in which managers treat subordinates"
+        },
+        "answer": "C",
+        "explanation": "C) Distributive justice refers to the fairness and justice of the outcomes. Procedural\njustice refers to the fairness of the process."
+    },
+    {
+        "chapter": "14",
+        "question_number": "13)",
+        "description": "The company Wilson works for believes it should (and it does) channel resources toward\nimproving one or more segments of society other than the firm's owners or stockholders. This is\nknown as:",
+        "options": {
+            "A": "ethics",
+            "B": "quality circles",
+            "C": "procedural justice",
+            "D": "corporate social responsibility"
+        },
+        "answer": "D",
+        "explanation": "D) Corporate social responsibility refers to the extent to which companies should\nand do channel resources toward improving one or more segments of society other than the\nfirm's owners or stockholders."
+    },
+    {
+        "chapter": "14",
+        "question_number": "14)",
+        "description": "As a manager, all of the following would most likely encourage ethical behavior among\nsubordinates EXCEPT ________.",
+        "options": {
+            "A": "clarifying expectations",
+            "B": "serving as a role model",
+            "C": "rewarding honest work",
+            "D": "taking credit for others' work"
+        },
+        "answer": "D",
+        "explanation": "D) Taking credit for others' work is one way that managers lead subordinates\ntowards unethical behavior. Managers need to set good examples, clarify expectations, reward\nhonesty, and penalize wrongdoing."
+    },
+    {
+        "chapter": "14",
+        "question_number": "15)",
+        "description": "Johnson & Johnson has a corporate ethics code that states \"We believe our first responsibility\nis to the doctors, nurses and patients, to mothers and fathers and all others who use our products\nand services.\" What is the most likely purpose of Johnson & Johnson's ethics code?",
+        "options": {
+            "A": "establishing disciplinary procedures",
+            "B": "providing incentives for employees",
+            "C": "clarifying expectations for employees",
+            "D": "marketing to potential new customers"
+        },
+        "answer": "C",
+        "explanation": "C) Johnson & Johnson's ethics code clarifies the firm's expectations with respect to\nthe values it considers critical. The firm expects its employees to follow the ethics code, but it\ndoes not necessarily offer incentives."
+    },
+    {
+        "chapter": "14",
+        "question_number": "16)",
+        "description": "When a company rewards employees who behave ethically using the firm's incentive plan\nand appraisal system, they are ________ to encourage ethical behavior.",
+        "options": {
+            "A": "providing physical support",
+            "B": "organizing ceremonies",
+            "C": "clarifying expectations",
+            "D": "using symbols"
+        },
+        "answer": "A",
+        "explanation": "A) Provide physical support. The physical manifestations of the manager's\nvalues—the incentives, appraisal criteria, and disciplinary procedures he or she uses, for\ninstance—send strong signals regarding what employees should and should not do."
+    },
+    {
+        "chapter": "14",
+        "question_number": "17)",
+        "description": "According to surveys, which of the following is the primary cause of ethical compromises in\nthe workplace?",
+        "options": {
+            "A": "feeling peer pressure",
+            "B": "meeting schedule pressures",
+            "C": "advancing a boss' career interests",
+            "D": "advancing personal career interests"
+        },
+        "answer": "B",
+        "explanation": "B) One study asked employees to list their reasons for taking unethical actions at\nwork. For most of these employees, \"meeting schedule pressures,\" \"meeting overly aggressive\nfinancial or business objectives\" and \"helping the company survive\" were the three top causes.\n\"Advancing my own career or financial interests\" ranked about last."
+    },
+    {
+        "chapter": "14",
+        "question_number": "18)",
+        "description": "A(n) ________ is a type of formal problem-solving team, usually composed of 6 to 12\nspecially trained employees who meet weekly to solve problems affecting their work area.",
+        "options": {
+            "A": "action team",
+            "B": "organizational culture",
+            "C": "suggestion team",
+            "D": "quality circle"
+        },
+        "answer": "D",
+        "explanation": "D) A quality circle is a type of formal problem-solving team, usually composed of\n6 to 12 specially trained employees who meet weekly to solve problems affecting their work\narea."
+    },
+    {
+        "chapter": "14",
+        "question_number": "19)",
+        "description": "Which of the following is NOT an element of bullying?",
+        "options": {
+            "A": "submission",
+            "B": "repetition",
+            "C": "intent to harm",
+            "D": "imbalance of power"
+        },
+        "answer": "A",
+        "explanation": "A) Bullying is singling out someone to harass and mistreat. Bullying involves\nimbalance of power, intent to cause harm, and repetition. Submission is not an element of\nbullying."
+    },
+    {
+        "chapter": "14",
+        "question_number": "20)",
+        "description": "What is defined as the perceptions a company's employees share about the firm's\npsychological environment?",
+        "options": {
+            "A": "bullying",
+            "B": "ethics",
+            "C": "social responsibility",
+            "D": "organizational climate"
+        },
+        "answer": "D",
+        "explanation": "D) Organizational climate is perceptions a company's employees share about the\nfirm's psychological environment."
+    },
+    {
+        "chapter": "14",
+        "question_number": "21)",
+        "description": "A recent survey found approximately what percentage of organizations use social media\ntools to communicate with employees and to help develop a sense of community?",
+        "options": {
+            "A": "15%",
+            "B": "25%",
+            "C": "50%",
+            "D": "80%"
+        },
+        "answer": "C",
+        "explanation": "C) One survey found that just over half of employers use social media tools to\ncommunicate with employees and to help develop a sense of community."
+    },
+    {
+        "chapter": "14",
+        "question_number": "22)",
+        "description": "Julio is part of a team of 8 at work which runs itself with little supervision to accomplish a\nspecific task. This is an example of what type of team?",
+        "options": {
+            "A": "sales team",
+            "B": "self-managing work team",
+            "C": "suggestion team",
+            "D": "problem-solving team"
+        },
+        "answer": "B",
+        "explanation": "B) Self-managing/self-directed work teams are a small (usually 8 to 10 members)\ngroup of carefully selected, trained, and empowered employees who basically run themselves\nwith little or no outside supervision, usually for the purpose of accomplishing a specific task or\nmission."
+    },
+    {
+        "chapter": "14",
+        "question_number": "23)",
+        "description": "The definition of a ________ is a temporary team whose members work on specific\nanalytical assignments, such as how to cut costs or raise productivity.",
+        "options": {
+            "A": "quality circle",
+            "B": "suggestion team",
+            "C": "self-managed team",
+            "D": "work team"
+        },
+        "answer": "B",
+        "explanation": "B) Suggestion teams are temporary teams whose members work on specific\nanalytical assignments, such as how to cut costs or raise productivity."
+    },
+    {
+        "chapter": "14",
+        "question_number": "24)",
+        "description": "Semi-permanent teams that identify and research work processes and develop solutions to\nwork-related problems are called:",
+        "options": {
+            "A": "suggestion teams",
+            "B": "orientation teams",
+            "C": "problem-solving teams",
+            "D": "self-managed teams"
+        },
+        "answer": "C",
+        "explanation": "C) Problem-solving teams are semi-permanent teams that identify and research\nwork processes and develop solutions to work-related problems."
+    },
+    {
+        "chapter": "14",
+        "question_number": "25)",
+        "description": "Self-managed teams typically have how many members?",
+        "options": {
+            "A": "1-2",
+            "B": "4-6",
+            "C": "8-10",
+            "D": "15-20"
+        },
+        "answer": "C",
+        "explanation": "C) Self-managed teams generally have 8-10 members."
+    },
+    {
+        "chapter": "14",
+        "question_number": "26)",
+        "description": "Which type of bullying involves hitting, punching, and shoving?",
+        "options": {
+            "A": "verbal",
+            "B": "social",
+            "C": "cyber bullying",
+            "D": "physical"
+        },
+        "answer": "D",
+        "explanation": "D) Bullying can take many forms. Physical bullying involves hitting, punching,\nand shoving."
+    },
+    {
+        "chapter": "14",
+        "question_number": "27)",
+        "description": "Which type of bullying involves name-calling and teasing?",
+        "options": {
+            "A": "verbal",
+            "B": "social",
+            "C": "cyber bullying",
+            "D": "physical"
+        },
+        "answer": "A",
+        "explanation": "A) Bullying can take many forms. Verbal bullying involves name-calling and\nteasing."
+    },
+    {
+        "chapter": "14",
+        "question_number": "28)",
+        "description": "Which type of bullying involves using the Internet, mobile phones, or other digital\ntechnologies to harm others?",
+        "options": {
+            "A": "verbal",
+            "B": "social",
+            "C": "cyber bullying",
+            "D": "physical"
+        },
+        "answer": "C",
+        "explanation": "C) Bullying can take many forms. Cyber bullying involves using the Internet,\nmobile phones, or other digital technologies to harm others."
+    },
+    {
+        "chapter": "14",
+        "question_number": "29)",
+        "description": "Which element of bullying involves the use of power to control or harm and the people being\nbullied may have a hard time defending themselves?",
+        "options": {
+            "A": "repetition",
+            "B": "imbalance of power",
+            "C": "name-calling",
+            "D": "intent to cause harm"
+        },
+        "answer": "B",
+        "explanation": "B) Bullying involves three things: imbalance of power, intent to cause harm, and\nrepetition."
+    },
+    {
+        "chapter": "14",
+        "question_number": "30)",
+        "description": "________ is/are actions not done by accident but with a goal to cause harm.",
+        "options": {
+            "A": "Repetition",
+            "B": "Imbalance of power",
+            "C": "Intent to cause harm",
+            "D": "Merit"
+        },
+        "answer": "C",
+        "explanation": "C) Intent to cause harm is an element of bullying. Intent to cause harm is actions\ndone by the person bullying with a goal to cause harm."
+    },
+    {
+        "chapter": "14",
+        "question_number": "31)",
+        "description": "All of the following are common elements of bullying EXCEPT ________.",
+        "options": {
+            "A": "power imbalance",
+            "B": "harmful intentions",
+            "C": "verbal name-calling",
+            "D": "repetitive incidents"
+        },
+        "answer": "C",
+        "explanation": "C) All types of bullying typically include an imbalance of power, an intent to cause\nharm, and repetitive occurrences. Not all bullying involves verbal name-calling."
+    },
+    {
+        "chapter": "14",
+        "question_number": "32)",
+        "description": "Which type of bullying involves spreading rumors and purposely breaking up friendships in\nthe workplace?",
+        "options": {
+            "A": "physical bullying",
+            "B": "cyber bullying",
+            "C": "verbal bullying",
+            "D": "social bullying"
+        },
+        "answer": "D",
+        "explanation": "D) Social bullying involves spreading rumors, breaking up friendships, and leaving\npeople out on purpose."
+    },
+    {
+        "chapter": "14",
+        "question_number": "46)",
+        "description": "The principles of conduct governing an individual or a group are referred to as ________.",
+        "options": {
+            "A": "judgments",
+            "B": "ethics",
+            "C": "laws",
+            "D": "virtues"
+        },
+        "answer": "B",
+        "explanation": "B) Ethics refers to \"the principles of conduct governing an individual or a group;\nspecifically, the standards you use to decide what your conduct should be.\""
+    },
+    {
+        "chapter": "14",
+        "question_number": "47)",
+        "description": "________ means society's accepted standards of behavior and always involves basic\nquestions of right and wrong.",
+        "options": {
+            "A": "Society assessment",
+            "B": "Non-normative statement",
+            "C": "Morality",
+            "D": "Distributive assessment"
+        },
+        "answer": "C",
+        "explanation": "C) Morality means society's accepted standards of behavior and always involves\nbasic questions of right and wrong, such as stealing, murder, and how to treat other people."
+    },
+    {
+        "chapter": "14",
+        "question_number": "48)",
+        "description": "Ethics refers to the ________.",
+        "options": {
+            "A": "basic beliefs about what is right or wrong",
+            "B": "principles of conduct governing an individual or group",
+            "C": "standards used by the organization to decide upon proper conduct",
+            "D": "standards of behavior accepted by society"
+        },
+        "answer": "B",
+        "explanation": "B) Ethics refers to \"the principles of conduct governing an individual or a group,\"\nspecifically, the standards you use to decide what your conduct should be. A normative judgment\nmeans that something is right or wrong. Morals are society's highest accepted standards of\nbehavior."
+    },
+    {
+        "chapter": "14",
+        "question_number": "49)",
+        "description": "Which of the following guides the most serious societal behaviors such as murder, stealing,\nand slander?",
+        "options": {
+            "A": "normative judgments",
+            "B": "distributive justice",
+            "C": "human rights",
+            "D": "moral standards"
+        },
+        "answer": "D",
+        "explanation": "D) Moral standards guide behaviors of the most serious consequence to society's\nwell-being, such as murder, lying, and slander. Morality means society's accepted standards of\nbehavior and always involves basic questions of right and wrong, such as stealing, murder, and\nhow to treat people."
+    },
+    {
+        "chapter": "14",
+        "question_number": "50)",
+        "description": "Based on research into ethical behavior in the workplace, which of the following is a true\nstatement?",
+        "options": {
+            "A": "Offering rewards for ethical behavior supports the intrinsic nature of personal ethics.",
+            "B": "Punishing unethical behavior fails to alter the behavior of others in the workplace.",
+            "C": "Managers significantly influence the ethical behavior of their subordinates.",
+            "D": "Employees feel uncomfortable discussing ethics, so it should be avoided."
+        },
+        "answer": "C",
+        "explanation": "C) Managers do a lot to influence ethics. According to one report, workplace\nmisconduct dropped dramatically when employees said their supervisors exhibited ethical\nbehavior. Rewarding ethical behavior can backfire, while punishing unethical behavior is\nessential. Discussing ethics openly is beneficial."
+    },
+    {
+        "chapter": "14",
+        "question_number": "51)",
+        "description": "Which of the following terms refers to the characteristic values, traditions, and behaviors a\ncompany's employees share?",
+        "options": {
+            "A": "organizational culture",
+            "B": "organizational ethics",
+            "C": "corporate climate",
+            "D": "corporate mission"
+        },
+        "answer": "A",
+        "explanation": "A) Organizational culture is the characteristic values, traditions, and behaviors a\ncompany's employees share."
+    },
+    {
+        "chapter": "14",
+        "question_number": "52)",
+        "description": "Which of the following best defines organizational culture?",
+        "options": {
+            "A": "basic beliefs about what is right or wrong within a business or corporation",
+            "B": "characteristic values, traditions, and behaviors a firm's employees share",
+            "C": "principles of conduct governing an individual, group, or company",
+            "D": "standards used by an organization to determine proper conduct"
+        },
+        "answer": "B",
+        "explanation": "B) Organizational culture is the characteristic values, traditions, and behaviors a\ncompany's employees share. A value is a basic belief about right and wrong or what you should\nor should not do."
+    },
+    {
+        "chapter": "14",
+        "question_number": "53)",
+        "description": "Which of the following best defines values as they relate to organizational culture?",
+        "options": {
+            "A": "shortcuts to get work done",
+            "B": "principles of conduct governing an individual or group",
+            "C": "basic beliefs about what is right or wrong",
+            "D": "standards of behavior accepted by society"
+        },
+        "answer": "C",
+        "explanation": "C) A value is a basic belief about right and wrong or what you should or should\nnot do."
+    },
+    {
+        "chapter": "14",
+        "question_number": "54)",
+        "description": "The applicant screening process would most likely be considered unfair if an HR manager\n________.",
+        "options": {
+            "A": "encouraged two-way communication",
+            "B": "focused mostly on personality issues",
+            "C": "included an appeals process",
+            "D": "provided useful feedback"
+        },
+        "answer": "B",
+        "explanation": "B) The screening process should focus on job-related criteria rather than\npersonality issues. Two-way communication is essential to screening applicants. Applicants\nshould have a chance to demonstrate competency and appeal decisions. Applicants see a\nselection system as fair to the extent that the employer provides useful feedback about the\nemployee's or candidate's own performance."
+    },
+    {
+        "chapter": "14",
+        "question_number": "55)",
+        "description": "What is the most likely reason for more firms providing ethics training to employees?",
+        "options": {
+            "A": "Employees seeking professional certification are tested on ethics.",
+            "B": "State laws require businesses to have written codes of conduct.",
+            "C": "Businesses fear being sued by customers for ethical misconduct.",
+            "D": "Federal laws encourage firms to comply with ethics training guidelines."
+        },
+        "answer": "D",
+        "explanation": "D) For all practical purposes, ethics training is mandatory. Federal sentencing\nguidelines reduced penalties for employers accused of misconduct who implemented codes of\nconduct and ethics training. An amendment to those guidelines now outlines stricter ethics\ntraining requirements."
+    },
+    {
+        "chapter": "14",
+        "question_number": "56)",
+        "description": "Health-Tech Materials is a firm that manufactures medical equipment purchased by hospitals\nand clinics. The firm employs over 2,500 workers in its two manufacturing facilities located in\nTexas and Arizona. Recently, Health-Tech dismissed a number of employees for ethics\nviolations ranging from improper Internet usage to stealing company funds. In addition, the firm\nhas been sued by two former employees for wrongful discharge. As a result, Health-Tech's top\nexecutives are evaluating the firm's hiring process, ethics training system, reward system, and\ndisciplinary system to determine how to promote ethics and fair treatment.\nHealth-Tech's HR department has devised a brief ethics test for employees to use when\ndetermining if their actions match Health-Tech's code of conduct. Which of the following\nquestions is LEAST likely to be included on the ethics test?",
+        "options": {
+            "A": "What Health-Tech employees will be affected by my actions?",
+            "B": "Will my actions reflect negatively on the image of Health-Tech?",
+            "C": "Would I perform this action if I worked for a Health-Tech competitor?",
+            "D": "Is the action I am about to perform on behalf of Health-Tech a legal one?"
+        },
+        "answer": "C",
+        "explanation": "C) It is less relevant to ask if the action would be taken if the person worked for\nanother firm because the other firm's values and ethics are not the issue. The other questions are\nrelevant for an employee to ask when evaluating the ethics of a decision made on behalf of\nHealth-Tech."
+    },
+    {
+        "chapter": "14",
+        "question_number": "57)",
+        "description": "Health-Tech Materials is a firm that manufactures medical equipment purchased by hospitals\nand clinics. The firm employs over 2,500 workers in its two manufacturing facilities located in\nTexas and Arizona. Recently, Health-Tech dismissed a number of employees for ethics\nviolations ranging from improper Internet usage to stealing company funds. In addition, the firm\nhas been sued by two former employees for wrongful discharge. As a result, Health-Tech's top\nexecutives are evaluating the firm's hiring process, ethics training system, reward system, and\ndisciplinary system to determine how to promote ethics and fair treatment.\nWhich of the following, if true, best supports the argument that Health-Tech should utilize online\nethics program software?",
+        "options": {
+            "A": "Health-Tech executives want to quantify the types of ethical issues that are most common at\nthe firm in order to provide the most relevant training to employees.",
+            "B": "Health-Tech managers are required to monitor the computer usage of subordinates to\ndetermine their levels of productivity.",
+            "C": "Health-Tech discusses its code of conduct during employee orientation and also provides new\nemployees with the firm's handbook.",
+            "D": "The Health-Tech legal department requires the firm to post its ethics code and hiring\nprocedures on the firm's Web site to prevent legal problems."
+        },
+        "answer": "A",
+        "explanation": "A) Online ethics program software enables firms to keep track of how well a firm\nand its employees are doing in terms of maintaining ethical standards. Such software would\nallow managers at Health-Tech to measure what ethical issues are most common in order to\ndetermine the most relevant training."
+    },
+    {
+        "chapter": "14",
+        "question_number": "58)",
+        "description": "Which of the following is NOT one of the four types of privacy violations upheld by courts?",
+        "options": {
+            "A": "intrusion",
+            "B": "drug testing",
+            "C": "disclosure of medical records",
+            "D": "publication of private matters"
+        },
+        "answer": "B",
+        "explanation": "B) The four main types of employee privacy violations upheld by courts are\nintrusion, publication of private matters, disclosure of medical records, and appropriation of an\nemployee's name or likeness for commercial purposes. Drug testing employees is legal."
+    },
+    {
+        "chapter": "14",
+        "question_number": "59)",
+        "description": "Which of the following involves using fingerprints or iris scans to identify employees?",
+        "options": {
+            "A": "electronic performance monitoring system",
+            "B": "location monitoring system",
+            "C": "digital dashboard",
+            "D": "biometrics"
+        },
+        "answer": "D",
+        "explanation": "D) Biometrics involves the use of physical traits such as fingerprints or iris scans\nfor identification. With fingerprint technology, the user passes his or her fingertip over an optical\nreader, or presses it onto a computer chip."
+    },
+    {
+        "chapter": "14",
+        "question_number": "60)",
+        "description": "The business purpose exception to the Electronic Communications Privacy Act permits\n________.",
+        "options": {
+            "A": "employees to access private employer documents if they have reason to suspect unethical\nbehavior by company agents",
+            "B": "employers to monitor communications if they can show a legitimate business reason for doing\nso",
+            "C": "employers to listen to personal employee phone calls if the calls are made on employer time",
+            "D": "employees to conduct personal business during work hours if they can show it is necessary"
+        },
+        "answer": "B",
+        "explanation": "B) The ECPA is a federal law intended to help restrict interception and monitoring\nof oral and wire communications. It contains two exceptions. The \"business purpose exception\"\npermits employers to monitor communications if they can show a legitimate business reason for\ndoing so. The second, \"consent exception,\" lets employers monitor communications if they have\ntheir employees' consent to do so."
+    },
+    {
+        "chapter": "14",
+        "question_number": "61)",
+        "description": "The consent exception to the Electronic Communications Privacy Act permits ________.",
+        "options": {
+            "A": "employees to access private employer documents if they have reason to suspect unethical\nbehavior by company agents",
+            "B": "employers to monitor employee communications if the employees have given informed\nconsent",
+            "C": "employers to monitor communications if they can show a legitimate business reason for doing\nso",
+            "D": "employers to listen to personal employee phone calls if the calls are made on employer time"
+        },
+        "answer": "B",
+        "explanation": "B) The ECPA is a federal law intended to help restrict interception and monitoring\nof oral and wire communications. It contains two exceptions. The \"business purpose exception\"\npermits employers to monitor communications if they can show a legitimate business reason for\ndoing so. The second, \"consent exception,\" lets employers monitor communications if they have\ntheir employees' consent to do so."
+    },
+    {
+        "chapter": "14",
+        "question_number": "62)",
+        "description": "According to one study, what percentage of HR professionals have observed misconduct at\nwork?",
+        "options": {
+            "A": "15%",
+            "B": "33%",
+            "C": "54%",
+            "D": "74%"
+        },
+        "answer": "C",
+        "explanation": "C) A survey found 54% of human resource professionals surveyed had observed\nmisconduct ranging from violations of Title VII to violations of the Occupational Safety and\nHealth Act."
+    },
+    {
+        "chapter": "14",
+        "question_number": "63)",
+        "description": "A review of 30 years of ethics research concluded that there are three major factors that\ncombine to determine the ethical choices we make. Which of the following is NOT one of them?",
+        "options": {
+            "A": "Bad Barrels",
+            "B": "Bad Cases",
+            "C": "Bad Apples",
+            "D": "Bad Behaviors"
+        },
+        "answer": "D",
+        "explanation": "D) One review of over 30 years of ethics research concluded that three factors\ncombine to determine the ethical choices we make. The authors suggested three categories: Bad\nApples, Bad Cases, and Bad Barrels."
+    },
+    {
+        "chapter": "14",
+        "question_number": "64)",
+        "description": "In the model of 3 factors that combine to determine ethical choices, which factor involves\ncompany environments that foster unethical choices?",
+        "options": {
+            "A": "Bad Apples",
+            "B": "Bad Results",
+            "C": "Bad Barrels",
+            "D": "Bad Cases"
+        },
+        "answer": "C",
+        "explanation": "C) \"Bad barrels\" are company environments that foster or condone unethical\nchoices."
+    },
+    {
+        "chapter": "14",
+        "question_number": "65)",
+        "description": "________ refer to people who are inclined to make unethical choices.",
+        "options": {
+            "A": "Bad bosses",
+            "B": "Bad cases",
+            "C": "Bad apples",
+            "D": "Bad barrels"
+        },
+        "answer": "C",
+        "explanation": "C) A recent review of over 30 years of ethics research concluded that three factors\ndetermine the ethical choices we make. The authors titled the paper \"Bad Apples, Bad Cases,\nBad Barrels.\" People who are inclined to make unethical choices were known as \"Bad Apples.\""
+    },
+    {
+        "chapter": "14",
+        "question_number": "66)",
+        "description": "Researchers surveyed CEOs to study the CEOs' intentions to engage in two questionable\npractices: soliciting a competitor's technological secrets, and making illegal payments to foreign\nofficials. What did they find most strongly affected such decisions?",
+        "options": {
+            "A": "outside pressures",
+            "B": "personal predispositions",
+            "C": "firms' characteristics",
+            "D": "number of subordinates"
+        },
+        "answer": "B",
+        "explanation": "B) The researchers concluded that the CEOs' personal predispositions more\nstrongly affected their decisions than did outside pressures or characteristics of their firms. The\nmost principled people, with the highest level of \"cognitive moral development,\" think through\nthe implications of their decisions and apply ethical principles."
+    },
+    {
+        "chapter": "14",
+        "question_number": "67)",
+        "description": "When examining ethical situations, what kind of ethical dilemmas prompt more bad choices?",
+        "options": {
+            "A": "large dilemmas",
+            "B": "small dilemmas",
+            "C": "personal life dilemmas",
+            "D": "group-related dilemmas"
+        },
+        "answer": "B",
+        "explanation": "B) The researchers found that \"smaller\" ethical dilemmas prompt more bad\nchoices. People seemed more likely to \"do the wrong thing\" in \"less serious\" situations, in other\nwords."
+    },
+    {
+        "chapter": "14",
+        "question_number": "68)",
+        "description": "What kind of company cultures tend to lead to more unethical choices?",
+        "options": {
+            "A": "\"everyone for him- or herself\" culture",
+            "B": "manufacturing cultures",
+            "C": "ethical cultures",
+            "D": "well-being focused cultures"
+        },
+        "answer": "A",
+        "explanation": "A) Companies that promoted an \"everyone for him- or herself\" culture were more\nlikely to suffer more unethical choices."
+    },
+    {
+        "chapter": "14",
+        "question_number": "69)",
+        "description": "Carlos, a marketing manager at Devon Consulting, is attending an ethics training program at\nhis workplace. During the training, Carlos is LEAST likely to learn how to ________.",
+        "options": {
+            "A": "identify ethical dilemmas",
+            "B": "role play employee dismissals",
+            "C": "use disciplinary practices ethically",
+            "D": "use codes of conduct to resolve problems"
+        },
+        "answer": "B",
+        "explanation": "B) Ethics training usually involves showing employees how to recognize ethical\ndilemmas, how to use codes of conduct to resolve problems, and how to use personnel activities\nlike disciplinary practices in ethical ways. Practicing employee dismissals is unlikely to occur\nduring an ethics training course."
+    },
+    {
+        "chapter": "14",
+        "question_number": "70)",
+        "description": "All of the following would most likely be addressed in an ethics audit EXCEPT ________.",
+        "options": {
+            "A": "employee discrimination",
+            "B": "conflicts of interest",
+            "C": "intranet usage",
+            "D": "gift giving"
+        },
+        "answer": "C",
+        "explanation": "C) Ethics audits typically address topics like conflicts of interest, giving and\nreceiving gifts, employee discrimination, and access to company information. It is less likely that\nusage of the company's intranet would be reviewed."
+    },
+    {
+        "chapter": "14",
+        "question_number": "71)",
+        "description": "What is the main purpose of the Electronic Communications Privacy Act (ECPA)?",
+        "options": {
+            "A": "help restrict interception and monitoring of oral and wire communications",
+            "B": "allow organization to monitor employees with no restrictions",
+            "C": "support ethical worker actions in organizations",
+            "D": "offer protection for whistleblowers"
+        },
+        "answer": "A",
+        "explanation": "A) The ECPA is a federal law intended to help restrict interception and monitoring\nof oral and wire communications. So its main purpose is to restrict such monitoring, although it\ndoes contain two exceptions that are used by organizations."
+    },
+    {
+        "chapter": "14",
+        "question_number": "72)",
+        "description": "Which of the following is NOT a major way HR managers can create more ethical\norganizational environments?",
+        "options": {
+            "A": "enforce the rules",
+            "B": "increase organizational support",
+            "C": "punish whistleblowers",
+            "D": "institute ethics policies"
+        },
+        "answer": "C",
+        "explanation": "C) To help create ethical organizational environments, organizations should\nactually encourage whistleblowers."
+    },
+    {
+        "chapter": "14",
+        "question_number": "89)",
+        "description": "Health-Tech Materials is a firm that manufactures medical equipment purchased by hospitals\nand clinics. The firm employs over 2,500 workers in its two manufacturing facilities located in\nTexas and Arizona. Recently, Health-Tech dismissed a number of employees for ethics\nviolations ranging from improper Internet usage to stealing company funds. In addition, the firm\nhas been sued by two former employees for wrongful discharge. As a result, Health-Tech's top\nexecutives are evaluating the firm's hiring process, ethics training system, reward system, and\ndisciplinary system to determine how to promote ethics and fair treatment.\nWhich of the following best supports the argument that Health-Tech should make significant\nchanges to its disciplinary process?",
+        "options": {
+            "A": "According to surveys, Health-Tech employees feel that managers do not listen to their\nconcerns or take their opinions seriously.",
+            "B": "Health-Tech requires employees to receive annual ethics training to ensure that they\nunderstand the firm's latest policies.",
+            "C": "Health-Tech's main competitor uses fictional scenarios to test applicants' morality and has\nfewer ethics problems than Health-Tech.",
+            "D": "Historically, arbitrators have overturned the dismissal decisions of Health-Tech's managers\nbecause of unclear company rules."
+        },
+        "answer": "D",
+        "explanation": "D) Arbitrators are more likely to overturn employers' decisions when the employer\nfails to have clear rules and regulations. Inattentive managers, ethics training, and competitor's\nactions are less relevant."
+    },
+    {
+        "chapter": "14",
+        "question_number": "90)",
+        "description": "Which of the following is the primary element of properly developed disciplinary\nprocedures?",
+        "options": {
+            "A": "electronic employee monitoring",
+            "B": "clearly established rules",
+            "C": "legal representation",
+            "D": "severe penalties"
+        },
+        "answer": "B",
+        "explanation": "B) Proper disciplinary procedures require employers to clearly specify rules and\nexpectations of behavior, otherwise employees do not know what is required of them. Severe\npunishment and legal assistance may be required in some cases but not all."
+    },
+    {
+        "chapter": "14",
+        "question_number": "91)",
+        "description": "In which organizational document are an organization's rules and regulations usually stated?",
+        "options": {
+            "A": "employee handbook",
+            "B": "federal code of ethics",
+            "C": "mission and vision statement",
+            "D": "human resource policy manual"
+        },
+        "answer": "A",
+        "explanation": "A) Upon hiring, tell employees, preferably in writing, what is not permitted. The\nemployee orientation handbook usually contains the rules and regulations."
+    },
+    {
+        "chapter": "14",
+        "question_number": "92)",
+        "description": "Which of the following terms refers to discipline without punishment?",
+        "options": {
+            "A": "democratic punishment",
+            "B": "nonpunitive discipline",
+            "C": "corporal punishment",
+            "D": "positive discipline"
+        },
+        "answer": "B",
+        "explanation": "B) Nonpunitive discipline is discipline without punishment. It usually involves a\nsystem of oral warnings and paid \"decision-making leaves\" in lieu of more traditional\npunishment."
+    },
+    {
+        "chapter": "14",
+        "question_number": "93)",
+        "description": "Employees at R&R Carpet and Tile are allowed to take one-hour lunch breaks. Todd's\nassistant, Suzanne, took a two-hour lunch break today without prior approval. Suzanne has never\nbroken any other rules since being employed by the company. R&R has a nonpunitive discipline\npolicy. Which of the following will most likely be Todd's response to Suzanne's violation?",
+        "options": {
+            "A": "issuing a formal written reminder to Suzanne",
+            "B": "giving Suzanne a one-day leave with pay",
+            "C": "telling Suzanne that she is dismissed",
+            "D": "issuing an oral reminder to Suzanne"
+        },
+        "answer": "D",
+        "explanation": "D) The first step in nonpunitive discipline is issuing the employee an oral\nreminder. After that, a formal written reminder, decision-making leave, and the employee's\ndismissal are appropriate."
+    },
+    {
+        "chapter": "14",
+        "question_number": "94)",
+        "description": "Health-Tech Materials is a firm that manufactures medical equipment purchased by hospitals\nand clinics. The firm employs over 2,500 workers in its two manufacturing facilities located in\nTexas and Arizona. Recently, Health-Tech dismissed a number of employees for ethics\nviolations ranging from improper Internet usage to stealing company funds. In addition, the firm\nhas been sued by two former employees for wrongful discharge. As a result, Health-Tech's top\nexecutives are evaluating the firm's hiring process, ethics training system, reward system, and\ndisciplinary system to determine how to promote ethics and fair treatment.\nWhich of the following undermines the argument that Health-Tech should shift from a traditional\ndiscipline system to a non-punitive discipline system?",
+        "options": {
+            "A": "The most common employee discipline situations at Health-Tech involve theft or physical\naltercations.",
+            "B": "Health-Tech has already modified its hiring process to include ethics tests when screening job\napplicants.",
+            "C": "A court ruled in a wrongful discharge case against Health-Tech that the employee handbook\nserved as an implied contract.",
+            "D": "Frequent tardiness is the primary infraction among Health-Tech employees who receive\ndecision-making leave."
+        },
+        "answer": "A",
+        "explanation": "A) A non-punitive discipline program is not appropriate for serious issues, such as\ncriminal activity or fighting. In such cases, immediate dismissal is typical. Non-punitive\ndiscipline is more appropriate for tardiness or absenteeism. Decision-making leave is one of the\nsteps in nonpunitive discipline."
+    },
+    {
+        "chapter": "14",
+        "question_number": "95)",
+        "description": "The main purpose of discipline in organizations is to:",
+        "options": {
+            "A": "uphold legal obligations",
+            "B": "encourage employees to behave sensibly at work",
+            "C": "increase employee engagement",
+            "D": "punish wrong-doers"
+        },
+        "answer": "B",
+        "explanation": "B) The purpose of discipline is to encourage employees to behave sensibly at\nwork."
+    },
+    {
+        "chapter": "14",
+        "question_number": "96)",
+        "description": "From the perspective of discipline, employees behaving \"sensibly\" means what?",
+        "options": {
+            "A": "being engaged at work",
+            "B": "adhering to rules and regulations",
+            "C": "working extra hard",
+            "D": "reporting on rule breakers"
+        },
+        "answer": "B",
+        "explanation": "B) The purpose of discipline is to encourage employees to behave sensibly at work\n(where sensible means adhering to rules and regulations)."
+    },
+    {
+        "chapter": "14",
+        "question_number": "97)",
+        "description": "Several researchers have found evidence for what they call the \"Evil Woman Thesis,\" which\nis:",
+        "options": {
+            "A": "women in leadership positions tend to see ethics in more concrete black and white terms",
+            "B": "men who do not advance in an organizational hierarchy are likely to blame female managers\nthey have had",
+            "C": "when a woman doesn't act the way other men and women expect she should act, people tend\nto treat her more harshly than they might if a man acted unexpectedly",
+            "D": "when a team is created, women are more likely to be the scapegoat in the case of failure"
+        },
+        "answer": "C",
+        "explanation": "C) What several researchers sadly call the \"Evil Woman Thesis\" argues that when\na woman doesn't act the way other men and women expect she should act, they tend to treat her\nmore harshly than they might if a man acted unexpectedly. While such a thesis might seem\npreposterous, the research seems to support it."
+    },
+    {
+        "chapter": "14",
+        "question_number": "98)",
+        "description": "In major league baseball the first time a player tests positive for steroids they receive an 80-\ngame ban. The 2nd time they test positive for steroids they get a 162-game ban. A 3rd positive\ntest leads to a lifetime ban from major league baseball. This increasing punishment is an example\nof which element of discipline?",
+        "options": {
+            "A": "clear rules",
+            "B": "progressive discipline",
+            "C": "an appeals process",
+            "D": "consistent harsh punishment"
+        },
+        "answer": "B",
+        "explanation": "B) A system of progressive penalties is the second pillar of effective discipline.\nThe severity of the penalty usually depends on the offense and the number of times it has\noccurred."
+    },
+    {
+        "chapter": "14",
+        "question_number": "99)",
+        "description": "Tracy is frequently absent from work and almost always late, so her manager has decided to\nfire her. Which of the following grounds for dismissal will her manager most likely use?",
+        "options": {
+            "A": "misconduct",
+            "B": "insubordination",
+            "C": "unsatisfactory performance",
+            "D": "lack of qualifications for the job"
+        },
+        "answer": "C",
+        "explanation": "C) Unsatisfactory performance means persistent failure to perform assigned duties\nor to meet prescribed job standards. Specific grounds include excessive absenteeism, tardiness, a\npersistent failure to meet normal job requirements, or an adverse attitude toward the company,\nsupervisor, or fellow employees."
+    },
+    {
+        "chapter": "14",
+        "question_number": "108)",
+        "description": "Health-Tech Materials is a firm that manufactures medical equipment purchased by\nhospitals and clinics. The firm employs over 2,500 workers in its two manufacturing facilities\nlocated in Texas and Arizona. Recently, Health-Tech dismissed a number of employees for\nethics violations ranging from improper Internet usage to stealing company funds. In addition,\nthe firm has been sued by two former employees for wrongful discharge. As a result, Health-\nTech's top executives are evaluating the firm's hiring process, ethics training system, reward\nsystem, and disciplinary system to determine how to promote ethics and fair treatment.\nWhich of the following best supports the argument that Health-Tech should distribute an\nanonymous survey to gather information about employee attitudes about management?",
+        "options": {
+            "A": "Health-Tech monitors its employees' phone calls and Internet usage to protect itself from\nlawsuits and ethical violations.",
+            "B": "Independent contractors working for Health-Tech are not allowed to work for the firm's\ncompetitors, which angers most contractors.",
+            "C": "Exit interviews at Health-Tech indicate that employees feel uncomfortable about raising\nethics concerns with managers.",
+            "D": "Health-Tech managers have been reluctant to terminate disruptive employees for fear of\nlawsuits."
+        },
+        "answer": "C",
+        "explanation": "C) Anonymous employee surveys would allow employees to express their feelings\nabout the company and their managers. Employees who feel uncomfortable raising ethics\nconcerns with managers or fear retribution for doing so would benefit from a survey."
+    },
+    {
+        "chapter": "14",
+        "question_number": "109)",
+        "description": "Which of the following is the first step in FedEx's guaranteed fair treatment program?",
+        "options": {
+            "A": "officer complaint",
+            "B": "management review",
+            "C": "executive appeals review",
+            "D": "EEO laws"
+        },
+        "answer": "B",
+        "explanation": "B) FedEx's multistep program consists of the following three steps: 1) management\nreview, 2) officer complaint, and 3) executive appeals review."
+    }
+]

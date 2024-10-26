@@ -1,0 +1,184 @@
+[
+    {
+        "chapter": "4",
+        "question_number": "35)",
+        "description": "The information gathered during a job analysis is primarily used to ensure that firms are in compliance with the EEO, OSHA, and all state governments.",
+        "answer": "FALSE",
+        "explanation": "The primary use for information gathered in a job analysis is writing job descriptions and job specifications. Although job analysis is required for EEO compliance, job analysis is not required by the Occupational Safety and Health Administration or all state governments."
+    },
+    {
+        "chapter": "4",
+        "question_number": "36)",
+        "description": "Organization charts show the division of work throughout the organization, how a job relates to others, and where a job fits in the organization.",
+        "answer": "TRUE",
+        "explanation": "An organization chart shows the organization-wide distribution of work, with titles of each position and interconnecting lines that show who reports to and communicates with whom."
+    },
+    {
+        "chapter": "4",
+        "question_number": "37)",
+        "description": "A process chart provides relevant background information during the job analysis process by indicating job titles and lines of communication.",
+        "answer": "FALSE",
+        "explanation": "A process chart shows the flow of inputs to and outputs from a job being analyzed."
+    },
+    {
+        "chapter": "4",
+        "question_number": "38)",
+        "description": "After identifying a business process to redesign, the next step in business process reengineering is measuring the performance of the existing process.",
+        "answer": "TRUE",
+        "explanation": "Business process reengineering means redesigning business processes, usually by combining steps so that small multi-function process teams using information technology do the jobs formerly done by a sequence of departments. After choosing the business process to redesign, the analyst needs to assess the performance of the existing process for the purpose of identifying improvement possibilities."
+    },
+    {
+        "chapter": "4",
+        "question_number": "39)",
+        "description": "Conducting the job analysis is the sole responsibility of the HR specialist.",
+        "answer": "FALSE",
+        "explanation": "Job analysis should be a joint effort by a human resources specialist, the worker, and the worker's supervisor. The HR manager may observe the worker and then have the supervisor and worker fill out questionnaires."
+    },
+    {
+        "chapter": "4",
+        "question_number": "40)",
+        "description": "If a manager wants to know \"should a job even exist,\" a workflow analysis should be performed.",
+        "answer": "TRUE",
+        "explanation": "A workflow analysis does answer questions like \"should a job even exist,\" because it is a detailed study of the flow of work from job to job in a work process."
+    },
+    {
+        "chapter": "4",
+        "question_number": "41)",
+        "description": "Job enlargement refers to redesigning jobs in a way that increases responsibility and achievement.",
+        "answer": "FALSE",
+        "explanation": "Job enlargement refers to assigning workers additional same-level activities. For example, a worker who previously only bolted the seat to the legs of a chair might attach the back as well. Job enrichment refers to redesigning jobs to increase responsibility and achievement."
+    },
+    {
+        "chapter": "4",
+        "question_number": "70)",
+        "description": "Informal interviews provide quantitative job analysis information, which is why they are frequently used by managers who need to determine the relative worth of a job for pay purposes.",
+        "answer": "FALSE",
+        "explanation": "Informal interviews with open ended questions provide qualitative rather than quantitative information for a job analysis. Position analysis questionnaires are best for quantifying a job's worth for pay purposes. The two methods are often used together to gather a well-rounded amount of information about a job."
+    },
+    {
+        "chapter": "4",
+        "question_number": "71)",
+        "description": "The immediate supervisor of a group of workers being interviewed for job analysis purposes is not allowed to attend the session due to concerns about workers failing to provide honest responses to questions.",
+        "answer": "FALSE",
+        "explanation": "As a rule, the immediate supervisor of a group of workers should attend an interview session for job analysis purposes. If the supervisor is unable to attend, then he or she must be interviewed separately so that the interviewer can gather that person's perspective on the job's duties and responsibilities."
+    },
+    {
+        "chapter": "4",
+        "question_number": "72)",
+        "description": "Studies suggest that employees are more likely to describe their job duties in the form of simple task statements instead of as ability statements during job analysis interviews.",
+        "answer": "FALSE",
+        "explanation": "During job analysis interviews, employees are more likely to describe their job duties in the form of ability-based statements, such as \"ability to record phone messages\" rather than as simple task statements like \"record phone messages.\" The most likely reason is that employees exaggerate their duties and responsibilities during interviews, especially if they believe the interview is for the purpose of a compensation change."
+    },
+    {
+        "chapter": "4",
+        "question_number": "73)",
+        "description": "Questionnaires developed for the purpose of job analysis are always structured in the form of checklists so that the information can easily be entered into a database.",
+        "answer": "FALSE",
+        "explanation": "Questionnaires range from being highly structured to open-ended, and most fall between the two extremes. Most questionnaires include several open-ended questions as well as structured questions."
+    },
+    {
+        "chapter": "4",
+        "question_number": "74)",
+        "description": "Observation as a job analysis data collection method is most appropriate for jobs that involve physical activities.",
+        "answer": "TRUE",
+        "explanation": "Observation is an appropriate method for collecting job analysis information when a job involves physical rather than mental activities. Jobs like assembly-line worker, mechanic, and accounting clerk can be directly observed by an HR manager. Lawyers and design engineers spend more time with mental activities, so it would be less appropriate to use observation in these types of positions."
+    },
+    {
+        "chapter": "4",
+        "question_number": "75)",
+        "description": "Some employers collecting job analysis information provide employees with pocket dictating machines and pagers to record activities at random times of the work day.",
+        "answer": "TRUE",
+        "explanation": "In the past, diary/logs required employees to write down their activities at the end of the day, which was problematic due to forgetfulness. However, pagers can now be used to remind employees to speak into their pocket dictating machines about the work activities in which they are currently involved."
+    },
+    {
+        "chapter": "4",
+        "question_number": "76)",
+        "description": "Quantitative approaches for collecting job analysis data are more appropriate than qualitative approaches when a manager seeks to compare jobs for pay purposes.",
+        "answer": "TRUE",
+        "explanation": "Quantitative ratings as generated by the position analysis questionnaire and the Department of Labor approach are the best tools to use when assessing the monetary value of a job."
+    },
+    {
+        "chapter": "4",
+        "question_number": "88)",
+        "description": "The FLSA status section of a job description permits quick identification of a job as exempt or nonexempt from overtime and minimum wage provisions.",
+        "answer": "TRUE",
+        "explanation": "The FLSA status of a job description is usually included in the job identification section. According to the Fair Labor Standards Act, certain positions, primarily administrative and professional, are exempt from the act's overtime and minimum wage provisions."
+    },
+    {
+        "chapter": "4",
+        "question_number": "89)",
+        "description": "The Americans with Disabilities Act (ADA) requires that organizations have job descriptions that list the essential functions of all jobs.",
+        "answer": "FALSE",
+        "explanation": "The ADA does not require job descriptions, but they are advisable in case a discrimination complaint ends up in court. Most ADA legal actions revolve around the questions, \"What are the essential functions of the job?\""
+    },
+    {
+        "chapter": "4",
+        "question_number": "90)",
+        "description": "O*NET has become an increasingly popular Web tool for creating and distributing position analysis questionnaires to employees who are located throughout the world.",
+        "answer": "FALSE",
+        "explanation": "O*NET is a popular Web tool for writing job descriptions, not for creating and distributing PAQs to global employees. O*NET was developed by the U.S. Department of Labor, and it allows users to see the most important characteristics of various occupations. O*NET provides a streamlined approach for managers who need to write job descriptions."
+    },
+    {
+        "chapter": "4",
+        "question_number": "96)",
+        "description": "The statistical analysis method for developing job specifications is more defensible than the judgmental approach because equal rights legislation forbids using traits that a firm cannot prove distinguish between high and low job performers.",
+        "answer": "TRUE",
+        "explanation": "Using a statistical analysis method for developing job specifications is more defensible than using educated guesses. Equal rights legislation forbids using traits that a firm cannot prove distinguish between high and low job performers. For example, hiring standards that discriminate based on sex, race, religion, national origin, or age may have to be shown to predict job performance."
+    },
+    {
+        "chapter": "4",
+        "question_number": "97)",
+        "description": "A conventional job description provides managers with a more comprehensive picture of worker activities than a job requirement matrix, which fails to address how and why workers perform specific job activities.",
+        "answer": "FALSE",
+        "explanation": "The job requirement matrix provides a more comprehensive picture of what the worker does and how and why he or she does it than does a conventional job description. The list of required knowledge, skills, abilities, and other characteristics provides useful information for making staffing, training, and performance appraisal decisions."
+    },
+    {
+        "chapter": "4",
+        "question_number": "103)",
+        "description": "Many job analysts and employers assert that in today's work environment, job descriptions based on lists of job-specific duties inhibit the worker flexibility that companies need.",
+        "answer": "TRUE",
+        "explanation": "The specific duties associated with jobs in today's work environment change on a daily basis, so employers and job analysts think that compiling a list of job duties is counterproductive. As a result, more firms are creating job descriptions based on employee competencies rather than lists of specific job duties."
+    },
+    {
+        "chapter": "4",
+        "question_number": "104)",
+        "description": "Competencies are observable and measurable behaviors, and organizations are required to define competencies based on quantifiable standards developed by the Department of Labor.",
+        "answer": "FALSE",
+        "explanation": "Although competencies are observable and measurable behaviors, organizations are not required to use any specific competencies. O*NET, the DOL Web site, lists various skills associated with different jobs, and the site is a source for competency-based job analysis."
+    },
+    {
+        "chapter": "4",
+        "question_number": "105)",
+        "description": "Competency-based job analysis is more worker-focused than traditional job analysis.",
+        "answer": "TRUE",
+        "explanation": "Competency-based analysis focuses on the behaviors of the worker, while traditional job analysis focuses on the duties of the job. With competency-based analysis, a firm asks, \"What must these employees be competent to do in order to perform this multi-skilled job?\""
+    },
+    {
+        "chapter": "4",
+        "question_number": "106)",
+        "description": "Competency-based job analysis focuses on the knowledge, skills, and behavior of a worker rather than the tasks associated with a particular job.",
+        "answer": "TRUE",
+        "explanation": "Competency-based job analysis focuses on the knowledge, skills, and behaviors of workers rather than the duties of a specific job. Workers need to be flexible in modern work environments, so employers are focusing more on competencies and less on tasks."
+    },
+    {
+        "chapter": "4",
+        "question_number": "107)",
+        "description": "British Petroleum implemented a competency-based skills matrix for its employees. As a result, employee training, appraisals, and rewards relate to the skills and competencies a worker needs to accomplish the goals of the firm.",
+        "answer": "TRUE",
+        "explanation": "BP shifted from job-duty based job descriptions to a skills matrix based on competencies. The focus for BP is developing the skills employees need for their broader and more empowered responsibilities. Salary, training, and bonuses are based on worker competencies."
+    },
+    {
+        "chapter": "4",
+        "question_number": "108)",
+        "description": "ABC Widgets, Inc. wants to develop a high-performance work system, so its HR department should most likely develop traditional job descriptions rather than competency-based job descriptions.",
+        "answer": "FALSE",
+        "explanation": "With high-performance work systems, the goal is to encourage employees to work in a self-motivated manner, which is why competency-based job descriptions are more appropriate. Traditional job descriptions focus more on individual tasks than team playing, so ABC needs to develop competency-based job descriptions instead."
+    },
+    {
+        "chapter": "4",
+        "question_number": "109)",
+        "description": "Writing a competencies-based job description typically involves compiling a list of job duties.",
+        "answer": "FALSE",
+        "explanation": "A traditional job analysis involves compiling lists of job duties. However, a competency-based job analysis requires determining what an employee should be able to do."
+    }
+]

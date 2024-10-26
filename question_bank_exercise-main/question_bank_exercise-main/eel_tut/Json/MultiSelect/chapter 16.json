@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "16",
+        "question_number": "1)",
+        "description": "While accident rates are falling, in one recent year ________ U.S. workers died in workplace\nincidents.",
+        "options": {
+            "A": "2369",
+            "B": "4405",
+            "C": "6278",
+            "D": "8100"
+        },
+        "answer": "B",
+        "explanation": "B) In one recent year, 4,405 U.S. workers died in workplace events, and workplace\naccidents caused about 3 million occupational injuries and illnesses."
+    },
+    {
+        "chapter": "16",
+        "question_number": "2)",
+        "description": "Which of the following is the supervisor's primary role in safety?",
+        "options": {
+            "A": "conducting daily safety inspections of the workplace",
+            "B": "helping workers file claims for job-related injuries",
+            "C": "alerting top management to OSHA inspections",
+            "D": "setting health and safety standards for the firm"
+        },
+        "answer": "A",
+        "explanation": "A) Safety inspections should always be part of the supervisor's daily routine.\nConducting a daily walk-through of the workplace—whether it is a construction site or a dry\ncleaning facility—is an essential part of a supervisor's job."
+    },
+    {
+        "chapter": "16",
+        "question_number": "3)",
+        "description": "All of the following are effective ways that employers reduce workers' compensation costs\nEXCEPT ________.",
+        "options": {
+            "A": "enforcing safety policies",
+            "B": "communicating safety policies",
+            "C": "providing classroom training",
+            "D": "using appropriate safety equipment"
+        },
+        "answer": "C",
+        "explanation": "C) Employers can control workers' compensation costs before accidents by\ncommunicating and strictly enforcing safety policies. Classroom training is less likely to reduce\nworkers' compensation costs."
+    },
+    {
+        "chapter": "16",
+        "question_number": "6)",
+        "description": "Which of the following best describes the primary purpose of the Occupational Safety and\nHealth Administration?",
+        "options": {
+            "A": "set and enforce the safety and health standards for almost all workers in the U.S.",
+            "B": "ensure that employees of state agencies have safe and healthy working conditions",
+            "C": "provide safe and healthy working conditions to all self-employed persons",
+            "D": "ensure that family farms provide healthy and safe working environments"
+        },
+        "answer": "A",
+        "explanation": "A) OSHA is the agency created within the Department of Labor to set safety and\nhealth standards for almost all workers in the United States. OSHA doesn't cover self-employed\npersons or farms in which only immediate members of the employer's family work. OSHA\ncovers federal agencies, but usually not state and local governments."
+    },
+    {
+        "chapter": "16",
+        "question_number": "7)",
+        "description": "The Occupational Safety and Health Act was intended to ________.",
+        "options": {
+            "A": "set national, state, and local safety and health standards",
+            "B": "assure every person safe and healthful working conditions",
+            "C": "provide safe and healthful working conditions to self-employed persons",
+            "D": "prevent the occurrence of occupational illnesses among public employees"
+        },
+        "answer": "B",
+        "explanation": "B) The Occupational Safety and Health Act was intended to \"assure so far as\npossible every working man and woman in the nation safe and healthful working conditions and\nto preserve our human resources.\" The Occupational Safety and Health Act doesn't cover self-\nemployed persons or farms in which only immediate members of the employer's family work.\nThe act covers federal agencies, but usually not state and local governments."
+    },
+    {
+        "chapter": "16",
+        "question_number": "8)",
+        "description": "All of the following are covered by the Occupational Safety and Health Act EXCEPT\n________.",
+        "options": {
+            "A": "federal agents",
+            "B": "hospital nurses",
+            "C": "crane operators",
+            "D": "self-employed persons"
+        },
+        "answer": "D",
+        "explanation": "D) The Occupational Safety and Health Act doesn't cover self-employed persons\nor farms in which only immediate members of the employer's family work. The act covers\nfederal agencies, but usually not state and local governments."
+    },
+    {
+        "chapter": "16",
+        "question_number": "9)",
+        "description": "Which government agency enforces the standards set out in the Occupational Safety and\nHealth Act?",
+        "options": {
+            "A": "Department of Health and Human Services",
+            "B": "Department of Agriculture",
+            "C": "Department of Commerce",
+            "D": "Department of Labor"
+        },
+        "answer": "D",
+        "explanation": "D) The Department of Labor enforces the standards established by the\nOccupational Safety and Health Act to ensure compliance."
+    },
+    {
+        "chapter": "16",
+        "question_number": "10)",
+        "description": "Under OSHA, employers with ________ or more employees must maintain records of and\nreport occupational injuries and occupational illnesses.",
+        "options": {
+            "A": "6",
+            "B": "11",
+            "C": "35",
+            "D": "50"
+        },
+        "answer": "B",
+        "explanation": "B) The Department of Labor enforces the standards established by the\nOccupational Safety and Health Act. Under OSHA, employers with 11 or more employees must\nmaintain records of and report certain occupational injuries and occupational illnesses."
+    },
+    {
+        "chapter": "16",
+        "question_number": "11)",
+        "description": "What term is used to describe any abnormal condition or disorder caused by exposure to\nenvironmental factors associated with employment?",
+        "options": {
+            "A": "on-the-job accident",
+            "B": "chronic condition",
+            "C": "occupational illness",
+            "D": "work-related disease"
+        },
+        "answer": "C",
+        "explanation": "C) An occupational illness is any abnormal condition or disorder caused by\nexposure to environmental factors associated with employment. This includes acute and chronic\nillnesses caused by inhalation, absorption, ingestion, or direct contact with toxic substances or\nharmful agents."
+    },
+    {
+        "chapter": "16",
+        "question_number": "12)",
+        "description": "According to OSHA, employers must report occupational injuries that result in any of the\nfollowing EXCEPT ________.",
+        "options": {
+            "A": "first aid treatment",
+            "B": "loss of consciousness",
+            "C": "restriction of motion",
+            "D": "transfer to another job"
+        },
+        "answer": "A",
+        "explanation": "A) Employers must report most occupational injuries, specifically those that result\nin medical treatment (other than first aid), loss of consciousness, restriction of work (one or more\nlost workdays), restriction of motion, or transfer to another job."
+    },
+    {
+        "chapter": "16",
+        "question_number": "13)",
+        "description": "Which of the following would most likely NOT be considered a reportable injury according\nto OSHA?",
+        "options": {
+            "A": "Mike breaks his arm while playing in a softball game during a mandatory company picnic.",
+            "B": "John sprains his ankle after becoming tangled in his car's seat belt in the company parking lot.",
+            "C": "Leah breaks her wrist after slipping in a puddle on a stairwell inside the company building.",
+            "D": "Tom injures his back during a traffic accident as he delivers lumber in a company truck."
+        },
+        "answer": "B",
+        "explanation": "B) OSHA requires that employers report work related accidents. However, it\nallows the employer to conclude that the event needn't be reported if the facts so warrant—such\nas if a worker breaks an ankle after catching his foot on his car's seat belt when parked on the\ncompany lot. The other accidents are examples of recordable conditions."
+    },
+    {
+        "chapter": "16",
+        "question_number": "14)",
+        "description": "According to OSHA, which of the following would most likely be considered the highest\npriority?",
+        "options": {
+            "A": "investigating the occurrence of a fatality",
+            "B": "inspecting a site where there may be imminent danger",
+            "C": "conducting random inspections and follow-up inspections",
+            "D": "conducting a special-emphasis inspection aimed at a high-hazard industry"
+        },
+        "answer": "B",
+        "explanation": "B) OSHA still makes extensive use of inspections. OSHA takes a \"worst-first\"\napproach in setting inspection priorities. Priorities include, from highest to lowest, imminent\ndangers, catastrophes and fatal accidents, employee complaints, high-hazard industries\ninspections, and follow-up inspections."
+    },
+    {
+        "chapter": "16",
+        "question_number": "15)",
+        "description": "Which of the following would be considered OSHA's lowest priority for inspection?",
+        "options": {
+            "A": "conducting a follow-up inspection",
+            "B": "investigating an employee complaint",
+            "C": "investigating the occurrence of a fatality",
+            "D": "performing a high-hazard industry inspection"
+        },
+        "answer": "A",
+        "explanation": "A) OSHA still makes extensive use of inspections. OSHA takes a \"worst-first\"\napproach in setting inspection priorities. Priorities include, from highest to lowest, imminent\ndangers, catastrophes and fatal accidents, employee complaints, high-hazard industries\ninspections, and follow-up inspections."
+    },
+    {
+        "chapter": "16",
+        "question_number": "16)",
+        "description": "When a complaint indicates the possibility of imminent danger, OSHA conducts an\ninspection within ________.",
+        "options": {
+            "A": "12 hours",
+            "B": "24 hours",
+            "C": "3 days",
+            "D": "20 days"
+        },
+        "answer": "B",
+        "explanation": "B) Under its priority system, OSHA conducts an inspection within 24 hours when\na complaint indicates an immediate danger, and within 3 working days when a serious hazard\nexists. For a \"nonserious\" complaint filed in writing by a worker or a union, OSHA will respond\nwithin 20 working days."
+    },
+    {
+        "chapter": "16",
+        "question_number": "17)",
+        "description": "Which of the following is LEAST likely to be considered when OSHA calculates a penalty?",
+        "options": {
+            "A": "business size",
+            "B": "compliance history",
+            "C": "gravity of violation",
+            "D": "legal representation"
+        },
+        "answer": "D",
+        "explanation": "D) In general, OSHA calculates penalties based on the gravity of the violation and\nusually takes into consideration factors like the size of the business, the firm's compliance\nhistory, and the employer's good faith. Legal representation for the employer is less likely to be a\nfactor."
+    },
+    {
+        "chapter": "16",
+        "question_number": "18)",
+        "description": "According to the Occupational Safety and Health Act, employers are responsible for\n________.",
+        "options": {
+            "A": "transferring workers who are cited for OSHA violations",
+            "B": "examining workplace conditions for OSHA compliance",
+            "C": "scheduling annual consultations with OSHA representatives",
+            "D": "replacing old equipment on an annual basis to comply with OSHA"
+        },
+        "answer": "B",
+        "explanation": "B) Employers are responsible for providing \"a workplace free from recognized\nhazards.\""
+    },
+    {
+        "chapter": "16",
+        "question_number": "29)",
+        "description": "What is the primary cause of workplace accidents?",
+        "options": {
+            "A": "chance occurrences",
+            "B": "unsafe conditions",
+            "C": "unsafe employee behavior",
+            "D": "insufficient safety training"
+        },
+        "answer": "B",
+        "explanation": "B) Unsafe conditions are the main cause of workplace accidents. Chance\noccurrences are a less significant cause of workplace accidents."
+    },
+    {
+        "chapter": "16",
+        "question_number": "30)",
+        "description": "Improperly guarded equipment, defective equipment, hazardous procedures, and improper\nventilation are all examples of ________.",
+        "options": {
+            "A": "chance occurrences",
+            "B": "unsafe conditions",
+            "C": "unsafe employee behavior",
+            "D": "normal occupational hazards"
+        },
+        "answer": "B",
+        "explanation": "B) Unsafe conditions refer to any mechanical and physical conditions that cause\naccidents, such as defective equipment and improper ventilation."
+    },
+    {
+        "chapter": "16",
+        "question_number": "31)",
+        "description": "Which of the following accounts for one-third of all industrial accidents?",
+        "options": {
+            "A": "forklifts and wheelbarrows",
+            "B": "woodworking machines",
+            "C": "pulleys and flywheels",
+            "D": "ladders and scaffolds"
+        },
+        "answer": "A",
+        "explanation": "A) About one-third of industrial accidents occur around forklift trucks,\nwheelbarrows, and other handling and lifting areas. The most serious accidents usually occur by\nmetal and woodworking machines and saws, or around transmission machinery like gears,\npulleys, and flywheels. Falls on stairs, ladders, walkways, and scaffolds are the third most\ncommon cause of industrial accidents."
+    },
+    {
+        "chapter": "16",
+        "question_number": "32)",
+        "description": "Which of the following factors is LEAST likely to contribute to accidents at work?",
+        "options": {
+            "A": "unsafe conditions",
+            "B": "nature of the work",
+            "C": "day of the week",
+            "D": "time of day"
+        },
+        "answer": "C",
+        "explanation": "C) Work conditions and the tasks of the job contribute to work accidents. More\naccidents occur during night shifts, so time of day matters due to worker fatigue. However, the\nday of the week is less likely to make a difference."
+    },
+    {
+        "chapter": "16",
+        "question_number": "33)",
+        "description": "All of the following personality traits are associated with people who file vehicular insurance\nclaims EXCEPT ________.",
+        "options": {
+            "A": "impatience",
+            "B": "entitlement",
+            "C": "clumsiness",
+            "D": "aggressiveness"
+        },
+        "answer": "C",
+        "explanation": "C) Personality traits that correlate with filing vehicular insurance claims include\nentitlement, impatience, aggressiveness, and distractibility. Being uncoordinated has not been\ncorrelated to poor driving."
+    },
+    {
+        "chapter": "16",
+        "question_number": "40)",
+        "description": "All of the following are effective methods of improving workplace safety EXCEPT\n________.",
+        "options": {
+            "A": "analyzing accident rates",
+            "B": "publicizing an organization's safety policy",
+            "C": "showing an organizational commitment to safety",
+            "D": "setting unreasonable but challenging safety goals"
+        },
+        "answer": "D",
+        "explanation": "D) Safety goals should be achievable and specific. Analyzing accident rates,\npublishing the firm's safety policy, and showing an organizational commitment to safety are\neffective methods of improving safety."
+    },
+    {
+        "chapter": "16",
+        "question_number": "41)",
+        "description": "Which of the following is NOT a method of minimizing workplace accidents?",
+        "options": {
+            "A": "reducing unsafe conditions",
+            "B": "reducing unsafe acts",
+            "C": "screening employees",
+            "D": "paying better wages"
+        },
+        "answer": "D",
+        "explanation": "D) Reducing unsafe conditions is always the first line of defense. Reducing unsafe\nacts—by emphasizing safety and through screening, training, or incentive programs, for\nexample—is the second basic way to reduce accidents. Paying better wages is less likely to affect\naccidents."
+    },
+    {
+        "chapter": "16",
+        "question_number": "42)",
+        "description": "Supervisors can reduce unsafe acts in all of the following ways EXCEPT by ________.",
+        "options": {
+            "A": "listening to employee suggestions",
+            "B": "identifying employee interests and preferences",
+            "C": "involving workers in planning safety programs",
+            "D": "providing workers with comfortable protective equipment"
+        },
+        "answer": "B",
+        "explanation": "B) Listening to employee suggestions and involving them in the safety program\ncan minimize accidents. Providing PPE that is comfortable and reliable encourages workers to\nuse it. Although screening employees is important, identifying their interests and preferences is\nless likely to reduce unsafe acts."
+    },
+    {
+        "chapter": "16",
+        "question_number": "43)",
+        "description": "In most large facilities, who is responsible for reducing unsafe working conditions and\nreducing unsafe acts by employees?",
+        "options": {
+            "A": "chief safety officer",
+            "B": "OSHA representative",
+            "C": "HR supervisor",
+            "D": "line manager"
+        },
+        "answer": "A",
+        "explanation": "A) In large facilities, the chief safety officer (often called the \"Environmental\nHealth and Safety Officer\") is responsible for reducing unsafe acts and unsafe conditions. In\nsmaller firms, managers, including those from human resources, plant management, and first-line\nmanagers, share these responsibilities."
+    },
+    {
+        "chapter": "16",
+        "question_number": "44)",
+        "description": "All of the following are considered vulnerable workers EXCEPT ________.",
+        "options": {
+            "A": "young workers",
+            "B": "male workers",
+            "C": "immigrant workers",
+            "D": "aging workers"
+        },
+        "answer": "B",
+        "explanation": "B) In designing safe and healthy environments, employers need to pay special\nattention to vulnerable workers, those who are \"unprepared to deal with hazards in the\nworkplace,\" either due to lack of education, ill-fitting personal protective equipment, physical\nlimitations, or cultural reasons. Among others, these may include young workers, immigrant\nworkers, aging workers, and women workers."
+    },
+    {
+        "chapter": "16",
+        "question_number": "45)",
+        "description": "Which of the following should be the first method used to reduce workplace accidents?",
+        "options": {
+            "A": "enforcing job rotation",
+            "B": "screening job applicants",
+            "C": "removing physical hazards",
+            "D": "requiring employees to use PPE"
+        },
+        "answer": "C",
+        "explanation": "C) Reducing unsafe conditions by removing physical hazards is always the first\nline of defense against accidents. Then use administrative controls (such as job rotation to reduce\nlong-term exposure to the hazard). Only then, turn to PPE. Reducing unsafe acts—by\nemphasizing safety and through screening, training, or incentive programs, for example—is the\nsecond basic way to reduce accidents."
+    },
+    {
+        "chapter": "16",
+        "question_number": "46)",
+        "description": "Thermo is a plastic supply and custom fabrication company. Thermo serves clients in the\nmedical, solar, and semiconductor industries by making acrylic and polycarbonate sheets, tubes,\nand rods. The company employs approximately 500 workers at its facility in Ohio. Safety is a top\npriority at Thermo, and supervisors are required to conduct daily inspections of all equipment.\nRecently, three workers were seriously injured by a large press used to mold plastic parts. The\nworkers spent time in the hospital for hand injuries, and they are currently recuperating at home.\nAs a result, top management is evaluating all aspects of safety at the facility to determine what\nchanges need to be made.\nWhich of the following, if true, supports the argument that Thermo needs to modify its\nscreening, placement, and training procedures?",
+        "options": {
+            "A": "Interviews with the on-duty supervisor indicate that signs were clearly posted near the\naccident site explaining the importance of using protective guards.",
+            "B": "Supervisors use a combination of recognition and monetary incentives to encourage\nemployees to follow safety procedures.",
+            "C": "Interviews with the injured workers indicate that the most experienced worker removed the\nsafety guard and the other two workers did not know how to respond.",
+            "D": "Noise emitted from the press and the heat in the Thermo facility is considered distracting and\npotentially dangerous."
+        },
+        "answer": "C",
+        "explanation": "C) Behavioral interview questions during the screening process might have\nrevealed the tendencies of the workers. For example, a question like, \"What would you do if you\nsaw another employee working in an unsafe way?\" might have revealed personality\ncharacteristics of each worker. The most experienced worker disregarded safety, and the other\ntwo lacked the confidence or knowledge to counter the decision."
+    },
+    {
+        "chapter": "16",
+        "question_number": "47)",
+        "description": "Thermo is a plastic supply and custom fabrication company. Thermo serves clients in the\nmedical, solar, and semiconductor industries by making acrylic and polycarbonate sheets, tubes,\nand rods. The company employs approximately 500 workers at its facility in Ohio. Safety is a top\npriority at Thermo, and supervisors are required to conduct daily inspections of all equipment.\nRecently, three workers were seriously injured by a large press used to mold plastic parts. The\nworkers spent time in the hospital for hand injuries, and they are currently recuperating at home.\nAs a result, top management is evaluating all aspects of safety at the facility to determine what\nchanges need to be made.\nWhich of the following questions is LEAST relevant to Thermo's decision to minimize unsafe\nacts at the facility?",
+        "options": {
+            "A": "Have Thermo managers trained employees in the use of the company's mechanical security\nsystem?",
+            "B": "How are employee safety suggestions and complaints currently handled by Thermo\nmanagers?",
+            "C": "How are Thermo employees rewarded or praised for adhering to safety rules and procedures?",
+            "D": "What is the current level of employee involvement in designing Thermos' safety program?"
+        },
+        "answer": "A",
+        "explanation": "A) Mechanical security systems are not directly relevant to minimizing unsafe acts\nby employees on the job. Mechanical security systems, such as access control systems and video\nsurveillance equipment, relate to managing crime at a facility rather than accidents."
+    },
+    {
+        "chapter": "16",
+        "question_number": "48)",
+        "description": "How do managers reduce unsafe acts through selection?",
+        "options": {
+            "A": "identify traits linked to job accidents and screen candidates for such traits",
+            "B": "train employees on the safe and proper use of equipment and tools",
+            "C": "rotate employees through different positions within the company",
+            "D": "offer monetary incentives to employee teams with low accident rates"
+        },
+        "answer": "A",
+        "explanation": "A) Proper employee screening and placement reduces unsafe acts. Here, the\nemployer's aim is to identify the traits that might predict accidents on the job in question and\nthen screen candidates for this trait."
+    },
+    {
+        "chapter": "16",
+        "question_number": "49)",
+        "description": "OSHA standards on respiratory protection require that employees ________.",
+        "options": {
+            "A": "recognize and repair faulty respiratory equipment",
+            "B": "receive eight hours of training in respiratory safety standards",
+            "C": "demonstrate how to inspect, put on, and remove respirator seals",
+            "D": "pass a written exam on safety inspections of respiratory equipment"
+        },
+        "answer": "C",
+        "explanation": "C) OSHA's standards require more than training. Employers must demonstrate that\nemployees actually learned what to do. For example, OSHA's respiratory standard requires that\neach employee be able to demonstrate how to inspect, put on, and remove respirator seals."
+    },
+    {
+        "chapter": "16",
+        "question_number": "50)",
+        "description": "A safety program that identifies employee conduct that contributes to accidents and then\ntrains workers to avoid such conduct is known as a(n) ________ program.",
+        "options": {
+            "A": "strategic safety",
+            "B": "behavior-based safety",
+            "C": "positive reinforcement safety",
+            "D": "employee participation-based safety"
+        },
+        "answer": "B",
+        "explanation": "B) Behavior-based safety means identifying the worker behaviors that contribute to\naccidents and then training workers to avoid these behaviors."
+    },
+    {
+        "chapter": "16",
+        "question_number": "51)",
+        "description": "Thermo is a plastic supply and custom fabrication company. Thermo serves clients in the\nmedical, solar, and semiconductor industries by making acrylic and polycarbonate sheets, tubes,\nand rods. The company employs approximately 500 workers at its facility in Ohio. Safety is a top\npriority at Thermo, and supervisors are required to conduct daily inspections of all equipment.\nRecently, three workers were seriously injured by a large press used to mold plastic parts. The\nworkers spent time in the hospital for hand injuries, and they are currently recuperating at home.\nAs a result, top management is evaluating all aspects of safety at the facility to determine what\nchanges need to be made.\nWhich of the following, if true, best supports the argument that Thermo supervisors need\nadditional training in OSHA standards?",
+        "options": {
+            "A": "The three workers were working overtime during an evening shift at Thermo, and only one of\nthem had extensive experience using the press.",
+            "B": "The safety gate had been removed from the press to bypass a safety interlock, and the gate\nwas not replaced prior to the three workers using the machine during their morning shift at\nThermo.",
+            "C": "Thermo conducts air sampling on a weekly basis as part of its industrial hygiene program, and\nthe firm has never been cited for poor air quality.",
+            "D": "All three of the injured workers had worked at Thermo for over thirty years and were nearing\nretirement age prior to the accident."
+        },
+        "answer": "B",
+        "explanation": "B) A supervisor's primary duty is to inspect a facility for safety, which includes\ninspecting equipment. The paragraph indicates that supervisors check equipment each day, but\napparently the three workers' supervisor was not knowledgeable enough to realize there was a\nhazard present with the press. Therefore, supervisors would benefit from additional training in\nOSHA standards."
+    },
+    {
+        "chapter": "16",
+        "question_number": "52)",
+        "description": "Thermo is a plastic supply and custom fabrication company. Thermo serves clients in the\nmedical, solar, and semiconductor industries by making acrylic and polycarbonate sheets, tubes,\nand rods. The company employs approximately 500 workers at its facility in Ohio. Safety is a top\npriority at Thermo, and supervisors are required to conduct daily inspections of all equipment.\nRecently, three workers were seriously injured by a large press used to mold plastic parts. The\nworkers spent time in the hospital for hand injuries, and they are currently recuperating at home.\nAs a result, top management is evaluating all aspects of safety at the facility to determine what\nchanges need to be made.\nWhich of the following, if true, best supports the argument that Thermo needs to implement a\npositive reinforcement program?",
+        "options": {
+            "A": "Each of the injured workers was given a job simulation test prior to selection and placement.",
+            "B": "The injured workers removed a safety guard while operating the press to speed the process.",
+            "C": "The accident reporting rate at Thermo is lower than that of comparable businesses in the area.",
+            "D": "One of the injured workers was on probation with Thermo for starting a fight with a co-\nworker."
+        },
+        "answer": "B",
+        "explanation": "B) A positive reinforcement program provides positive feedback to workers who\nfocus on safety. The workers in this case ignored safety by removing a safety guard in order to\nwork more quickly, and a positive reinforcement program would likely discourage such\nhazardous actions."
+    },
+    {
+        "chapter": "16",
+        "question_number": "53)",
+        "description": "Which term refers to systematically identifying and eliminating workplace dangers by\nfocusing on the relationship between the worker, the task, the tools, and the work environment?",
+        "options": {
+            "A": "occupational safety program",
+            "B": "job hazard analysis",
+            "C": "operational safety review",
+            "D": "risk management"
+        },
+        "answer": "B",
+        "explanation": "B) Job hazard analysis involves a systematic approach to identifying and\neliminating such hazards before they occur. According to OSHA, job hazard analysis \"focuses on\nthe relationship between the worker, the task, the tools, and the work environment,\" and ends by\nreducing the potential risks to acceptable levels."
+    },
+    {
+        "chapter": "16",
+        "question_number": "54)",
+        "description": "The HR manager at Thompson Industries has been given the task of reducing the number of\nunsafe acts and creating a supportive environment. Which of the following would be LEAST\neffective?",
+        "options": {
+            "A": "conducting an organizational safety review",
+            "B": "providing leadership training to managers",
+            "C": "stressing the importance of teamwork",
+            "D": "promoting the value of safety"
+        },
+        "answer": "A",
+        "explanation": "A) An organizational safety review is typically conducted by agencies to determine\nif employers are in compliance with safety regulations and is not necessarily a key method."
+    },
+    {
+        "chapter": "16",
+        "question_number": "55)",
+        "description": "When an agency checks to see if units under their jurisdiction are following safety laws and\nrules, that is known as a(n):",
+        "options": {
+            "A": "job hazard analysis",
+            "B": "citation",
+            "C": "operational safety review",
+            "D": "safety awareness program"
+        },
+        "answer": "C",
+        "explanation": "C) Operational safety reviews (or safety operations reviews) are conducted by\nagencies to ascertain whether units under their jurisdiction are complying with all the applicable\nsafety laws, regulations, orders, and rules."
+    },
+    {
+        "chapter": "16",
+        "question_number": "56)",
+        "description": "According to research, which of the following is an increasing cause of motor vehicle\ncrashes that contribute to 24% of motor vehicle crashes per year?",
+        "options": {
+            "A": "alcohol abuse",
+            "B": "hazardous roads",
+            "C": "cell phone usage",
+            "D": "improper driver training"
+        },
+        "answer": "C",
+        "explanation": "C) Studies indicate that cell phone activity probably contributes to over 24% motor\nvehicle crashes per year. Many businesses are therefore banning cell phone use while driving."
+    },
+    {
+        "chapter": "16",
+        "question_number": "57)",
+        "description": "Which of the following is conducted by an agency to determine if a work site is in\ncompliance with safety laws and regulations?",
+        "options": {
+            "A": "security plan",
+            "B": "workplace review",
+            "C": "job hazard analysis",
+            "D": "operational safety review"
+        },
+        "answer": "D",
+        "explanation": "D) Operational safety reviews (or safety operations reviews) are conducted by\nagencies to ascertain whether units under their jurisdiction are complying with all the applicable\nsafety laws, regulations, orders, and rules."
+    },
+    {
+        "chapter": "16",
+        "question_number": "63)",
+        "description": "Workplace security plans should address all the following EXCEPT ________.",
+        "options": {
+            "A": "making security functions more informal",
+            "B": "protecting intellectual property",
+            "C": "installing facility security systems",
+            "D": "developing crisis management plans"
+        },
+        "answer": "A",
+        "explanation": "A) Workplace security plans should address tasks such as establishing a formal\nsecurity function, protecting the firm's intellectual property, developing crisis management plans,\nestablishing theft and fraud prevention procedures, preventing workplace violence, and installing\nfacility security systems."
+    },
+    {
+        "chapter": "16",
+        "question_number": "64)",
+        "description": "Toyota uses cadmium pigments in the paint for its cars. At the Toyota plant, air samples are\nfrequently taken as a precautionary measure to ensure that employees are not exposed to levels\noutside the OSHA safety standards. Which of the following best describes this situation?",
+        "options": {
+            "A": "job simulation tests",
+            "B": "unsafe conditions",
+            "C": "industrial hygiene",
+            "D": "screening"
+        },
+        "answer": "C",
+        "explanation": "C) Managing exposure hazards like airborne cadmium pigments comes under the\narea of industrial hygiene and involves recognition, evaluation, and control. Screening refers to\nevaluating worker traits. If Toyota did not take air samples, the conditions might become unsafe."
+    },
+    {
+        "chapter": "16",
+        "question_number": "65)",
+        "description": "Which of the following is a major source of occupational respiratory disease?",
+        "options": {
+            "A": "dust",
+            "B": "mold",
+            "C": "fertilizer",
+            "D": "asbestos"
+        },
+        "answer": "D",
+        "explanation": "D) Asbestos is a major source of occupational respiratory disease. Efforts are still\nunder way to rid old buildings of the substance."
+    },
+    {
+        "chapter": "16",
+        "question_number": "66)",
+        "description": "OSHA standards list exposure limits for about how many chemicals?",
+        "options": {
+            "A": "50",
+            "B": "200",
+            "C": "600",
+            "D": "1200"
+        },
+        "answer": "C",
+        "explanation": "C) OSHA standards list exposure limits for about 600 chemicals."
+    },
+    {
+        "chapter": "16",
+        "question_number": "67)",
+        "description": "If your employees are traveling to and from international destinations, which of the\nfollowing is the most appropriate option for preventing the entry or spread of an infectious\ndisease?",
+        "options": {
+            "A": "dismissing the workers from their positions",
+            "B": "denying workers facility access for ten days",
+            "C": "sending workers to a nearby hospital",
+            "D": "offering workers a light-work option"
+        },
+        "answer": "B",
+        "explanation": "B) Denying access to your facility for ten days to employees or visitors returning\nfrom affected areas, particularly those who have had contact with suspected infected individuals,\nis the best way to ensure that an infectious disease is not spread."
+    },
+    {
+        "chapter": "16",
+        "question_number": "68)",
+        "description": "All of the following recommendations are suggested for companies seeking to minimize the\nentry or spread of infectious diseases EXCEPT ________.",
+        "options": {
+            "A": "staggering lunch breaks",
+            "B": "administering drug tests frequently",
+            "C": "making hand sanitizers easily available",
+            "D": "cleaning work areas regularly and often"
+        },
+        "answer": "B",
+        "explanation": "B) Conducting drug tests will not reduce the spread of disease. However,\nstaggering lunch breaks to reduce overcrowding, monitoring travel alerts, cleaning often, and\nencouraging hand washing will reduce potential diseases from spreading or entering."
+    },
+    {
+        "chapter": "16",
+        "question_number": "69)",
+        "description": "What percent of the US workforce has been impaired on the job (due to alcohol or illegal\ndrugs) at least once during the previous year?",
+        "options": {
+            "A": "Eight",
+            "B": "Fifteen",
+            "C": "Twenty-seven",
+            "D": "Forty-three"
+        },
+        "answer": "B",
+        "explanation": "B) Alcoholism and substance abuse are problems at work. About 15% of the U.S.\nworkforce (just over 19 million workers) \"has either been hung over at work, been drinking\nshortly before showing up to work, or been drinking or impaired while on the job at least once\nduring the previous year.\""
+    },
+    {
+        "chapter": "16",
+        "question_number": "70)",
+        "description": "Which of the following is one of the earliest indicators of an employee's possible\nalcoholism?",
+        "options": {
+            "A": "mood swings",
+            "B": "forgetfulness",
+            "C": "missed deadlines",
+            "D": "personal neglect"
+        },
+        "answer": "C",
+        "explanation": "C) Missed deadlines are an early sign of possible alcoholism. Mood swings,\nforgetfulness, and personal neglect may occur in more advanced stages of alcoholism."
+    },
+    {
+        "chapter": "16",
+        "question_number": "71)",
+        "description": "Centerline Communications wants to reduce the number of workplace accidents associated\nwith employee substance abuse. Which of the following would be the most effective method to\naccomplish this goal?",
+        "options": {
+            "A": "preemployment drug testing",
+            "B": "preemployment psychological screening",
+            "C": "a combination of random ongoing drug testing with psychological evaluations",
+            "D": "a combination of preemployment drug testing and random ongoing drug testing"
+        },
+        "answer": "D",
+        "explanation": "D) A combination of preemployment and random ongoing testing was associated\nwith a significant reduction in workplace accidents. Studies have shown a less significant\nreduction in workplace accidents when only one or the other is used."
+    },
+    {
+        "chapter": "16",
+        "question_number": "72)",
+        "description": "Which of the following is NOT one of the primary methods of dealing with a current\nemployee who tests positive for illegal drugs?",
+        "options": {
+            "A": "arrest",
+            "B": "discipline",
+            "C": "in-house counseling",
+            "D": "referral to outside counseling"
+        },
+        "answer": "A",
+        "explanation": "A) When a current employee tests positive for drugs, disciplining, discharge, in-\nhouse counseling, and referral to an outside agency are the four traditional prescriptions. Arrest\nis unlikely in most cases."
+    },
+    {
+        "chapter": "16",
+        "question_number": "73)",
+        "description": "All of the following are symptoms of employees in advanced stages of alcoholism EXCEPT\n________.",
+        "options": {
+            "A": "drinking on the job",
+            "B": "walking with an unsteady gait",
+            "C": "delegating job responsibilities",
+            "D": "showing incompetent job performance"
+        },
+        "answer": "C",
+        "explanation": "C) Delegating job responsibilities is not characteristic of advanced alcoholism.\nHowever, drinking on the job, walking unsteadily, falling, and performing with incompetence are\nclear signs."
+    },
+    {
+        "chapter": "16",
+        "question_number": "74)",
+        "description": "Lisa, a supervisor at a manufacturing facility, suspects that one of her subordinates may be\nunder the influence of drugs or alcohol. Which of the following actions should Lisa take?",
+        "options": {
+            "A": "Lisa should contact the worker's spouse for advice.",
+            "B": "Lisa should contact the police and a security guard.",
+            "C": "Lisa should observe the worker for signs of impairment.",
+            "D": "Lisa should ignore the matter because it is a personal issue."
+        },
+        "answer": "C",
+        "explanation": "C) If an employee appears to be under the influence of drugs or alcohol, ask how\nthe employee feels and look for signs of impairment such as slurred speech. Ignoring the\nproblem is not an option due to safety issues."
+    },
+    {
+        "chapter": "16",
+        "question_number": "75)",
+        "description": "In some cases, employees accused of alcoholism or drug abuse have retaliated by suing the\nemployer for all of the following EXCEPT ________.",
+        "options": {
+            "A": "wrongful discharge",
+            "B": "OSHA violations",
+            "C": "illegal search",
+            "D": "defamation"
+        },
+        "answer": "B",
+        "explanation": "B) Employees have sued for invasion of privacy, wrongful discharge, defamation,\nand illegal searches. An employee would not be able to sue for OSHA violations if accused of\nsubstance abuse."
+    },
+    {
+        "chapter": "16",
+        "question_number": "76)",
+        "description": "Which of the following is a personal factor that can lead to stress?",
+        "options": {
+            "A": "poor supervision",
+            "B": "pace of work",
+            "C": "divorce",
+            "D": "job security"
+        },
+        "answer": "C",
+        "explanation": "C) A variety of workplace factors can lead to stress, such as work schedule, pace\nof work, job security, poor supervision, and the number and nature of customers or clients.\nPersonal factors also influence stress. For example, Type A personalities normally place\nthemselves under greater stress. Also, nonjob problems like divorce can lead to stress."
+    },
+    {
+        "chapter": "16",
+        "question_number": "77)",
+        "description": "David is experiencing significant levels of job stress in his position as vice president of\nmarketing. Which of the following is LEAST likely to be a consequence of David's stress?",
+        "options": {
+            "A": "headaches",
+            "B": "cancer",
+            "C": "depression",
+            "D": "heart disease"
+        },
+        "answer": "B",
+        "explanation": "B) Job stress has serious consequences for both employer and employee. The\nhuman consequences include anxiety, depression, anger, cardiovascular disease, and headaches.\nConnections have not been made between stress and the incidence of cancer."
+    },
+    {
+        "chapter": "16",
+        "question_number": "78)",
+        "description": "Which of the following will most likely increase as a result of employees experiencing\nsignificant job stress?",
+        "options": {
+            "A": "retirements",
+            "B": "punctuality",
+            "C": "health care costs",
+            "D": "work quality"
+        },
+        "answer": "C",
+        "explanation": "C) For the employer, consequences of employee stress include diminished quantity\nand quality of performance, and increased absenteeism and turnover. A study of 46,000\nemployees concluded that high-stress workers' health care costs were 46% higher than those of\ntheir less-stressed co-workers."
+    },
+    {
+        "chapter": "16",
+        "question_number": "79)",
+        "description": "Employees who wish to lower their job stress will most likely benefit from doing all of the\nfollowing activities EXCEPT ________.",
+        "options": {
+            "A": "making a list of problems and possible solutions",
+            "B": "putting off dealing with distasteful problems",
+            "C": "requesting realistic project deadlines",
+            "D": "limiting interruptions"
+        },
+        "answer": "B",
+        "explanation": "B) Putting off distasteful problems can increase stress, so they should be dealt with\nswiftly. Making \"worry lists,\" negotiating deadlines, and limiting interruptions can reduce stress."
+    },
+    {
+        "chapter": "16",
+        "question_number": "80)",
+        "description": "Research estimates that health care costs are ________ higher for highly stressed workers\nthan for workers who experience low amounts of stress.",
+        "options": {
+            "A": "10%",
+            "B": "25%",
+            "C": "46%",
+            "D": "75%"
+        },
+        "answer": "C",
+        "explanation": "C) A study of 46,000 employees concluded that high-stress workers' health care\ncosts were 46% higher than those of their less-stressed co-workers."
+    },
+    {
+        "chapter": "16",
+        "question_number": "81)",
+        "description": "________ is defined as the total depletion of physical and mental resources caused by\nexcessive striving to reach an unrealistic work-related goal.",
+        "options": {
+            "A": "Depression",
+            "B": "Job stress",
+            "C": "Anxiety",
+            "D": "Burnout"
+        },
+        "answer": "D",
+        "explanation": "D) Burnout is a phenomenon closely associated with job stress. Experts define\nburnout as the total depletion of physical and mental resources caused by excessive striving to\nreach an unrealistic work-related goal."
+    },
+    {
+        "chapter": "16",
+        "question_number": "82)",
+        "description": "As an HR manager, you need to be aware of the symptoms of burnout among employees.\nWhich of the following is most likely NOT a sign of employee burnout?",
+        "options": {
+            "A": "irritability",
+            "B": "absenteeism",
+            "C": "entrapment",
+            "D": "resentment"
+        },
+        "answer": "B",
+        "explanation": "B) Burnout builds gradually, manifesting itself in symptoms such as irritability,\ndiscouragement, exhaustion, cynicism, entrapment, and resentment. Absenteeism is not\nnecessarily a sign of burnout, although taking time off from work would be beneficial."
+    },
+    {
+        "chapter": "16",
+        "question_number": "83)",
+        "description": "Experts suggest that burnout can most effectively be reduced by ________.",
+        "options": {
+            "A": "telecommuting",
+            "B": "taking long vacations",
+            "C": "changing careers",
+            "D": "reassessing goals"
+        },
+        "answer": "D",
+        "explanation": "D) Reassessing goals, meditating, and exercising are ways that people can reduce\nburnout. Studies have shown that long vacations are not necessarily beneficial and that mini\nvacations during the day are more useful."
+    },
+    {
+        "chapter": "16",
+        "question_number": "84)",
+        "description": "Employee depression results in as many as ________ total lost workdays in the United States\neach year.",
+        "options": {
+            "A": "5 million",
+            "B": "16 million",
+            "C": "43 million",
+            "D": "68 million"
+        },
+        "answer": "D",
+        "explanation": "D) Experts estimate that depression results in about 68 million lost workdays in the\nUnited States annually and may cost U.S. businesses $23 billion or more per year just in\nabsenteeism and lost productivity."
+    },
+    {
+        "chapter": "16",
+        "question_number": "85)",
+        "description": "All of the following are most likely signs of employee depression EXCEPT ________.",
+        "options": {
+            "A": "lack of sleep",
+            "B": "burnout",
+            "C": "poor concentration",
+            "D": "reduced appetite"
+        },
+        "answer": "B",
+        "explanation": "B) Typical warning signs of depression (if they last for more than two weeks)\ninclude persistent sad, anxious, or \"empty\" moods; sleeping too little; reduced appetite; loss of\ninterest in activities once enjoyed; restlessness or irritability; and difficulty concentrating.\nBurnout is similar to job stress but not necessarily a sign of depression."
+    },
+    {
+        "chapter": "16",
+        "question_number": "86)",
+        "description": "Which of the following is a true statement regarding workplace smoking?",
+        "options": {
+            "A": "Workplace smoking rules are determined by local unions and federal laws.",
+            "B": "OSHA requires employers to establish designated smoking areas.",
+            "C": "Employers may dismiss workers because they smoke at home.",
+            "D": "The ADA protects the rights of workers to smoke at work."
+        },
+        "answer": "C",
+        "explanation": "C) Employers can deny a job to smokers, even if they only smoke at home.\nSmoking is not a disability, so the ADA does not protect smokers. Employers have higher costs\ndue to higher health and fire insurance, increased absenteeism, and reduced productivity."
+    },
+    {
+        "chapter": "16",
+        "question_number": "87)",
+        "description": "Data entry specialists and assembly line workers are most susceptible to ________.",
+        "options": {
+            "A": "repetitive motion disorders",
+            "B": "workplace violence",
+            "C": "job stress",
+            "D": "burnout"
+        },
+        "answer": "A",
+        "explanation": "A) According to the U.S. National Institutes of Health, repetitive motion disorders\ninclude disorders such as carpal tunnel syndrome, bursitis, and tendonitis, and result from too\nmany uninterrupted repetitions of an activity or motion, or from unnatural motions such as\ntwisting the arm or wrist, or incorrect posture. It usually affects people who perform repetitive\ntasks such as assembly line work or computer work."
+    },
+    {
+        "chapter": "16",
+        "question_number": "99)",
+        "description": "________ relates to protecting employees from internal and external security risks.",
+        "options": {
+            "A": "Risk management",
+            "B": "Security",
+            "C": "Crisis",
+            "D": "Safety"
+        },
+        "answer": "B",
+        "explanation": "B) Workplace security relates to protecting employees from internal and external\nsecurity risks such as criminal acts by outside perpetrators and treats of terrorism."
+    },
+    {
+        "chapter": "16",
+        "question_number": "100)",
+        "description": "According to SHRM survey, ________ percent of responding organizations now have some\ntype of formal disaster plan.",
+        "options": {
+            "A": "20",
+            "B": "85",
+            "C": "47",
+            "D": "93"
+        },
+        "answer": "B",
+        "explanation": "B) SHRM survey found that about 85% of responding organizations now have\nsome type of formal disaster plan. Many firms also instituted special handling procedures for\nsuspicious mail packages and hold regular emergency evacuation drills."
+    },
+    {
+        "chapter": "16",
+        "question_number": "101)",
+        "description": "________ is \"the process of assessing exposures to loss within an operation and\ndetermining how best to eliminate, manage or otherwise reduce the risk of an adverse event from\nhaving a negative impact on the business.\"",
+        "options": {
+            "A": "Workplace safety",
+            "B": "Security",
+            "C": "Crisis management",
+            "D": "Risk management"
+        },
+        "answer": "D",
+        "explanation": "D) Enterprise risk management is \"the process of assessing exposures to loss\nwithin an operation and determining how best to eliminate, manage or otherwise reduce the risk\nof an adverse event from having a negative impact on the business.\""
+    },
+    {
+        "chapter": "16",
+        "question_number": "102)",
+        "description": "Which of the following terms refers to taking advantage of a facility's architectural features\nin order to minimize security problems?",
+        "options": {
+            "A": "mechanical security",
+            "B": "organizational security",
+            "C": "natural security",
+            "D": "risk management"
+        },
+        "answer": "C",
+        "explanation": "C) Natural security means taking advantage of the facility's natural or architectural\nfeatures in order to minimize security problems."
+    },
+    {
+        "chapter": "16",
+        "question_number": "103)",
+        "description": "The mail room at Citibank uses special scanners to check the safety of incoming mail. This\nis most likely an example of ________.",
+        "options": {
+            "A": "mechanical security",
+            "B": "organizational security",
+            "C": "natural security",
+            "D": "architectural security"
+        },
+        "answer": "A",
+        "explanation": "A) Mechanical security is the utilization of security systems such as locks,\nintrusion alarms, access control systems, and surveillance systems to reduce the need for\ncontinuous human surveillance."
+    },
+    {
+        "chapter": "16",
+        "question_number": "104)",
+        "description": "The security guards and tellers at National Bank receive extensive training on how to\nhandle medical emergencies, angry customers, and suspicious packages. Which of the following\nsecurity programs is most likely being used at National Bank?",
+        "options": {
+            "A": "mechanical security",
+            "B": "group security",
+            "C": "organizational security",
+            "D": "natural security"
+        },
+        "answer": "C",
+        "explanation": "C) Organizational security means using good management to improve security,\nwhich involves proper training and motivation."
+    }
+]

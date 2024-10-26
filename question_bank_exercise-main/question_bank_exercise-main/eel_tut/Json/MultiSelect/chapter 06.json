@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "6",
+        "question_number": "1)",
+        "description": "Which of the following terms refers to hiring workers who have criminal backgrounds without\nproper safeguards?",
+        "options": {
+            "A": "employment malpractice",
+            "B": "negligent hiring",
+            "C": "improper hiring",
+            "D": "invalid screening"
+        },
+        "answer": "B",
+        "explanation": "B) Negligent hiring means hiring employees with criminal records or other\nproblems who then use access to customers' homes (or similar opportunities) to commit crimes.\nEmployers can be sued for negligent hiring."
+    },
+    {
+        "chapter": "6",
+        "question_number": "2)",
+        "description": "A reliable employment test will most likely yield ________.",
+        "options": {
+            "A": "consistent scores when a person takes two alternate forms of the test",
+            "B": "improved scores when a person takes the same test more than once in a single day",
+            "C": "high scores when a person takes two alternate forms of the test on different occasions",
+            "D": "similar scores when two different people are administered the test at different times"
+        },
+        "answer": "A",
+        "explanation": "A) Reliability is a test's first requirement and refers to its consistency: A reliable\ntest is one that yields consistent scores when a person takes two alternate forms of the test or\nwhen he or she takes the same test on two or more different occasions."
+    },
+    {
+        "chapter": "6",
+        "question_number": "3)",
+        "description": "If a person scores a 70 on an intelligence test on one day and scores 110 when retested on\nanother day, you would most likely conclude that this test is ________.",
+        "options": {
+            "A": "valid",
+            "B": "invalid",
+            "C": "reliable",
+            "D": "unreliable"
+        },
+        "answer": "D",
+        "explanation": "D) Reliability is a test's first requirement and refers to its consistency: A reliable\ntest is one that yields consistent scores when a person takes two alternate forms of the test or\nwhen he or she takes the same test on two or more different occasions. If a person scores 70 on\nan intelligence test on a Monday and 110 when retested on Tuesday, you probably wouldn't have\nmuch faith in the test."
+    },
+    {
+        "chapter": "6",
+        "question_number": "4)",
+        "description": "If a person scores a 78 on a test on one day and scores a 79 when retested on another day, you\nwould most likely conclude that this test is ________.",
+        "options": {
+            "A": "valid",
+            "B": "invalid",
+            "C": "reliable",
+            "D": "unreliable"
+        },
+        "answer": "C",
+        "explanation": "C) A reliable test is one that yields consistent scores when a person takes two\nalternate forms of the test or when he or she takes the same test on two or more different\noccasions. Scores of 78 and 79 on the same test suggest that the test is reliable because it is\nmeasuring with consistency."
+    },
+    {
+        "chapter": "6",
+        "question_number": "5)",
+        "description": "Which of the following terms refers to the consistency of scores obtained by the same person\nwhen retested with alternate forms of the same test?",
+        "options": {
+            "A": "equivalency",
+            "B": "reliability",
+            "C": "expectancy",
+            "D": "validity"
+        },
+        "answer": "B",
+        "explanation": "B) Reliability is a test's first requirement and refers to its consistency: A reliable\ntest is one that yields consistent scores when a person takes two alternate forms of the test or\nwhen he or she takes the same test on two or more different occasions."
+    },
+    {
+        "chapter": "6",
+        "question_number": "6)",
+        "description": "Which of the following best describes how to use a test-retest reliability estimate to assess\nreliability?",
+        "options": {
+            "A": "administer a test with content based on what a person actually needs to know to effectively\nperform the job in question",
+            "B": "administer the same test to different people at two different points in time and compare their\ntest scores at time 2 with the scores at time 1",
+            "C": "administer different tests to a group of people and compare the range of collected test scores",
+            "D": "administer the same test to the same people at two different points in time and compare their\ntest scores at time 2 with their scores at time 1"
+        },
+        "answer": "D",
+        "explanation": "D) There are several ways to estimate consistency or reliability. You could\nadminister the same test to the same people at two different points in time, comparing their test\nscores at time two with their scores at time one; this would be a retest estimate."
+    },
+    {
+        "chapter": "6",
+        "question_number": "7)",
+        "description": "Which of the following measures reliability by administering two different yet comparable\ntests and then comparing the two test scores?",
+        "options": {
+            "A": "retest estimate",
+            "B": "equivalent form estimate",
+            "C": "internal comparison estimate",
+            "D": "criterion validity measurement"
+        },
+        "answer": "B",
+        "explanation": "B) An equivalent or alternate form estimate involves administering a test and then\nadministering what experts believe to be an equivalent test later."
+    },
+    {
+        "chapter": "6",
+        "question_number": "8)",
+        "description": "________ is used as an estimate of reliability and involves administering a test with x number\nof items designed to assess a topic and then statistically analyzing the degree to which responses\nto the items vary together.",
+        "options": {
+            "A": "Retest estimate",
+            "B": "Equivalent form estimate",
+            "C": "Content validity estimate",
+            "D": "Internal comparison estimate"
+        },
+        "answer": "D",
+        "explanation": "D) A test's internal consistency is another reliability measure. For example, a\npsychologist includes 10 items on a test of vocational interests, believing that they all measure,\nin various ways, the test taker's interest in working outdoors. You administer the test and then\nstatistically analyze the degree to which responses to these 10 items vary together. This would\nprovide a measure of the internal reliability of the test and is known as an internal comparison\nestimate."
+    },
+    {
+        "chapter": "6",
+        "question_number": "9)",
+        "description": "All of the following are used for estimating reliability of a test EXCEPT ________.",
+        "options": {
+            "A": "test-retest estimate",
+            "B": "internal comparison estimate",
+            "C": "equivalent form estimate",
+            "D": "content validity measurement"
+        },
+        "answer": "D",
+        "explanation": "D) Validity indicates whether a test is measuring what it is supposed to be\nmeasuring, while reliability indicates whether a test is measuring something consistently.\nInternal comparison estimates are used to measure the internal consistency of a test. Test-retest\nestimates and equivalent form estimates also measure reliability."
+    },
+    {
+        "chapter": "6",
+        "question_number": "10)",
+        "description": "When repetitive questions appear on a questionnaire, which of the following is most likely\nbeing measured?",
+        "options": {
+            "A": "test validity",
+            "B": "retest estimate",
+            "C": "internal consistency",
+            "D": "criterion validity"
+        },
+        "answer": "C",
+        "explanation": "C) A test's internal consistency is measured by making internal comparison\nestimates. Internal consistency explains why apparently repetitive questions are found on some\ntest questionnaires."
+    },
+    {
+        "chapter": "6",
+        "question_number": "11)",
+        "description": "The unreliability of a test is best explained by all of the following EXCEPT ________.",
+        "options": {
+            "A": "poor sampling of question material",
+            "B": "lack of equivalence between tests",
+            "C": "inconsistent testing conditions",
+            "D": "failure to predict job performance"
+        },
+        "answer": "D",
+        "explanation": "D) Many things could cause a test to be unreliable. For example, the questions may\ndo a poor job of sampling the material or there might be errors due to changes in the testing\nconditions. A lack of equivalence between tests would also explain a test's unreliability."
+    },
+    {
+        "chapter": "6",
+        "question_number": "12)",
+        "description": "Which of the following terms refers to the accuracy with which a test fulfills the function for\nwhich it was designed?",
+        "options": {
+            "A": "reliability",
+            "B": "validity",
+            "C": "expectancy",
+            "D": "consistency"
+        },
+        "answer": "B",
+        "explanation": "B) Test validity answers the question \"Does this test measure what it's supposed to\nmeasure?\" Validity refers to the correctness of the inferences that we can make based on the test\nand the accuracy with which a test or interview fulfills the function it was designed to fill."
+    },
+    {
+        "chapter": "6",
+        "question_number": "13)",
+        "description": "Demonstrating the content validity of a test can be best accomplished by showing that\n________.",
+        "options": {
+            "A": "tasks performed on the test are general enough to apply to any type of job",
+            "B": "higher test scores are statistically equivalent to proven, long-term job success",
+            "C": "the test is representative of important aspects of performance on the job",
+            "D": "scores on the test are both internally and externally reliable"
+        },
+        "answer": "C",
+        "explanation": "C) Demonstrating content validity can be accomplished by showing that the tasks\nthe person performs on the test are really a comprehensive and random sample of the tasks\nperformed on the job."
+    },
+    {
+        "chapter": "6",
+        "question_number": "14)",
+        "description": "The first step in the test validation process is ________.",
+        "options": {
+            "A": "creating a test battery",
+            "B": "administering tests",
+            "C": "analyzing the job",
+            "D": "cross-validating"
+        },
+        "answer": "C",
+        "explanation": "C) The first step in validating a test is to analyze the job and write job descriptions\nand job specifications. The point is to specify the human traits and skills you believe are required\nfor adequate job performance."
+    },
+    {
+        "chapter": "6",
+        "question_number": "15)",
+        "description": "Which of the following is a graph that shows the relationship between test scores and job\nperformance for a group of people?",
+        "options": {
+            "A": "performance standard",
+            "B": "digital dashboard",
+            "C": "competency model",
+            "D": "expectancy chart"
+        },
+        "answer": "D",
+        "explanation": "D) If there is a correlation between test and job performance, you can develop an\nexpectancy chart during the process of validating an employment test. An expectancy chart\npresents the relationship between test scores and job performance graphically."
+    },
+    {
+        "chapter": "6",
+        "question_number": "16)",
+        "description": "What is the primary disadvantage of using concurrent validation?",
+        "options": {
+            "A": "Current employees may not be representative of new applicants.",
+            "B": "New applicants are recent college graduates with limited experience.",
+            "C": "Limited correlation exists between high test scores and job performance.",
+            "D": "Test batteries have not been administered by professional industrial psychologists."
+        },
+        "answer": "A",
+        "explanation": "A) With concurrent validation, the test scores of current employees are compared\nwith their current job performance. The disadvantage is that current employees may not be\nrepresentative of new applicants because current employees have already had on-the-job training."
+    },
+    {
+        "chapter": "6",
+        "question_number": "17)",
+        "description": "________ validation is considered the most dependable method of validating an employment\ntest.",
+        "options": {
+            "A": "Applicable",
+            "B": "Predictive",
+            "C": "Concurrent",
+            "D": "Statistical"
+        },
+        "answer": "B",
+        "explanation": "B) Predictive validation is a more dependable way to validate a test than\nconcurrent validation, which is the other method. With predictive validation, a test is\nadministered to applicants before hiring. Applicants are hired using only existing selection\ntechniques, not the results of the new tests. After they have been on the job for some time,\nmeasure their performance and compare it to their earlier test scores. You can then determine\nwhether you could have used their performance on the new test to predict their subsequent job\nperformance."
+    },
+    {
+        "chapter": "6",
+        "question_number": "18)",
+        "description": "The process of cross-validating a test involves all of the following EXCEPT ________.",
+        "options": {
+            "A": "using a new sample of employees",
+            "B": "administering additional tests",
+            "C": "evaluating the relationship between scores and performance",
+            "D": "developing and analyzing a scatter plot of scores versus performance"
+        },
+        "answer": "D",
+        "explanation": "D) Cross-validating involves administering additional tests to a new sample of\nemployees. This final step also requires an assessment of predictive validation and an evaluation\nof the relationship between scores and job performance. An expectancy chart might be developed\nbut not a scatter plot."
+    },
+    {
+        "chapter": "6",
+        "question_number": "19)",
+        "description": "According to the American Psychological Association, all of the following are rights of test\ntakers EXCEPT the right to expect ________.",
+        "options": {
+            "A": "informed consent regarding the use of test results",
+            "B": "scores to be interpreted by qualified individuals",
+            "C": "tests to be the only selection tools for a job",
+            "D": "fairness of the test for all who take it"
+        },
+        "answer": "C",
+        "explanation": "C) Tests should be used as supplements and not be the only selection tool. Under\nthe American Psychological Association's (APA) standard for educational and psychological\ntests, test takers have the right to the confidentiality of test results, the right to informed consent\nregarding use of these results, the right to expect that only people qualified to interpret the scores\nwill have access to them, and the right to expect the test is fair to all."
+    },
+    {
+        "chapter": "6",
+        "question_number": "20)",
+        "description": "According to a survey, most employers who administer tests to applicants are measuring\n________.",
+        "options": {
+            "A": "job skills",
+            "B": "psychological behaviors",
+            "C": "interpersonal behaviors",
+            "D": "ethical opinions"
+        },
+        "answer": "A",
+        "explanation": "A) About 41% of companies that the American Management Association surveyed\ntested applicants for basic skills (defined as the ability to read instructions, write reports, and do\narithmetic adequate to perform common workplace tasks). About 67% of the respondents\nrequired employees to take job skills tests, and 29% required some form of psychological\nmeasurement."
+    },
+    {
+        "chapter": "6",
+        "question_number": "21)",
+        "description": "For over 40 years, Golden Creamery has been mixing up fresh, gourmet ice cream for\ncustomers. The company originated in Dallas and now boasts stores in 35 states. The business\nhas primarily expanded by selling franchises to qualified candidates. Golden Creamery\nexecutives realize that the firm's success depends upon the success of each franchise. In the past,\neach individual franchise owner determined the best method for screening applicants. However,\nas the firm grows, Golden Creamery executives want to standardize the hiring process by\nrequiring all franchisees to use the same preemployment tests.\nWhich of the following best supports the argument that Golden Creamery should use a certified\npsychologist to develop preemployment tests?",
+        "options": {
+            "A": "Golden Creamery needs to comply with all federal and state laws.",
+            "B": "Golden Creamery competitors use psychologists for test development.",
+            "C": "Golden Creamery strives to create a conscientious organizational culture.",
+            "D": "Golden Creamery needs to ensure that tests are legally and ethically appropriate."
+        },
+        "answer": "D",
+        "explanation": "D) Using a psychologist to develop and validate tests will help Golden Creamery\nremain protected both legally and ethically. Firms are not required by law to use a psychologist\nfor test development."
+    },
+    {
+        "chapter": "6",
+        "question_number": "22)",
+        "description": "For over 40 years, Golden Creamery has been mixing up fresh, gourmet ice cream for\ncustomers. The company originated in Dallas and now boasts stores in 35 states. The business\nhas primarily expanded by selling franchises to qualified candidates. Golden Creamery\nexecutives realize that the firm's success depends upon the success of each franchise. In the past,\neach individual franchise owner determined the best method for screening applicants. However,\nas the firm grows, Golden Creamery executives want to standardize the hiring process by\nrequiring all franchisees to use the same preemployment tests.\nWhich of the following, if true, supports the argument that Golden Creamery should require\nfranchise owners to use the firm's preemployment tests?",
+        "options": {
+            "A": "Hourly employees at Golden Creamery stores typically remain with the company long\nenough to be promoted to management positions.",
+            "B": "Golden Creamery franchise owners pay an initial franchise fee and receive a percentage of\nsales royalties in return.",
+            "C": "Annual turnover rates for hourly employees of Golden Creamery stores are three times the\nrate of comparable businesses.",
+            "D": "Individuals interested in working at a Golden Creamery store can complete online\napplications on the firm's Web site."
+        },
+        "answer": "C",
+        "explanation": "C) High turnover rates suggest that Golden Creamery has problems hiring the most\nappropriate employees, which supports the implementation of a testing program. If hourly\nworkers remained at the firm for a long time, then that would suggest the firm's current hiring\npractices do not need to be modified."
+    },
+    {
+        "chapter": "6",
+        "question_number": "47)",
+        "description": "For over 40 years, Golden Creamery has been mixing up fresh, gourmet ice cream for\ncustomers. The company originated in Dallas and now boasts stores in 35 states. The business\nhas primarily expanded by selling franchises to qualified candidates. Golden Creamery\nexecutives realize that the firm's success depends upon the success of each franchise. In the past,\neach individual franchise owner determined the best method for screening applicants. However,\nas the firm grows, Golden Creamery executives want to standardize the hiring process by\nrequiring all franchisees to use the same preemployment tests.\nWhich of the following questions is most relevant to Golden Creamery's decision to implement\npreemployment testing for all franchises?",
+        "options": {
+            "A": "Should Golden Creamery use internal or external sources for job candidates?",
+            "B": "How will Golden Creamery ensure the confidentiality of an applicant's test results?",
+            "C": "How does testing correlate with Golden Creamery's mission and vision statements?",
+            "D": "What is the role of testing in Golden Creamery's strategic performance management system?"
+        },
+        "answer": "B",
+        "explanation": "B) Test takers have the right to the confidentiality of test results, so it is important\nthat Golden Creamery develops a plan for maintaining privacy prior to administering tests.\nDetermining whether to hire internally or externally is a recruiting issue rather than a testing\nconcern. Although a firm's mission and vision statements guide its general direction, such\nstatements are not directly relevant to testing."
+    },
+    {
+        "chapter": "6",
+        "question_number": "48)",
+        "description": "________ tests include assessments of general reasoning ability and of specific mental\nabilities like memory and inductive reasoning.",
+        "options": {
+            "A": "Motor ability",
+            "B": "Personality",
+            "C": "Achievement",
+            "D": "Cognitive"
+        },
+        "answer": "D",
+        "explanation": "D) Cognitive tests include tests of general reasoning ability (intelligence) and tests\nof specific mental abilities like memory and inductive reasoning. Employers may also use tests\nto measure an applicant's motor and physical abilities. Achievement tests measure what someone\nhas learned, and personality tests measure aspects of an applicant's personality, such as stability,\nmotivation, and introversion."
+    },
+    {
+        "chapter": "6",
+        "question_number": "49)",
+        "description": "Grafton Industries administers selection tests to job candidates. The tests measure a range of\nabilities including memory, vocabulary, verbal fluency, and numerical ability, so they are most\nlikely ________ tests.",
+        "options": {
+            "A": "standardized",
+            "B": "intelligence",
+            "C": "achievement",
+            "D": "personality"
+        },
+        "answer": "B",
+        "explanation": "B) Intelligence (IQ) tests are tests of general intellectual abilities. They measure\nnot a single trait but rather a range of abilities, including memory, vocabulary, verbal fluency,\nand numerical ability."
+    },
+    {
+        "chapter": "6",
+        "question_number": "50)",
+        "description": "All of the following are measured by aptitude tests EXCEPT ________.",
+        "options": {
+            "A": "deductive reasoning",
+            "B": "numerical ability",
+            "C": "temperament",
+            "D": "memory"
+        },
+        "answer": "C",
+        "explanation": "C) Temperament and other interpersonal skills are measured by personality tests.\nAptitude tests measure deductive and inductive reasoning, verbal comprehension, numerical\nability, and memory."
+    },
+    {
+        "chapter": "6",
+        "question_number": "51)",
+        "description": "As part of the selection process for a position at UPS, Jack has been asked to lift weights and\njump rope. Which of the following is most likely being measured by UPS?",
+        "options": {
+            "A": "interpersonal skills",
+            "B": "cognitive skills",
+            "C": "physical abilities",
+            "D": "achievements"
+        },
+        "answer": "C",
+        "explanation": "C) Physical abilities are measured by testing an applicant's static strength (lifting\nweights), dynamic strength, body coordination (jumping rope), and stamina. A UPS worker\nneeds to have such skills to perform the job."
+    },
+    {
+        "chapter": "6",
+        "question_number": "52)",
+        "description": "Carl recently participated in a selection test for a position at Northern Aeronautics. The test\nmeasured Carl's finger dexterity and reaction time, so it was most likely a(n) ________ test.",
+        "options": {
+            "A": "motor ability",
+            "B": "personality",
+            "C": "cognitive",
+            "D": "interest"
+        },
+        "answer": "A",
+        "explanation": "A) Some jobs require applicants be tested for motor abilities, such as finger\ndexterity, manual dexterity, and (if hiring pilots) reaction time. For example, the Crawford Small\nParts Dexterity Test measures the speed and accuracy of simple judgment as well as the speed of\nfinger, hand, and arm movements."
+    },
+    {
+        "chapter": "6",
+        "question_number": "53)",
+        "description": "All of the following are most likely assessed on personality tests EXCEPT ________.",
+        "options": {
+            "A": "extraversion",
+            "B": "reasoning",
+            "C": "sensitivity",
+            "D": "emotional stability"
+        },
+        "answer": "B",
+        "explanation": "B) Reasoning skills are tested with aptitude tests. Personality tests measure\nintroversion, sensitivity, motivation, and emotional stability among other qualities."
+    },
+    {
+        "chapter": "6",
+        "question_number": "54)",
+        "description": "According to experts, most people are hired for their qualifications and fired because of\nattitude, motivation, and ________.",
+        "options": {
+            "A": "physical limitations",
+            "B": "lack of aptitude",
+            "C": "temperament",
+            "D": "psychological issues"
+        },
+        "answer": "C",
+        "explanation": "C) A person's cognitive and physical abilities alone seldom explain his or her job\nperformance. Most people are hired based on qualifications, but most are fired for\nnonperformance, which is usually the \"result of personal characteristics, such as attitude,\nmotivation, and especially, temperament.\""
+    },
+    {
+        "chapter": "6",
+        "question_number": "55)",
+        "description": "Make a Picture Story and the Forer Structured Sentence Completion Test are examples of\n________ tests.",
+        "options": {
+            "A": "intelligence",
+            "B": "apperception",
+            "C": "self-reported",
+            "D": "projective"
+        },
+        "answer": "D",
+        "explanation": "D) Projective techniques include Make a Picture Story (MAPS) and the Forer\nStructured Sentence Completion Test. With projective tests, the psychologist presents an\nambiguous stimulus (like an inkblot or clouded picture) to the person who then reacts to it."
+    },
+    {
+        "chapter": "6",
+        "question_number": "56)",
+        "description": "Which if the following is a projective personality test?",
+        "options": {
+            "A": "MMPI",
+            "B": "California Psychological Inventory",
+            "C": "Make a Picture Story",
+            "D": "Myers Briggs Test"
+        },
+        "answer": "C",
+        "explanation": "C) Make a Picture Story is a projective personality test."
+    },
+    {
+        "chapter": "6",
+        "question_number": "57)",
+        "description": "The Big Five personality dimensions include all of the following EXCEPT ________.",
+        "options": {
+            "A": "neuroticism",
+            "B": "optimism",
+            "C": "extroversion",
+            "D": "conscientiousness"
+        },
+        "answer": "B",
+        "explanation": "B) Industrial psychologists often focus on the \"big five\" personality dimensions:\nextroversion, emotional stability/neuroticism, agreeableness, conscientiousness, and openness to\nexperience. Optimism is not one of the big five."
+    },
+    {
+        "chapter": "6",
+        "question_number": "58)",
+        "description": "Which of the following personality dimensions represents a tendency to exhibit poor\nemotional adjustment and experience negative effects such as anxiety, insecurity, and hostility?",
+        "options": {
+            "A": "neuroticism",
+            "B": "extroversion",
+            "C": "conscientiousness",
+            "D": "openness to experience"
+        },
+        "answer": "A",
+        "explanation": "A) Neuroticism relates to anxiety and insecurity and hostility."
+    },
+    {
+        "chapter": "6",
+        "question_number": "59)",
+        "description": "________ represents a tendency to be sociable, assertive, and active.",
+        "options": {
+            "A": "Extroversion",
+            "B": "Conscientiousness",
+            "C": "Agreeableness",
+            "D": "Openness to experience"
+        },
+        "answer": "A",
+        "explanation": "A) Extroversion represents a tendency to be sociable, assertive, and active."
+    },
+    {
+        "chapter": "6",
+        "question_number": "60)",
+        "description": "Mike Simmons recently applied for a position with Pfizer Pharmaceuticals. Which\npersonality trait most likely has the strongest correlation to Mike's success as a pharmaceutical\nsales representative?",
+        "options": {
+            "A": "extroversion",
+            "B": "agreeableness",
+            "C": "conscientiousness",
+            "D": "openness to experience"
+        },
+        "answer": "A",
+        "explanation": "A) Extroversion represents a tendency to be sociable, assertive, and active, which\nare necessary characteristics for sales reps. Studies have shown that extroversion correlates to\nsuccess in sales and management jobs."
+    },
+    {
+        "chapter": "6",
+        "question_number": "61)",
+        "description": "Which personality characteristic refers to the disposition to be imaginative, nonconforming,\nand unconventional?",
+        "options": {
+            "A": "extroversion",
+            "B": "conscientiousness",
+            "C": "neuroticism",
+            "D": "openness to experience"
+        },
+        "answer": "D",
+        "explanation": "D) Openness to experience is the disposition to be imaginative, nonconforming,\nunconventional, and autonomous."
+    },
+    {
+        "chapter": "6",
+        "question_number": "62)",
+        "description": "The tendency for one to be trusting, compliant, caring, and gentle is the personality\ndimension known as ________.",
+        "options": {
+            "A": "extroversion",
+            "B": "conscientiousness",
+            "C": "agreeableness",
+            "D": "openness to experience"
+        },
+        "answer": "C",
+        "explanation": "C) Agreeableness is the tendency to be trusting, compliant, caring, and gentle.\nNeuroticism, extroversion, conscientiousness, and openness to experience are the other\npersonality traits known as the big five."
+    },
+    {
+        "chapter": "6",
+        "question_number": "63)",
+        "description": "Which personality characteristic is comprised of both achievement and dependability?",
+        "options": {
+            "A": "neuroticism",
+            "B": "extroversion",
+            "C": "conscientiousness",
+            "D": "agreeableness"
+        },
+        "answer": "C",
+        "explanation": "C) Conscientiousness is comprised of two related facets: achievement and\ndependability. According to research, conscientiousness has been the most consistent and\nuniversal predictor of job performance."
+    },
+    {
+        "chapter": "6",
+        "question_number": "64)",
+        "description": "While some personality characteristics are associated with success in different types of jobs,\nwhich personality trait is most frequently associated with job performance in all jobs?",
+        "options": {
+            "A": "openness to experience",
+            "B": "conscientiousness",
+            "C": "extroversion",
+            "D": "agreeableness"
+        },
+        "answer": "B",
+        "explanation": "B) According to research, conscientiousness has been the most consistent and\nuniversal predictor of job performance. Conscientiousness is comprised of two related facets:\nachievement and dependability."
+    },
+    {
+        "chapter": "6",
+        "question_number": "65)",
+        "description": "Red Robin Gourmet Burgers is a national restaurant chain with nearly 36,000 employees that\nbegan as a small restaurant in Seattle. Over the years, Red Robin has attempted to develop a\nreputation as a fun, family restaurant that offers both excellent food and service. Red Robin's\ncore values—honor, integrity, having fun, and continually seeking knowledge—serve as the\nbasis for all of the firm's decisions and are even embroidered on the sleeves of every employee's\nuniform. As Red Robin continues to expand, executives are considering adding tests to the\nscreening process.\nWhich of the following, if true, would best support the argument that Red Robin should use\npersonality tests in the employee selection process?",
+        "options": {
+            "A": "Red Robin encourages employees to participate in the firm's environmental stewardship\nprogram to show community support.",
+            "B": "Red Robin seeks outgoing, motivated, and compassionate employees to enhance the\nexperience of its customers.",
+            "C": "Red Robin offers monetary incentives to managers who meet quarterly sales targets and\nexceed performance expectations.",
+            "D": "Red Robin desires employees with extensive knowledge of the restaurant industry and at least\ntwo years of experience serving customers."
+        },
+        "answer": "B",
+        "explanation": "B) Personality traits, as uncovered by personality tests, often correlate to job\nperformance. Red Robin seeks employees that match the firm's core values of honor, integrity,\nhaving fun, and continually seeking knowledge, and personality tests would indicate an\napplicant's level of extroversion and openness to experiences."
+    },
+    {
+        "chapter": "6",
+        "question_number": "66)",
+        "description": "Red Robin Gourmet Burgers is a national restaurant chain with nearly 36,000 employee that\nbegan as a small restaurant in Seattle. Over the years, Red Robin has attempted to develop a\nreputation as a fun, family restaurant that offers both excellent food and service. Red Robin's\ncore values—honor, integrity, having fun, and continually seeking knowledge—serve as the\nbasis for all of the firm's decisions and are even embroidered on the sleeves of every employee's\nuniform. As Red Robin continues to expand, executives are considering adding tests to the\nscreening process.\nWhich of the following, if true, would most likely undermine the argument that Red Robin\nshould use achievement tests in the employee selection process?",
+        "options": {
+            "A": "Red Robin receives so many applications that it only considers individuals with previous job\nexperience in the restaurant industry.",
+            "B": "Red Robin provides a two-week training session to all new hires, which are frequently college\nstudents with little experience in the restaurant industry.",
+            "C": "Red Robin expects applicants for management positions to understand current EEO laws and\nbe aware of ADA requirements.",
+            "D": "Red Robin requires applicants for cashier positions to take typing tests to assess their speed at\nthe cash register."
+        },
+        "answer": "B",
+        "explanation": "B) Red Robin will train new hires and does not need to assess their job knowledge,\nso achievement tests are unnecessary. If Red Robin expected applicants to have a certain level of\nskill or knowledge then achievement tests would be appropriate."
+    },
+    {
+        "chapter": "6",
+        "question_number": "67)",
+        "description": "An interest inventory compares an applicant's current interests with the interests of\n________.",
+        "options": {
+            "A": "retired workers",
+            "B": "other people in the same industry",
+            "C": "other people in various occupations",
+            "D": "managers and executives in the firm"
+        },
+        "answer": "C",
+        "explanation": "C) Interest inventories compare an applicant's interests with those of people in\nvarious occupations. Thus, a person who takes the Strong-Campbell Interests Inventory would\nreceive a report comparing his or her interests to those of people already in occupations like\naccounting, engineering, or management."
+    },
+    {
+        "chapter": "6",
+        "question_number": "68)",
+        "description": "Which of the following is used to measure job knowledge?",
+        "options": {
+            "A": "aptitude tests",
+            "B": "interest inventories",
+            "C": "achievement tests",
+            "D": "projective tests"
+        },
+        "answer": "C",
+        "explanation": "C) Achievement tests measure what someone has learned. They measure your \"job\nknowledge\" in areas like economics, marketing, or human resources."
+    },
+    {
+        "chapter": "6",
+        "question_number": "69)",
+        "description": "Applicant tracking systems are mostly used by employers to ________.",
+        "options": {
+            "A": "develop work samples",
+            "B": "develop specific job descriptions",
+            "C": "verify a candidate's U.S. citizenship",
+            "D": "screen and rank candidates based on skills"
+        },
+        "answer": "D",
+        "explanation": "D) Applicant tracking systems are used for screening and tracking candidates,\ncompiling resumes, and assisting with applicant testing. Online testing can be handled by an\nATS but not situational tests like work sampling."
+    },
+    {
+        "chapter": "6",
+        "question_number": "78)",
+        "description": "With the work sampling technique, applicants are ________.",
+        "options": {
+            "A": "asked to submit examples of projects they have completed for other employers",
+            "B": "tested on their ability to perform several tasks crucial to performing the job of interest",
+            "C": "tested on their ability to perform a range of tasks related to several positions in a firm",
+            "D": "given video-based situational interviews to assess their critical thinking skills"
+        },
+        "answer": "B",
+        "explanation": "B) The work sampling technique tries to predict job performance by requiring job\ncandidates to perform one or more samples of the job's basic tasks. An observer monitors\nperformance on each task and rates the applicant's performance."
+    },
+    {
+        "chapter": "6",
+        "question_number": "79)",
+        "description": "Which of the following is the primary advantage of the work sampling technique?",
+        "options": {
+            "A": "Applicants find it difficult to fake answers.",
+            "B": "Employers learn about an applicant's personality.",
+            "C": "Applicants can evaluate their own performance.",
+            "D": "Fine motor skills can be accurately assessed over time."
+        },
+        "answer": "A",
+        "explanation": "A) Work sampling has several advantages. It measures actual job tasks, so it's\nharder to fake answers. Work sampling doesn't delve into the applicant's personality, so there's\nalmost no chance of applicants viewing it as an invasion of privacy."
+    },
+    {
+        "chapter": "6",
+        "question_number": "80)",
+        "description": "A(n) ________ is a multi-day simulation in which candidates perform realistic tasks in\nhypothetical situations and are scored on their performance.",
+        "options": {
+            "A": "work sampling event",
+            "B": "situational judgment test",
+            "C": "management assessment center",
+            "D": "applicant personality test"
+        },
+        "answer": "C",
+        "explanation": "C) A management assessment center is a 2- to 3-day simulation in which 10 to 12\ncandidates perform realistic management tasks (like making presentations) under the observation\nof experts who appraise each candidate's leadership potential."
+    },
+    {
+        "chapter": "6",
+        "question_number": "81)",
+        "description": "Typical simulated exercises used in management assessment centers include all of the\nfollowing EXCEPT ________.",
+        "options": {
+            "A": "the in-basket",
+            "B": "leaderless group discussions",
+            "C": "motor skills assessments",
+            "D": "management games"
+        },
+        "answer": "C",
+        "explanation": "C) Management assessment center tasks include the in-basket, leaderless group\ndiscussion, management games, individual oral presentations, testing, and interviews. Motor\nskills are not assessed."
+    },
+    {
+        "chapter": "6",
+        "question_number": "82)",
+        "description": "Which of the following is the primary advantage of using management assessment centers in\nthe selection process?",
+        "options": {
+            "A": "Development costs are very low.",
+            "B": "Minimal time is required for test administration.",
+            "C": "Industrial psychologists are involved in the testing process.",
+            "D": "Experts observe and appraise each candidate's leadership potential."
+        },
+        "answer": "D",
+        "explanation": "D) Management assessment centers are expensive to develop, take much longer\nthan conventional tests, require managers acting as assessors, and often require psychologists.\nHowever, studies suggest they are worth it as they gain valuable insights about the candidates\nunder the observation of experts who appraise each candidate's leadership potential."
+    },
+    {
+        "chapter": "6",
+        "question_number": "83)",
+        "description": "Work sampling, miniature job training, and video-based tests are examples of ________.",
+        "options": {
+            "A": "intelligence tests",
+            "B": "personality tests",
+            "C": "situational tests",
+            "D": "interests inventories"
+        },
+        "answer": "C",
+        "explanation": "C) Situational tests, such as work sampling, miniature job training, and video-\nbased tests, require examinees to respond to situations representative of the job."
+    },
+    {
+        "chapter": "6",
+        "question_number": "84)",
+        "description": "Which of the following terms refers to training candidates to perform several of the job's\ntasks and then assessing the candidates' performance prior to hire?",
+        "options": {
+            "A": "achievement testing",
+            "B": "work sampling technique",
+            "C": "management assessment center",
+            "D": "miniature job training"
+        },
+        "answer": "D",
+        "explanation": "D) Miniature job training and evaluation means training candidates to perform\nseveral of the job's tasks, and then evaluating the candidates' performance prior to hire. The\napproach assumes that a person who demonstrates that he or she can learn and perform the\nsample of tasks will be able to learn and perform the job itself."
+    },
+    {
+        "chapter": "6",
+        "question_number": "85)",
+        "description": "Carter Vacuums needs to hire 20 new employees to fill positions at its manufacturing\nfacility. The HR department wants to minimize the costs related to screening applicants but also\nwants the assessment method to be highly valid to the specific jobs. Which of the following\nwould be the best choice for Carter Vacuums?",
+        "options": {
+            "A": "structured interviews",
+            "B": "cognitive ability tests",
+            "C": "assessment centers",
+            "D": "work samples"
+        },
+        "answer": "B",
+        "explanation": "B) Cognitive ability tests are highly valid and the costs related to developing and\nadministering the tests are low and they measure mental ability, such as deductive reasoning\nverbal comprehension, memory and numerical ability for jobs like machinists or engineers."
+    },
+    {
+        "chapter": "6",
+        "question_number": "86)",
+        "description": "Blue Bay Hotels is in the process of modifying the assessment methods the company uses to\nhire new employees. In the past, the hotel chain has been accused by minority organizations of\nviolating EEO laws in its hiring practices. Which of the following applicant assessment methods\nwould most likely have the LEAST adverse impact on minorities?",
+        "options": {
+            "A": "aptitude tests",
+            "B": "cognitive ability tests",
+            "C": "work sampling technique",
+            "D": "job knowledge tests"
+        },
+        "answer": "C",
+        "explanation": "C) Work samples have a low adverse impact on applicants. Cognitive ability tests,\nalso known as aptitude tests, and job knowledge tests have a high adverse impact against\nminorities."
+    },
+    {
+        "chapter": "6",
+        "question_number": "87)",
+        "description": "Tina is applying for a job as an assembly worker at Honda. As part of the selection\nprocedure, Tina received classroom instruction and was asked to practice assembling windshield\nwipers onto cars. Tina most likely participated in ________.",
+        "options": {
+            "A": "miniature job training and evaluation",
+            "B": "situational judgment tests",
+            "C": "assessment centers",
+            "D": "management games"
+        },
+        "answer": "A",
+        "explanation": "A) Miniature job training and evaluation means training candidates to perform\nseveral of the job's tasks, and then evaluating the candidates' performance prior to hire."
+    },
+    {
+        "chapter": "6",
+        "question_number": "88)",
+        "description": "As the HR manager at Johnson Manufacturing, Derek is responsible for deciding which\nselection tools are most appropriate. When deciding on a specific selection tool, Derek should\nmost likely consider all of the following factors EXCEPT the tool's ________.",
+        "options": {
+            "A": "return on investment",
+            "B": "adverse impact",
+            "C": "persistence",
+            "D": "usability"
+        },
+        "answer": "C",
+        "explanation": "C) The employer needs to consider several things before deciding to use a\nparticular selection tool. These include the tool's reliability and validity; its return on investment\n(in terms of utility analysis); applicant reactions; usability (in terms of your managers' and\nemployees' willingness and ability to use it); adverse impact; and the tool's selection ratio."
+    },
+    {
+        "chapter": "6",
+        "question_number": "90)",
+        "description": "Employers most likely conduct background investigations and reference checks to verify a\ncandidate's ________.",
+        "options": {
+            "A": "age",
+            "B": "marital status",
+            "C": "military service",
+            "D": "disability history"
+        },
+        "answer": "C",
+        "explanation": "C) Employers verify data regarding military service, employment history,\neducation, and credit. An applicant's age, marital status, ethnicity, and medical history or\ndisabilities are considered irrelevant to hiring, and an employer may violate EEO laws by\nrequesting such information."
+    },
+    {
+        "chapter": "6",
+        "question_number": "91)",
+        "description": "According to surveys of HR managers, which of the following is most frequently verified\nduring an employment background investigation?",
+        "options": {
+            "A": "age",
+            "B": "references",
+            "C": "credit ratings",
+            "D": "driving records"
+        },
+        "answer": "B",
+        "explanation": "B) Nearly 90% of HR managers reported conducting reference checks. Credit\nchecks were performed by 35% of HR managers, while 56% investigated an applicant's driving\nhistory."
+    },
+    {
+        "chapter": "6",
+        "question_number": "92)",
+        "description": "Which of the following is the primary reason that firms conduct background investigations of\njob applicants?",
+        "options": {
+            "A": "adhere to legal hiring practices",
+            "B": "limit the number of applicants",
+            "C": "uncover false information",
+            "D": "report criminals to police"
+        },
+        "answer": "C",
+        "explanation": "C) There are two main reasons to check backgrounds—to verify the applicant's\ninformation (name and so forth) and to uncover damaging information, such as criminal\nactivities or falsified information about education and experience."
+    },
+    {
+        "chapter": "6",
+        "question_number": "93)",
+        "description": "Elliot, a manager at Harwood Publishing, gave a bad reference to a former employee. Elliot\ncould most likely be accused of ________ if the information is both false and harmful.",
+        "options": {
+            "A": "discrimination",
+            "B": "adverse impact",
+            "C": "arbitration",
+            "D": "defamation"
+        },
+        "answer": "D",
+        "explanation": "D) A communication is defamatory if it is false and tends to harm the reputation of\nanother by lowering the person in the estimation of the community or by deterring other persons\nfrom associating or dealing with him or her. Managers, supervisors, and employers can be sued\nfor defamation if comments are found to be false and harmful."
+    },
+    {
+        "chapter": "6",
+        "question_number": "94)",
+        "description": "Which of the following methods for gathering background information about a job applicant\nis NOT recommended because of potential legal violations?",
+        "options": {
+            "A": "searching social networking sites for posted information about the applicant",
+            "B": "using a database to access information about the applicant's credit history",
+            "C": "locating references other than the ones provided by the applicant",
+            "D": "using a search engine to find information about the applicant"
+        },
+        "answer": "A",
+        "explanation": "A) Using a search engine like Google is acceptable, but checking social\nnetworking sites raises legal issues, especially when done without the candidate's prior approval.\nUsing databases and contacting references are recommended for finding useful information\nabout an applicant."
+    },
+    {
+        "chapter": "6",
+        "question_number": "95)",
+        "description": "According to state and federal laws, which of the following actions is NOT required of\nemployers who check background information on applicants?",
+        "options": {
+            "A": "disclosing to the applicant that a credit report will be requested",
+            "B": "certifying to the reporting agency of the employer's legal compliance",
+            "C": "providing copies of reports to the applicant if adverse action is considered",
+            "D": "providing a detailed rationale explaining the reason for any adverse action"
+        },
+        "answer": "D",
+        "explanation": "D) Employers must disclose to the applicant that a report will be requested and\ncertify with the reporting agency that the employer has the consent of the applicant. If adverse\naction, such as withdrawing an employment offer, is being considered or occurs, then the\nemployer must provide the applicant with a copy of the report but a detailed rationale is not\nneeded."
+    },
+    {
+        "chapter": "6",
+        "question_number": "96)",
+        "description": "In which of the following situations is it NOT legal to require an applicant to take a\npolygraph test as part of the selection process?",
+        "options": {
+            "A": "electrical engineer at the Department of Energy",
+            "B": "pharmacist's assistant at Walgreen's",
+            "C": "security guard at Wells Fargo Bank",
+            "D": "cashier at J.C. Penney's"
+        },
+        "answer": "D",
+        "explanation": "D) Local, state, and federal government employers can use polygraphs, but state\nlaws restrict many local and state governments. Private employers can use polygraph testing, but\nonly under strictly limited circumstances, such as for security personnel or for positions with\naccess to drugs. Cashiers at retail stores should not be asked to take polygraph tests."
+    },
+    {
+        "chapter": "6",
+        "question_number": "97)",
+        "description": "What type of screening device is designed to measure attitudes regarding tolerance of others\nwho steal and other forms of counter productivity?",
+        "options": {
+            "A": "honesty tests",
+            "B": "interest inventories",
+            "C": "personality tests",
+            "D": "graphology"
+        },
+        "answer": "A",
+        "explanation": "A) Honesty tests are psychological tests designed to predict job applicants'\nproneness to dishonesty and other forms of counter productivity. Most measure attitudes\nregarding things like tolerance of others who steal, acceptance of rationalizations for theft, and\nadmission of theft-related activities."
+    },
+    {
+        "chapter": "6",
+        "question_number": "98)",
+        "description": "For an employer to administer a polygraph exam during an ongoing investigation of theft, an\nemployer must do all of the following EXCEPT ________.",
+        "options": {
+            "A": "prove that the accused had access to the property",
+            "B": "document a reasonable suspicion prior to requesting a polygraph",
+            "C": "explain the details of the investigation and the questions to be asked during the polygraph",
+            "D": "subject all employees with access to the property in question to the same polygraph\nexamination as the accused employee"
+        },
+        "answer": "D",
+        "explanation": "D) To administer a polygraph test for an ongoing investigation, an employer must\nmeet four standards. First, the employer must show that it suffered an economic loss or injury.\nSecond, it must show that the employee in question had access to the property. Third, it must\nhave a reasonable suspicion before asking the employee to take the polygraph. Fourth, the\nemployee must receive the details of the investigation before the test, as well as the questions to\nbe asked on the polygraph test. All employees are not required to take a polygraph."
+    },
+    {
+        "chapter": "6",
+        "question_number": "99)",
+        "description": "Graphology, a tool for assessing basic personality traits, is also called ________.",
+        "options": {
+            "A": "numerology",
+            "B": "reasoning analysis",
+            "C": "handwriting analysis",
+            "D": "polygraph output assessment"
+        },
+        "answer": "C",
+        "explanation": "C) Graphology refers to the use of handwriting analysis to determine the writer's\nbasic personality traits. Graphology thus has some resemblance to projective personality tests,\nalthough graphology's validity is highly suspect."
+    },
+    {
+        "chapter": "6",
+        "question_number": "100)",
+        "description": "What type of screening is used to reduce absenteeism and establish a baseline for future\ninsurance claims?",
+        "options": {
+            "A": "physical exams",
+            "B": "personality tests",
+            "C": "substance abuse screening",
+            "D": "fine motor skills assessments"
+        },
+        "answer": "A",
+        "explanation": "A) Preemployment medical exams are used to verify that the applicant meets the\nposition's physical requirements, to discover any medical limitations you should consider in\nplacing him or her, and to establish a baseline for future insurance or compensation claims."
+    },
+    {
+        "chapter": "6",
+        "question_number": "101)",
+        "description": "Which of the following is most likely true regarding substance abuse screening?",
+        "options": {
+            "A": "According to federal law, all employers must test all employees for illegal drugs.",
+            "B": "Some urine sample tests cannot distinguish between legal and illegal substances.",
+            "C": "Most employers test potential applicants during the recruitment process.",
+            "D": "Most urine sample tests measure the degree of impairment."
+        },
+        "answer": "B",
+        "explanation": "B) Some urine sample tests cannot tell the difference between legal and illegal\nsubstances, such as Advil and marijuana."
+    },
+    {
+        "chapter": "6",
+        "question_number": "102)",
+        "description": "E-Verify is primarily used by employers to ________.",
+        "options": {
+            "A": "review an applicant's employment records",
+            "B": "file an applicant's income tax information",
+            "C": "determine if an applicant is eligible to work in the U.S.",
+            "D": "report an applicant's work status to the U.S. government"
+        },
+        "answer": "C",
+        "explanation": "C) E-Verify is the federal government's voluntary electronic employment\nverification program used by many employers. Federal contractors are required to use E-Verify\nto determine if an applicant is eligible to work in the U.S."
+    },
+    {
+        "chapter": "6",
+        "question_number": "103)",
+        "description": "According to experts known as human lie detectors, which of the following characteristics\nmost likely indicates that a job candidate is being deceptive?",
+        "options": {
+            "A": "uncrossed legs",
+            "B": "irregular breathing",
+            "C": "unchanging pupils",
+            "D": "slow verbal responses"
+        },
+        "answer": "B",
+        "explanation": "B) Human lie detectors are experts who may (or may not) be able to identify lying\njust by watching candidates. Signs include pupils changing size (which often corresponds to\nemotions, such as fear); irregular breathing (may flag nervousness); micro-expressions (quick\ntransitory facial expressions that may portray emotions such as fear); crossing legs (\"liars\ntypically try to distance themselves from an untruth\"); and quick verbal responses (possibly\nreflecting scripted statements)."
+    }
+]

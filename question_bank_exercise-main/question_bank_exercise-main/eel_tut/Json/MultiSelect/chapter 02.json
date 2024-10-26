@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "2",
+        "question_number": "1)",
+        "description": "Which amendment to the U.S. Constitution states that \"no person shall be deprived of life,\nliberty, or property, without due process of the law\"?",
+        "options": {
+            "A": "First Amendment",
+            "B": "Fifth Amendment",
+            "C": "Tenth Amendment",
+            "D": "Thirteenth Amendment"
+        },
+        "answer": "B",
+        "explanation": "B) The Fifth Amendment to the U.S. Constitution (ratified in 1791) states that \"no\nperson shall be deprived of life, liberty, or property, without due process of the law.\" The\nThirteenth Amendment (1865) outlawed slavery, and courts have held that it bars racial\ndiscrimination."
+    },
+    {
+        "chapter": "2",
+        "question_number": "2)",
+        "description": "The ________ Amendment to the U.S. Constitution outlawed slavery, and courts have held\nthat it bars racial discrimination.",
+        "options": {
+            "A": "Fifth",
+            "B": "Tenth",
+            "C": "Thirteenth",
+            "D": "Fourteenth"
+        },
+        "answer": "C",
+        "explanation": "C) The Thirteenth Amendment (1865) outlawed slavery, and courts have held that\nit bars racial discrimination. The Fifth Amendment to the U.S. Constitution (ratified in 1791)\nstates that \"no person shall be deprived of life, liberty, or property, without due process of the\nlaw.\""
+    },
+    {
+        "chapter": "2",
+        "question_number": "3)",
+        "description": "The 13th Amendment to the U.S. Constitution addresses the subject of ________.",
+        "options": {
+            "A": "due process",
+            "B": "slavery",
+            "C": "private property",
+            "D": "trial by jury"
+        },
+        "answer": "B",
+        "explanation": "B) The 13th Amendment to the U.S. Constitution abolished slavery, and courts\nhave held that it bars racial discrimination."
+    },
+    {
+        "chapter": "2",
+        "question_number": "4)",
+        "description": "The ________ gives all persons the same right to make and enforce contracts and to benefit\nfrom the laws of the land.",
+        "options": {
+            "A": "Fifth Amendment",
+            "B": "Civil Rights Act of 1866",
+            "C": "Title VII of the 1964 Civil Rights Act",
+            "D": "Thirteenth Amendment"
+        },
+        "answer": "B",
+        "explanation": "B) The Civil Rights Act of 1866 gives all persons the same right to make and\nenforce contracts and to benefit from U.S. laws. The Fifth Amendment to the U.S. Constitution\n(ratified in 1791) states that \"no person shall be deprived of life, liberty, or property, without due\nprocess of the law.\" The Thirteenth Amendment (1865) outlawed slavery, and courts have held\nthat it bars racial discrimination. Title VII of the 1964 Civil Rights Act states that employers\ncannot discriminate based on race, color, religion, sex, or national origin."
+    },
+    {
+        "chapter": "2",
+        "question_number": "5)",
+        "description": "Title VII of the 1964 Civil Rights Act explicitly prohibits employers from discrimination\nbased on all of the following characteristics EXCEPT ________.",
+        "options": {
+            "A": "race",
+            "B": "religion",
+            "C": "color",
+            "D": "sexual orientation"
+        },
+        "answer": "D",
+        "explanation": "D) Sexual orientation is not directly addressed under Title VII of the 1964 Civil\nRights Act. It states that an employer cannot discriminate based on race, color, religion, sex, or\nnational origin. Title VII bars discrimination on the part of most employers both public and\nprivate with 15 or more employees."
+    },
+    {
+        "chapter": "2",
+        "question_number": "6)",
+        "description": "According to Title VII of the 1964 Civil Rights Act, which of the following employers would\nbe legally allowed to refuse employment to an individual based on race, religion, or sex?",
+        "options": {
+            "A": "a state agency with 65 employees",
+            "B": "a medical office with 25 employees",
+            "C": "a local restaurant with 10 employees",
+            "D": "a department store with 100 employees"
+        },
+        "answer": "C",
+        "explanation": "C) Title VII bars discrimination on the part of most employers, including all public\nand private employers of 15 or more persons. It also covers all private and public educational\ninstitutions, the federal government, and state and local governments."
+    },
+    {
+        "chapter": "2",
+        "question_number": "7)",
+        "description": "Which legislation was responsible for the creation of the Equal Employment Opportunity\nCommission?",
+        "options": {
+            "A": "Equal Pay Act of 1963",
+            "B": "Civil Rights Act of 1866",
+            "C": "Executive Orders 11246 and 11375",
+            "D": "Title VII of the 1964 Civil Rights Act"
+        },
+        "answer": "D",
+        "explanation": "D) Title VII established the Equal Employment Opportunity Commission (EEOC)\nto administer and enforce the Civil Rights law at work. The commission itself consists of five\nmembers appointed by the president with the advice and consent of the Senate. Executive Orders\n11246 and 11375 established the Office of Federal Contract Compliance Programs."
+    },
+    {
+        "chapter": "2",
+        "question_number": "8)",
+        "description": "The EEOC was initially established to investigate complaints about ________.",
+        "options": {
+            "A": "job discrimination",
+            "B": "unfair business practices",
+            "C": "sexual harassment in schools",
+            "D": "structural accommodations for disabled people"
+        },
+        "answer": "A",
+        "explanation": "A) Title VII established the Equal Employment Opportunity Commission (EEOC)\nto administer and enforce the Civil Rights law at work. The EEOC receives and investigates job\ndiscrimination complaints from aggrieved individuals."
+    },
+    {
+        "chapter": "2",
+        "question_number": "9)",
+        "description": "How many members serve on the Equal Employment Opportunity Commission?",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "9",
+            "D": "10"
+        },
+        "answer": "B",
+        "explanation": "B) The Equal Employment Opportunity Commission (EEOC) consists of five\nmembers appointed by the president with the advice and consent of the Senate. Each member\nserves a five-year term."
+    },
+    {
+        "chapter": "2",
+        "question_number": "10)",
+        "description": "Which of the following appoints the members of the EEOC?",
+        "options": {
+            "A": "U.S. Congress",
+            "B": "U.S. Supreme Court",
+            "C": "U.S. President",
+            "D": "U.S. voters"
+        },
+        "answer": "C",
+        "explanation": "C) The EEOC consists of five members appointed by the president with the advice\nand consent of the Senate. Each member serves a five-year term."
+    },
+    {
+        "chapter": "2",
+        "question_number": "11)",
+        "description": "Which of the following requires equal pay for equal work regardless of sex?",
+        "options": {
+            "A": "Title VII of the 1964 Civil Rights Act",
+            "B": "Equal Pay Act of 1963",
+            "C": "Pay Discrimination in Employment Act of 1967",
+            "D": "Civil Rights Act of 1991"
+        },
+        "answer": "B",
+        "explanation": "B) Under the Equal Pay Act of 1963 (amended in 1972), it is unlawful to\ndiscriminate in pay on the basis of sex when jobs involve equal work; require equivalent skills,\neffort, and responsibility; and are performed under similar working conditions."
+    },
+    {
+        "chapter": "2",
+        "question_number": "12)",
+        "description": "When companies utilize ________, they take steps to eliminate the present effects of past\ndiscrimination.",
+        "options": {
+            "A": "affirmative action",
+            "B": "executive orders",
+            "C": "rehabilitation",
+            "D": "due process"
+        },
+        "answer": "A",
+        "explanation": "A) Affirmative action refers to steps that are taken by companies for the purpose of\neliminating the present effects of past discrimination."
+    },
+    {
+        "chapter": "2",
+        "question_number": "13)",
+        "description": "Which of the following is responsible for implementing Johnson administration Executive\nOrders 11246 and 11375?",
+        "options": {
+            "A": "Equal Employment Opportunity Commission",
+            "B": "Pension Benefits Guarantee Corporation",
+            "C": "Occupational Safety and Health Administration",
+            "D": "Office of Federal Contract Compliance Programs"
+        },
+        "answer": "D",
+        "explanation": "D) The Johnson administration (1963-1969) issued Executive Orders 11246 and\n11375 which didn't just ban discrimination but also required that government contractors with\ncontracts of over $50,000 and 50 or more employees take affirmative action to ensure\nemployment opportunity for those who may have suffered past discrimination. These orders\nestablished the Office of Federal Contract Compliance Programs (OFCCP) to implement the\norders and ensure compliance."
+    },
+    {
+        "chapter": "2",
+        "question_number": "14)",
+        "description": "Which of the following factors is NOT an acceptable basis for different pay for equal work\nunder the Equal Pay Act of 1963?",
+        "options": {
+            "A": "gender",
+            "B": "seniority",
+            "C": "production quality",
+            "D": "production quantity"
+        },
+        "answer": "A",
+        "explanation": "A) Under the Equal Pay Act of 1963 (amended in 1972), it is unlawful to\ndiscriminate in pay on the basis of sex when jobs involve equal work; require equivalent skills,\neffort, and responsibility; and are performed under similar working conditions. Pay differences\nderived from seniority systems, merit systems, and systems that measure earnings by production\nquantity or quality or from any factor other than sex do not violate the act."
+    },
+    {
+        "chapter": "2",
+        "question_number": "15)",
+        "description": "Paul is a 49-year-old American of Anglo-Saxon descent. What legislation is most likely\nintended to protect Paul from discrimination?",
+        "options": {
+            "A": "Executive Order 11375",
+            "B": "Equal Pay Act of 1963",
+            "C": "Executive Order 11246",
+            "D": "Age Discrimination in Employment Act of 1967"
+        },
+        "answer": "D",
+        "explanation": "D) The Age Discrimination in Employment Act of 1967 (ADEA) made it unlawful\nto discriminate against employees or applicants who are between 40 and 65 years of age."
+    },
+    {
+        "chapter": "2",
+        "question_number": "16)",
+        "description": "According to the Age Discrimination in Employment Act of 1967, it is unlawful to\n________.",
+        "options": {
+            "A": "sue an employer for age-based pay",
+            "B": "require employees to retire at age 65",
+            "C": "allow juries to determine age discrimination",
+            "D": "institute a minimum age for employees"
+        },
+        "answer": "B",
+        "explanation": "B) The Age Discrimination in Employment Act of 1967 (ADEA) made it unlawful\nto discriminate against employees or applicants who are between 40 and 65 years of age.\nSubsequent amendments eliminated the age cap, effectively ending most mandatory retirement at\nage 65."
+    },
+    {
+        "chapter": "2",
+        "question_number": "17)",
+        "description": "The ________ requires certain federal contractors to take affirmative action for disabled\npersons.",
+        "options": {
+            "A": "Equal Pay Act",
+            "B": "Vocational Rehabilitation Act",
+            "C": "Age Discrimination in Employment Act",
+            "D": "Civil Rights Act"
+        },
+        "answer": "B",
+        "explanation": "B) The Vocational Rehabilitation Act of 1973 requires employers with federal\ncontracts of more than $2,500 to take affirmative action in employing disabled persons. It does\nnot require hiring unqualified people."
+    },
+    {
+        "chapter": "2",
+        "question_number": "18)",
+        "description": "Which of the following refers to highly recommended procedures issued by federal agencies\nregarding employee selection and record keeping?",
+        "options": {
+            "A": "job specifications",
+            "B": "employment metrics",
+            "C": "process charts",
+            "D": "uniform guidelines"
+        },
+        "answer": "D",
+        "explanation": "D) Uniform guidelines are issued by federal agencies charged with ensuring\ncompliance with equal employment federal legislation explaining recommended employer\nprocedures for complying with the law. They set forth \"highly recommended\" procedures\nregarding things like employee selection and record keeping."
+    },
+    {
+        "chapter": "2",
+        "question_number": "19)",
+        "description": "Which of the following does NOT participate in the issuance of uniform guidelines?",
+        "options": {
+            "A": "Department of Labor",
+            "B": "Better Business Bureau",
+            "C": "Department of Justice",
+            "D": "Civil Service Commission"
+        },
+        "answer": "B",
+        "explanation": "B) The EEOC, Civil Service Commission, Department of Labor, and Department\nof Justice together issue uniform guidelines. These set forth \"highly recommended\" procedures\nregarding things like employee selection and record keeping."
+    },
+    {
+        "chapter": "2",
+        "question_number": "20)",
+        "description": "Uniform guidelines from the EEOC are recommended for employers to use in matters\nregarding all of the following EXCEPT ________.",
+        "options": {
+            "A": "employee selection",
+            "B": "record keeping",
+            "C": "sexual harassment",
+            "D": "psychological testing"
+        },
+        "answer": "D",
+        "explanation": "D) The EEOC, Civil Service Commission, Department of Labor, and Department\nof Justice together issue uniform guidelines. These set forth \"highly recommended\" procedures\nregarding things like employee selection and record keeping. The American Psychological\nAssociation has its own non-legally binding Standards for Educational and Psychological\nTesting."
+    },
+    {
+        "chapter": "2",
+        "question_number": "21)",
+        "description": "Which Supreme Court case was used to define unfair discrimination in conjunction with\nEEO laws?",
+        "options": {
+            "A": "Brown v. Board of Education",
+            "B": "Griggs v. Duke Power Company",
+            "C": "West Coast Hotel Co. v. Parrish",
+            "D": "Abington School District v. Schempp"
+        },
+        "answer": "B",
+        "explanation": "B) Griggs v. Duke Power Company was a landmark Supreme Court case used to\ndefine unfair discrimination as put forth in EEO laws such as Title VII. The Court ruled that\nemployment practices must be job related and that discrimination does not have to be overt to be\nillegal."
+    },
+    {
+        "chapter": "2",
+        "question_number": "22)",
+        "description": "In Griggs v. Duke Power Company, Griggs sued the power company because it required coal\nhandlers to be high school graduates. The Supreme Court ruled in favor of Griggs because\n________.",
+        "options": {
+            "A": "high school diplomas were not related to success as a coal handler",
+            "B": "Duke Power Company intentionally discriminated based on race",
+            "C": "no business necessity existed for Duke Power Company",
+            "D": "Title VII forbids job testing"
+        },
+        "answer": "A",
+        "explanation": "A) The Court ruled in favor of Griggs because having a high school diploma was\nnot relevant to the job of coal handler. The Court held that an employment practice must be job\nrelated if it has an unequal impact on members of a protected class."
+    },
+    {
+        "chapter": "2",
+        "question_number": "23)",
+        "description": "If a person is in a protected class, he or she is protected by which of the following?",
+        "options": {
+            "A": "Department of Labor guidelines",
+            "B": "Sarbanes-Oxley Act",
+            "C": "Title VII of the Civil Rights Act",
+            "D": "Consumer Protection Act"
+        },
+        "answer": "C",
+        "explanation": "C) The term protected class refers to persons such as minorities and women who\nare protected by equal opportunity laws, including Title VII."
+    },
+    {
+        "chapter": "2",
+        "question_number": "24)",
+        "description": "All of the following are principles established by Griggs v. Duke Power Company EXCEPT\n________.",
+        "options": {
+            "A": "burden of proof is on the employer",
+            "B": "performance standards should be unambiguous",
+            "C": "business necessity is a defense for an existing program",
+            "D": "discrimination does not have to be overt to be illegal"
+        },
+        "answer": "B",
+        "explanation": "B) The Court ruled in Griggs v. Duke Power Company that the burden of proof is\non the employer to show that a hiring practice such as testing is job related. The Court also ruled\nthat business necessity is the defense for any existing program that has adverse impact and that\ndiscrimination does not have to be overt to be illegal. The case did not address performance\nstandards."
+    },
+    {
+        "chapter": "2",
+        "question_number": "25)",
+        "description": "Under the principles established by Griggs v. Duke Power Company, ________ can be used\nas a defense for any existing program that has adverse impact.",
+        "options": {
+            "A": "occupational qualification",
+            "B": "business necessity",
+            "C": "affirmative action",
+            "D": "burden of proof"
+        },
+        "answer": "B",
+        "explanation": "B) Business necessity is the defense for any existing program that has adverse\nimpact according to Griggs. The court did not define business necessity."
+    },
+    {
+        "chapter": "2",
+        "question_number": "26)",
+        "description": "Which court case provided details regarding how employers could validate the relationship\nbetween screening tools and job performance?",
+        "options": {
+            "A": "Oncale v. Sundowner Offshore Services Inc.",
+            "B": "Albemarle Paper Company v. Moody",
+            "C": "Griggs v. Duke Power Company",
+            "D": "Burlington Industries v. Ellerth"
+        },
+        "answer": "B",
+        "explanation": "B) In the Albemarle case, the Court provided more details on how employers could\nprove that tests or other screening tools relate to job performance. For example, the Court said\nthat if an employer wants to test candidates for a job, then the employer should first clearly\ndocument and understand the job's duties and responsibilities."
+    },
+    {
+        "chapter": "2",
+        "question_number": "27)",
+        "description": "Sanders Sporting Goods, an international sporting goods chain, is being sued for sexual\nharassment by a Jill, who is a former Sanders employee. The plaintiff asserts that she was the\nvictim of numerous unwanted sexual advances from a male co-worker, John. Jill claims that\nSanders' management condoned a hostile work environment and that the company is liable for\nthe actions of John.\nAll of the following are most likely relevant questions to address in this court case EXCEPT\n________.",
+        "options": {
+            "A": "Does Sanders have a record of employees who claim disparate treatment in the workplace?",
+            "B": "Did Sanders take reasonable care to prevent sexual harassment in the workplace?",
+            "C": "Does Sanders have a policy statement regarding sexual harassment?",
+            "D": "Did Jill take advantage of any corrective opportunities provided by the employer?"
+        },
+        "answer": "A",
+        "explanation": "A) Disparate treatment relates to intentional discrimination, which is not directly\nimportant in this case. Firms decrease their liability in sexual harassment cases if they show that\nthey have taken reasonable care to prevent sexual harassment through various actions, such as\nissuing a policy statement. Whether the co-worker is a U.S. citizen and Sanders is a U.S. entity\nare important in determining whether EEO laws are applicable."
+    },
+    {
+        "chapter": "2",
+        "question_number": "39)",
+        "description": "Under the Civil Rights Act of 1991, once a plaintiff shows disparate impact, who has the\nburden of proving that the challenged practice is job related?",
+        "options": {
+            "A": "employee",
+            "B": "employer",
+            "C": "judge",
+            "D": "EEOC"
+        },
+        "answer": "B",
+        "explanation": "B) According to the Civil Rights Act of 1991, once an aggrieved applicant or\nemployee demonstrates that an employment practice (such as \"must lift 100 pounds\") has a\ndisparate (or \"adverse\") impact on a particular group, then the burden of proof shifts to the\nemployer, who must show that the challenged practice is job related."
+    },
+    {
+        "chapter": "2",
+        "question_number": "40)",
+        "description": "According to the Civil Rights Act of 1991, an employee who claims intentional\ndiscrimination can sue for all of the following EXCEPT ________.",
+        "options": {
+            "A": "back pay",
+            "B": "job reinstatement",
+            "C": "compensatory damages",
+            "D": "substantive consolidation"
+        },
+        "answer": "D",
+        "explanation": "D) According to the Civil Rights Act of 1991, an employee who claims intentional\ndiscrimination can sue for back pay, attorneys' fees, court costs, job reinstatement, punitive\ndamages, and compensatory damages. Substantive consolidation is a legal term referring to debt\nconsolidation."
+    },
+    {
+        "chapter": "2",
+        "question_number": "41)",
+        "description": "Race, color, religion, sex, or national origin is a motivating factor in a particular termination\ncase, but the employee would have been terminated for failure to perform anyway. Which of the\nfollowing most likely exists in this situation?",
+        "options": {
+            "A": "mixed motive",
+            "B": "disparate impact",
+            "C": "liability defense",
+            "D": "burden of proof"
+        },
+        "answer": "A",
+        "explanation": "A) An unlawful employment practice is established when the complaining party\ndemonstrates that race, color, religion, sex, or national origin was a motivating factor for any\nemployment practice, even though other factors also motivated the practice. Some employers in\nso-called \"mixed motive\" cases had taken the position that even though their actions were\ndiscriminatory, other factors like the employee's dubious behavior made the job action\nacceptable. Under CRA 1991, an employer cannot avoid liability by proving it would have taken\nthe same action—such as terminating someone—even without the discriminatory motive."
+    },
+    {
+        "chapter": "2",
+        "question_number": "42)",
+        "description": "Which of the following requires employers to make reasonable accommodations for disabled\nemployees?",
+        "options": {
+            "A": "Civil Rights Act of 1991",
+            "B": "Americans with Disabilities Act of 1990",
+            "C": "Equal Pay Act",
+            "D": "Disability Discrimination in Employment Act of 1967"
+        },
+        "answer": "B",
+        "explanation": "B) The Americans with Disabilities Act (ADA) of 1990 prohibits employment\ndiscrimination against qualified disabled individuals. It also says employers must make\n\"reasonable accommodations\" for physical or mental limitations unless doing so imposes an\n\"undue hardship\" on the business."
+    },
+    {
+        "chapter": "2",
+        "question_number": "43)",
+        "description": "According to the Americans with Disabilities Act, which of the following would NOT be\nconsidered a disability?",
+        "options": {
+            "A": "cosmetic disfigurement",
+            "B": "anatomical loss",
+            "C": "pyromania",
+            "D": "physiological disorder"
+        },
+        "answer": "C",
+        "explanation": "C) The ADA specifies conditions that it does not regard as disabilities, including\nhomosexuality, compulsive gambling, pyromania, and certain disorders resulting from the\ncurrent illegal use of drugs."
+    },
+    {
+        "chapter": "2",
+        "question_number": "44)",
+        "description": "Which type of disability accounts for the greatest number of ADA claims?",
+        "options": {
+            "A": "drug-related",
+            "B": "mental",
+            "C": "vision",
+            "D": "hearing"
+        },
+        "answer": "B",
+        "explanation": "B) Mental disabilities account for the greatest number of ADA claims. Under\nEEOC ADA guidelines, \"mental impairment\" includes \"any mental or psychological disorder,\nsuch as . . . emotional or mental illness.\""
+    },
+    {
+        "chapter": "2",
+        "question_number": "45)",
+        "description": "Under ADA, those who can carry out the essential functions of the job are known as which\nof the following?",
+        "options": {
+            "A": "protected class",
+            "B": "career anchors",
+            "C": "staff authorities",
+            "D": "qualified individuals"
+        },
+        "answer": "D",
+        "explanation": "D) The ADA prohibits discrimination against qualified individuals—those who,\nwith (or without) a reasonable accommodation, can carry out the essential functions of the job.\nThe individual must have the requisite skills, educational background, and experience to do the\njob."
+    },
+    {
+        "chapter": "2",
+        "question_number": "46)",
+        "description": "An employer that uses a screen-reading program to meet the needs of a blind employee is\nmost likely ________.",
+        "options": {
+            "A": "making a reasonable accommodation",
+            "B": "fulfilling job analysis requirements",
+            "C": "identifying essential job functions",
+            "D": "complying with Title VII rules"
+        },
+        "answer": "A",
+        "explanation": "A) If an employee can't perform the job as currently structured, the employer must\nmake a \"reasonable accommodation\" unless doing so would present an \"undue hardship.\"\nReasonable accommodation might include modifying work schedules, or acquiring equipment or\nother devices (such as screen-reading programs) to assist the person."
+    },
+    {
+        "chapter": "2",
+        "question_number": "47)",
+        "description": "Which of the following best explains why employers win the majority of ADA cases?",
+        "options": {
+            "A": "Employers make the necessary reasonable accommodations for employees.",
+            "B": "Employees fail to prove that their disabilities affect daily living activities.",
+            "C": "Conservative judges are sympathetic towards most small-business owners.",
+            "D": "Employee attorneys fail to draw connections between Title VII and ADA."
+        },
+        "answer": "B",
+        "explanation": "B) Employers traditionally prevailed in almost all—96%—federal circuit court\nADA decisions. The U.S. Supreme Court has ruled that a disability must be central to the\nemployee's daily living (not just job)."
+    },
+    {
+        "chapter": "2",
+        "question_number": "48)",
+        "description": "Which of the following will be the most likely result of the ADA Amendments Act of 2008?",
+        "options": {
+            "A": "Employees will find it easier to prove that their disabilities are limiting.",
+            "B": "The number of major life activities considered disabilities will be narrowed.",
+            "C": "Employers will be required to make fewer accommodations for workers with disabilities.",
+            "D": "Employers will be required to hire a specific percentage of disabled workers to be in\ncompliance."
+        },
+        "answer": "A",
+        "explanation": "A) The new ADAA's basic effect will be to make it much easier for employees to\nshow that their disabilities are influencing one of their \"major life activities,\" such as reading and\nthinking."
+    },
+    {
+        "chapter": "2",
+        "question_number": "49)",
+        "description": "In which of the following situations does sexual harassment NOT violate Title VII?",
+        "options": {
+            "A": "if the conduct substantially interferes with a person's work performance",
+            "B": "if the conduct creates an intimidating work environment",
+            "C": "if the conduct is completely consensual",
+            "D": "if the conduct creates an offensive work environment"
+        },
+        "answer": "C",
+        "explanation": "C) Under Title VII, sexual harassment generally refers to harassment on the basis\nof sex when such conduct has the purpose or effect of substantially interfering with a person's\nwork performance or creating an intimidating, hostile, or offensive work environment.\nConsensual sexual interactions may not violate Title VII."
+    },
+    {
+        "chapter": "2",
+        "question_number": "50)",
+        "description": "The ________ provides that a person who commits a crime of violence motivated by gender\nthat deprives another of rights shall be liable to the party injured.",
+        "options": {
+            "A": "Civil Rights Act of 1991",
+            "B": "Federal Violence Against Women Act of 1994",
+            "C": "Pregnancy Discrimination Act",
+            "D": "Vocational Rehabilitation Act of 1973"
+        },
+        "answer": "B",
+        "explanation": "B) The Federal Violence Against Women Act of 1994 provides that a person who\ncommits a crime of violence motivated by gender and thus deprives another of rights shall be\nliable to the party injured. The law offers an additional path women can use to seek relief for\nviolent sexual harassment."
+    },
+    {
+        "chapter": "2",
+        "question_number": "51)",
+        "description": "Which of the following is NOT a form of sexual harassment according to EEOC guidelines?",
+        "options": {
+            "A": "unwelcome sexual advances that create an intimidating work environment",
+            "B": "verbal conduct of a sexual nature that unreasonably interferes with work performance",
+            "C": "physical conduct of a sexual nature that creates an offensive work environment",
+            "D": "mutually consensual physical conduct of a sexual nature between co-workers"
+        },
+        "answer": "D",
+        "explanation": "D) EEOC guidelines define sexual harassment as unwelcome sexual advances,\nrequests for sexual favors, and other verbal or physical conduct of a sexual nature that creates an\nintimidating, hostile, or offensive work environment or interferes with work performance.\nRequests for sexual favors that are used as the basis for employment decisions are also\nconsidered sexual harassment. Consensual sex between co-workers is not considered sexual\nharassment."
+    },
+    {
+        "chapter": "2",
+        "question_number": "52)",
+        "description": "All of the following are ways for an employee to prove sexual harassment EXCEPT by\nproving that ________.",
+        "options": {
+            "A": "the verbal remarks of a co-worker were sexually flirtatious",
+            "B": "the rejection of a supervisor's sexual advances led to a demotion",
+            "C": "a hostile work environment was created by a co-worker's sexual conversation",
+            "D": "a hostile work environment was created by a nonemployee's sexual advances"
+        },
+        "answer": "A",
+        "explanation": "A) The U.S. Supreme Court held that sexual harassment law doesn't cover ordinary\n\"intersexual flirtation.\" Someone can prove sexual harassment if rejecting a supervisor's sexual\nadvances led to a demotion, firing, or altered work assignment. Sexual harassment can also be\nproven if a hostile work environment is created by the sexual conduct of supervisors, co-workers,\nor nonemployees."
+    },
+    {
+        "chapter": "2",
+        "question_number": "53)",
+        "description": "Judy was up for a promotion at Simpson Consulting when her supervisor, Will, encouraged\nher to develop a sexual relationship with him. He suggested that her promotion would be a sure\nthing if they were involved. When Judy declined his advances, Will fired her. Which of the\nfollowing would Judy most likely be able to prove in court if she decided to sue Simpson\nConsulting?",
+        "options": {
+            "A": "hostile environment created by supervisors",
+            "B": "hostile environment created by co-workers",
+            "C": "disparate treatment",
+            "D": "quid pro quo"
+        },
+        "answer": "D",
+        "explanation": "D) Quid pro quo (something for something) is the most direct way to prove that\nrejecting a supervisor's advances adversely affected what the EEOC calls a \"tangible\nemployment action\" such as hiring, firing, promotion, demotion, and/or work assignment. Quid\npro quo would be the best option for Judy if she sues the firm for Will's actions."
+    },
+    {
+        "chapter": "2",
+        "question_number": "54)",
+        "description": "Gus is always making sexual jokes at work. Many employees find the jokes funny, but\nShelley, Gus's executive assistant, is uncomfortable with the jokes. Eventually, she decides to\nquit her job rather than endure the jokes any longer. What form of sexual harassment has Shelley\nexperienced?",
+        "options": {
+            "A": "quid pro quo",
+            "B": "hostile environment created by supervisors",
+            "C": "hostile environment created by co-workers",
+            "D": "hostile environment created by nonemployees"
+        },
+        "answer": "B",
+        "explanation": "B) As Shelley's supervisor, Gus created a hostile environment according to the\nEEOC. A claimant does not need to show that the harassment had tangible consequences such as\ndemotion. It is sufficient in many cases to prove that a supervisor's sexual harassment\nsubstantially affected an employee's emotional and psychological abilities."
+    },
+    {
+        "chapter": "2",
+        "question_number": "55)",
+        "description": "All of the following are ways that an employer can minimize liability in sexual harassment\nclaims EXCEPT ________.",
+        "options": {
+            "A": "having an informal policy for dealing with sexual harassment",
+            "B": "taking all complaints about harassment seriously",
+            "C": "establishing a management response system that includes an immediate reaction and\ninvestigation",
+            "D": "training supervisors and managers to increase their awareness of the issues"
+        },
+        "answer": "A",
+        "explanation": "A) Establishing a clear sexual harassment policy that clarifies how to report\ncomplaints and investigating charges quickly are major ways that employers can show that they\ntook reasonable care to prevent and correct sexual harassment, which will minimize liability. An\ninformal policy does not do so."
+    },
+    {
+        "chapter": "2",
+        "question_number": "56)",
+        "description": "Sanders Sporting Goods, an international sporting goods chain, is being sued for sexual\nharassment by a former Sanders employee. The plaintiff asserts that she was the victim of\nnumerous unwanted sexual advances from a co-worker. The employee claims that Sanders'\nmanagement condoned a hostile work environment and that the company is liable for the actions\nof the employee.\nWhich of the following, if true, would best support the plaintiff's argument that Sanders is liable\nfor sexual harassment?",
+        "options": {
+            "A": "Sanders re-published its sexual harassment policy twice within the last year.",
+            "B": "The HR department at Sanders has records of the plaintiff's initial complaints.",
+            "C": "Sanders lacks a management response system for handling sexual harassment complaints.",
+            "D": "Sanders recently lost a court case filed by former employees who claimed disparate treatment."
+        },
+        "answer": "C",
+        "explanation": "C) Employers can minimize their liability in sexual harassment claims by showing\nthat they have a response system set up for handling sexual harassment complaints, so Sanders\nmay be liable if it lacks a system."
+    },
+    {
+        "chapter": "2",
+        "question_number": "57)",
+        "description": "Connor Concrete, a construction firm chain, is being sued for sexual harassment by a former\nemployee. The plaintiff asserts that she was the victim of numerous unwanted sexual advances\nfrom a male co-worker. The woman claims that Connor Concrete's management condoned a\nhostile work environment and that the company is liable for the actions of the male employee.\nWhich of the following, if true, would most likely undermine the plaintiff's claim that Sanders is\nliable for the male employee's conduct?",
+        "options": {
+            "A": "The male employee physically threatened the plaintiff on three occasions.",
+            "B": "The male employee made sexual advances towards the plaintiff on a daily basis.",
+            "C": "The male employee was required by HR to participate in a sexual harassment awareness\ncourse.",
+            "D": "The male employee's conduct significantly interfered with the plaintiff's ability to perform her\njob."
+        },
+        "answer": "C",
+        "explanation": "C) If the male employee was required to take a sexual harassment course, then that\naction shows Sanders was making a reasonable attempt to stop the behavior. A hostile\nenvironment most likely existed if the male employee made threats and daily sexual advances\nthat interfered with the plaintiff's job performance."
+    },
+    {
+        "chapter": "2",
+        "question_number": "58)",
+        "description": "One of Alexis' male co-workers has been making sexually suggestive comments to Alexis\nabout her clothing and her appearance, which makes Alexis feel uncomfortable at work. What is\nthe first step Alexis should take to address the problem?",
+        "options": {
+            "A": "filing a complaint with the local EEOC office",
+            "B": "filing a verbal complaint with the harasser's boss",
+            "C": "writing a letter to the accused",
+            "D": "consulting an attorney"
+        },
+        "answer": "B",
+        "explanation": "B) The first step Alexis should take is filing a verbal complaint with the harasser\nand the harasser's boss. After that, writing a letter to the accused and filing a report with the HR\ndirector are appropriate actions. Filing a complaint with the EEOC and consulting an attorney are\nthe final steps to take if previous efforts have not improved the situation."
+    },
+    {
+        "chapter": "2",
+        "question_number": "59)",
+        "description": "The last step a worker should usually take when they are sexually harassed is:",
+        "options": {
+            "A": "file a verbal contemporaneous complaint with the harasser's manager",
+            "B": "file written reports regarding the unwelcome conduct with the human resource director",
+            "C": "file a verbal contemporaneous complaint with the harasser",
+            "D": "file a claim with the EEOC"
+        },
+        "answer": "D",
+        "explanation": "D) Courts generally look to whether the harassed employee used the employer's\nreporting procedures to file a complaint promptly. After the process with the employer is\nexhausted and remedy is still needed then the workers should file with the EEOC."
+    },
+    {
+        "chapter": "2",
+        "question_number": "72)",
+        "description": "________ exists when an employer treats an individual differently because that individual is\na member of a particular race, religion, gender, or ethnic group.",
+        "options": {
+            "A": "Disparate impact",
+            "B": "Disparate treatment",
+            "C": "Adverse impact",
+            "D": "Prima facie"
+        },
+        "answer": "B",
+        "explanation": "B) Disparate treatment means intentional discrimination and \"exists where an\nemployer treats an individual differently because that individual is a member of a particular race,\nreligion, gender, or ethnic group.\""
+    },
+    {
+        "chapter": "2",
+        "question_number": "73)",
+        "description": "Which of the following refers to the overall effect of employer practices that result in\nsignificantly higher percentages of members of protected groups being rejected for employment,\nplacement, or promotion?",
+        "options": {
+            "A": "disparate treatment",
+            "B": "disparate impact",
+            "C": "adverse impact",
+            "D": "prima facie"
+        },
+        "answer": "C",
+        "explanation": "C) Adverse impact is the overall effect of employer practices that result in\nsignificantly higher percentages of members of protected groups being rejected for employment,\nplacement, or promotion."
+    },
+    {
+        "chapter": "2",
+        "question_number": "74)",
+        "description": "All of the following are ways that an employee or job applicant can show adverse impact\nEXCEPT ________.",
+        "options": {
+            "A": "comparing disparate rejection rates",
+            "B": "holding a fact-finding conference",
+            "C": "utilizing population comparisons",
+            "D": "using the standard deviation rule"
+        },
+        "answer": "B",
+        "explanation": "B) The EEOC investigates charges of discrimination and frequently holds fact-\nfinding conferences, so this would not be an option for employees or job applicants. Comparing\ndisparate rejection rates, making population comparisons, and using the standard deviation rule\nare methods available to employees and applicants trying to show that an employer's procedures\nhave an adverse effect on a protected group."
+    },
+    {
+        "chapter": "2",
+        "question_number": "75)",
+        "description": "Which of the following is used by lawyers in disparate impact cases to show intentional\ndisparate treatment?",
+        "options": {
+            "A": "disparate rejection rates",
+            "B": "restricted policy approach",
+            "C": "population comparisons",
+            "D": "McDonnell-Douglas test"
+        },
+        "answer": "D",
+        "explanation": "D) Lawyers in disparate impact cases use disparate rejection rates, restricted policy\napproaches, and population comparisons to test whether an employer's policies or actions have\nthe effect of unintentionally screening out disproportionate numbers of women or minorities.\nLawyers use the McDonnell-Douglas test for showing (intentional) disparate treatment, rather\nthan (unintentional) disparate impact."
+    },
+    {
+        "chapter": "2",
+        "question_number": "76)",
+        "description": "The formula used by federal agencies to determine disparate rejection rates is based on a\nselection rate for any racial, ethnic, or sex group less than ________ percent of the rate for the\ngroup with the highest rate.",
+        "options": {
+            "A": "40",
+            "B": "60",
+            "C": "80",
+            "D": "100"
+        },
+        "answer": "C",
+        "explanation": "C) Federal agencies use a \"4/5ths rule\" to assess disparate rejection rates: \"A\nselection rate for any racial, ethnic, or sex group which is less than four-fifths or 80% of the rate\nfor the group with the highest rate will generally be regarded as evidence of adverse impact,\nwhile a greater than four-fifths rate will generally not be regarded as evidence of adverse\nimpact.\""
+    },
+    {
+        "chapter": "2",
+        "question_number": "77)",
+        "description": "Which of the following tests for adverse impact involves demonstrating that the employer's\npolicy either intentionally or unintentionally excludes members of a protected group?",
+        "options": {
+            "A": "McDonnell-Douglas test",
+            "B": "BFOQ approach",
+            "C": "systemic method",
+            "D": "restricted policy"
+        },
+        "answer": "D",
+        "explanation": "D) The restricted policy approach means demonstrating that the employer's policy\nintentionally or unintentionally excluded members of a protected group."
+    },
+    {
+        "chapter": "2",
+        "question_number": "78)",
+        "description": "Which of the following involves comparing the percentage of the minority/protected group\nand white workers in an organization with the percentage of the corresponding group in the labor\nmarket?",
+        "options": {
+            "A": "personnel population comparison approach",
+            "B": "restricted policy comparison method",
+            "C": "population comparisons approach",
+            "D": "McDonnell-Douglas test"
+        },
+        "answer": "C",
+        "explanation": "C) This approach compares (1) the percentage of minority/protected group and\nwhite workers in the organization with (2) the percentage of the corresponding group in the labor\nmarket."
+    },
+    {
+        "chapter": "2",
+        "question_number": "79)",
+        "description": "Which law allows an employer to claim that an employment practice is a bona fide\noccupational qualification for performing the job?",
+        "options": {
+            "A": "Title VII of the 1964 Civil Rights Act",
+            "B": "Vocational Rehabilitation Act of 1973",
+            "C": "Genetic Information Nondiscrimination Act of 2008",
+            "D": "1972 Equal Opportunity Act"
+        },
+        "answer": "A",
+        "explanation": "A) An employer can claim that the employment practice is a bona fide\noccupational qualification (BFOQ) for performing the job according to Title VII. Title VII\nprovides that \"it should not be an unlawful employment practice for an employer to hire an\nemployee . . . on the basis of religion, sex, or national origin in those certain instances where\nreligion, sex, or national origin is a bona fide occupational qualification reasonably necessary to\nthe normal operation of that particular business or enterprise.\""
+    },
+    {
+        "chapter": "2",
+        "question_number": "80)",
+        "description": "Employers primarily use bona fide occupational qualification (BFOQ) as a defense against\ncharges of discrimination based on ________.",
+        "options": {
+            "A": "religion",
+            "B": "age",
+            "C": "gender",
+            "D": "nationality"
+        },
+        "answer": "B",
+        "explanation": "B) Employers use BFOQ mostly as a defense against charges of intentional\ndiscrimination based on age. However, Title VII provides that \"it should not be an unlawful\nemployment practice for an employer to hire an employee . . . on the basis of religion, sex, or\nnational origin in those certain instances where religion, sex, or national origin is a bona fide\noccupational qualification reasonably necessary to the normal operation of that particular\nbusiness or enterprise.\""
+    },
+    {
+        "chapter": "2",
+        "question_number": "81)",
+        "description": "In which of the following jobs would gender most likely be appropriate to use as a BFOQ?",
+        "options": {
+            "A": "fire fighter in a metropolitan fire department",
+            "B": "prison guard at a federal penitentiary",
+            "C": "teacher at a private, all-girls school",
+            "D": "actor in a toothpaste commercial"
+        },
+        "answer": "D",
+        "explanation": "D) Gender may be a BFOQ for positions like actor, model, and restroom attendant\nrequiring physical characteristics possessed by one sex. However, for most jobs today, it's\ndifficult to claim that gender is a BFOQ."
+    },
+    {
+        "chapter": "2",
+        "question_number": "82)",
+        "description": "Pictures and Promotions Modeling Studio seeks to hire male models for an upcoming fashion\nshow featuring men's wear. The studio is using ________ as a justification for not considering\nwomen for the jobs.",
+        "options": {
+            "A": "BARS",
+            "B": "ADEA",
+            "C": "EEOC",
+            "D": "BFOQ"
+        },
+        "answer": "D",
+        "explanation": "D) An employer can claim that the employment practice is a bona fide\noccupational qualification (BFOQ) for performing the job. In this case, a specific gender is\nnecessary for the job."
+    },
+    {
+        "chapter": "2",
+        "question_number": "83)",
+        "description": "Which defense requires showing that there is an overriding company-related purpose for a\ndiscriminatory practice and that the practice is therefore acceptable?",
+        "options": {
+            "A": "prima facie",
+            "B": "business necessity",
+            "C": "adverse impact",
+            "D": "mixed motive"
+        },
+        "answer": "B",
+        "explanation": "B) \"Business necessity\" is a defense created by the courts that requires showing\nthat there is an overriding business purpose for the discriminatory practice and that the practice is\ntherefore acceptable. It's not easy to prove business necessity because the Supreme Court made it\nclear that business necessity does not encompass such matters as avoiding an employer\ninconvenience, annoyance, or expense."
+    },
+    {
+        "chapter": "2",
+        "question_number": "84)",
+        "description": "The application requirements for Western Airlines pilot positions require candidates to have\nlogged at least 200 hours piloting an aircraft within the previous 36 months. In addition,\napplicants must have 2,500 hours of experience in the air with at least 1,000 hours as the\ncommanding pilot of a commercial airplane. A four-year college degree is also required. Jeff\nSanchez, who is Hispanic, applied for a position as a pilot and was rejected because he has a\ndegree from a 2-year college and only 2,000 hours of flight experience. Jeff is suing Western\nAirlines for discriminatory hiring practices.\nWhich of the following, if true, best supports Western Airlines' defense?",
+        "options": {
+            "A": "At Western Airlines, turnover is high among minority employees working as pilots and flight\nattendants.",
+            "B": "Recent experiences with college recruiting have led Western Airlines to increase the\npercentage of its minority pilots.",
+            "C": "The total number of hours spent flying a commercial airline is a valid predictor of\nperformance for most Western Airlines pilots.",
+            "D": "Western Airlines bases its selection tests and hiring practices on industry guidelines for\ncommercial pilots."
+        },
+        "answer": "C",
+        "explanation": "C) Western Airlines' best defense involves proving that its selection tests or other\nemployment practices are valid predictors of performance on the job. Where the employer can\nestablish such validity, the courts have generally supported using the test or other employment\npractice as a business necessity. In this example, the number of flight hours is a predictor of job\nperformance. Turnover, recruiting, and industry guidelines are less important factors."
+    },
+    {
+        "chapter": "2",
+        "question_number": "85)",
+        "description": "The application requirements for Western Airlines pilot positions require candidates to have\nlogged at least 200 hours piloting an aircraft within the previous 36 months. In addition,\napplicants must have 2,500 hours of experience in the air with at least 1,000 hours as the\ncommanding pilot of a commercial airplane. A four-year college degree is also required. Wallace\nRoberts, who is African-American, applied for a position as a pilot and was rejected because he\nhas a degree from a 2-year college and only 2,000 hours of flight experience. Jeff is suing\nWestern Airlines for discriminatory hiring practices.\nWhich of the following statements is most likely relevant to this court case against Western\nAirlines?",
+        "options": {
+            "A": "Most pilots at Western Airlines belong to labor unions and are involved in collective\nbargaining arrangements detrimental to the industry.",
+            "B": "The job requirements for pilots at Western Airlines are a business necessity due to the human\nrisks associated with hiring unqualified applicants.",
+            "C": "The Age Discrimination in Employment Act prevents firms, such as Western Airlines, from\ndiscriminating when age is a BFOQ.",
+            "D": "As a global firm, Western Airlines can easily establish a prima facie case of discrimination\nbased on race."
+        },
+        "answer": "B",
+        "explanation": "B) Commercial pilots put passengers at risk if they are unqualified, so it is a\nbusiness necessity for Western Airlines to have what may be discriminatory hiring practices. In\nthis example, the job requires a high degree of skill, and the economic and human risks of hiring\nan unqualified applicant are great."
+    },
+    {
+        "chapter": "2",
+        "question_number": "86)",
+        "description": "All of the following recruitment practices are potentially discriminatory EXCEPT ________.",
+        "options": {
+            "A": "spreading information about job openings through word-of-mouth among a firm's\npredominantly Hispanic workforce",
+            "B": "providing misleading information to Asian and Indian job applicants",
+            "C": "posting help wanted ads that specify young, male applicants",
+            "D": "posting job advertisements only in local newspapers"
+        },
+        "answer": "D",
+        "explanation": "D) Ads that specify age or gender may be problematic, but only posting ads in\nlocal newspapers is acceptable. Using word-of-mouth to relay information about job openings is\nonly problematic if the workforce is mostly made up of members of a particular group. Providing\nmisleading or false information to certain applicants is also potentially discriminatory."
+    },
+    {
+        "chapter": "2",
+        "question_number": "87)",
+        "description": "Which of the following is most likely an example of a discriminatory selection standard?",
+        "options": {
+            "A": "measuring a software designer applicant's knowledge about a computer language",
+            "B": "requiring a high school teacher applicant to have a four-year college degree",
+            "C": "requiring engineer applicants to meet specific height standards",
+            "D": "asking prison guard applicants to reveal their arrest records"
+        },
+        "answer": "C",
+        "explanation": "C) It would most likely be unlawful to require engineers to meet certain height\nstandards because height is not related to the job. If a job requires security clearance, such as a\nprison guard, then it is not discriminatory to ask about an applicant's arrest record. Educational\nrequirements, physical characteristics, and knowledge are acceptable selection standards when\nthey specifically relate to the job."
+    },
+    {
+        "chapter": "2",
+        "question_number": "99)",
+        "description": "What is the most common next step in the EEOC enforcement process after a person files an\nemployment discrimination claim?",
+        "options": {
+            "A": "The EEOC either accepts or refers the charge.",
+            "B": "The two parties are required to participate in mediation.",
+            "C": "A commission investigates the claim in an open meeting.",
+            "D": "The employer and EEOC bring a civil suit in a federal district court."
+        },
+        "answer": "A",
+        "explanation": "A) After a person files an employment discrimination claim, the EEOC's common\npractice is to accept a charge or orally refer it to a state or local agency. An investigation,\nvoluntary mediation, and litigation may occur after the charge is accepted."
+    },
+    {
+        "chapter": "2",
+        "question_number": "100)",
+        "description": "Which of the following refers to an informal meeting held early in an EEOC enforcement\ninvestigation that attempts to define issues and determine if settlement is possible?",
+        "options": {
+            "A": "voluntary mediation",
+            "B": "fact-finding conference",
+            "C": "collective bargaining",
+            "D": "mandatory arbitration"
+        },
+        "answer": "B",
+        "explanation": "B) Early in the investigation, the EEOC holds an initial fact-finding conference.\nThe EEOC calls these \"informal meetings\" for defining issues and determining whether there's a\nbasis for negotiation. However, the EEOC's real focus here is often on settlement. Its\ninvestigators use the conferences to find weak spots in each party's position, which are used to\npush for a settlement."
+    },
+    {
+        "chapter": "2",
+        "question_number": "101)",
+        "description": "The EEOC describes ________ as an informal process in which a neutral third party assists\nthe opposing parties to reach a voluntary, negotiated resolution of a charge of discrimination.",
+        "options": {
+            "A": "a fact-finding conference",
+            "B": "voluntary mediation",
+            "C": "mandatory arbitration",
+            "D": "alternative dispute resolution"
+        },
+        "answer": "B",
+        "explanation": "B) The EEOC refers about 10% of its charges to a voluntary mediation\nmechanism. This is \"an informal process in which a neutral third party assists the opposing\nparties to reach a voluntary, negotiated resolution of a charge of discrimination.\""
+    },
+    {
+        "chapter": "2",
+        "question_number": "104)",
+        "description": "A workforce comprised of two or more groups of employees with various racial, gender,\ncultural, handicap, age, and religious backgrounds is best described as ________.",
+        "options": {
+            "A": "competitive",
+            "B": "ethnocentric",
+            "C": "globalized",
+            "D": "diverse"
+        },
+        "answer": "D",
+        "explanation": "D) Diversity means being diverse or varied, and at work means having a workforce\ncomprised of two or more groups of employees with various racial, ethnic, gender, cultural,\nnational origin, handicap, age, and religious backgrounds."
+    },
+    {
+        "chapter": "2",
+        "question_number": "105)",
+        "description": "Which of the following would LEAST likely foster diversity in the workplace?",
+        "options": {
+            "A": "changing the culture through diversity training education programs",
+            "B": "appointing a small group of minorities to high-profile positions",
+            "C": "recruiting minority members to the board of directors",
+            "D": "using metrics to evaluate diversity programs"
+        },
+        "answer": "B",
+        "explanation": "B) Tokenism occurs when a company appoints a small group of women or\nminorities to high-profile positions, rather than more aggressively seeking full representation for\nthat group. Diversity is fostered through education, minority participation on the board of\ndirectors, and regular assessment."
+    },
+    {
+        "chapter": "2",
+        "question_number": "106)",
+        "description": "In Bakke v. Regents of the University of California, which of the following claims was\nmade by Allen Bakke?",
+        "options": {
+            "A": "sexual harassment",
+            "B": "racial discrimination",
+            "C": "reverse discrimination",
+            "D": "affirmative action"
+        },
+        "answer": "C",
+        "explanation": "C) The case serves as an example of reverse discrimination. In Bakke v. Regents of\nthe University of California (1978), the University of California at Davis Medical School denied\nadmission to white student Allen Bakke, allegedly because of the school's affirmative action\nquota system, which required that a specific number of openings go to minority applicants. In a\n5-to-4 vote, the U.S. Supreme Court struck down the policy that made race the only factor in\nconsidering applications for a certain number of class openings and thus allowed Bakke's\nadmission."
+    }
+]

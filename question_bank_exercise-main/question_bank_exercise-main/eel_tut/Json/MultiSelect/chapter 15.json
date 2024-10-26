@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "15",
+        "question_number": "1)",
+        "description": "About ________% of people working in the United States belong to unions.",
+        "options": {
+            "A": "5",
+            "B": "11",
+            "C": "20",
+            "D": "34"
+        },
+        "answer": "B",
+        "explanation": "B) About 14 million U.S. workers belong to unions—around 11% of the total\nnumber of men and women working in this country."
+    },
+    {
+        "chapter": "15",
+        "question_number": "2)",
+        "description": "Costco is primarily known as \"the anti-Walmart\" because the firm ________.",
+        "options": {
+            "A": "negotiates contracts with unions",
+            "B": "pays above the minimum wage",
+            "C": "offers employees health benefits",
+            "D": "refuses to accept union contracts"
+        },
+        "answer": "A",
+        "explanation": "A) Some people call Costco \"The Anti-Walmart,\" partly because of how Costco\ntreats its workers and unions. When California grocery store workers picketed several chains a\nfew years ago, \"Costco Wholesale Corp. avoided the fray, quietly renegotiating a separate\ncontract with its union employees there.\" In contrast, Walmart is famously anti-union."
+    },
+    {
+        "chapter": "15",
+        "question_number": "3)",
+        "description": "Which of the following best explains a major reason why union membership in the United\nStates has fallen in the last 50 years?",
+        "options": {
+            "A": "Legislation provides workers with protections that were once exclusive to unions.",
+            "B": "Union members earn less on average compared to non-union members.",
+            "C": "Union membership is too expensive for most blue-collar workers.",
+            "D": "Foreign-owned manufacturers will not hire union members."
+        },
+        "answer": "A",
+        "explanation": "A) Union membership has fallen in the last 50 years. Reasons include the shift\nfrom manufacturing to service jobs, and new legislation (such as occupational safety laws)\nprovides the sorts of protections that workers could once only obtain from their unions."
+    },
+    {
+        "chapter": "15",
+        "question_number": "4)",
+        "description": "Which of the following is most likely a false statement about union membership?",
+        "options": {
+            "A": "Union members work in both blue-collar and white-collar industries.",
+            "B": "Insurance plan benefits are better for union workers than for nonunion workers.",
+            "C": "Union workers receive more holidays and unpaid leave than nonunion workers do.",
+            "D": "Employers prefer nonunion workers, so they pay them higher wages than union members."
+        },
+        "answer": "D",
+        "explanation": "D) Recent median weekly wage for union workers was $917, while that for\nnonunion workers was $717. Union workers also generally receive significantly more holidays,\nsick leave, unpaid leave, insurance plan benefits, long-term disability benefits, and various other\nbenefits than nonunion workers do. Union membership is not exclusive to blue-collar workers."
+    },
+    {
+        "chapter": "15",
+        "question_number": "5)",
+        "description": "Which of the following best describes the closed shop form of union security?",
+        "options": {
+            "A": "A company can hire nonunion people if they agree to join the union.",
+            "B": "Union members receive higher wages than nonunion employees.",
+            "C": "Union members receive preferential treatment in hiring.",
+            "D": "A company can hire only union members."
+        },
+        "answer": "D",
+        "explanation": "D) Under the closed shop form of union security, the company can hire only\ncurrent union members. Congress outlawed closed shops in interstate commerce in 1947, but\nthey still exist in some states for particular industries (such as printing). They account for fewer\nthan 5% of union contracts."
+    },
+    {
+        "chapter": "15",
+        "question_number": "6)",
+        "description": "The ________ form of union security means that the company can hire only union members.",
+        "options": {
+            "A": "closed shop",
+            "B": "union shop",
+            "C": "agency shop",
+            "D": "preferential shop"
+        },
+        "answer": "A",
+        "explanation": "A) Under the closed shop form of union security, the company can hire only\ncurrent union members. Congress outlawed closed shops in interstate commerce in 1947, but\nthey still exist in some states for particular industries."
+    },
+    {
+        "chapter": "15",
+        "question_number": "7)",
+        "description": "Which type of union security was outlawed by Congress?",
+        "options": {
+            "A": "agency shop",
+            "B": "closed shop",
+            "C": "union shop",
+            "D": "maintenance of membership"
+        },
+        "answer": "B",
+        "explanation": "B) Under the closed shop form of union security, the company can hire only\ncurrent union members. Congress outlawed closed shops in interstate commerce in 1947, but\nthey still exist in some states for particular industries."
+    },
+    {
+        "chapter": "15",
+        "question_number": "8)",
+        "description": "Which type of union security accounts for almost three-fourths of union contracts?",
+        "options": {
+            "A": "maintenance of membership",
+            "B": "closed shop",
+            "C": "union shop",
+            "D": "agency shop"
+        },
+        "answer": "C",
+        "explanation": "C) The union shop accounts for about 73% of union contracts."
+    },
+    {
+        "chapter": "15",
+        "question_number": "9)",
+        "description": "The ________ form of union security means that the company can hire nonunion people, but\nthose people must join the union within a prescribed period of time and pay dues.",
+        "options": {
+            "A": "closed shop",
+            "B": "union shop",
+            "C": "agency shop",
+            "D": "open shop"
+        },
+        "answer": "B",
+        "explanation": "B) With the union shop, the company can hire nonunion people, but they must join\nthe union after a prescribed period and pay dues."
+    },
+    {
+        "chapter": "15",
+        "question_number": "10)",
+        "description": "Which form of union security requires employees who do not belong to the union to pay\nunion dues on the assumption that the union's efforts benefit all workers?",
+        "options": {
+            "A": "union shop",
+            "B": "agency shop",
+            "C": "open shop",
+            "D": "maintenance of agreement"
+        },
+        "answer": "B",
+        "explanation": "B) With the agency shop, employees who do not belong to the union still must pay\nthe union an amount equal to union dues on the assumption that the union's efforts benefit all the\nworkers."
+    },
+    {
+        "chapter": "15",
+        "question_number": "11)",
+        "description": "Which of the following best defines the preferential shop form of union security?",
+        "options": {
+            "A": "A company can hire nonunion people, but they must then join the union.",
+            "B": "Union members must maintain membership for the contract period.",
+            "C": "Employees who do not belong to the union must still pay dues.",
+            "D": "A company gives hiring advantages to union members."
+        },
+        "answer": "D",
+        "explanation": "D) With preferential shop, union members receive preference in hiring."
+    },
+    {
+        "chapter": "15",
+        "question_number": "12)",
+        "description": "With the maintenance of membership arrangement of union security, how long must union\nmembers employed by a firm maintain union membership?",
+        "options": {
+            "A": "until the union disbands",
+            "B": "until negotiations are over",
+            "C": "for the contract period",
+            "D": "for at least one year"
+        },
+        "answer": "C",
+        "explanation": "C) With the maintenance of membership arrangement, employees do not have to\nbelong to the union. However, union members employed by the firm must maintain membership\nin the union for the contract period."
+    },
+    {
+        "chapter": "15",
+        "question_number": "13)",
+        "description": "The term ________ describes statutory or constitutional provisions banning the requirement\nof union membership as a condition of employment.",
+        "options": {
+            "A": "termination at will",
+            "B": "right to work",
+            "C": "open shop",
+            "D": "free labor"
+        },
+        "answer": "B",
+        "explanation": "B) Right to work is a term used to describe state statutory or constitutional\nprovisions banning the requirement of union membership as a condition of employment. Right to\nwork laws don't outlaw unions, but they do outlaw any form of union security."
+    },
+    {
+        "chapter": "15",
+        "question_number": "14)",
+        "description": "Right to work laws inhibit union formation by ________.",
+        "options": {
+            "A": "banning any form of union security",
+            "B": "making union membership a requirement",
+            "C": "leaving the question of union affiliation up to each company",
+            "D": "leaving the question of union security up to each company"
+        },
+        "answer": "A",
+        "explanation": "A) Right-to-work laws don't outlaw unions. They do outlaw (within those states)\nany form of union security. Right to work is a term used to describe state statutory or\nconstitutional provisions banning the requirement of union membership as a condition of\nemployment."
+    },
+    {
+        "chapter": "15",
+        "question_number": "15)",
+        "description": "In which human resource activity does a typical labor agreement NOT give the union a role?",
+        "options": {
+            "A": "recruitment",
+            "B": "selection",
+            "C": "dismissal",
+            "D": "appraisals"
+        },
+        "answer": "D",
+        "explanation": "D) The typical labor agreement also gives the union a role in other human resource\nactivities, including recruiting, selecting, compensating, promoting, training, and discharging\nemployees. Unions typically play no role in performance appraisals."
+    },
+    {
+        "chapter": "15",
+        "question_number": "16)",
+        "description": "Which of the following best describes the AFL-CIO?",
+        "options": {
+            "A": "voluntary federation of national and international labor unions",
+            "B": "local union for automobile workers in Detroit, Michigan",
+            "C": "federation of firms that fight unionization in their plants",
+            "D": "regional branch of the National Labor Relations Board"
+        },
+        "answer": "A",
+        "explanation": "A) The American Federation of Labor and Congress of Industrial Organizations\n(AFL-CIO) is a voluntary federation of about 57 national and international labor unions in the\nUnited States."
+    },
+    {
+        "chapter": "15",
+        "question_number": "26)",
+        "description": "Which of the following best describes a \"yellow dog\" contract?",
+        "options": {
+            "A": "As a condition of employment, an employee agrees not to picket.",
+            "B": "Employers agree to give union members preference in hiring.",
+            "C": "As a condition of employment, an employee agrees to not join a union.",
+            "D": "Employers agree to abide by the guidelines of the local labor unions."
+        },
+        "answer": "C",
+        "explanation": "C) \"Yellow dog\" contracts, whereby management could require nonunion\nmembership as a condition for employment, were widely enforced until about 1930."
+    },
+    {
+        "chapter": "15",
+        "question_number": "27)",
+        "description": "Prior to 1930, employers attempted to limit the influence of unions using all of the following\nmethods EXCEPT ________.",
+        "options": {
+            "A": "spying on workers",
+            "B": "firing union agitators",
+            "C": "requiring yellow dog contracts",
+            "D": "engaging in collective bargaining"
+        },
+        "answer": "D",
+        "explanation": "D) Until about 1930, there were no special labor laws. Employers were not\nrequired to engage in collective bargaining with employees and were virtually unrestrained in\ntheir behavior toward unions; the use of spies and firing of union agitators were widespread.\n\"Yellow dog\" contracts were widely enforced."
+    },
+    {
+        "chapter": "15",
+        "question_number": "28)",
+        "description": "Which of the following guaranteed each employee the right to bargain collectively without\ninterference, restraint, or coercion?",
+        "options": {
+            "A": "National Labor Relations Act",
+            "B": "Norris-LaGuardia Act",
+            "C": "Davis-Bacon Act",
+            "D": "Taft-Hartley Act"
+        },
+        "answer": "B",
+        "explanation": "B) The Norris-LaGuardia Act of 1932 guaranteed to each employee the right to\nbargain collectively \"free from interference, restraint, or coercion.\" The National Labor Relations\nAct added on to Norris-LaGuardia by banning certain unfair labor practices."
+    },
+    {
+        "chapter": "15",
+        "question_number": "29)",
+        "description": "Which of the following bans five unfair labor practices and provides for majority rule and\nsecret ballot elections?",
+        "options": {
+            "A": "Landrum-Griffin Act",
+            "B": "Norris-LaGuardia Act",
+            "C": "Taft-Hartley Act",
+            "D": "Wagner Act"
+        },
+        "answer": "D",
+        "explanation": "D) Congress passed the National Labor Relations (or Wagner) Act to add teeth to\nNorris-LaGuardia. It did this by banning certain unfair labor practices and by providing for\nsecret-ballot elections and majority rule for determining whether a firm's employees would\nunionize."
+    },
+    {
+        "chapter": "15",
+        "question_number": "30)",
+        "description": "Which of the following was established by the Wagner Act?",
+        "options": {
+            "A": "Labor Management Relations Board",
+            "B": "National Labor Relations Board",
+            "C": "Knights of Labor",
+            "D": "AFL-CIO"
+        },
+        "answer": "B",
+        "explanation": "B) The Wagner Act created the National Labor Relations Board to enforce the\nprovisions of the act."
+    },
+    {
+        "chapter": "15",
+        "question_number": "31)",
+        "description": "Which of the following was passed in 1935 to amend the Norris -LaGuardia Act?",
+        "options": {
+            "A": "Taft-Hartley Act",
+            "B": "New Deal Act",
+            "C": "Wagner Act",
+            "D": "Landrum-Griffin Act"
+        },
+        "answer": "C",
+        "explanation": "C) In 1935, Congress passed the National Labor Relations (or Wagner) Act to add\nteeth to Norris-LaGuardia. It did this by (1) banning certain unfair labor practices, (2) providing\nfor secret-ballot elections and majority rule for determining whether a firm's employees would\nunionize, and (3) creating the National Labor Relations Board."
+    },
+    {
+        "chapter": "15",
+        "question_number": "32)",
+        "description": "Which of the following best describes a main purpose of the Wagner Act?",
+        "options": {
+            "A": "guaranteeing each employee the right to bargain collectively free from interference and\ncoercion",
+            "B": "banning unions from preventing employees from exercising their guaranteed bargaining rights",
+            "C": "allowing secret-ballot elections for determining whether a firm's employees would unionize",
+            "D": "making it illegal for a union to refuse to bargain in good faith with the employer"
+        },
+        "answer": "C",
+        "explanation": "C) In 1935, Congress passed the National Labor Relations (or Wagner) Act to add\nteeth to Norris-LaGuardia. It did this by (1) banning certain unfair labor practices, (2) providing\nfor secret-ballot elections and majority rule for determining whether a firm's employees would\nunionize, and (3) creating the National Labor Relations Board."
+    },
+    {
+        "chapter": "15",
+        "question_number": "33)",
+        "description": "The National Labor Relations Board was primarily established for the purpose of ________.",
+        "options": {
+            "A": "establishing branches in right-to-work states",
+            "B": "negotiating contracts on behalf of local unions",
+            "C": "investigating unfair labor practice charges",
+            "D": "overseeing the establishment of local unions"
+        },
+        "answer": "C",
+        "explanation": "C) The National Labor Relations Board (NLRB) was created by the Wagner Act to\ninvestigate unfair labor practice charges and to provide for secret-ballot elections and majority\nrule in determining whether or not a firm's employees want a union."
+    },
+    {
+        "chapter": "15",
+        "question_number": "34)",
+        "description": "Which of the following was NOT designated an unfair labor practice by the Wagner Act?",
+        "options": {
+            "A": "bribing employees",
+            "B": "using company spy systems",
+            "C": "requiring yellow dog contracts",
+            "D": "moving businesses to avoid unionization"
+        },
+        "answer": "C",
+        "explanation": "C) Yellow-dog contracts were deemed unenforceable under the Norris-LaGuardia\nAct. The Wagner Act deemed it unfair to bribe employees, use company spy systems, move a\nbusiness to avoid unionization, and black-list union sympathizers."
+    },
+    {
+        "chapter": "15",
+        "question_number": "35)",
+        "description": "Which of the following is the most likely reason for the passage of the Taft-Hartley Act?",
+        "options": {
+            "A": "high unemployment rates",
+            "B": "significant economic boom",
+            "C": "major shifts in the workforce",
+            "D": "numerous union strikes"
+        },
+        "answer": "D",
+        "explanation": "D) Largely because of a series of massive postwar strikes, public policy began to\nshift against what many viewed as union excesses. Passage of the Taft-Hartley Act occurred to\nlimit the power of unions."
+    },
+    {
+        "chapter": "15",
+        "question_number": "36)",
+        "description": "The Taft-Hartley Act amended the Wagner Act in all of the following ways EXCEPT by\n________.",
+        "options": {
+            "A": "prohibiting unfair labor practices",
+            "B": "enumerating the rights of employers",
+            "C": "limiting the power of the National Labor Review Board",
+            "D": "allowing the U.S. President to bar national emergency strikes"
+        },
+        "answer": "C",
+        "explanation": "C) The Taft-Hartley Act did not alter the power of the NLRB. The law prohibited\nunfair labor practices, enumerated the rights of employers and employees, and allowed the\nPresident to bar national emergency strikes on a temporary basis."
+    },
+    {
+        "chapter": "15",
+        "question_number": "37)",
+        "description": "Which of the following terms refers to an unfair labor practice in which a union requires an\nemployer to pay an employee for services not performed?",
+        "options": {
+            "A": "coercing",
+            "B": "padding",
+            "C": "ballooning",
+            "D": "featherbedding"
+        },
+        "answer": "D",
+        "explanation": "D) It is an unfair labor practice for a union to engage in featherbedding.\nFeatherbedding involves requiring an employer to pay an employee for services not performed."
+    },
+    {
+        "chapter": "15",
+        "question_number": "38)",
+        "description": "The Taft-Hartley Act prohibits all of the following union labor practices EXCEPT ________.",
+        "options": {
+            "A": "forcing an employer to fire a worker for failing to attend union meetings",
+            "B": "refusing to bargain in good faith with an employer about wages and hours",
+            "C": "restraining or coercing employees from exercising their guaranteed bargaining rights",
+            "D": "demanding an employer fire a worker who fails to pay union dues in a closed shop"
+        },
+        "answer": "D",
+        "explanation": "D) Where a closed or union shop prevails (and union membership is therefore a\nprerequisite to employment), the union may demand the discharge of someone who fails to pay\nhis or her initiation fees and dues. The other actions are considered unfair union labor practices\nunder the Taft-Hartley Act."
+    },
+    {
+        "chapter": "15",
+        "question_number": "39)",
+        "description": "You are a manager at a manufacturing facility, and you tell your subordinates that unions are\ndangerous to the economy. Which law protects your right to express these views?",
+        "options": {
+            "A": "Wagner Act",
+            "B": "Taft-Hartley Act",
+            "C": "Norris-LaGuardia Act",
+            "D": "Landrum-Griffin Act"
+        },
+        "answer": "B",
+        "explanation": "B) The Taft-Hartley Act explicitly gave employers certain rights, such as\nexpressing their views concerning union organization."
+    },
+    {
+        "chapter": "15",
+        "question_number": "40)",
+        "description": "Which law sought to protect union members from possible wrongdoing on the part of their\nunions?",
+        "options": {
+            "A": "Norris-LaGuardia Act",
+            "B": "Taft-Hartley Act",
+            "C": "Wagner Act",
+            "D": "Landrum-Griffin Act"
+        },
+        "answer": "D",
+        "explanation": "D) The Landrum-Griffin Act of 1959 was intended to protect union members from\npossible wrongdoing on the part of their unions."
+    },
+    {
+        "chapter": "15",
+        "question_number": "41)",
+        "description": "According to the Landrum-Griffin Act, national and international unions must elect officers\nat least once every ________ years.",
+        "options": {
+            "A": "two",
+            "B": "three",
+            "C": "four",
+            "D": "five"
+        },
+        "answer": "D",
+        "explanation": "D) The Landrum-Griffin Act laid out rules regarding union elections. For example,\nnational and international unions must elect officers at least once every five years, using some\ntype of secret-ballot mechanism."
+    },
+    {
+        "chapter": "15",
+        "question_number": "46)",
+        "description": "What is the first step in the union drive process?",
+        "options": {
+            "A": "obtaining authorization cards from employees",
+            "B": "making initial contact with employees",
+            "C": "holding an initial organization hearing",
+            "D": "campaigning for employee votes"
+        },
+        "answer": "B",
+        "explanation": "B) During the initial contact stage, the union determines the employees' interest in\norganizing and establishes an organizing committee. The initiative for the first contact between\nthe employees and the union may come from the employees, from a union already representing\nother employees of the firm, or from a union representing workers elsewhere. Obtaining\nauthorization cards, holding hearings, and campaigning for election votes occur later in the\nprocess."
+    },
+    {
+        "chapter": "15",
+        "question_number": "47)",
+        "description": "Which of the following is a union organizing tactic by which union members are placed on\nnonunion job sites?",
+        "options": {
+            "A": "featherbedding",
+            "B": "union salting",
+            "C": "logrolling",
+            "D": "picketing"
+        },
+        "answer": "B",
+        "explanation": "B) The National Labor Relations Board defines union salting as \"placing of union\nmembers on nonunion job sites for the purpose of organizing.\""
+    },
+    {
+        "chapter": "15",
+        "question_number": "48)",
+        "description": "What percentage of eligible employees in a bargaining unit must sign authorization cards in\norder for the union to petition the NLRB for an election?",
+        "options": {
+            "A": "20",
+            "B": "30",
+            "C": "40",
+            "D": "50"
+        },
+        "answer": "B",
+        "explanation": "B) Thirty percent of the eligible employees in an appropriate bargaining unit must\nsign before the union can petition the NLRB for an election."
+    },
+    {
+        "chapter": "15",
+        "question_number": "49)",
+        "description": "Union authorization cards serve all of the following functions EXCEPT ________.",
+        "options": {
+            "A": "subjecting the employee to union rules",
+            "B": "stating that the employee has applied for membership",
+            "C": "enabling employers to modify employment conditions",
+            "D": "designating the union as a bargaining representative"
+        },
+        "answer": "C",
+        "explanation": "C) Union authorization cards authorize the union to seek a representation election\nand designate the union as a bargaining representative. They state that the employee has applied\nto join the union and is subject to union rules. The cards do not permit employers to modify\nemployment conditions."
+    },
+    {
+        "chapter": "15",
+        "question_number": "50)",
+        "description": "Hyper-Tech Enterprises manufactures mechanical parts used in air conditioning and heating\nunits. The company employs over 300 workers at its Alabama facility. None of the Hyper-Tech\nemployees belong to a union; however, management believes that unionization is in the near\nfuture. A representative of a local union has recently visited Hyper-Tech in an attempt to solicit\nmembers and have them sign authorization cards. Enough eligible employees have signed\nauthorization cards to petition the NLRB for an election. Hyper-Tech's top executives are\nconsidering fighting the unionization efforts.\nWhich of the following questions is LEAST relevant to the decision by Hyper-Tech to fight\nunionization efforts?",
+        "options": {
+            "A": "How many Hyper-Tech employees were hired within the last year?",
+            "B": "What percentage of Hyper-Tech employees signed authorization cards?",
+            "C": "What is the opinion of Hyper-Tech's shareholders and creditors regarding unionization?",
+            "D": "What are the laws regarding what Hyper-Tech managers can and cannot do during a\ncampaign?"
+        },
+        "answer": "A",
+        "explanation": "A) The number of newly hired employees is least relevant to the firm's decision to\nfight unionization. The number of employees who have signed authorization cards, the opinion\nof stakeholders, and labor laws are more relevant to the decision."
+    },
+    {
+        "chapter": "15",
+        "question_number": "51)",
+        "description": "Hyper-Tech Enterprises manufactures mechanical parts used in air conditioning and heating\nunits. The company employs over 300 workers at its Alabama facility. None of the Hyper-Tech\nemployees belong to a union; however, management believes that unionization is in the near\nfuture. A representative of a local union has recently visited Hyper-Tech in an attempt to solicit\nmembers and have them sign authorization cards. Enough eligible employees have signed\nauthorization cards to petition the NLRB for an election. Hyper-Tech's top executives are\nconsidering fighting the unionization efforts.\nWhich of the following, if true, best supports the argument that Hyper-Tech should contest the\nunion's right to an election?",
+        "options": {
+            "A": "Managers believe that they may have inadvertently hired union salts, who most likely\ninstigated the unionization movement at Hyper-Tech.",
+            "B": "The process outlined at Hyper-Tech for filing employee grievances differs from the grievance\nprocedures at other firms in the same industry.",
+            "C": "Hyper-Tech management believes that if employees are provided with additional information\nfrom the firm that they will revoke their authorization cards.",
+            "D": "Hyper-Tech managers will soon be conducting annual employee performance appraisals and\ndetermining what salary adjustments to make."
+        },
+        "answer": "C",
+        "explanation": "C) If Hyper-Tech wants to contest the union's right, it can insist on a hearing to\ndetermine those issues. An employer's decision about whether to insist on a hearing is a strategic\none. Management bases it on the facts of each case and on whether it feels it needs more time to\ntry to persuade employees not to elect a union."
+    },
+    {
+        "chapter": "15",
+        "question_number": "52)",
+        "description": "Which of the following terms refers to the group of employees the union will be authorized\nto represent?",
+        "options": {
+            "A": "bargaining unit",
+            "B": "mediating group",
+            "C": "negotiating team",
+            "D": "grievance committee"
+        },
+        "answer": "A",
+        "explanation": "A) The bargaining unit is the group of employees that the union will be authorized\nto represent and bargain for collectively. If the entire organization is the bargaining unit, the\nunion will represent all nonsupervisory, nonmanagerial, and nonconfidential employees, even\nthough the union may be oriented mostly toward blue-collar workers."
+    },
+    {
+        "chapter": "15",
+        "question_number": "53)",
+        "description": "The union becomes the employees' representative if it receives ________.",
+        "options": {
+            "A": "a majority of the votes cast by the bargaining unit",
+            "B": "signed authorization cards from 30% of employees",
+            "C": "written approval from the employer",
+            "D": "a majority of the votes cast"
+        },
+        "answer": "D",
+        "explanation": "D) The union becomes the employees' representative if it wins the election, and\nwinning means getting a majority of the votes cast, not a majority of the total workers in the\nbargaining unit."
+    },
+    {
+        "chapter": "15",
+        "question_number": "54)",
+        "description": "Which of the following situations would most likely improve a union's chances of winning a\ncertification election at Apex Enterprises?",
+        "options": {
+            "A": "geographic area with low percentage of union workers",
+            "B": "high unemployment in the geographic area",
+            "C": "a large portion of workers voting",
+            "D": "small bargaining units"
+        },
+        "answer": "D",
+        "explanation": "D) Unions have a higher probability of success in geographic areas with a higher\npercentage of union workers. High unemployment seems to lead to poorer results for the union.\nThe larger the bargaining unit, the smaller the probability of union victory. The more workers\nvote, the less likely a union victory."
+    },
+    {
+        "chapter": "15",
+        "question_number": "55)",
+        "description": "All of the following increase the likelihood that an employer will lose an NLRB election\nEXCEPT ________.",
+        "options": {
+            "A": "focusing primarily on wage and benefits issues",
+            "B": "appointing a committee to manage the campaign",
+            "C": "distributing employee need and attitude surveys",
+            "D": "delegating personnel relations issues to plant managers"
+        },
+        "answer": "C",
+        "explanation": "C) Employers tend to lose elections when they focus too much on wages and\nbenefits, appoint uninformed committees to manage campaigns, and delegate union issues.\nEmployers are more likely to win if they address the attitudes and concerns of all workers by\nsending out surveys and responding to their needs."
+    },
+    {
+        "chapter": "15",
+        "question_number": "56)",
+        "description": "Hyper-Tech Enterprises manufactures mechanical parts used in air conditioning and heating\nunits. The company employs over 300 workers at its Alabama facility. None of the Hyper-Tech\nemployees belong to a union; however, management believes that unionization is in the near\nfuture. A representative of a local union has recently visited Hyper-Tech in an attempt to solicit\nmembers and have them sign authorization cards. Enough eligible employees have signed\nauthorization cards to petition the NLRB for an election. Hyper-Tech's top executives are\nconsidering fighting the unionization efforts.\nWhich of the following, if true, best supports the suggestion that Hyper-Tech will lose an NLRB\nelection?",
+        "options": {
+            "A": "Hyper-Tech recently distributed employee surveys that indicated overall job satisfaction.",
+            "B": "Hyper-Tech executives have decided that a committee should manage the campaign.",
+            "C": "Hyper-Tech managers have been told to share their opinions about unions with subordinates.",
+            "D": "Hyper-Tech managers have been told to avoid making promises to their subordinates."
+        },
+        "answer": "B",
+        "explanation": "B) Forming a committee to manage a campaign is usually detrimental to firms\nbecause of the slow nature of committees in making decisions. Experts suggest giving full\nresponsibility to a single, decisive executive. Sharing opinions about unions is acceptable."
+    },
+    {
+        "chapter": "15",
+        "question_number": "57)",
+        "description": "Hyper-Tech Enterprises manufactures mechanical parts used in air conditioning and heating\nunits. The company employs over 300 workers at its Alabama facility. None of the Hyper-Tech\nemployees belong to a union; however, management believes that unionization is in the near\nfuture. A representative of a local union has recently visited Hyper-Tech in an attempt to solicit\nmembers and have them sign authorization cards. Enough eligible employees have signed\nauthorization cards to petition the NLRB for an election. Hyper-Tech's top executives are\nconsidering fighting the unionization efforts.\nWhich of the following, if true, supports the argument by the NLRB that Hyper-Tech has\nconducted unfair labor practices?",
+        "options": {
+            "A": "Hyper-Tech managers prohibited union representatives from soliciting employees who were\non duty.",
+            "B": "Hyper-Tech managers intervened when pro-union employees solicited other employees while\nboth were on duty.",
+            "C": "Hyper-Tech managers barred nonemployee union representatives from entering the firm's\nbuilding.",
+            "D": "Hyper-Tech managers prohibited distribution of union literature in the company cafeteria."
+        },
+        "answer": "D",
+        "explanation": "D) The NLRB has ruled that the act of prohibiting distribution of the literature is\nan unfair labor practice. Most employers can bar nonemployees from the building's interiors and\nwork areas as a right of private property owners."
+    },
+    {
+        "chapter": "15",
+        "question_number": "58)",
+        "description": "________ is the process of legally terminating a union's right to represent employees.",
+        "options": {
+            "A": "Union salting",
+            "B": "Featherbedding",
+            "C": "Decertification",
+            "D": "Collective bargaining"
+        },
+        "answer": "C",
+        "explanation": "C) The same law that grants employees the right to unionize also gives them a way\nto terminate legally their union's right to represent them. The process is called decertification."
+    },
+    {
+        "chapter": "15",
+        "question_number": "70)",
+        "description": "When representatives of Ford's management and the autoworkers' union meet to negotiate a\nlabor agreement, which of the following is most likely occurring?",
+        "options": {
+            "A": "certification",
+            "B": "union salting",
+            "C": "featherbedding",
+            "D": "collective bargaining"
+        },
+        "answer": "D",
+        "explanation": "D) Collective bargaining is the process through which representatives of\nmanagement and the union meet to negotiate a labor agreement."
+    },
+    {
+        "chapter": "15",
+        "question_number": "71)",
+        "description": "Which of the following is a characteristic of good faith bargaining?",
+        "options": {
+            "A": "overlooking bargaining items",
+            "B": "making counterproposals",
+            "C": "bypassing the union representative",
+            "D": "imposing unreasonable conditions"
+        },
+        "answer": "B",
+        "explanation": "B) Good faith bargaining is characterized by both parties making every reasonable\neffort to arrive at an agreement. Proposals are matched with counterproposals in good faith\nbargaining. Overlooking bargaining items, bypassing union representatives, and imposing\nunreasonable conditions are actions indicating that bargaining is not in good faith."
+    },
+    {
+        "chapter": "15",
+        "question_number": "72)",
+        "description": "Which of the following terms refers to items in collective bargaining over which bargaining\nis neither illegal nor mandatory?",
+        "options": {
+            "A": "group bargaining items",
+            "B": "permissible bargaining items",
+            "C": "conditional bargaining items",
+            "D": "benefits-related bargaining items"
+        },
+        "answer": "B",
+        "explanation": "B) Voluntary (or permissible) bargaining items are neither mandatory nor illegal;\nthey become a part of negotiations only through the joint agreement of both management and\nunion. Neither party can compel the other to negotiate over voluntary items."
+    },
+    {
+        "chapter": "15",
+        "question_number": "73)",
+        "description": "All of the following are examples of mandatory bargaining items EXCEPT ________.",
+        "options": {
+            "A": "employee security",
+            "B": "profit-sharing plans",
+            "C": "indemnity bonds",
+            "D": "employee drug testing"
+        },
+        "answer": "C",
+        "explanation": "C) Mandatory bargaining items are items in collective bargaining that a party must\nbargain over if they are introduced by the other party, such as wages, hours, rest periods, layoffs,\ntransfers, benefits, drug testing and severance pay. Voluntary bargaining items, which are neither\nmandatory nor illegal, such as indemnity bonds, become a part of negotiations only through the\njoint agreement of both management and union."
+    },
+    {
+        "chapter": "15",
+        "question_number": "74)",
+        "description": "All of the following are examples of permissible bargaining items EXCEPT ________.",
+        "options": {
+            "A": "cafeteria prices",
+            "B": "severance pay",
+            "C": "scope of bargaining unit",
+            "D": "pension benefits for retired employees"
+        },
+        "answer": "B",
+        "explanation": "B) Mandatory bargaining items are items in collective bargaining that a party must\nbargain over if they are introduced by the other party, such as severance pay. Permissible\nbargaining items become a part of negotiations only through the joint agreement of both\nmanagement and union. Cafeteria prices, the scope of the bargaining unit, and pension benefits\nare permissible bargaining items."
+    },
+    {
+        "chapter": "15",
+        "question_number": "75)",
+        "description": "Which of the following is an illegal bargaining item?",
+        "options": {
+            "A": "membership of bargaining team",
+            "B": "discriminatory treatment",
+            "C": "continuance of past contract",
+            "D": "employment of strikebreaker"
+        },
+        "answer": "B",
+        "explanation": "B) Illegal bargaining items are items in collective bargaining that are forbidden by\nlaw, such as discriminatory treatment. Bargaining team membership, contract continuances, and\nstrikebreaker employment are permissible items."
+    },
+    {
+        "chapter": "15",
+        "question_number": "76)",
+        "description": "Managers from Ford and representatives from United Auto Workers are in the first stage of\ncollective bargaining over benefits and wages. Which of the following is most likely occurring?",
+        "options": {
+            "A": "Subcommittees are forming to create alternatives.",
+            "B": "Each side is trading some of its demands.",
+            "C": "Each side is checking terms with superiors.",
+            "D": "Each side is presenting its demands."
+        },
+        "answer": "D",
+        "explanation": "D) In the first stage of bargaining, each side presents its demands. At this stage,\nboth parties are usually quite far apart on some issues."
+    },
+    {
+        "chapter": "15",
+        "question_number": "77)",
+        "description": "Which of the following terms refers to a collective bargaining situation that occurs when the\nparties are not able to move further toward settlement?",
+        "options": {
+            "A": "impasse",
+            "B": "picketing",
+            "C": "arbitration",
+            "D": "wildcat strike"
+        },
+        "answer": "A",
+        "explanation": "A) In collective bargaining, an impasse occurs when the parties are not able to\nmove further toward settlement. An impasse usually occurs because one party is demanding\nmore than the other will offer."
+    },
+    {
+        "chapter": "15",
+        "question_number": "78)",
+        "description": "Negotiators use all of the following types of third-party interventions to overcome an\nimpasse EXCEPT ________.",
+        "options": {
+            "A": "binding arbitration",
+            "B": "mediation",
+            "C": "fact finding",
+            "D": "picketing"
+        },
+        "answer": "D",
+        "explanation": "D) Negotiators use three types of third-party interventions to overcome an\nimpasse: mediation, fact finding, and arbitration. Picketing is not a third-party intervention\nmethod."
+    },
+    {
+        "chapter": "15",
+        "question_number": "79)",
+        "description": "Which third-party intervention uses a neutral third party to assist the principals in reaching\nagreement?",
+        "options": {
+            "A": "fact finding",
+            "B": "mediation",
+            "C": "binding arbitration",
+            "D": "non-binding arbitration"
+        },
+        "answer": "B",
+        "explanation": "B) With mediation, a neutral third party tries to assist the principals in reaching\nagreement.\nThe mediator usually holds meetings with each party to determine where each stands regarding\nits position and then uses this information to find common ground for further bargaining."
+    },
+    {
+        "chapter": "15",
+        "question_number": "80)",
+        "description": "Which intervention method listed below is the most definitive of all third-party\ninterventions?",
+        "options": {
+            "A": "fact finding",
+            "B": "mediation",
+            "C": "binding arbitration",
+            "D": "picketing"
+        },
+        "answer": "C",
+        "explanation": "C) Binding arbitration is the most definitive type of third-party intervention,\nbecause the arbitrator often has the power to determine and dictate the settlement terms. Unlike\nmediation and fact finding, arbitration can guarantee a solution to an impasse."
+    },
+    {
+        "chapter": "15",
+        "question_number": "81)",
+        "description": "Fact finding seeks to end an impasse by ________.",
+        "options": {
+            "A": "assisting the principals in reaching an agreement",
+            "B": "studying the issues and making a public recommendation",
+            "C": "interpreting and analyzing existing contract terms",
+            "D": "communicating assessments of the likelihood of a strike"
+        },
+        "answer": "B",
+        "explanation": "B) A fact finder is a neutral party who studies the issues in a dispute and makes a\npublic recommendation for a reasonable settlement."
+    },
+    {
+        "chapter": "15",
+        "question_number": "82)",
+        "description": "The National Air Traffic Controllers Association and the Federal Aviation Administration\nhave reached an impasse during collective bargaining. Which of the following will most likely\nbe used to reach a settlement?",
+        "options": {
+            "A": "fact finding",
+            "B": "mediation",
+            "C": "binding arbitration",
+            "D": "non-binding arbitration"
+        },
+        "answer": "A",
+        "explanation": "A) Presidential emergency fact-finding boards have successfully resolved impasses\nin certain critical transportation disputes. Mediation and arbitration are less likely to be used\nduring this national emergency strike."
+    },
+    {
+        "chapter": "15",
+        "question_number": "83)",
+        "description": "Which of the following terms refers to a strike that takes place when one union strikes in\nsupport of another union?",
+        "options": {
+            "A": "wildcat strike",
+            "B": "economic strike",
+            "C": "bargaining strike",
+            "D": "sympathy strike"
+        },
+        "answer": "D",
+        "explanation": "D) A sympathy strike occurs when one union strikes in support of the strike of\nanother union."
+    },
+    {
+        "chapter": "15",
+        "question_number": "84)",
+        "description": "A strike that results from a failure to agree on the terms of a contract, such as wages and\nbenefits, is known as a(n) ________ strike.",
+        "options": {
+            "A": "wildcat",
+            "B": "economic",
+            "C": "sympathy",
+            "D": "unfair labor practices"
+        },
+        "answer": "B",
+        "explanation": "B) An economic strike results from a failure to agree on the terms of a contract.\nUnions call unfair labor practice strikes to protest illegal conduct by the employer. A wildcat\nstrike is an unauthorized strike occurring during the term of a contract."
+    },
+    {
+        "chapter": "15",
+        "question_number": "85)",
+        "description": "Employers dealing with an unfair labor practice strike can use all of the following responses\nEXCEPT ________.",
+        "options": {
+            "A": "shutting down the affected area until the strike ends",
+            "B": "continuing operations with supervisors filling in",
+            "C": "hiring temporary replacement workers",
+            "D": "hiring permanent replacement workers"
+        },
+        "answer": "D",
+        "explanation": "D) Employers cannot permanently replace strikers who are protesting unfair labor\npractices. Shutting down affected areas, having managers fill in, and hiring temporary workers\nare options in such a situation."
+    },
+    {
+        "chapter": "15",
+        "question_number": "86)",
+        "description": "Union tactics designed to impede or disrupt production by encouraging employees to slow\nthe pace of work, refuse to work overtime, and participate in sick-outs are called ________.",
+        "options": {
+            "A": "inside games",
+            "B": "lockouts",
+            "C": "injunctions",
+            "D": "strikes"
+        },
+        "answer": "A",
+        "explanation": "A) Inside games are union efforts to convince employees to impede or to disrupt\nproduction, such as by slowing the work pace, refusing to work overtime. Inside games are\nbasically strikes in which the company continues to pay the employees."
+    },
+    {
+        "chapter": "15",
+        "question_number": "87)",
+        "description": "Manning Enterprises is experiencing an impasse between management and labor. As a result,\nthe union has made an organized effort to pressure Manning by picketing the homes of corporate\ndirectors and boycotting the firm's bank. Which of the following terms best describes the actions\nof Manning's union members?",
+        "options": {
+            "A": "wildcat strike",
+            "B": "inside games",
+            "C": "corporate campaign",
+            "D": "employee lockout"
+        },
+        "answer": "C",
+        "explanation": "C) Management and labor each have other weapons to break an impasse and\nachieve their aims. The union, for example, may resort to a corporate campaign. A corporate\ncampaign is an organized effort by the union that exerts pressure on the employer by pressuring\nthe company's other unions, shareholders, corporate directors, customers, creditors, and\ngovernment agencies."
+    },
+    {
+        "chapter": "15",
+        "question_number": "88)",
+        "description": "Smithson management has refused to provide union workers with work shifts as a result of\nreaching an impasse during collective bargaining. Which of the following best describes\nSmithson's actions?",
+        "options": {
+            "A": "lockout",
+            "B": "inside games",
+            "C": "illegal negotiation",
+            "D": "corporate campaign"
+        },
+        "answer": "A",
+        "explanation": "A) Employers can try to break an impasse with lockouts. A lockout is a refusal by\nthe employer to provide opportunities to work. It (sometimes literally) locks out employees and\nprohibits them from doing their jobs (and being paid)."
+    },
+    {
+        "chapter": "15",
+        "question_number": "89)",
+        "description": "What is the primary purpose of picketing?",
+        "options": {
+            "A": "informing the public about a labor dispute",
+            "B": "increasing the likelihood of a lockout",
+            "C": "gathering sympathy from employers",
+            "D": "encouraging union certification"
+        },
+        "answer": "A",
+        "explanation": "A) Picketing is one of the first activities to occur during a strike. The purpose is to\ninform the public about the labor dispute."
+    },
+    {
+        "chapter": "15",
+        "question_number": "100)",
+        "description": "Which of the following terms refers to the formal process for addressing any factor\ninvolving wages, hours, or conditions of employment that is used as a complaint against the\nemployer?",
+        "options": {
+            "A": "collective bargaining",
+            "B": "court injunction",
+            "C": "grievance procedure",
+            "D": "arbitration method"
+        },
+        "answer": "C",
+        "explanation": "C) The grievance procedure provides an orderly system whereby both employer\nand union determine whether some action violated the contract. The grievance process allows\nboth parties to interpret and give meaning to various clauses, and transforms the contract into a\n\"living organism.\""
+    },
+    {
+        "chapter": "15",
+        "question_number": "101)",
+        "description": "Jeff is a manager at a paper mill. He has received a grievance from a group of employees\nwho are union members. The grievance claims that a plant rule barring employees from eating\nduring unscheduled breaks is arbitrary and unfair. What should Jeff most likely do?",
+        "options": {
+            "A": "Discuss the case privately with the union steward.",
+            "B": "Agree to make informal changes to the rules.",
+            "C": "Examine the grievants' personnel records.",
+            "D": "Make special arrangements with grievants."
+        },
+        "answer": "C",
+        "explanation": "C) It is appropriate for Jeff to review the employees' personnel files. However,\ndiscussing the issue privately with the union steward, making informal rule changes, and making\nspecial arrangements are considered inappropriate methods for handling grievances."
+    },
+    {
+        "chapter": "15",
+        "question_number": "105)",
+        "description": "All of the following most likely explain the decline in union membership EXCEPT\n________.",
+        "options": {
+            "A": "improved wages and benefits",
+            "B": "increased global competition",
+            "C": "technological improvements",
+            "D": "just-in-time production systems"
+        },
+        "answer": "A",
+        "explanation": "A) Increased global competition and new technologies like the Internet and just-in-\ntime production systems forced employers to reduce inefficiencies and cut costs. Changes in\nsalaries and wages are less likely to be a cause."
+    },
+    {
+        "chapter": "15",
+        "question_number": "106)",
+        "description": "If passed, the Employee Free Choice Act would ________.",
+        "options": {
+            "A": "ban union membership for federal employees",
+            "B": "allow mass union e-mails at the workplace",
+            "C": "allow the formation of global unions",
+            "D": "institute a card check system"
+        },
+        "answer": "D",
+        "explanation": "D) Unions are pushing Congress to pass the Employee Free Choice Act. This\nwould make it more difficult for employers to inhibit workers from organizing. Instead of secret-\nballot elections, the act would institute a \"card check\" system. Here, the union would win\nrecognition when a majority of workers signed authorization cards saying they want the union."
+    },
+    {
+        "chapter": "15",
+        "question_number": "107)",
+        "description": "Vaughn Manufacturing develops and manufactures microphone components. Over the last\nfew years, the firm has made numerous HR changes with the goal of becoming a high-\nperformance work system. Vaughn employees work in self-directed teams, participate in regular\ntraining programs, and receive frequent performance appraisals. Vaughn executives want to\nmake sure that the firm's new methods are not perceived as sham unions. Which of the following\nwould most likely help Vaughn accomplish this goal?",
+        "options": {
+            "A": "allowing employee teams to bargain over wages",
+            "B": "increasing committee supervision by managers",
+            "C": "electing employee representatives to committees",
+            "D": "involving employees in program formation"
+        },
+        "answer": "D",
+        "explanation": "D) Involving workers in the formation of participation programs will minimize the\nappearance of sham unions. Firms should not allow teams to bargain, overly supervise\ncommittee activities, or elect representatives."
+    }
+]

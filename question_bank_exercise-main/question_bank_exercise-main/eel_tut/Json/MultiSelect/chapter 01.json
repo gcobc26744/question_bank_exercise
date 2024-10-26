@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "1",
+        "question_number": "1)",
+        "description": "The basic functions of the management process include all of the following EXCEPT\n________.",
+        "options": {
+            "A": "planning",
+            "B": "organizing",
+            "C": "outsourcing",
+            "D": "leading"
+        },
+        "answer": "C",
+        "explanation": "C) The five basic functions of the management process include planning,\norganizing, staffing, leading, and controlling. Outsourcing jobs may be an aspect of human\nresources, but it is not one of the primary management functions."
+    },
+    {
+        "chapter": "1",
+        "question_number": "2)",
+        "description": "Which of the following is the person responsible for accomplishing an organization's goals by\nmanaging the efforts of the organization's people?",
+        "options": {
+            "A": "manager",
+            "B": "entrepreneur",
+            "C": "generalist",
+            "D": "marketer"
+        },
+        "answer": "A",
+        "explanation": "A) The manager is the person responsible for accomplishing an organization's\ngoals by planning, organizing, staffing, leading, and controlling the efforts of the organization's\npeople. An entrepreneur may manage people or may hire a manager to do so instead, but\nentrepreneurs are defined as individuals who start their own businesses."
+    },
+    {
+        "chapter": "1",
+        "question_number": "3)",
+        "description": "Which of the following includes five basic functions—planning, organizing, staffing, leading,\nand controlling?",
+        "options": {
+            "A": "a job analysis",
+            "B": "strategic management",
+            "C": "the management process",
+            "D": "adaptability screening"
+        },
+        "answer": "C",
+        "explanation": "C) The management process includes five basic functions—planning, organizing,\nstaffing, leading, and controlling. Strategic management refers to the process of identifying and\nexecuting the organization's mission by matching its capabilities with the demands of its\nenvironment."
+    },
+    {
+        "chapter": "1",
+        "question_number": "4)",
+        "description": "Which function of the management process requires a manager to establish goals and\nstandards and to develop rules and procedures?",
+        "options": {
+            "A": "planning",
+            "B": "organizing",
+            "C": "staffing",
+            "D": "leading"
+        },
+        "answer": "A",
+        "explanation": "A) Planning, organizing, staffing, leading, and controlling are the five main\nfunctions of management. The planning function involves establishing goals and standards,\ndeveloping rules and procedures, and forecasting."
+    },
+    {
+        "chapter": "1",
+        "question_number": "5)",
+        "description": "Claire spends most of her time at work establishing goals for her staff of fifty employees and\ndeveloping procedures for various tasks. In which function of the management process does\nClaire spend most of her time?",
+        "options": {
+            "A": "leading",
+            "B": "controlling",
+            "C": "organizing",
+            "D": "planning"
+        },
+        "answer": "D",
+        "explanation": "D) The planning function of the management process requires managers to\nestablish goals and standards, develop rules and procedures, and develop plans and forecast."
+    },
+    {
+        "chapter": "1",
+        "question_number": "6)",
+        "description": "Jolene, a manager, delegates the authority for a project to Lee, her subordinate. Jolene is most\nlikely involved in which function of the management process?",
+        "options": {
+            "A": "staffing",
+            "B": "organizing",
+            "C": "motivating",
+            "D": "leading"
+        },
+        "answer": "B",
+        "explanation": "B) The organizing function of the management process includes delegating\nauthority to subordinates and establishing channels of communication. The organizing function\nalso includes establishing departments and coordinating the work of subordinates."
+    },
+    {
+        "chapter": "1",
+        "question_number": "7)",
+        "description": "When managers use metrics to assess performance and then develop strategies for corrective\naction, they are performing the ________ function of the management process.",
+        "options": {
+            "A": "planning",
+            "B": "leading",
+            "C": "controlling",
+            "D": "organizing"
+        },
+        "answer": "C",
+        "explanation": "C) The controlling function of the management process requires managers to set\nstandards such as sales quotas, quality, standards, or production levels. Managers then compare\nactual performance with the standards, which often involves the use of metrics. Corrective action\nis then taken when necessary."
+    },
+    {
+        "chapter": "1",
+        "question_number": "8)",
+        "description": "Which function of the management process includes selecting employees, setting performance\nstandards, and compensating employees?",
+        "options": {
+            "A": "organizing",
+            "B": "planning",
+            "C": "motivating",
+            "D": "staffing"
+        },
+        "answer": "D",
+        "explanation": "D) The staffing function of the management process determines what type of\npeople you should hire, recruiting prospective employees, selecting employees, training and\ndeveloping employees, setting performance standards, evaluating performance, counseling\nemployees, compensating employees."
+    },
+    {
+        "chapter": "1",
+        "question_number": "9)",
+        "description": "Larry, a manager at a commercial real estate firm, has established a monthly sales quota for\nhis sales team. Which basic function of management best describes Larry's actions?",
+        "options": {
+            "A": "planning",
+            "B": "organizing",
+            "C": "controlling",
+            "D": "staffing"
+        },
+        "answer": "C",
+        "explanation": "C) The controlling function involves setting standards such as sales quotas, quality\nstandards or production levels; checking to see how actual performance compares with these\nstandards; taking corrective action, as needed."
+    },
+    {
+        "chapter": "1",
+        "question_number": "10)",
+        "description": "________ is the process of acquiring, training, appraising, and compensating employees, and\nattending to their labor relations, health and safety, and fairness concerns.",
+        "options": {
+            "A": "Labor relations",
+            "B": "Human resource management",
+            "C": "Behavioral management",
+            "D": "Organizational health and safety management"
+        },
+        "answer": "B",
+        "explanation": "B) Human resource management is the process of acquiring, training, appraising,\nand compensating employees, and of attending to their labor relations, health and safety, and\nfairness concerns. HRM falls under the staffing function of the management process."
+    },
+    {
+        "chapter": "1",
+        "question_number": "11)",
+        "description": "In the management process, which of the following is an activity associated with the leading\nfunction?",
+        "options": {
+            "A": "motivating subordinates",
+            "B": "setting performance standards",
+            "C": "training new employees",
+            "D": "developing procedures"
+        },
+        "answer": "A",
+        "explanation": "A) The leading function of the management process requires a manager to get\nothers to get the job done; maintaining morale, and motivating subordinates."
+    },
+    {
+        "chapter": "1",
+        "question_number": "12)",
+        "description": "Personnel activities associated with human resource management most likely include all of\nthe following EXCEPT ________.",
+        "options": {
+            "A": "orienting and training new employees",
+            "B": "appraising employee performance",
+            "C": "building employee commitment",
+            "D": "developing customer relationships"
+        },
+        "answer": "D",
+        "explanation": "D) Human resource management involves numerous personnel-related activities,\nand HR managers are less likely to interact with customers. Managing compensation, orienting\nnew employees, appraising employee performance, and developing employee commitment are\ntypical aspects of the HR manager's job."
+    },
+    {
+        "chapter": "1",
+        "question_number": "13)",
+        "description": "Since human resources is important to all managers, which is NOT a personnel mistake a\nmanager wants to avoid making while managing?",
+        "options": {
+            "A": "waste time with useless interviews",
+            "B": "hire the wrong person",
+            "C": "have your people not doing their best",
+            "D": "experience low turnover"
+        },
+        "answer": "D",
+        "explanation": "D) Personnel mistakes a manager does not want to make while managing are\nhiring the wrong person for the job; experience high turnover; have your people not doing their\nbest; waste time with useless interviews; have your company taken to court because of your\ndiscriminatory actions; have your company cited under federal occupational safety laws for\nunsafe practices; have some employees think their salaries are unfair relative to others in the\norganization; allow a lack of training to undermine your department's effectiveness; commit any\nunfair labor practices."
+    },
+    {
+        "chapter": "1",
+        "question_number": "14)",
+        "description": "Approximately what percentage of people in the United States work for small firms?",
+        "options": {
+            "A": "10%",
+            "B": "25%",
+            "C": "50%",
+            "D": "80%"
+        },
+        "answer": "C",
+        "explanation": "C) More than half the people working in the United States work for small firms.\nSmall businesses as a group also account for most of the 600,000 or so new businesses created\nevery year."
+    },
+    {
+        "chapter": "1",
+        "question_number": "15)",
+        "description": "________ is the right to make decisions, to direct the work of others, and to give orders.",
+        "options": {
+            "A": "Leadership",
+            "B": "Authority",
+            "C": "Management",
+            "D": "Responsibility"
+        },
+        "answer": "B",
+        "explanation": "B) The right to make decisions, to direct the work of others, and to give orders is\nknown as authority."
+    },
+    {
+        "chapter": "1",
+        "question_number": "16)",
+        "description": "Which of the following best defines line authority?",
+        "options": {
+            "A": "management over a small staff in a public firm",
+            "B": "management with flexible decision-making powers",
+            "C": "a manager's right to advise other managers or employees",
+            "D": "a manager's right to issue orders to other managers or employees"
+        },
+        "answer": "D",
+        "explanation": "D) Line authority is a manager's right to issue orders to other managers or\nemployees, which creates a superior-subordinate relationship. Staff authority refers to a\nmanager's right to advise other managers or employees, which creates an advisory relationship."
+    },
+    {
+        "chapter": "1",
+        "question_number": "17)",
+        "description": "In most organizations, human resource managers are categorized as ________, who assist\nand advise ________ in areas like recruiting, hiring, and compensation.",
+        "options": {
+            "A": "staff managers; line managers",
+            "B": "line managers; middle managers",
+            "C": "line managers; staff managers",
+            "D": "functional managers; staff managers"
+        },
+        "answer": "A",
+        "explanation": "A) Human resource managers are usually staff managers. They assist and advise\nline managers in areas like recruiting, hiring, and compensation. However, line managers still\nhave human resource duties."
+    },
+    {
+        "chapter": "1",
+        "question_number": "18)",
+        "description": "Gerard is authorized to direct the work of subordinates and is responsible for accomplishing\nthe organization's tasks. Gerard is most likely a ________.",
+        "options": {
+            "A": "training specialist",
+            "B": "staff manager",
+            "C": "line manager",
+            "D": "recruiter"
+        },
+        "answer": "C",
+        "explanation": "C) A line manager is authorized to direct the work of subordinates and is\nresponsible for accomplishing the organization's tasks. Unlike line managers, staff managers lack\nthe authority to issue orders down the chain of command. Recruiters and training specialists are\nspecialties within the HR department, and HR managers are usually staff managers rather than\nline managers."
+    },
+    {
+        "chapter": "1",
+        "question_number": "19)",
+        "description": "Which of the following is NOT considered one of the line supervisor's responsibilities for\neffective human resources management under the general headings outlined by a major company\ndiscussed in the textbook?",
+        "options": {
+            "A": "protecting employees' health and physical condition",
+            "B": "changing employees' attitudes regarding work",
+            "C": "developing the abilities of each person",
+            "D": "interpreting the company policies and procedures"
+        },
+        "answer": "B",
+        "explanation": "B) The direct handling of people has always been part of every line manager's\nduties, from the president down to first-line supervisors. One major company outlines its line\nsupervisor's responsibilities for effective human resource management under these general\nheadings: placing the right person in the right job; starting new employees in the organization\n(orientation); training employees for jobs that are new to them; improving the job performance of\neach person; gaining cooperation, and developing smooth working relationships; interpreting the\ncompany's policies and procedures; controlling labor costs; developing the abilities of each\nperson; creating and maintaining department morale; protecting employees' health and physical\ncondition."
+    },
+    {
+        "chapter": "1",
+        "question_number": "20)",
+        "description": "A line manager's human resource responsibilities most likely include all of the following\nEXCEPT ________.",
+        "options": {
+            "A": "maintaining department morale",
+            "B": "controlling labor costs",
+            "C": "protecting employees' health",
+            "D": "marketing new products and services"
+        },
+        "answer": "D",
+        "explanation": "D) Human resource management most often involves creating and maintaining\ndepartment morale, controlling labor costs, and protecting employees' health and physical\ncondition. Handling personnel is an integral part of every line manager's duties, but marketing\nnew products is not a personnel issue and would be handled by the marketing department."
+    },
+    {
+        "chapter": "1",
+        "question_number": "21)",
+        "description": "Which of the following refers to the authority a manager has to advise other managers or\nemployees?",
+        "options": {
+            "A": "staff authority",
+            "B": "line authority",
+            "C": "functional authority",
+            "D": "corporate authority"
+        },
+        "answer": "C",
+        "explanation": "C) Staff authority refers to a manager's right to advise other managers or\nemployees, which creates an advisory relationship."
+    },
+    {
+        "chapter": "1",
+        "question_number": "22)",
+        "description": "Which of the following is most likely a line function of the human resource manager?",
+        "options": {
+            "A": "ensuring that line managers are implementing HR policies",
+            "B": "advising top managers about how to implement EEO laws",
+            "C": "representing the interests of employees to senior management",
+            "D": "directing the activities of subordinates in the HR department"
+        },
+        "answer": "D",
+        "explanation": "D) Directing members of the HR staff is a line function."
+    },
+    {
+        "chapter": "1",
+        "question_number": "23)",
+        "description": "One of the ________ functions of a human resource manager includes directing the activities\nof his or her subordinates in the HR department.",
+        "options": {
+            "A": "coordinative",
+            "B": "corporate",
+            "C": "staff",
+            "D": "line"
+        },
+        "answer": "D",
+        "explanation": "D) Line functions and staff functions are the distinct functions of HR managers.\nExamples of line functions include a human resource manager directing the activities of the\npeople in his or her own department."
+    },
+    {
+        "chapter": "1",
+        "question_number": "24)",
+        "description": "Will works at a position in his organization where he maintain contacts within the local\ncommunity and travels to search for qualified job applicants. Will's position is best described as:",
+        "options": {
+            "A": "recruiter",
+            "B": "manager",
+            "C": "labor relations specialist",
+            "D": "job analyst"
+        },
+        "answer": "A",
+        "explanation": "A) The recruiter maintains contacts within the community and perhaps travels\nextensively to search for qualified job applicants."
+    },
+    {
+        "chapter": "1",
+        "question_number": "25)",
+        "description": "________ functions involve assisting and advising line managers.",
+        "options": {
+            "A": "Staff",
+            "B": "Advocacy",
+            "C": "Line",
+            "D": "Coordinative"
+        },
+        "answer": "A",
+        "explanation": "A) Staff functions involve assisting and advising line managers."
+    },
+    {
+        "chapter": "1",
+        "question_number": "26)",
+        "description": "All of the following are major areas in which an HR manager assists and advises line\nmanagers EXCEPT ________.",
+        "options": {
+            "A": "recruiting",
+            "B": "hiring",
+            "C": "strategic business planning",
+            "D": "compensation"
+        },
+        "answer": "C",
+        "explanation": "C) Human resource managers are usually staff managers. They assist and advise\nline managers in areas like recruiting, hiring, and compensation."
+    },
+    {
+        "chapter": "1",
+        "question_number": "27)",
+        "description": "Human resource managers generally exert ________ within the human resources department\nand ________ outside the human resources department.",
+        "options": {
+            "A": "line authority; staff authority",
+            "B": "staff authority; line authority",
+            "C": "functional authority; line authority",
+            "D": "staff authority; implied authority"
+        },
+        "answer": "A",
+        "explanation": "A) HR managers usually have line authority in the HR department, which means\nthey have the right to direct the activities of the people in their own department. However,\noutside of the HR department, HR managers are likely to exert implied authority because line\nmanagers realize that the HR manager has top management's ear in areas like testing and\naffirmative action. Staff (assist and advise) function refers to a manager's authority to advise\nmanagers or employees outside of his or her department."
+    },
+    {
+        "chapter": "1",
+        "question_number": "28)",
+        "description": "The HR staff member who has the job of advising management on all aspects of union-\nmanagement aspects is the ________.",
+        "options": {
+            "A": "recruiter",
+            "B": "line manager",
+            "C": "compensation manager",
+            "D": "labor relations specialist"
+        },
+        "answer": "D",
+        "explanation": "D) The labor relations specialist advises management on all aspects of union-\nmanagement relations."
+    },
+    {
+        "chapter": "1",
+        "question_number": "29)",
+        "description": "All of the following are examples of human resource specialties EXCEPT ________.",
+        "options": {
+            "A": "job analyst",
+            "B": "financial advisor",
+            "C": "compensation manager",
+            "D": "labor relations specialist"
+        },
+        "answer": "B",
+        "explanation": "B) HR management specialties include recruiter, EEO coordinator, job analyst,\ncompensation manager, training specialist, and labor relations specialist. HR managers are less\nlikely to serve as financial advisors."
+    },
+    {
+        "chapter": "1",
+        "question_number": "30)",
+        "description": "Ralph works in the HR department and is in charge of developing the plans for how people\nare paid and how the employee benefits program is run. Ralph is most likely holding the position\nof:",
+        "options": {
+            "A": "training specialist",
+            "B": "recruiter",
+            "C": "compensation manager",
+            "D": "job analyst"
+        },
+        "answer": "C",
+        "explanation": "C) The compensation manager develops compensation plans and handles the\nemployee benefits program."
+    },
+    {
+        "chapter": "1",
+        "question_number": "31)",
+        "description": "Which of the following human resource management specialties calls for collecting data to\nwrite job descriptions?",
+        "options": {
+            "A": "job analyst",
+            "B": "job training specialist",
+            "C": "compensation manager",
+            "D": "EEO coordinator"
+        },
+        "answer": "A",
+        "explanation": "A) As a job analyst, a human resource manager collects and examines information\nabout jobs to prepare job descriptions."
+    },
+    {
+        "chapter": "1",
+        "question_number": "32)",
+        "description": "Which of the following focuses on using centralized call centers and outside vendors as a\nway to provide specialized support in day-to-day HR activities?",
+        "options": {
+            "A": "embedded HR units",
+            "B": "corporate HR groups",
+            "C": "HR centers of expertise",
+            "D": "shared HR groups"
+        },
+        "answer": "D",
+        "explanation": "D) Transactional (or shared) HR groups focus on using centralized call centers and\noutsourcing arrangements with vendors, such as benefits advisors, to provide specialized support\nin day-to-day transactional HR activities to a firm's employees. Activities may include changing\nbenefits plans and providing updated appraisal forms."
+    },
+    {
+        "chapter": "1",
+        "question_number": "33)",
+        "description": "An HR generalist at Wilson Manufacturing has been assigned to the sales department to\nprovide HR management assistance as needed. Which of the following best describes the\nstructure of the HR services provided at Wilson Manufacturing?",
+        "options": {
+            "A": "shared HR teams",
+            "B": "embedded HR teams",
+            "C": "centers of expertise",
+            "D": "corporate HR teams"
+        },
+        "answer": "B",
+        "explanation": "B) In the embedded HR teams structure, a HR generalist is assigned directly to a\ndepartment within an organization to provide localized human resource management assistance\nas needed."
+    },
+    {
+        "chapter": "1",
+        "question_number": "34)",
+        "description": "Roberta Whitman has recently been hired by Jackson Pharmaceuticals as the senior vice\npresident of human resources. Jackson Pharmaceuticals has a history of problems within its HR\ndepartment including difficulties recruiting and retaining qualified employees, EEO violations,\ninadequate employee training programs, and confusion regarding health benefit enrollment and\ncoverage. With years of experience transforming HR departments in other firms, Whitman\nbelieves she can correct the problems at Jackson Pharmaceuticals.\nWhich of the following best supports Whitman's idea to develop a shared services arrangement\nto handle benefits administration?",
+        "options": {
+            "A": "An embedded HR unit would assist top management with big picture issues as well as\nbenefits administration.",
+            "B": "Extensive training has been provided to line managers so that they fully understand the\ndifferent insurance options available to employees.",
+            "C": "Outside vendors specializing in all aspects of benefits administration would provide improved\nsupport to the firm's employees.",
+            "D": "Lower insurance premiums would eliminate the need for outsourcing services and improve\nemployee health coverage."
+        },
+        "answer": "C",
+        "explanation": "C) The shared services (or transactional) HR teams focus on using centralized call\ncenters and outsourcing arrangements with vendors (such as benefits advisors) to provide\nspecialized support in day-to-day transactional HR activities (such as changing benefits plans\nand providing updated appraisal forms) to the company's employees. By outsourcing benefits\nadministration, Jackson would allow HR managers to focus on other issues and enable benefits\nspecialists to handle benefits enrollment and coverage issues."
+    },
+    {
+        "chapter": "1",
+        "question_number": "35)",
+        "description": "Roberto Sanchez has recently been hired by Slate Pharmaceuticals as the senior vice\npresident of human resources. Slate Pharmaceuticals has a history of a variety of significant\nproblems within its HR department such as EEO violations, inadequate employee training\nprograms, and employee confusion regarding health benefit enrollment and coverage. With 20\nyears of experience transforming HR departments in other firms, Sanchez believes he can correct\nthe major problems at Slate Pharmaceuticals.\nWhich of the following best supports the argument that Sanchez should create embedded HR\nunits and assign relationship managers to each department within the company?",
+        "options": {
+            "A": "Employees frequently complain about the inconsistent assistance they receive from the HR\ndepartment due to its large size.",
+            "B": "The global nature of the firm makes it difficult for the HR department to effectively\ncommunicate corporate messages to employees scattered around the world.",
+            "C": "Centralized call centers would enable the HR department to provide specialized support on\ndaily transactional activities.",
+            "D": "Line managers want to implement additional screening and evaluations to improve the quality\nof their subordinates."
+        },
+        "answer": "A",
+        "explanation": "A) The embedded HR teams assign HR generalists (also known as \"relationship\nmanagers\" or \"HR business partners\") directly to departments like sales and production, to\nprovide the localized human resource management assistance the departments need. If\nemployees are unable to receive the HR assistance they need on a regular basis, then it would be\nappropriate for the firm to assign HR generalists to each department as a direct line to the HR\ndepartment."
+    },
+    {
+        "chapter": "1",
+        "question_number": "36)",
+        "description": "Which of the following areas is NOT a major area where human resource managers assist\nand advise line managers?",
+        "options": {
+            "A": "recruiting",
+            "B": "hiring",
+            "C": "compensation",
+            "D": "performance management"
+        },
+        "answer": "D",
+        "explanation": "D) Human resource managers assist and advise line managers in areas like\nrecruiting, hiring, and compensation."
+    },
+    {
+        "chapter": "1",
+        "question_number": "37)",
+        "description": "Which organization of the human resource function involves dedicated HR members that\nassist top management in issues such as developing the personnel aspects of the company's long-\nterm strategic plan?",
+        "options": {
+            "A": "embedded HR teams",
+            "B": "corporate HR teams",
+            "C": "centers of expertise",
+            "D": "shared services"
+        },
+        "answer": "B",
+        "explanation": "B) Corporate HR teams assist top management in top-level issues such as\ndeveloping the personnel aspects of the company's long-term strategic plan."
+    },
+    {
+        "chapter": "1",
+        "question_number": "38)",
+        "description": "The vice president of marketing tells a marketing manager to prepare a presentation by the\nend of the week. The vice president is most likely exercising which of the following?",
+        "options": {
+            "A": "staff authority",
+            "B": "procedural authority",
+            "C": "line authority",
+            "D": "functional authority"
+        },
+        "answer": "C",
+        "explanation": "C) Line authority traditionally gives managers the right to issue orders to other\nmanagers or employees. Line authority therefore creates a superior (order giver)–subordinate\n(order receiver) relationship. Staff authority gives a manager the right to advise other managers\nor employees. It creates an advisory relationship."
+    },
+    {
+        "chapter": "1",
+        "question_number": "39)",
+        "description": "Which HR specialty involves preparing job descriptions?",
+        "options": {
+            "A": "compensation manager",
+            "B": "EEO coordinator",
+            "C": "job analyst",
+            "D": "recruiter"
+        },
+        "answer": "C",
+        "explanation": "C) Job analysts collect and examine information about jobs to prepare job\ndescriptions. Compensation managers develop compensation plans and handle the employee\nbenefits program."
+    },
+    {
+        "chapter": "1",
+        "question_number": "40)",
+        "description": "Which of the following would most likely provide assistance to executives about long-term\nstrategic plans?",
+        "options": {
+            "A": "centers of expertise",
+            "B": "embedded HR teams",
+            "C": "corporate HR teams",
+            "D": "professional employee organizations"
+        },
+        "answer": "C",
+        "explanation": "C) The corporate HR teams focus on assisting top management in \"top level\" big\npicture issues such as developing and explaining the personnel aspects of the company's long-\nterm strategic plan. The centers of expertise are like specialized HR consulting firms within the\ncompany—for instance, they provide specialized advice in areas such as organizational change.\nThe embedded HR assigns HR generalists directly to departments like sales and production."
+    },
+    {
+        "chapter": "1",
+        "question_number": "63)",
+        "description": "Between 2012 and 2022 what ethnic group is projected to decrease as a percentage of the\nworkforce?",
+        "options": {
+            "A": "black",
+            "B": "Hispanic",
+            "C": "Asian",
+            "D": "white"
+        },
+        "answer": "D",
+        "explanation": "D) The percentage of the workforce that is white is expected to fall from 79.8% in\n2012 to 77.7% in 2022."
+    },
+    {
+        "chapter": "1",
+        "question_number": "64)",
+        "description": "________ refers to the tendency of firms to extend their sales, ownership, and/or\nmanufacturing to new markets abroad.",
+        "options": {
+            "A": "Expansion",
+            "B": "Globalization",
+            "C": "Export growth",
+            "D": "Diversification"
+        },
+        "answer": "B",
+        "explanation": "B) Globalization is the tendency of firms to extend their sales, ownership, and/or\nmanufacturing to new markets abroad. Firms usually expand globally to expand sales, cut labor\ncosts, or form partnerships with foreign firms."
+    },
+    {
+        "chapter": "1",
+        "question_number": "65)",
+        "description": "All of the following are the most common reasons that firms decide to globalize EXCEPT\n________.",
+        "options": {
+            "A": "lower costs",
+            "B": "supervising quality control methods",
+            "C": "make employees more productive",
+            "D": "to do things better"
+        },
+        "answer": "B",
+        "explanation": "B) Globalization compels employers to be more efficient. More globalization\nmeans more competition, and more competition means more pressure to be \"world class\"—to\nlower cost, to make employees more productive, and to do things better and less expensively."
+    },
+    {
+        "chapter": "1",
+        "question_number": "66)",
+        "description": "Which was NOT a change in the economic and political philosophies that drove the\nglobalization boom causing U.S. imports and exports to rise from $47 billion in 1960, to $562\nbillion in 1980, to about $5.1 trillion recently?",
+        "options": {
+            "A": "government dropped cross-border taxes or tariffs",
+            "B": "economic free trades areas were formed",
+            "C": "steps were taken to encourage free flow of trade among countries",
+            "D": "instability in the world labor market"
+        },
+        "answer": "D",
+        "explanation": "D) Globalization brings both benefits and threats to consumers. It means lower\nprices and higher quality on practically everything from computers to cars, but also the prospect\nof working harder, and perhaps having less secure jobs."
+    },
+    {
+        "chapter": "1",
+        "question_number": "67)",
+        "description": "Which of the following is NOT one of the five main types of digital technologies driving the\ntransfer of functionality from HR professionals to automation?",
+        "options": {
+            "A": "Email",
+            "B": "Social media",
+            "C": "Mobile applications",
+            "D": "Cloud computing"
+        },
+        "answer": "A",
+        "explanation": "A) While email is an important tool at work it is not one of the primary types of\ndigital technology that is transferring functionality to automation."
+    },
+    {
+        "chapter": "1",
+        "question_number": "68)",
+        "description": "What term refers to the knowledge, skills, and abilities of a firm's workers?",
+        "options": {
+            "A": "human resources",
+            "B": "human capital",
+            "C": "intangible assets",
+            "D": "contingent personnel"
+        },
+        "answer": "B",
+        "explanation": "B) Human capital is the knowledge, skills, and abilities of a firm's workers. In the\nmodern workforce, employment is shifting from manual workers to knowledge workers."
+    },
+    {
+        "chapter": "1",
+        "question_number": "69)",
+        "description": "Which of the following describes one of the most significant demographic trends facing the\nU.S. workforce?",
+        "options": {
+            "A": "increased number of aging workers",
+            "B": "decreased number of contingent workers",
+            "C": "increased number of blue-collar workers",
+            "D": "decreased number of bilingual workers"
+        },
+        "answer": "A",
+        "explanation": "A) One of the most significant demographic trends facing the U.S. workforce is the\nincreasing number of aging workers, who are those over age 55. There are not enough younger\nworkers to replace the projected number of baby boom era older-worker retirees. As a result,\nmany retirees are returning to the workforce."
+    },
+    {
+        "chapter": "1",
+        "question_number": "70)",
+        "description": "Over the next few years, employers may face a severe labor shortage because ________.",
+        "options": {
+            "A": "there are fewer people entering the workforce than there are retiring baby boomers",
+            "B": "one-third of single mothers are not employed in the U.S. labor force",
+            "C": "there are too many nontraditional workers holding multiple jobs",
+            "D": "older employees are more family-centric than younger employees"
+        },
+        "answer": "A",
+        "explanation": "A) Employers are faced with a possible labor shortage because baby boomers\naccount for a large percentage of the workforce. As these workers reach retirement age, younger\nworkers will need to fill the open positions, except there are fewer younger workers available.\nThe family-centric nature and poor work values of younger workers are problematic for\nemployers, but neither one is the cause of a labor shortage."
+    },
+    {
+        "chapter": "1",
+        "question_number": "71)",
+        "description": "What is the term for workforces like those at the company Uber, where freelancers and\nindependent contractors work when they can, on what they want to work on, and when the\ncompany needs them?",
+        "options": {
+            "A": "tele-commuters",
+            "B": "human capital",
+            "C": "job-analysts",
+            "D": "on-demand workers"
+        },
+        "answer": "D",
+        "explanation": "D) On-demand workers are freelancers and independent contractors who work\nwhen they can on what they want to work on, when the company needs them."
+    },
+    {
+        "chapter": "1",
+        "question_number": "72)",
+        "description": "Which of the following best describes a nontraditional worker?",
+        "options": {
+            "A": "workers near retirement age",
+            "B": "ethnically diverse workers",
+            "C": "workers with multiple jobs",
+            "D": "service-based workers"
+        },
+        "answer": "C",
+        "explanation": "C) Nontraditional workers include those who hold multiple jobs, or who are\n\"temporary\" or part-time workers, or who are working in alternative work arrangements. Today,\nalmost 10% of Americans workers fit this nontraditional workforce category."
+    },
+    {
+        "chapter": "1",
+        "question_number": "73)",
+        "description": "The recent trend where in some occupations (such as high-tech) unemployment rates are low,\nwhile in others unemployment rates are still very high and recruiters in many companies can't\nfind candidates, while in others there's a wealth of candidates is called:",
+        "options": {
+            "A": "talent analytics",
+            "B": "globalization",
+            "C": "the unbalanced labor force",
+            "D": "human capital"
+        },
+        "answer": "C",
+        "explanation": "C) The unbalanced labor force is shown in that in some occupations,\nunemployment rates are low, while in others, unemployment rates are still very high. In some\nindustries, recruiters in many companies can't find candidates, while in others there's a wealth of\ncandidates."
+    },
+    {
+        "chapter": "1",
+        "question_number": "74)",
+        "description": "Approximately how many people now use information technology to work from remote\nlocations at least once per month?",
+        "options": {
+            "A": "1 million",
+            "B": "5 million",
+            "C": "17 million",
+            "D": "50 million"
+        },
+        "answer": "B",
+        "explanation": "B) About 17 million people now use information technology to work from remote\nlocations at least once per month."
+    },
+    {
+        "chapter": "1",
+        "question_number": "75)",
+        "description": "Which term refers to exporting jobs to lower-cost locations abroad?",
+        "options": {
+            "A": "freelancing",
+            "B": "offshoring",
+            "C": "rightsizing",
+            "D": "warehousing"
+        },
+        "answer": "B",
+        "explanation": "B) Many organizations are moving jobs offshore, exporting jobs to lower-cost\nlocations abroad."
+    },
+    {
+        "chapter": "1",
+        "question_number": "76)",
+        "description": "Tools such as Twitter, Facebook, and LinkedIn that can be used to recruit new employees are\nknown as:",
+        "options": {
+            "A": "data analytics",
+            "B": "social media",
+            "C": "mobile applications",
+            "D": "cloud computing"
+        },
+        "answer": "B",
+        "explanation": "B) Employers increasingly use social media tools such as Twitter, Facebook, and\nLinkedIn (rather than, say, as many employment agencies) to recruit new employees."
+    },
+    {
+        "chapter": "1",
+        "question_number": "77)",
+        "description": "________ involves using statistical techniques, algorithms, and problem-solving to identify\nrelationships among data for the purpose of solving particular problems.",
+        "options": {
+            "A": "Data analytics",
+            "B": "Social media",
+            "C": "Cloud computing",
+            "D": "Gaming"
+        },
+        "answer": "A",
+        "explanation": "A) Data analytics is using statistical techniques, algorithms, and problem-solving\nto identify relationships among data for the purpose of solving particular problems."
+    },
+    {
+        "chapter": "1",
+        "question_number": "86)",
+        "description": "________ involves formulating and executing human resource policies and practices that\nproduce the employee competencies and behaviors the company needs to achieve its strategic\naims.",
+        "options": {
+            "A": "Employee engagement",
+            "B": "Data analytics",
+            "C": "Strategic human resource management",
+            "D": "Sustainability"
+        },
+        "answer": "C",
+        "explanation": "C) Strategic human resource management involves formulating and executing\nhuman resource policies and practices that produce the employee competencies and behaviors\nthe company needs to achieve its strategic aims."
+    },
+    {
+        "chapter": "1",
+        "question_number": "87)",
+        "description": "About what percentage of all job openings are now posted online?",
+        "options": {
+            "A": "15%",
+            "B": "35%",
+            "C": "50%",
+            "D": "70%"
+        },
+        "answer": "D",
+        "explanation": "D) Approximately 70% of all job openings are now posted online."
+    },
+    {
+        "chapter": "1",
+        "question_number": "88)",
+        "description": "Which of the following is an aspect of \"distributed\" HR?",
+        "options": {
+            "A": "more centralized HRM decisions",
+            "B": "HRM tasks redistributed to the company's employees and line managers",
+            "C": "more paperwork",
+            "D": "HR professional embedded in all departments"
+        },
+        "answer": "B",
+        "explanation": "B) Distributed HR involves more and more human resource management tasks\nbeing redistributed from a central HR department to the company's employees and line\nmanagers, thanks to digital technologies like mobile phones and social media."
+    },
+    {
+        "chapter": "1",
+        "question_number": "89)",
+        "description": "According to the textbook, approximately what percentage of job seekers used Glassdoor\nduring their job search to learn about a company they might apply for?",
+        "options": {
+            "A": "11%",
+            "B": "32%",
+            "C": "48%",
+            "D": "70%"
+        },
+        "answer": "C",
+        "explanation": "C) According to one report, 48% of job seekers surveyed said they've used\nGlassdoor during their job search, including checking before applying for employment at a\ncompanies."
+    },
+    {
+        "chapter": "1",
+        "question_number": "90)",
+        "description": "Strategic human resource management refers to ________.",
+        "options": {
+            "A": "formulating and executing human resource policies and practices that produce the employee\ncompetencies and behaviors the company needs to achieve strategic aims",
+            "B": "planning the balance of internal strengths and weaknesses with external opportunities and\nthreats to maintain competitive advantage",
+            "C": "emphasizing the knowledge, education, training, skills, and expertise of a firm's workers",
+            "D": "extending a firm's sales, ownership, and manufacturing to new markets"
+        },
+        "answer": "A",
+        "explanation": "A) Strategic human resource management involves formulating and executing\nhuman resource policies and practices that produce the employee competencies and behaviors\nthe company needs to achieve strategic aims. Strategic human resource plans enable a company\nto hire the employees who will exhibit the behaviors the company needs to accomplish its goals."
+    },
+    {
+        "chapter": "1",
+        "question_number": "91)",
+        "description": "________ refers to ensuring that the human resources management function is delivering its\nservices efficiently.",
+        "options": {
+            "A": "Strategic planning",
+            "B": "Strategic human resource management",
+            "C": "HR department lever",
+            "D": "Human resource scorecard approach"
+        },
+        "answer": "C",
+        "explanation": "C) Today's human resources manager is in a powerful position to improve the\nfirm's performance and profitability and uses three main levers to do so. One is the HR\ndepartment lever which ensures that the human resource management function is delivering its\nservices efficiently."
+    },
+    {
+        "chapter": "1",
+        "question_number": "92)",
+        "description": "Evidence-based human resource management relies on all of the following types of evidence\nEXCEPT ________.",
+        "options": {
+            "A": "scientific rigor",
+            "B": "existing data",
+            "C": "research studies",
+            "D": "qualitative opinions"
+        },
+        "answer": "D",
+        "explanation": "D) Qualitative information or opinions are not characteristic of evidence-based HR\nmanagement because neither can be measured. Evidence-based human resource management is\nbased on the use of data, facts, analytics, scientific rigor, critical evaluation, and critically\nevaluated research/case studies to support human resource management proposals, decisions,\npractices, and conclusions."
+    },
+    {
+        "chapter": "1",
+        "question_number": "93)",
+        "description": "Which term refers to the HR manager putting into place the policies and practices that\nproduce the employee competencies and skills the company needs to achieve its strategic goals?",
+        "options": {
+            "A": "HR department lever",
+            "B": "strategic results lever",
+            "C": "practices",
+            "D": "employee cost lever"
+        },
+        "answer": "B",
+        "explanation": "B) Today's human resources manager is in a powerful position to improve the\nfirm's performance and profitability and uses three main levers to do so. One is the strategic\nresults lever which puts in place the policies and practices that produce the employee\ncompetencies and skills the company needs to achieve its strategic goals."
+    },
+    {
+        "chapter": "1",
+        "question_number": "94)",
+        "description": "________ refers to being psychologically involved in, connected to, and committed to\ngetting one's jobs done.",
+        "options": {
+            "A": "Ethics",
+            "B": "Sustainability",
+            "C": "Human capital",
+            "D": "Employee engagement"
+        },
+        "answer": "D",
+        "explanation": "D) Employee engagement refers to being psychologically involved in, connected\nto, and committed to getting one's jobs done. Engaged employees \"experience a high level of\nconnectivity with their work tasks,\" and therefore work hard to accomplish their task-related\ngoal."
+    },
+    {
+        "chapter": "1",
+        "question_number": "101)",
+        "description": "Which of the following refers to the standards someone uses to decide what his or her\nconduct should be?",
+        "options": {
+            "A": "ethics",
+            "B": "strategies",
+            "C": "preferences",
+            "D": "competencies"
+        },
+        "answer": "A",
+        "explanation": "A) Ethics is the standards used by individuals to determine how to behave or act.\nIn human resources, ethics relates to the decisions made by HR managers regarding workplace\nsafety, security of employee records, employee theft, affirmative action, comparable work, and\nemployee privacy rights."
+    },
+    {
+        "chapter": "1",
+        "question_number": "102)",
+        "description": "Which organization provides professional certification for human resource managers?",
+        "options": {
+            "A": "Association of Certified HR Managers",
+            "B": "Society for Human Resource Management",
+            "C": "Academy of Human Resource Executives",
+            "D": "Association of Business Administration"
+        },
+        "answer": "B",
+        "explanation": "B) The Society for Human Resource Management (SHRM) provides professional\ncertification to HR managers. SHRM exams test the professional's knowledge of all aspects of\nhuman resource management, including ethics, management practices, staffing, development,\ncompensation, labor relations, and health and safety."
+    },
+    {
+        "chapter": "1",
+        "question_number": "103)",
+        "description": "Which of the following is NOT a HR certification?",
+        "options": {
+            "A": "HRCI's Professional in Human Resources (PHR)",
+            "B": "HRCI's Senior Professional in Human Resources (SPHR)",
+            "C": "SHRM Junior Professional",
+            "D": "SHRM Certified Professional"
+        },
+        "answer": "C",
+        "explanation": "C) The HRCI awards several credentials, including Professional in Human\nResources (PHR) and Senior Professional in Human Resources (SPHR). SHRM offers SHRM\nCertified Professionals and SHRM Senior Certified Professionals."
+    },
+    {
+        "chapter": "1",
+        "question_number": "104)",
+        "description": "Which SHRM HR manager competency involves the ability to provide guidance to\norganizational stakeholders?",
+        "options": {
+            "A": "consultation",
+            "B": "ethical practice",
+            "C": "business acumen",
+            "D": "critical evaluation"
+        },
+        "answer": "A",
+        "explanation": "A) The SHRM HR manager competency of consultation involves the ability to\nprovide guidance to organizational stakeholders."
+    },
+    {
+        "chapter": "1",
+        "question_number": "105)",
+        "description": "Pablo has the ability to understand and apply information with which to contribute to his\norganization's overall strategic plan. This is the SHRM HR competency of:",
+        "options": {
+            "A": "communication",
+            "B": "critical evaluation",
+            "C": "business acumen",
+            "D": "leadership & navigation"
+        },
+        "answer": "C",
+        "explanation": "C) The SHRM HR manager competency of business acumen is the ability to\nunderstand and apply information with which to contribute to the organization's strategic plan."
+    },
+    {
+        "chapter": "1",
+        "question_number": "106)",
+        "description": "Which SHRM HR manager competency involves the ability to effectively exchange\ninformation with stakeholders?",
+        "options": {
+            "A": "relationship management",
+            "B": "communication",
+            "C": "ethical practice",
+            "D": "controlling"
+        },
+        "answer": "B",
+        "explanation": "B) Communication is the competency that relates to the ability to effectively\nexchange information with stakeholders."
+    }
+]

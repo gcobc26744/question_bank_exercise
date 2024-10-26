@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "5",
+        "question_number": "1)",
+        "description": "What is the first step in the recruitment and selection process?",
+        "options": {
+            "A": "performing initial screening interviews",
+            "B": "building a pool of candidates",
+            "C": "performing candidate background checks",
+            "D": "deciding what positions to fill"
+        },
+        "answer": "D",
+        "explanation": "D) The first step of the recruitment and selection process is deciding what\npositions to fill through personnel planning and forecasting."
+    },
+    {
+        "chapter": "5",
+        "question_number": "2)",
+        "description": "Which of the following terms refers to the background investigations, tests, and physical\nexams that firms use to identify viable candidates for a job?",
+        "options": {
+            "A": "selection tools",
+            "B": "job analysis methods",
+            "C": "personnel techniques",
+            "D": "forecasting tools"
+        },
+        "answer": "A",
+        "explanation": "A) Selection tools, such as tests, background investigations, and physical exams,\nare used by firms to identify viable candidates for a job. After candidates complete applications\nand undergo initial screening interviews, a firm uses these selection tools before interviewing the\ncandidate more thoroughly or making a job offer."
+    },
+    {
+        "chapter": "5",
+        "question_number": "3)",
+        "description": "________ is the process of deciding what positions the firm will have to fill and how to fill\nthem.",
+        "options": {
+            "A": "Recruitment",
+            "B": "Selection",
+            "C": "Job analysis",
+            "D": "Workforce planning"
+        },
+        "answer": "D",
+        "explanation": "D) Workforce (or employment or personnel) planning is the process of deciding\nwhat positions the firm will have to fill and how to fill them. The process embraces all future\npositions from maintenance workers to CEO, and flows from the firm's strategic plans."
+    },
+    {
+        "chapter": "5",
+        "question_number": "4)",
+        "description": "Marcus, an HR manager for Samsung, must decide what positions the firm should fill in the\nnext six months, which means Marcus is currently working on ________.",
+        "options": {
+            "A": "screening job candidates",
+            "B": "personnel planning",
+            "C": "interviewing job candidates",
+            "D": "writing job descriptions"
+        },
+        "answer": "B",
+        "explanation": "B) Workforce (or employment or personnel) planning is the process of deciding\nwhat positions the firm will have to fill and how to fill them. The process embraces all future\npositions from maintenance workers to CEO, and flows from the firm's strategic plans."
+    },
+    {
+        "chapter": "5",
+        "question_number": "5)",
+        "description": "The process of deciding how to fill executive positions at a firm is known as ________.",
+        "options": {
+            "A": "internal recruiting",
+            "B": "succession planning",
+            "C": "long-term forecasting",
+            "D": "advanced interviewing"
+        },
+        "answer": "B",
+        "explanation": "B) Succession planning refers to the process of deciding how to fill executive\npositions at a firm. The process is also known as workforce (or employment or personnel)\nplanning, although most firms use the term succession planning when determining how to fill top\nmanagement positions."
+    },
+    {
+        "chapter": "5",
+        "question_number": "6)",
+        "description": "A firm's ________ should guide employment planning and determine the types of skills and\ncompetencies the firm needs.",
+        "options": {
+            "A": "job analysis",
+            "B": "organization chart",
+            "C": "marketing planning",
+            "D": "strategic business planning"
+        },
+        "answer": "D",
+        "explanation": "D) Workforce planning shouldn't occur in a vacuum. Instead,\nworkforce/employment planning is best understood as an outgrowth of the firm's strategic and\nbusiness planning."
+    },
+    {
+        "chapter": "5",
+        "question_number": "7)",
+        "description": "Succession planning requires making forecasts of in three steps: ________, develop inside\ncandidates, assess and choose those who will fill the key position.",
+        "options": {
+            "A": "identify key needs",
+            "B": "job specifications",
+            "C": "global trends",
+            "D": "labor relations"
+        },
+        "answer": "A",
+        "explanation": "A) The succession planning process is ongoing. It entails three steps: identify key\nneeds, develop inside candidates, and assess and choose those who will fill the key position."
+    },
+    {
+        "chapter": "5",
+        "question_number": "8)",
+        "description": "Which of the following terms refers to studying a firm's past employment needs over a period\nof years to predict future needs?",
+        "options": {
+            "A": "ratio analysis",
+            "B": "trend analysis",
+            "C": "graphical analysis",
+            "D": "computer analysis"
+        },
+        "answer": "B",
+        "explanation": "B) A trend analysis is the study of a firm's variation of past employment levels\nover a period of years to predict future needs. The purpose of a trend analysis is to identify trends\nthat might continue into the future. A trend analysis can provide firms with an initial estimate of\nfuture staffing needs."
+    },
+    {
+        "chapter": "5",
+        "question_number": "9)",
+        "description": "A trend analysis is limited in its usefulness because it ________.",
+        "options": {
+            "A": "overlooks the passage of time in regards to staffing",
+            "B": "addresses only the financial impact of employment changes",
+            "C": "assumes constant increases in worker productivity",
+            "D": "overlooks the potential for changes in skills needed"
+        },
+        "answer": "D",
+        "explanation": "D) Trend analysis provides an initial estimate of future staffing needs, but\nemployment levels rarely depend only on the passage of time. Factors such as changes in needed\nskills, productivity, and voluntary withdrawals also affect staffing needs, which is why a trend\nanalysis is limited in its usefulness."
+    },
+    {
+        "chapter": "5",
+        "question_number": "10)",
+        "description": "Which of the following determines future staff needs by using ratios between a causal factor\nand the number of employees required?",
+        "options": {
+            "A": "ratio analysis",
+            "B": "forecasting ratio",
+            "C": "personnel ratio",
+            "D": "ratio matrix"
+        },
+        "answer": "A",
+        "explanation": "A) A ratio analysis is a forecasting technique for determining future staff needs by\nusing ratios between, for example, sales volume and the number of employees required. For\nexample, if a salesperson usually generates $500,000 in sales, and a firm hopes to produce an\nextra $3 million in sales, then six new salespeople would need to be hired."
+    },
+    {
+        "chapter": "5",
+        "question_number": "11)",
+        "description": "Newton Building Supplies hopes to generate an extra $4 million in sales next year. A\nsalesperson traditionally generates $800,000 in sales each year. Using ratio analysis, how many\nnew salespeople should Newton hire?",
+        "options": {
+            "A": "2",
+            "B": "5",
+            "C": "10",
+            "D": "20"
+        },
+        "answer": "B",
+        "explanation": "B) Ratio analysis is used to make a forecast in this case based on the number of\nsalespeople and sales volume. Four million in sales divided by the $800,000 generated by each\nsalesperson indicates that 5 extra salespeople should be hired by Newton."
+    },
+    {
+        "chapter": "5",
+        "question_number": "12)",
+        "description": "When using either a trend analysis or a ratio analysis, it is assumed that ________ will\nremain the same.",
+        "options": {
+            "A": "staffing levels",
+            "B": "currency rates",
+            "C": "productivity levels",
+            "D": "recruitment plans"
+        },
+        "answer": "C",
+        "explanation": "C) Both a trend analysis and a ratio analysis assume that productivity remains\nabout the same. For example, when using a ratio analysis, an assumption is made that you cannot\nmotivate a salesperson to produce more than he or she has sold in the past. With a trend analysis,\nhistorical productivity trends are used and are the basis for predicting the future."
+    },
+    {
+        "chapter": "5",
+        "question_number": "13)",
+        "description": "A ________ is a graphical method used to help identify how two variables are related.",
+        "options": {
+            "A": "trend analysis",
+            "B": "ratio analysis",
+            "C": "scatter plot",
+            "D": "productivity chart"
+        },
+        "answer": "C",
+        "explanation": "C) A scatter plot graphically illustrates the relationship between two variables such\nas sales and your firm's staffing levels."
+    },
+    {
+        "chapter": "5",
+        "question_number": "14)",
+        "description": "Pablo wants to figure out likely future employment needs for Slate Industries by examining\npast organizational employment needs of the company. This is an example of:",
+        "options": {
+            "A": "a qualification inventory",
+            "B": "ratio analysis",
+            "C": "succession planning",
+            "D": "trend analysis"
+        },
+        "answer": "D",
+        "explanation": "D) A trend analysis is a study of a firm's past employment needs over a period of\nyears to predict future employment needs."
+    },
+    {
+        "chapter": "5",
+        "question_number": "15)",
+        "description": "Which of the following contains data regarding employees' education, career development,\nand special skills and is used by managers when selecting inside candidates for promotion?",
+        "options": {
+            "A": "computerized forecasting tools",
+            "B": "qualifications inventories",
+            "C": "trend records",
+            "D": "scatter plots"
+        },
+        "answer": "B",
+        "explanation": "B) Qualifications or skills inventories are used by managers when determining\nwhich employees should be promoted or transferred. A skills inventory contains data on\nemployees' performance records, educational background, and promotability."
+    },
+    {
+        "chapter": "5",
+        "question_number": "16)",
+        "description": "When managers need to determine which current employees are available for promotion or\ntransfer, they will most likely use ________.",
+        "options": {
+            "A": "scatter plots",
+            "B": "skills inventories",
+            "C": "estimated sales trends",
+            "D": "personnel forecasts"
+        },
+        "answer": "B",
+        "explanation": "B) Skills inventories are manual or computerized records listing employees'\neducation, career and development interests, languages, and special skills. They are used in\nselecting inside candidates for promotion or transfer."
+    },
+    {
+        "chapter": "5",
+        "question_number": "17)",
+        "description": "Which of the following refers to company records showing present performance and\npromotability of inside candidates for a firm's top positions?",
+        "options": {
+            "A": "yield pyramids",
+            "B": "trend analysis charts",
+            "C": "succession planning tools",
+            "D": "personnel replacement charts"
+        },
+        "answer": "D",
+        "explanation": "D) Personnel replacement charts are company records showing present\nperformance and promotability of inside candidates for a firm's top positions. Such charts show\nthe present performance and promotability for each position's potential replacement."
+    },
+    {
+        "chapter": "5",
+        "question_number": "18)",
+        "description": "Qualifications inventories can be tracked and maintained by using all of the following\nEXCEPT a ________.",
+        "options": {
+            "A": "ratio analysis matrix",
+            "B": "personnel replacement chart",
+            "C": "position replacement card",
+            "D": "skills inventory software"
+        },
+        "answer": "A",
+        "explanation": "A) Personnel replacement charts, position replacement cards, and skills inventory\nsoftware are all tools for tracking and maintaining qualifications inventories."
+    },
+    {
+        "chapter": "5",
+        "question_number": "19)",
+        "description": "Workforce planning often involves paying continuous attention to workforce planning issues\nwhich is called:",
+        "options": {
+            "A": "personnel replacement chart",
+            "B": "predictive workforce monitoring",
+            "C": "personnel replacement charts",
+            "D": "yield pyramids"
+        },
+        "answer": "B",
+        "explanation": "B) Paying continuous attention to workforce planning issues is called predictive\nworkforce monitoring."
+    },
+    {
+        "chapter": "5",
+        "question_number": "20)",
+        "description": "What mathematical process do employers use to forecast availability of internal job\ncandidates that shows the probabilities that feeder positions in a chain will be filled?",
+        "options": {
+            "A": "trend analysis",
+            "B": "access analysis",
+            "C": "Markov analysis",
+            "D": "workforce analysis"
+        },
+        "answer": "C",
+        "explanation": "C) Markov analysis is used to forecast availability of internal job candidates by\nshowing the probabilities that employees in the chain of feeder positions for a key job will move\nfrom position to position and therefore be available to fill the key position."
+    },
+    {
+        "chapter": "5",
+        "question_number": "21)",
+        "description": "Marie Boyd has been hired by Barnum Hotels to manage staffing for the regional hotel\nchain. Barnum intends to open two new hotels within the next three years and will have many\njob positions to fill. Historically, employee turnover is high at Barnum as employees remain with\nthe company for one or two years before quitting. Marie realizes that Barnum needs to make\nsignificant changes in its personnel strategy in order to meet the company's goals for the future\nand improve employee retention rates.\nWhich of the following, if true, best supports the argument that a scatter plot is the most\nappropriate tool for Marie to use in estimating future personnel needs?",
+        "options": {
+            "A": "Productivity levels for Barnum employees typically vary from month to month.",
+            "B": "The size of the two new Barnum hotels will be similar to the chain's other hotels.",
+            "C": "Barnum requires HR to maintain qualifications inventories for all current employees.",
+            "D": "Personnel replacement charts serve as useful tools when filling Barnum's managerial\npositions."
+        },
+        "answer": "B",
+        "explanation": "B) Scatter plots graphically show how two variables are related, such as hotel size\nand staffing levels. Marie should be able to estimate personnel needs if the new hotels are the\nsame size as current ones. Productivity levels, qualifications inventories, and replacement charts\nare less important factors."
+    },
+    {
+        "chapter": "5",
+        "question_number": "22)",
+        "description": "Marie Boyd has been hired by Barnum Hotels to manage staffing for the regional hotel\nchain. Barnum intends to open two new hotels within the next three years and will have many\njob positions to fill. Historically, employee turnover is high at Barnum as employees remain with\nthe company for one or two years before quitting. Marie realizes that Barnum needs to make\nsignificant changes in its personnel strategy in order to meet the company's goals for the future\nand improve employee retention rates.\nWhich of the following, if true, best supports the argument that Marie should implement a\ncomputerized skills inventory database?",
+        "options": {
+            "A": "Barnum offers its employees the opportunities to participate in job rotation and job expansion\nexperiences.",
+            "B": "Barnum's recruiting yield pyramid indicates that the firm should generate 1,000 leads in order\nto fill 100 positions.",
+            "C": "Barnum executives would like to transfer the firm's most qualified employees to the new\nhotels to fill supervisory positions.",
+            "D": "HR managers at Barnum frequently receive discrimination complaints that must be\ninvestigated by the EEOC."
+        },
+        "answer": "C",
+        "explanation": "C) Computerized skills inventory databases provide firms with easy access to\ninformation about all employees. If Barnum wants to hire internally, then a database would\nprovide the skills inventory needed to determine the most qualified candidates to staff the new\nhotels. Recruiting, job rotation, and discrimination claims are less relevant to implementing a\ncomputerized skills inventory database."
+    },
+    {
+        "chapter": "5",
+        "question_number": "23)",
+        "description": "The ongoing process of systematically identifying, assessing, and developing organizational\nleadership to enhance performance is known as ________.",
+        "options": {
+            "A": "employee mentoring",
+            "B": "succession planning",
+            "C": "work sampling",
+            "D": "employee recruiting"
+        },
+        "answer": "B",
+        "explanation": "B) Succession planning is the ongoing process of systematically identifying,\nassessing, and developing organizational leadership to enhance performance. Succession\nplanning is necessary when a firm is filling its top positions from internal candidates. The\nprocess involves identifying key needs, creating and assessing candidates, and selecting those\nwho will fill the key positions."
+    },
+    {
+        "chapter": "5",
+        "question_number": "24)",
+        "description": "What is the first step in succession planning?",
+        "options": {
+            "A": "creating an applicant pool",
+            "B": "identifying and analyzing key position needs",
+            "C": "selecting who will fill key positions",
+            "D": "developing the strengths of current employees"
+        },
+        "answer": "B",
+        "explanation": "B) The first step in succession planning is identifying a firm's future key position\nneeds and then formulating job descriptions and specifications for them. The key needs are based\non the company's future plans."
+    },
+    {
+        "chapter": "5",
+        "question_number": "25)",
+        "description": "All of the following are methods used by firms to develop high-potential candidates for\nfuture positions EXCEPT ________.",
+        "options": {
+            "A": "providing internal training",
+            "B": "implementing job rotation",
+            "C": "offering global assignments",
+            "D": "developing skills inventories"
+        },
+        "answer": "D",
+        "explanation": "D) Employers develop candidates through internal training, cross-functional\nexperiences, job rotation, external training, and global/regional assignments. Skills inventories\nare records that list employees' qualifications."
+    },
+    {
+        "chapter": "5",
+        "question_number": "26)",
+        "description": "A Markov analysis is primarily used to ________.",
+        "options": {
+            "A": "predict the long-term employment needs in an industry",
+            "B": "assess the productivity and tenure of a job applicant",
+            "C": "forecast the availability of internal job candidates",
+            "D": "analyze the effectiveness of recruitment sources"
+        },
+        "answer": "C",
+        "explanation": "C) Employers use a mathematical process known as Markov analysis to forecast\navailability of internal job candidates. Markov analysis involves creating a matrix that shows the\nprobabilities that employees in the chain of feeder positions for a key job will move from\nposition to position and therefore be available to fill the key position."
+    },
+    {
+        "chapter": "5",
+        "question_number": "27)",
+        "description": "Smith Industries is thinking of having another company take care of its benefits\nmanagement. This is called:",
+        "options": {
+            "A": "outsourcing",
+            "B": "recruiting",
+            "C": "telecommuting",
+            "D": "screening"
+        },
+        "answer": "A",
+        "explanation": "A) Outsourcing means having outside vendors supply services (such as benefits\nmanagement, market research, or manufacturing) that the company's own employees previously\ndid in-house."
+    },
+    {
+        "chapter": "5",
+        "question_number": "28)",
+        "description": "Dixon Industries wants to engage in predictive workforce monitoring. As the HR manager at\nDixon, you should most likely ________.",
+        "options": {
+            "A": "continuously monitor workforce planning issues",
+            "B": "primarily use recruiters for top executive jobs",
+            "C": "frequently assess the online HR scorecard",
+            "D": "regularly implement the Markov analysis"
+        },
+        "answer": "A",
+        "explanation": "A) Workforce planning therefore often involves paying continuous attention to\nworkforce planning issues. Managers call this predictive workforce monitoring."
+    },
+    {
+        "chapter": "5",
+        "question_number": "38)",
+        "description": "Bob needs to find and attract applicants to his company's open positions, which is known as\n________.",
+        "options": {
+            "A": "trend analysis",
+            "B": "engagement",
+            "C": "staffing",
+            "D": "employee recruiting"
+        },
+        "answer": "D",
+        "explanation": "D) Employee recruiting means finding and/or attracting applicants for the\nemployer's open positions."
+    },
+    {
+        "chapter": "5",
+        "question_number": "39)",
+        "description": "Finding or attracting applicants for an employer's open positions is known as ________.",
+        "options": {
+            "A": "succession planning",
+            "B": "employee recruiting",
+            "C": "personnel planning",
+            "D": "job posting"
+        },
+        "answer": "B",
+        "explanation": "B) Employee recruiting is the process of finding or attracting applicants for an\nemployer's open positions. Recruiting involves building up an applicant pool by posting jobs and\nsuccession planning, which is the process of internally filling executive jobs."
+    },
+    {
+        "chapter": "5",
+        "question_number": "40)",
+        "description": "Recruiting is necessary to ________.",
+        "options": {
+            "A": "determine whether to use inside or outside candidates",
+            "B": "forecast the short-term supply of outside candidates",
+            "C": "create positive word-of-mouth about a firm",
+            "D": "develop an applicant pool"
+        },
+        "answer": "D",
+        "explanation": "D) Developing an applicant pool is the primary reason to recruit."
+    },
+    {
+        "chapter": "5",
+        "question_number": "41)",
+        "description": "A ________ is used to calculate the number of applicants a firm must generate to hire the\nrequired number of new employees.",
+        "options": {
+            "A": "trend analysis",
+            "B": "ratio analysis",
+            "C": "recruiting yield pyramid",
+            "D": "scatter plot"
+        },
+        "answer": "C",
+        "explanation": "C) A recruiting yield pyramid is used by employers to calculate the number of\napplicants a firm must generate in order to hire the required number of new employees. A\nrecruiting yield pyramid is the historical arithmetic relationship between recruitment leads and\ninvitees, invitees and interviews, interviews and offers made, and offers made and offers\naccepted."
+    },
+    {
+        "chapter": "5",
+        "question_number": "42)",
+        "description": "A recruiting yield pyramid is the historical arithmetic relationship between all of the\nfollowing EXCEPT ________.",
+        "options": {
+            "A": "internal and external candidates",
+            "B": "offers made and offers accepted",
+            "C": "recruitment leads and invitees",
+            "D": "interviews and offers made"
+        },
+        "answer": "A",
+        "explanation": "A) A recruiting yield pyramid is the historical arithmetic relationship between\nrecruitment leads and invitees, invitees and interviews, interviews and offers made, and offers\nmade and offers accepted. The ratio of internal and external candidates is not a factor in the\nrecruiting yield pyramid which is used to determine the number of applicants a firm needs to\ngenerate in order to hire the required number of new employees."
+    },
+    {
+        "chapter": "5",
+        "question_number": "46)",
+        "description": "Which of the following is the primary disadvantage of using internal sources of candidates to\nfill vacant positions in a firm?",
+        "options": {
+            "A": "lack of knowledge regarding a candidate's strengths",
+            "B": "potential to lose employees who aren't promoted",
+            "C": "questionable commitment of candidates to the firm",
+            "D": "significant training and orientation requirements"
+        },
+        "answer": "B",
+        "explanation": "B) The primary disadvantage of hiring from within is the potential of losing\nemployees who are not promoted. Employees who apply for jobs and don't get them may\nbecome discontented."
+    },
+    {
+        "chapter": "5",
+        "question_number": "47)",
+        "description": "All of the following are characteristics of a job posting EXCEPT ________.",
+        "options": {
+            "A": "listing the job's attributes",
+            "B": "providing the job's pay rate",
+            "C": "publicizing the open job to employees",
+            "D": "indicating the preferred number of applicants"
+        },
+        "answer": "D",
+        "explanation": "D) Posting a job means to publicize an open job to employees by posting it on\ncompany intranets or bulletin boards. Such postings list the jobs' attributes, such as\nqualifications, supervisor, work schedule, and pay rate. The preferred number of applicants is\nless likely to appear on a job posting."
+    },
+    {
+        "chapter": "5",
+        "question_number": "48)",
+        "description": "Marie Boyd has been hired by Barnum Hotels to manage staffing for the regional hotel\nchain. Barnum intends to open two new hotels within the next three years and will have many\njob positions to fill. Historically, employee turnover is high at Barnum as employees remain with\nthe company for one or two years before quitting. Marie realizes that Barnum needs to make\nsignificant changes in its personnel strategy in order to meet the company's goals for the future\nand improve employee retention rates.\nWhich of the following, if true, most likely undermines Marie's decision to fill top positions with\ninside candidates?",
+        "options": {
+            "A": "Barnum needs to head in a different direction with innovative ideas if it is to remain\ncompetitive with other hotel chains.",
+            "B": "Many current Barnum employees have indicated they are loyal to the firm by rejecting offers\nto work at competing hotels.",
+            "C": "Training new employees about the practices and procedures at Barnum is costly in regards to\nboth time and money.",
+            "D": "The influence of local labor unions and EEO legislation is blamed for the high turnover rate\namong Barnum employees."
+        },
+        "answer": "A",
+        "explanation": "A) Inbreeding is a potential drawback to hiring internally because when all\nmanagers come up through the ranks, they may have a tendency to maintain the status quo, when\na new direction is required. This can be seen as inbreeding. If Barnum needs to go in a new\ndirection then it should hire outsiders. Benefits of internal hiring include increased morale,\ncommitment, and reduced training requirements."
+    },
+    {
+        "chapter": "5",
+        "question_number": "49)",
+        "description": "Marie Boyd has been hired by Barnum Hotels to manage staffing for the regional hotel\nchain. Barnum intends to open two new hotels within the next three years and will have many\njob positions to fill. Historically, employee turnover is high at Barnum as employees remain with\nthe company for one or two years before quitting. Marie realizes that Barnum needs to make\nsignificant changes in its personnel strategy in order to meet the company's goals for the future\nand improve employee retention rates.\nAll of the following questions are relevant to Marie's decision to fill top positions at the new\nhotels with internal candidates EXCEPT:",
+        "options": {
+            "A": "What are the key managerial positions that are available at the new hotels?",
+            "B": "What percentage of employers in the service industry use succession planning?",
+            "C": "What skills, education, and training have been provided to potential candidates?",
+            "D": "What is the designated procedure for assessing and selecting potential candidates?"
+        },
+        "answer": "B",
+        "explanation": "B) Although employers have formal succession planning programs, the question is\nnot directly relevant to Marie's decision. Marie needs to consider what positions need to be filled,\nthe experience of potential candidates, and the procedure for assessing candidates."
+    },
+    {
+        "chapter": "5",
+        "question_number": "50)",
+        "description": "Which of the following is NOT a tool used by firms to recruit outside candidates?",
+        "options": {
+            "A": "newspaper advertising",
+            "B": "intranet job postings",
+            "C": "employment agencies",
+            "D": "online job boards"
+        },
+        "answer": "B",
+        "explanation": "B) The term job posting refers to publicizing an open job to employees through a\nfirm's intranet or on bulletin boards. Outside candidates are recruited through advertisements,\nemployment agencies, executive recruiters, and online job boards, such as Monster.com and\nCareerBuilder.com."
+    },
+    {
+        "chapter": "5",
+        "question_number": "54)",
+        "description": "What is the primary purpose of an applicant tracking system?",
+        "options": {
+            "A": "sorting resumes based on an applicant's years of work experience",
+            "B": "generating advertisements for attracting and gathering applicants",
+            "C": "assisting employers in attracting, screening, and managing applicants",
+            "D": "assisting recruiters with locating internal applicants for key positions"
+        },
+        "answer": "C",
+        "explanation": "C) The purpose of an applicant tracking system is to help employers attract, gather,\nscreen, compile, and manage outside applicants. Such an online system is needed because Web-\nbased ads tend to generate a large number of applicants."
+    },
+    {
+        "chapter": "5",
+        "question_number": "55)",
+        "description": "Which of the following factors plays the greatest role in determining the best medium for a\njob advertisement?",
+        "options": {
+            "A": "skills needed for the job",
+            "B": "job compensation and salary",
+            "C": "time allowed to fill the position",
+            "D": "graphics used in the advertisement"
+        },
+        "answer": "A",
+        "explanation": "A) The best medium for a job depends on the position and the skills needed for the\njob. For example, a local newspaper is probably best if an employer needs clerical workers or\nblue-collar help. For specialized employees, advertisement in trade and professional journals\nmay be more appropriate."
+    },
+    {
+        "chapter": "5",
+        "question_number": "56)",
+        "description": "When constructing a job advertisement, all of the following are aspects of the AIDA guide\nEXCEPT ________.",
+        "options": {
+            "A": "attracting attention to the ad",
+            "B": "implying long-term benefits",
+            "C": "prompting applicant action",
+            "D": "developing interest in the job"
+        },
+        "answer": "B",
+        "explanation": "B) Experienced advertisers use AIDA when constructing ads, which stands for\nattention, interest, desire, and action. An ad should attract attention, develop interest in the job,\ncreate desire for the job, and prompt readers to take action. Although benefits and salary may be\nmentioned in ads, implying long-term benefits is not an element of the AIDA guide."
+    },
+    {
+        "chapter": "5",
+        "question_number": "57)",
+        "description": "The ________ run by the U.S. Department of Labor enables public employment agency\ncounselors to advise applicants about local and national job openings.",
+        "options": {
+            "A": "U.S. Career Center",
+            "B": "National Job Bank",
+            "C": "National Employment Agency",
+            "D": "Equal Employment Opportunity Commission"
+        },
+        "answer": "B",
+        "explanation": "B) The National Job Bank maintains a nationwide computerized job bank that\nenables public employment agency counselors to advise applicants about local and national job\nopenings."
+    },
+    {
+        "chapter": "5",
+        "question_number": "58)",
+        "description": "Counselors in state-run employment agencies conduct all of the following activities\nEXCEPT ________.",
+        "options": {
+            "A": "reviewing employer job requirements",
+            "B": "filing employer tax reports",
+            "C": "visiting employer work sites",
+            "D": "writing job descriptions"
+        },
+        "answer": "B",
+        "explanation": "B) Although state-run employment agencies offer tax credit information to\nemployers, they do not file tax reports. State employment agencies assist employers by helping\nthem fill jobs and write job descriptions. Counselors also review job requirements and visit\nemployer work sites."
+    },
+    {
+        "chapter": "5",
+        "question_number": "59)",
+        "description": "Which of the following is typically responsible for paying the fees charged by a private\nemployment agency when an applicant is placed in a job?",
+        "options": {
+            "A": "employers",
+            "B": "employees",
+            "C": "state employment commissions",
+            "D": "independent recruiters"
+        },
+        "answer": "A",
+        "explanation": "A) In most situations, employers pay the fees charged by private employment\nagencies. Private employment agencies are important sources for clerical, white-collar, and\nmanagerial personnel, and their fees are set by state law."
+    },
+    {
+        "chapter": "5",
+        "question_number": "60)",
+        "description": "An employer will most likely use a private employment agency in order to ________.",
+        "options": {
+            "A": "receive assistance writing job ads",
+            "B": "adhere to federal hiring practices",
+            "C": "fill a specific job opening quickly",
+            "D": "spend more time recruiting applicants"
+        },
+        "answer": "C",
+        "explanation": "C) One of the main reasons an employer uses a private employment agency is to\nfill a specific job opening quickly. Other reasons include spending less time recruiting and\nreaching currently employed individuals who might feel more comfortable dealing with an\nagency than a competing firm."
+    },
+    {
+        "chapter": "5",
+        "question_number": "61)",
+        "description": "Which of the following is the primary disadvantage for employers who use private\nemployment agencies to fill positions?",
+        "options": {
+            "A": "White-collar applicants are difficult to attract.",
+            "B": "Applicant screening may not be thorough.",
+            "C": "Applicant processing time is too lengthy.",
+            "D": "Application procedures are complicated."
+        },
+        "answer": "B",
+        "explanation": "B) The primary drawback to using a private employment agency is the fact that\nagencies may not screen applicants very well. Successful applicants may be blocked, while\ninappropriate applicants may be sent to interview with hiring supervisors."
+    },
+    {
+        "chapter": "5",
+        "question_number": "62)",
+        "description": "Newton Manufacturing is using a private employment agency to recruit individuals for\nmanagement positions. As the HR manager at Newton, you need to ensure that applicants are\nscreened properly, so you should ________.",
+        "options": {
+            "A": "provide the agency with an accurate job description",
+            "B": "post jobs on the firm's intranet and bulletin boards",
+            "C": "develop applicant screening software for internal hires",
+            "D": "send HR experts to monitor the agency's recruiting activities"
+        },
+        "answer": "A",
+        "explanation": "A) Employers can avoid improper applicant screening at private employment\nagencies by providing the agency with an accurate job description. Employers should also make\nsure that tests, applications, and interviews are part of the agency's selection process. The agency\nshould be screened, but it would be costly and time consuming to have HR managers monitor the\nagency's activities."
+    },
+    {
+        "chapter": "5",
+        "question_number": "63)",
+        "description": "Kate works as a nurse on temporary assignment for hospitals throughout the region on an as-\nneeded basis. Kate is most likely ________.",
+        "options": {
+            "A": "working as a contingent worker",
+            "B": "participating in a job rotation",
+            "C": "using job enlargement",
+            "D": "benchmarking jobs"
+        },
+        "answer": "A",
+        "explanation": "A) Temporary workers are known as contingent workers, so a nurse who floats\nfrom one assignment to another on a temporary basis is a contingent worker. Job rotation occurs\nwhen an employer systematically moves a worker from one job to another to broaden the\nworker's experience."
+    },
+    {
+        "chapter": "5",
+        "question_number": "64)",
+        "description": "Which of the following best explains why firms are using temporary workers more\nfrequently?",
+        "options": {
+            "A": "low cost when hired through agencies",
+            "B": "workers' desires for flexible schedules",
+            "C": "high cost of workers' compensation insurance",
+            "D": "weak economic confidence among employers"
+        },
+        "answer": "D",
+        "explanation": "D) Several things contribute to the trend toward using more temporary employees\nincluding continuing weak economic confidence among employers. Temps cost employers more\nthan permanent workers because temp agencies receive a fee. Employers want a flexible\nworkforce that can be reduced during economic slowdowns."
+    },
+    {
+        "chapter": "5",
+        "question_number": "65)",
+        "description": "All of the following are common concerns that have been expressed to researchers by\ntemporary employees EXCEPT ________.",
+        "options": {
+            "A": "being in compliance with equal employment laws",
+            "B": "feeling insecure about their employment situation",
+            "C": "worrying about the lack of insurance benefits",
+            "D": "being treated impersonally by employers"
+        },
+        "answer": "A",
+        "explanation": "A) When working with temporary agencies, managers need to ensure that they\nhave a document from the agency stating that filling temp orders is not discriminating. However,\nthis is not a concern felt among temporary workers. Temp workers have shown to be primarily\nconcerned about their lack of insurance benefits and the way they are treated by managers and\npermanent staff. Temp workers often feel insecure about their employment situation because\nmost of them want full-time positions."
+    },
+    {
+        "chapter": "5",
+        "question_number": "66)",
+        "description": "Jessica Garza is a manager at a large retail store. Currently, Jessica has four temporary\nworkers under her supervision that a local staffing agency has provided. In which of the\nfollowing tasks related to the temporary workers should Jessica become directly involved?",
+        "options": {
+            "A": "negotiating the pay rate",
+            "B": "setting the time-off policies",
+            "C": "answering task-related questions",
+            "D": "providing online training and development"
+        },
+        "answer": "C",
+        "explanation": "C) For legal purposes, companies should treat temporary employees as if the temp\nagency is the worker's employer. Managers should let the temp agency handle matters such as\npay, time-off, and training. Managers should control the temporary worker's activities and\nanswer work-related questions."
+    },
+    {
+        "chapter": "5",
+        "question_number": "67)",
+        "description": "Which of the following terms refers to the use of nontraditional recruitment sources?",
+        "options": {
+            "A": "negligent hiring",
+            "B": "personnel planning",
+            "C": "human resource management",
+            "D": "alternative staffing"
+        },
+        "answer": "D",
+        "explanation": "D) Alternative staffing refers to the use of nontraditional recruitment sources.\nAlternative staffing examples include in-house temporary employees, contract technical\nemployees, outsourcing, and offshoring."
+    },
+    {
+        "chapter": "5",
+        "question_number": "68)",
+        "description": "________ are special employment agencies retained by employers to seek out top\nmanagement talent for their clients.",
+        "options": {
+            "A": "State-run employment agencies",
+            "B": "Private employment agencies",
+            "C": "Temporary agencies",
+            "D": "Executive recruiters"
+        },
+        "answer": "D",
+        "explanation": "D) Executive recruiters, or headhunters, are special employment agencies retained\nby employers to seek out top management talent for their clients. State-run employment\nagencies, private employment agencies, and temporary agencies are less likely to be used by\nfirms seeking top executives."
+    },
+    {
+        "chapter": "5",
+        "question_number": "69)",
+        "description": "Which of the following has improved the ability of executive recruiters to find potential\ncandidates?",
+        "options": {
+            "A": "mobility premiums",
+            "B": "Internet databases",
+            "C": "corporate intranets",
+            "D": "broad banding"
+        },
+        "answer": "B",
+        "explanation": "B) Internet-based databases have dramatically sped up searches for potential\ncandidates and enabled executive recruiters to fill positions more quickly. The primary challenge\nfor headhunters has been finding qualified candidates, and technology has improved the\nsearching ability of recruiters."
+    },
+    {
+        "chapter": "5",
+        "question_number": "70)",
+        "description": "Which of the following is a service that provides short-term specialized recruiting to support\nspecific projects without the expense of retaining traditional search firms?",
+        "options": {
+            "A": "top-executive searches",
+            "B": "contingent-based searches",
+            "C": "on-demand recruiting services",
+            "D": "just-in-time recruiting services"
+        },
+        "answer": "C",
+        "explanation": "C) On-demand recruiting services (ODRS) provide short-term specialized\nrecruiting to support specific projects without the expense of retaining traditional search firms.\nThese recruiters are paid by the hour or project instead of a percentage fee."
+    },
+    {
+        "chapter": "5",
+        "question_number": "71)",
+        "description": "What is the typical compensation structure for on-demand recruiting services?",
+        "options": {
+            "A": "hourly rate",
+            "B": "commission",
+            "C": "percentage fee",
+            "D": "signing bonus"
+        },
+        "answer": "A",
+        "explanation": "A) On-demand recruiting services (ODRS) provide short-term specialized\nrecruiting to support specific projects without the expense of retaining traditional search firms.\nThese recruiters are paid by the hour or project instead of a percentage fee or a commission."
+    },
+    {
+        "chapter": "5",
+        "question_number": "72)",
+        "description": "Pamlico River Productions is seeking a top-level manager to oversee its finance division.\nQualified candidates can be difficult to find, so the business would most likely benefit from\nusing a(n) ________ to recruit potential candidates.",
+        "options": {
+            "A": "executive recruiter",
+            "B": "temporary agency",
+            "C": "Internet-based job site",
+            "D": "alternate staffing recruiter"
+        },
+        "answer": "A",
+        "explanation": "A) Executive recruiters or headhunters are special employment agencies retained\nby employers seeking top executives. Temporary staffing would be less beneficial to a firm\nseeking a top executive. Although Internet sites are popular sources for finding employees,\nheadhunters are more appropriate for filling top positions in a firm."
+    },
+    {
+        "chapter": "5",
+        "question_number": "73)",
+        "description": "A small software firm is seeking several permanent employees with experience in the\nsemiconductor industry and advanced degrees in computer science. The firm is a small one and\ncannot afford to pay a traditional recruiting firm a fee of 30% per each hire's salary. Instead, this\nfirm should consider using a(n) ________.",
+        "options": {
+            "A": "contingency-based recruiter",
+            "B": "temporary staffing agency",
+            "C": "outsourcing staffing service",
+            "D": "on-demand recruiting service"
+        },
+        "answer": "D",
+        "explanation": "D) An on-demand recruiting service would be the best solution for a small firm\nthat cannot pay high fees to recruit employees. ODRS provide short-term specialized recruiting\nassistance to support specific projects without the expense of traditional search firms. An ODRS\ncharges by time or project."
+    },
+    {
+        "chapter": "5",
+        "question_number": "74)",
+        "description": "Approximately what percentage of new college graduates are hired to fill externally filled\njobs that require a college degree?",
+        "options": {
+            "A": "7%",
+            "B": "83%",
+            "C": "16%",
+            "D": "38%"
+        },
+        "answer": "D",
+        "explanation": "D) One study several years ago concluded, for instance, that new college graduates\nfilled about 38% of all externally filled jobs requiring a college degree."
+    },
+    {
+        "chapter": "5",
+        "question_number": "75)",
+        "description": "Which of the following is a primary goal of college recruiters?",
+        "options": {
+            "A": "building relationships with college career centers",
+            "B": "cutting future recruiting costs for the firm",
+            "C": "developing a pool of temporary workers",
+            "D": "attracting good candidates"
+        },
+        "answer": "D",
+        "explanation": "D) The two main goals of college recruiters are attracting good candidates and\ndetermining if candidates are worthy of further consideration. It is helpful if firms develop ties\nwith college career centers to gain feedback on their recruiting programs, but the main goal of\ncollege recruiters is to find employees."
+    },
+    {
+        "chapter": "5",
+        "question_number": "76)",
+        "description": "In regards to on-campus recruiting, which of the following is most likely to help sell the\nemployer to the interviewee?",
+        "options": {
+            "A": "recruiter's professional attire",
+            "B": "sincerity of the recruiter",
+            "C": "emphasis on the job location",
+            "D": "well-written job descriptions"
+        },
+        "answer": "B",
+        "explanation": "B) A recruiter who has a sincere and informal attitude, shows respect for the\napplicant, and sends a prompt follow-up letter is more likely to sell the firm to the interviewee\nthan a recruiter who acts superior and is unprepared."
+    },
+    {
+        "chapter": "5",
+        "question_number": "77)",
+        "description": "Which of the following would be the best option for a business that needs to attract local\napplicants for hourly jobs?",
+        "options": {
+            "A": "employee referral campaigns",
+            "B": "on-demand recruiting services",
+            "C": "college recruiting",
+            "D": "walk-ins"
+        },
+        "answer": "D",
+        "explanation": "D) Walk-ins, which are direct applications made at an office, are a major source of\nhourly workers. Companies that post \"Help Wanted\" signs are able to cost-effectively attract\nmany local applicants. Employee referral campaigns do not necessarily attract local applicants,\nand they typically cost $400-$900 per hire, which makes them an unlikely method for hiring\nhourly workers."
+    },
+    {
+        "chapter": "5",
+        "question_number": "78)",
+        "description": "What is an advantage of using employee referral campaigns?",
+        "options": {
+            "A": "Local, hourly workers can be recruited quickly.",
+            "B": "Applicants have received realistic job previews.",
+            "C": "Rewards and incentives are eliminated.",
+            "D": "Applicants have community ties."
+        },
+        "answer": "B",
+        "explanation": "B) Current employees will usually provide accurate information about the job\napplicants they are referring, so the new employees have a more realistic picture of what the firm\nis like."
+    },
+    {
+        "chapter": "5",
+        "question_number": "79)",
+        "description": "One type of workers is ________, who do all or most of their work remotely, often from\nhome, using information technology.",
+        "options": {
+            "A": "telecommuters",
+            "B": "temps",
+            "C": "walk-ins",
+            "D": "recruiters"
+        },
+        "answer": "A",
+        "explanation": "A) Telecommuters do all or most of their work remotely, often from home, using\ninformation technology."
+    },
+    {
+        "chapter": "5",
+        "question_number": "80)",
+        "description": "Which Web site is increasingly serving as a recruitment source for passive job candidates?",
+        "options": {
+            "A": "Career Builder",
+            "B": "You Tube",
+            "C": "LinkedIn",
+            "D": "Monster"
+        },
+        "answer": "C",
+        "explanation": "C) In moving away from major job boards such as careerbuilder.com, recruiters are\nseeking passive candidates (people not actively looking for jobs) by using social networking sites\nsuch as LinkedIn to find potential candidates."
+    },
+    {
+        "chapter": "5",
+        "question_number": "98)",
+        "description": "The fastest growing labor force segment in the United States over the next few years will be\nthose from ________ years old.",
+        "options": {
+            "A": "23-29",
+            "B": "30-44",
+            "C": "45-64",
+            "D": "65+"
+        },
+        "answer": "C",
+        "explanation": "C) The fastest-growing segment of the U.S. labor force in the next few years will\nbe among workers 45-64 years old."
+    },
+    {
+        "chapter": "5",
+        "question_number": "99)",
+        "description": "Which of the following motivates most employees over 65 to work?",
+        "options": {
+            "A": "overtime payments",
+            "B": "schedule flexibility",
+            "C": "supportive work environments",
+            "D": "additional sick days"
+        },
+        "answer": "B",
+        "explanation": "B) Schedule flexibility is the primary motivation for employees over age 65. Older\nemployees want flexible and often abbreviated work schedules, and many only want to work part\ntime. Overtime, sick days, and supportive work environments are less important factors than\nflexibility."
+    },
+    {
+        "chapter": "5",
+        "question_number": "100)",
+        "description": "Smith Industries has set a goal of recruiting minority applicants. Which of the following\nmethods is LEAST likely to be successful for Smith Industries?",
+        "options": {
+            "A": "offering flexible work schedules",
+            "B": "providing flexible benefits plans",
+            "C": "utilizing executive recruiters",
+            "D": "collaborating with professional organizations"
+        },
+        "answer": "C",
+        "explanation": "C) Firms that provide flexible work schedules and benefits plans are more likely to\nattract minority workers, especially women. Collaborating with professional organizations, such\nas the National Society of Hispanic MBAs will also improve the chances of hiring minorities.\nExecutive recruiters are the least likely method for attracting minorities."
+    },
+    {
+        "chapter": "5",
+        "question_number": "109)",
+        "description": "Which of the following is information that should NOT be requested on application forms?",
+        "options": {
+            "A": "experience",
+            "B": "technical skills",
+            "C": "marital status",
+            "D": "training"
+        },
+        "answer": "C",
+        "explanation": "C) According to EEO law, application forms should not request information about\nan applicant's marital status. Asking about an applicant's work history, experience, training, and\nskills is considered acceptable."
+    },
+    {
+        "chapter": "5",
+        "question_number": "110)",
+        "description": "Which of the following is most likely a true statement about mandatory alternative dispute\nresolution agreements?",
+        "options": {
+            "A": "Most federal courts have found the documents unenforceable.",
+            "B": "Judicial appeals and reconsideration are available if legal errors occur.",
+            "C": "Employees absorb most of the costs associated with the arbitration process.",
+            "D": "Job applicants are typically more interested in firms that require arbitration."
+        },
+        "answer": "B",
+        "explanation": "B) Mandatory alternative dispute resolution agreements are required to provide for\nreconsideration and judicial appeal if legal errors occur. Most courts agree that the documents\nare enforceable if they meet certain requirements. Employers pay most costs of the process, and\njob applicants are usually less attracted to employers that require mandatory employment\narbitration."
+    }
+]

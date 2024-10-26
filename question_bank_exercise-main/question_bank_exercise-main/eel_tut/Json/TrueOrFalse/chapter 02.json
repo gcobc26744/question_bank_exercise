@@ -1,0 +1,219 @@
+[
+    {
+        "chapter": "2",
+        "question_number": "28)",
+        "description": "The 13th Amendment to the U.S. Constitution states, \"no person shall be deprived of life, liberty, or property, without due process of the law.\"",
+        "answer": "FALSE",
+        "explanation": "The 13th Amendment outlawed slavery. The Fifth Amendment states that \"no person shall be deprived of life, liberty, or property, without due process of the law.\""
+    },
+    {
+        "chapter": "2",
+        "question_number": "29)",
+        "description": "The 14th Amendment to the U.S. Constitution led to the establishment of the EEOC.",
+        "answer": "FALSE",
+        "explanation": "Title VII of the 1964 Civil Rights Act established the Equal Employment Opportunity Commission to administer and enforce the Civil Rights law at work."
+    },
+    {
+        "chapter": "2",
+        "question_number": "30)",
+        "description": "Title VII of the 1964 Civil Rights Act bars discrimination on the part of most employers, including all public employers or private employers of 15 or more persons.",
+        "answer": "TRUE",
+        "explanation": "Title VII bars discrimination on the part of most employers, including all public or private employers of 15 or more persons, all private and public educational institutions, the federal government, and state and local governments."
+    },
+    {
+        "chapter": "2",
+        "question_number": "31)",
+        "description": "The EEOC receives and investigates job discrimination complaints from aggrieved individuals.",
+        "answer": "TRUE",
+        "explanation": "The Equal Employment Opportunity Commission receives and investigates job discrimination complaints from aggrieved individuals. When the EEOC finds reasonable cause that the charges are justified, it attempts (through conciliation) to reach an agreement. If this fails, it can go to court."
+    },
+    {
+        "chapter": "2",
+        "question_number": "32)",
+        "description": "Only an aggrieved individual can file job discrimination charges against a business.",
+        "answer": "FALSE",
+        "explanation": "The EEOC may file discrimination charges on behalf of aggrieved individuals, or the individuals may file on behalf of themselves."
+    },
+    {
+        "chapter": "2",
+        "question_number": "33)",
+        "description": "The Age Discrimination in Employment Act of 1967 makes it unlawful to discriminate against employees of federal, state, and local agencies who are between 40 and 65 years of age; however, the law does not apply to private businesses.",
+        "answer": "FALSE",
+        "explanation": "The Age Discrimination in Employment Act of 1967 (ADEA) made it unlawful to discriminate against employees or applicants who are between 40 and 65 years of age. ADEA applies to all employers, not just government agencies."
+    },
+    {
+        "chapter": "2",
+        "question_number": "34)",
+        "description": "The Supreme Court has held that an employee who is over 40 may sue for discrimination if he or she is replaced by a \"significantly younger\" employee, even if the replacement is also over 40.",
+        "answer": "TRUE",
+        "explanation": "You can't get around the ADEA by replacing employees over 40 years of age with those who are also over 40. In O'Connor v. Consolidated Coin Caterers Corp., the U.S. Supreme Court held that an employee who is over 40 years of age might sue for discrimination if a \"significantly younger\" employee replaces him or her, even if the replacement is also over 40. The Court didn't specify what \"significantly younger\" meant, but O'Connor had been replaced by someone 16 years younger."
+    },
+    {
+        "chapter": "2",
+        "question_number": "35)",
+        "description": "If a business offers its employees disability coverage, then pregnancy and childbirth must be treated like any other disability and included in the plan as a covered condition.",
+        "answer": "TRUE",
+        "explanation": "The Pregnancy Discrimination Act of 1978 prohibits using pregnancy, childbirth, or related medical conditions to discriminate in hiring, promotion, suspension, or discharge, or in any term or condition of employment. Furthermore, under the act, if an employer offers its employees disability coverage, then it must treat pregnancy and childbirth like any other disability and include it in the plan as a covered condition."
+    },
+    {
+        "chapter": "2",
+        "question_number": "36)",
+        "description": "Title VII forbids all testing of job applicants because testing systematically discriminates against certain protected classes.",
+        "answer": "FALSE",
+        "explanation": "The Supreme Court ruled that an employment practice, such as testing, must be job related if it has an unequal impact on members of a protected class. Title VII does not forbid testing or screening job applicants but it requires that the test/screen is relevant to performing the job."
+    },
+    {
+        "chapter": "2",
+        "question_number": "60)",
+        "description": "The Civil Rights Act of 1991 makes it more difficult for plaintiffs to sue for monetary damages in cases of disparate treatment.",
+        "answer": "FALSE",
+        "explanation": "CRA 1991 makes it easier to sue for monetary damages in cases of disparate treatment or intentional discrimination. CRA 1991 provides that an employee who is claiming intentional discrimination can ask for both compensatory damages and punitive damages."
+    },
+    {
+        "chapter": "2",
+        "question_number": "61)",
+        "description": "The Americans with Disabilities Act of 1990 does not list specific disabilities but provides impairment guidelines instead.",
+        "answer": "TRUE",
+        "explanation": "The ADA does not list specific disabilities. Instead, EEOC guidelines say someone is disabled when he or she has a physical or mental impairment that \"substantially limits\" one or more major life activities. Impairments include any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of several body systems, or any mental or psychological disorder."
+    },
+    {
+        "chapter": "2",
+        "question_number": "62)",
+        "description": "Being disabled qualifies an individual for a job.",
+        "answer": "FALSE",
+        "explanation": "Just being disabled doesn't qualify someone for a job. Qualified individuals are those who with (or without) a reasonable accommodation can carry out the essential functions of the job."
+    },
+    {
+        "chapter": "2",
+        "question_number": "63)",
+        "description": "Mental disabilities, such as depression and anxiety disorders, account for the greatest number of claims brought under the ADA.",
+        "answer": "TRUE",
+        "explanation": "Mental disabilities account for the greatest number of ADA claims. Under EEOC ADA guidelines, \"mental impairment\" includes \"any mental or psychological disorder, such as . . . emotional or mental illness.\" Examples include major depression, anxiety disorders, and personality disorders."
+    },
+    {
+        "chapter": "2",
+        "question_number": "64)",
+        "description": "According to the ADA, firms must employ all disabled individuals who apply for positions and provide them with job training when necessary.",
+        "answer": "FALSE",
+        "explanation": "Employers are not required to employ all disabled job applicants. The ADA prohibits discrimination against qualified individuals—those who, with (or without) a reasonable accommodation, can carry out the essential functions of the job. The individual must have the requisite skills, educational background, and experience to do the job."
+    },
+    {
+        "chapter": "2",
+        "question_number": "65)",
+        "description": "According to GINA, health insurers and employers are prohibited from discriminating based on people's genetic information.",
+        "answer": "TRUE",
+        "explanation": "The Genetic Information Nondiscrimination Act (GINA) prohibits discrimination by health insurers and employers based on people's genetic information. Specifically, it prohibits the use of genetic information in employment, prohibits the intentional acquisition of genetic information about applicants and employees, and imposes strict confidentiality requirements."
+    },
+    {
+        "chapter": "2",
+        "question_number": "66)",
+        "description": "To prove sexual harassment, it is necessary to show that the harassment had tangible consequences such as demotion or termination.",
+        "answer": "FALSE",
+        "explanation": "In Burlington Industries v. Ellerth, the employee accused her supervisor of quid pro quo harassment. She said her boss propositioned and threatened her with demotion if she did not respond. He did not carry out the threats, and she was promoted. Therefore, in quid pro quo cases it is not necessary for the employee to suffer a tangible job action (such as a demotion) to win the case."
+    },
+    {
+        "chapter": "2",
+        "question_number": "67)",
+        "description": "Research indicates that more women than men find socio-sexual behaviors at work to be flattering rather than offensive.",
+        "answer": "FALSE",
+        "explanation": "A study found that 58% of employees reported experiencing potentially harassment-type behaviors at work. Overall, 25% found the behavior flattering or benign. Women tend to view a broader range of socio-sexual behaviors (touching, for instance) as harassing."
+    },
+    {
+        "chapter": "2",
+        "question_number": "88)",
+        "description": "Under the Civil Rights Act of 1991, disparate impact claims require proof of discriminatory intent.",
+        "answer": "FALSE",
+        "explanation": "Disparate impact means that an employer engages in an employment practice or policy that has a greater adverse impact (effect) on the members of a protected group under Title VII than on other employees, regardless of intent."
+    },
+    {
+        "chapter": "2",
+        "question_number": "89)",
+        "description": "The McDonnell-Douglas test is a procedure used by federal agencies to assess disparate impact.",
+        "answer": "FALSE",
+        "explanation": "Lawyers use the McDonnell-Douglas test for showing disparate treatment instead of disparate impact. The 4/5ths rule is used by federal agencies to assess disparate rejection rates."
+    },
+    {
+        "chapter": "2",
+        "question_number": "90)",
+        "description": "The restricted policy approach involves demonstrating that an employer's hiring practices either intentionally or unintentionally exclude members of a protected group.",
+        "answer": "TRUE",
+        "explanation": "The restricted policy approach means demonstrating that the employer's policy intentionally or unintentionally excluded members of a protected group. Here the problem is usually obvious—such as policies against hiring bartenders less than six feet tall. Evidence of restricted policies such as these is enough to prove adverse impact and to expose an employer to litigation."
+    },
+    {
+        "chapter": "2",
+        "question_number": "91)",
+        "description": "Shippers Express is accused of adverse impact on a protected group. Eighty percent of all male applicants are hired, but only 50% of female applicants are hired. Using the formula for disparate rejection rates, adverse impact cannot be shown.",
+        "answer": "FALSE",
+        "explanation": "A selection rate for any racial, ethnic, or sex group which is less than four-fifths or 80% of the rate for the group with the highest rate will generally be regarded as evidence of adverse impact, while a greater than four-fifths rate will generally not be regarded as evidence of adverse impact. In this example, Shippers Express hires 80% of male applicants, but only 50% of female applicants. Four-fifths of 80% would be 64%. Since 50% is less than 64%, adverse impact exists."
+    },
+    {
+        "chapter": "2",
+        "question_number": "92)",
+        "description": "Utilization analysis compares the percentage of minority employees at a firm with the number of similarly trained minorities available in the relevant labor market.",
+        "answer": "TRUE",
+        "explanation": "The process of comparing the percentage of minority employees in a job (or jobs) at the company with the number of similarly trained minority employees available in the relevant labor market is utilization analysis."
+    },
+    {
+        "chapter": "2",
+        "question_number": "93)",
+        "description": "Employers most frequently use a bona fide occupation qualification as a defense against charges of intentional discrimination based on gender compared to other protected class types.",
+        "answer": "FALSE",
+        "explanation": "In most cases, employers use BFOQ as a defense against charges of intentional discrimination based on age."
+    },
+    {
+        "chapter": "2",
+        "question_number": "94)",
+        "description": "The Age Discrimination in Employment Act prohibits the use of age as a BFOQ for any type of employment.",
+        "answer": "FALSE",
+        "explanation": "The Age Discrimination in Employment Act (ADE"
+    },
+    {
+        "chapter": "2",
+        "question_number": "95)",
+        "description": "Under no circumstances may religion be used as a bona fide occupational qualification (BFOQ).",
+        "answer": "FALSE",
+        "explanation": "Religion may be a BFOQ in religious organizations or societies that require employees to share their particular religion. For example, religion may be a BFOQ when hiring persons to teach in a religious school."
+    },
+    {
+        "chapter": "2",
+        "question_number": "102)",
+        "description": "The first step of the EEOC enforcement process is to serve notice.",
+        "answer": "FALSE",
+        "explanation": "The first step of the EEOC enforcement process is when someone files a charge with the EEOC. Serve notice is the third step."
+    },
+    {
+        "chapter": "2",
+        "question_number": "103)",
+        "description": "Alternative dispute resolution is a grievance procedure that provides for non-binding arbitration in employment discrimination claims.",
+        "answer": "FALSE",
+        "explanation": "Alternative dispute resolution or ADR programs are grievance procedures that provide binding arbitration in EEO lawsuits."
+    },
+    {
+        "chapter": "2",
+        "question_number": "107)",
+        "description": "Discrimination is an attitude that prejudges someone based on that person's trait.",
+        "answer": "FALSE",
+        "explanation": "Discrimination is not an attitude, rather it is taking specific actions toward or against a person based on the person's group."
+    },
+    {
+        "chapter": "2",
+        "question_number": "108)",
+        "description": "Jill and Lauren are the only women who are in the upper levels of management in a large multinational technology company. An organization appointing only a small group of women or minorities to high-profile positions like we see here is called tokenism.",
+        "answer": "TRUE",
+        "explanation": "Tokenism means a company appoints a small group of women or minorities to high-profile positions, rather than more aggressively seeking full representation for that group."
+    },
+    {
+        "chapter": "2",
+        "question_number": "109)",
+        "description": "The tendency to view members of other social groups less favorably than one's own is called tokenism.",
+        "answer": "FALSE",
+        "explanation": "Ethnocentrism is the tendency to view members of other social groups less favorably than one's own."
+    },
+    {
+        "chapter": "2",
+        "question_number": "110)",
+        "description": "Managing diversity means maximizing diversity's potential benefits while minimizing the potential problems of diversity that can undermine a firm's performance.",
+        "answer": "TRUE",
+        "explanation": "Diversity management means maximizing diversity's potential benefits while minimizing potential barriers—such as prejudice—that can undermine a cooperation."
+    }
+]

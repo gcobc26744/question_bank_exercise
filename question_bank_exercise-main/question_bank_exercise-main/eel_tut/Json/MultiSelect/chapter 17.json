@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "17",
+        "question_number": "1)",
+        "description": "Which of the following terms refers to the human resource management concepts and\ntechniques employers use to manage the challenges of their international operations?",
+        "options": {
+            "A": "work councils",
+            "B": "international human resource management",
+            "C": "power distance",
+            "D": "codetermination"
+        },
+        "answer": "B",
+        "explanation": "B) International human resource management is the human resource management\nconcepts and techniques employers use to manage the human resource challenges of their\ninternational operations."
+    },
+    {
+        "chapter": "17",
+        "question_number": "2)",
+        "description": "International human resource management (IHRM) focuses on three main topics. Which of\nthe following is NOT one of them?",
+        "options": {
+            "A": "comparing human resource management practices",
+            "B": "managing human resources in global companies",
+            "C": "domestic company partnerships",
+            "D": "managing expatriate employees"
+        },
+        "answer": "C",
+        "explanation": "C) Comparing human resource management practices, managing human resources\nin global companies, and managing expatriate employees are the main topics of IHRM."
+    },
+    {
+        "chapter": "17",
+        "question_number": "5)",
+        "description": "Geert Hofstede called the extent to which less powerful members of institutions accept and\nexpect an unequal power distribution ________.",
+        "options": {
+            "A": "masculinity",
+            "B": "individualism",
+            "C": "power distance",
+            "D": "tolerance for ambiguity"
+        },
+        "answer": "C",
+        "explanation": "C) A study by Professor Geert Hofstede identified international cultural\ndifferences. For example, Hofstede says societies differ in power distance, which is the extent to\nwhich the less powerful members of institutions accept and expect an unequal distribution of\npower."
+    },
+    {
+        "chapter": "17",
+        "question_number": "6)",
+        "description": "According to research, which of the following is a greater concern to Chinese managers than\nUnited States managers?",
+        "options": {
+            "A": "getting tasks accomplished efficiently",
+            "B": "keeping a distance from subordinates",
+            "C": "enforcing a firm's policies and regulations",
+            "D": "maintaining a harmonious work environment"
+        },
+        "answer": "D",
+        "explanation": "D) Although many managers endorse performance-based pay in China, other\nemployers, to preserve group harmony, make incentive pay a small part of the pay package. And,\nas in other parts of Asia, team incentives are advisable."
+    },
+    {
+        "chapter": "17",
+        "question_number": "7)",
+        "description": "In which country do individuals have a high acceptance of unequal power distribution\nbetween managers and subordinates?",
+        "options": {
+            "A": "Mexico",
+            "B": "Hong Kong",
+            "C": "Sweden",
+            "D": "United States"
+        },
+        "answer": "A",
+        "explanation": "A) Power distance represents the extent to which the less powerful members of\ninstitutions accept and expect an unequal distribution of power. Studies show that acceptance of\nsuch inequality is higher in some countries (such as Mexico) than in others (such as Sweden).\nMexican workers expect managers to keep their distance rather than to be close, and to be formal\nrather than informal."
+    },
+    {
+        "chapter": "17",
+        "question_number": "8)",
+        "description": "Of the countries listed below, in which one do production workers receive the lowest hourly\nwage?",
+        "options": {
+            "A": "United States",
+            "B": "Philippines",
+            "C": "Germany",
+            "D": "Taiwan"
+        },
+        "answer": "B",
+        "explanation": "B) Hourly compensation costs (in U.S. dollars) for production workers range from\n$2.01 in the Philippines to $9.34 in Taiwan, $35.53 in the United States, $47.38 in Germany, to\n$64.15 in Norway."
+    },
+    {
+        "chapter": "17",
+        "question_number": "9)",
+        "description": "________ are formal, employee-elected groups of worker representatives that meet monthly\nwith managers to discuss topics affecting the employees.",
+        "options": {
+            "A": "Bargaining units",
+            "B": "Work councils",
+            "C": "Mediation groups",
+            "D": "Employee boards"
+        },
+        "answer": "B",
+        "explanation": "B) In many European countries, work councils replace the worker-management\nmediations typical in U.S. firms. Work councils are formal, employee-elected groups of worker\nrepresentatives that meet monthly with managers to discuss topics ranging from no-smoking\npolicies to layoffs."
+    },
+    {
+        "chapter": "17",
+        "question_number": "10)",
+        "description": "In many European countries, ________ replace the union-based worker-management\nmediations typical in the U.S.",
+        "options": {
+            "A": "HR managers",
+            "B": "corporate attorneys",
+            "C": "work councils",
+            "D": "bargaining units"
+        },
+        "answer": "C",
+        "explanation": "C) In many European countries, work councils replace the worker-management\nmediations typical in U.S. firms. Work councils are formal, employee-elected groups of worker\nrepresentatives that meet monthly with managers to discuss topics ranging from no-smoking\npolicies to layoffs."
+    },
+    {
+        "chapter": "17",
+        "question_number": "11)",
+        "description": "In Germany, employees have the legal right to a voice in setting company policies. This is\ncalled ________.",
+        "options": {
+            "A": "codetermination",
+            "B": "employment at will",
+            "C": "internal coordination",
+            "D": "gainsharing"
+        },
+        "answer": "A",
+        "explanation": "A) Codetermination is the rule in Germany and several other countries.\nCodetermination means employees have the legal right to a voice in setting company policies."
+    },
+    {
+        "chapter": "17",
+        "question_number": "12)",
+        "description": "The European Union is best described as a ________.",
+        "options": {
+            "A": "system of global standards, policies, and legislation",
+            "B": "common market for goods, services, capital, and labor",
+            "C": "political agreement that standardizes human resource laws",
+            "D": "political system for equalizing wages, benefits, and taxation"
+        },
+        "answer": "B",
+        "explanation": "B) The separate countries of the former European Community unified into a\ncommon market for goods, services, capital, and even labor called the European Union (EU).\nTariffs for goods moving across borders from one EU country to another generally disappeared,\nand employees now move freely between jobs in EU countries."
+    },
+    {
+        "chapter": "17",
+        "question_number": "13)",
+        "description": "Which of the following is a true statement regarding the European Union?",
+        "options": {
+            "A": "EU employers must provide employees with written terms of their employment.",
+            "B": "EU employers must provide two weeks' notice when dismissing employees.",
+            "C": "Each EU country pays workers the same minimum hourly wage.",
+            "D": "Workers in the EU must live and work in their home country."
+        },
+        "answer": "A",
+        "explanation": "A) The EU directive on confirmation of employment requires employers to\nprovide employees with written terms and conditions of their employment. Each country\ndetermines the amount of notice to give employees, working hours, and wage rate. Workers may\nmove freely between jobs in EU countries."
+    },
+    {
+        "chapter": "17",
+        "question_number": "14)",
+        "description": "Why is recruiting, hiring, and retaining good employees difficult in China?",
+        "options": {
+            "A": "economic difficulties",
+            "B": "unmotivated workers",
+            "C": "government restrictions",
+            "D": "training requirements"
+        },
+        "answer": "C",
+        "explanation": "C) China's new labor contract law adds numerous new employment protections for\nemployees, and makes it correspondingly more expensive for employers in China to implement\npersonnel actions such as layoffs."
+    },
+    {
+        "chapter": "17",
+        "question_number": "15)",
+        "description": "In China, qualified job candidates are most likely to be interested in a firm that offers\n________.",
+        "options": {
+            "A": "signing bonuses",
+            "B": "performance-based pay",
+            "C": "job expansion opportunities",
+            "D": "training and development programs"
+        },
+        "answer": "D",
+        "explanation": "D) Employees are highly career oriented and gravitate toward employers that\nprovide the best career advancement training and opportunities. Group harmony is important in\nChina, so incentive pay is not advisable."
+    },
+    {
+        "chapter": "17",
+        "question_number": "16)",
+        "description": "Daniel is a manager for Siemens China, and it is time to conduct performance appraisals.\nDuring the appraisals, it would be most effective for Daniel to ________.",
+        "options": {
+            "A": "link performance with employee bonuses",
+            "B": "make personal comments to the employee",
+            "C": "focus on quantifiable, objective results",
+            "D": "post appraisal results for each team"
+        },
+        "answer": "C",
+        "explanation": "C) Employee appraisal is particularly sensitive to the cultural realities in China.\nThe appraisal therefore needs to follow the formalities of saving face and avoiding\nconfrontational, tension-producing situations. In general, it's best to talk in terms of objective\nwork data (as opposed to personal comments like \"you're too slow\")."
+    },
+    {
+        "chapter": "17",
+        "question_number": "24)",
+        "description": "________ are citizens of the countries where they are working.",
+        "options": {
+            "A": "Home-country nationals",
+            "B": "Multi-nationals",
+            "C": "Expatriates",
+            "D": "Locals"
+        },
+        "answer": "D",
+        "explanation": "D) Locals are citizens of the countries where they are working. Expatriates are\nnon-citizens of the countries in which they are working. Home-country nationals are citizens of\nthe country in which the multinational company has its headquarters."
+    },
+    {
+        "chapter": "17",
+        "question_number": "25)",
+        "description": "Of the types of international workers that multinational companies can employ, locals are\nbest described as ________.",
+        "options": {
+            "A": "citizens of the countries where they are working",
+            "B": "noncitizens of the countries in which they are working",
+            "C": "citizens of the country in which the multinational company has its headquarters",
+            "D": "noncitizens of the country in which the multinational company has its headquarters"
+        },
+        "answer": "A",
+        "explanation": "A) Locals are citizens of the countries where they are working. Expatriates are\nnon-citizens of the countries in which they are working. Home-country nationals are citizens of\nthe country in which the multinational company has its headquarters."
+    },
+    {
+        "chapter": "17",
+        "question_number": "26)",
+        "description": "Marie is an Italian executive working in a manufacturing plant in Siena, Italy that is owned\nby a parent company based in Singapore. Marie is a(n) ________.",
+        "options": {
+            "A": "local",
+            "B": "expatriate",
+            "C": "third-country national",
+            "D": "home-country national"
+        },
+        "answer": "A",
+        "explanation": "A) Locals are citizens of the countries where they are working. Expatriates are\nnon-citizens of the countries in which they are working. Home-country nationals are citizens of\nthe country in which the multinational company has its headquarters."
+    },
+    {
+        "chapter": "17",
+        "question_number": "27)",
+        "description": "Jason is a British freelance journalist working in Paris, so he is most likely classified as a(n)\n________.",
+        "options": {
+            "A": "local",
+            "B": "expatriate",
+            "C": "third-country national",
+            "D": "home-country national"
+        },
+        "answer": "B",
+        "explanation": "B) Expatriates are non-citizens of the countries in which they are working. Locals\nare citizens of the countries where they are working. Home-country nationals are citizens of the\ncountry in which the multinational company has its headquarters. Third-country nationals are\ncitizens of a country other than the parent or the host country."
+    },
+    {
+        "chapter": "17",
+        "question_number": "28)",
+        "description": "________ are noncitizens of the countries in which they are working.",
+        "options": {
+            "A": "Home-country nationals",
+            "B": "Third-country nationals",
+            "C": "Expatriates",
+            "D": "Locals"
+        },
+        "answer": "C",
+        "explanation": "C) Expatriates are non-citizens of the countries in which they are working. Locals\nare citizens of the countries where they are working. Home-country nationals are citizens of the\ncountry in which the multinational company has its headquarters."
+    },
+    {
+        "chapter": "17",
+        "question_number": "29)",
+        "description": "In January 2009, Walmart acquired a controlling interest in Chile's leading food retailer.\nSince then, Walmart has opened the first environmentally friendly supermarket in Chile that uses\nenergy efficient technology throughout the store. Walmart is planning to open additional stores\nin Chile over the next seven years. Walmart's top executives are considering the idea of\ntransferring U.S. managers to Chile to oversee the construction and establishment of the new\nstores.\nWhich of the following questions is LEAST relevant to the decision to fill management positions\nin Chile with expatriates?",
+        "options": {
+            "A": "What will be the relocation and compensation costs to Walmart of using expatriates?",
+            "B": "What level of corporate control is needed for opening the new Walmart stores?",
+            "C": "What is the planned Walmart marketing strategy for the new stores in Chile?",
+            "D": "What is the typical attrition rate for expatriate employees at Walmart?"
+        },
+        "answer": "C",
+        "explanation": "C) Marketing strategy is irrelevant to a staffing decision. Costs, corporate control,\nand attrition rates are important aspects to consider when debating between filling management\npositions with locals or expatriates."
+    },
+    {
+        "chapter": "17",
+        "question_number": "30)",
+        "description": "Which of the following terms refers to citizens of a country other than the parent or the host\ncountry?",
+        "options": {
+            "A": "third-country national",
+            "B": "home-country national",
+            "C": "multi-national",
+            "D": "local"
+        },
+        "answer": "A",
+        "explanation": "A) Third-country nationals are citizens of a country other than the parent or the\nhost country. Home-country nationals are citizens of the country in which the multinational\ncompany has its headquarters."
+    },
+    {
+        "chapter": "17",
+        "question_number": "31)",
+        "description": "Peter is a German citizen working as a manager for Siemens in Freiberg, Germany. Siemens\nhas facilities all over the world but its headquarters is in Germany. Peter is best categorized as\na(n) ________.",
+        "options": {
+            "A": "expatriate",
+            "B": "third-country national",
+            "C": "home-country national",
+            "D": "host-country national"
+        },
+        "answer": "C",
+        "explanation": "C) Home-country nationals are citizens of the country in which the multinational\ncompany has its headquarters."
+    },
+    {
+        "chapter": "17",
+        "question_number": "32)",
+        "description": "Which of the following terms refers to citizens of the country in which the multinational\ncompany has its headquarters?",
+        "options": {
+            "A": "expatriates",
+            "B": "third-country nationals",
+            "C": "home-country nationals",
+            "D": "locals"
+        },
+        "answer": "C",
+        "explanation": "C) Home-country nationals are citizens of the country in which the multinational\ncompany has its headquarters."
+    },
+    {
+        "chapter": "17",
+        "question_number": "33)",
+        "description": "Roberta is an Italian citizen who spent a great deal of time during her childhood in England.\nShe now works in Brazil as an HR manager for a British company. Roberta is best described as\na(n) ________.",
+        "options": {
+            "A": "expatriate",
+            "B": "third-country national",
+            "C": "home-country national",
+            "D": "host-country national"
+        },
+        "answer": "B",
+        "explanation": "B) Third-country nationals are citizens of a country other than the parent or the\nhost country."
+    },
+    {
+        "chapter": "17",
+        "question_number": "34)",
+        "description": "In January 2009, Walmart acquired a controlling interest in Chile's leading food retailer.\nSince then, Walmart has opened the first environmentally friendly supermarket in Chile that uses\nenergy efficient technology throughout the store. Walmart is planning to open additional stores\nin Chile over the next seven years. Walmart's top executives are considering the idea of\ntransferring U.S. managers to Chile to oversee the construction and establishment of the new\nstores.\nWhich of the following, if true, supports the argument that locals should be hired to fill\nmanagement positions in Chile?",
+        "options": {
+            "A": "Chile has a high percentage of younger workers with college degrees.",
+            "B": "Managers in Chile are expected to keep their distance from subordinates.",
+            "C": "Chile has had an increase in foreign direct investment over the last five years.",
+            "D": "Chileans expect managers and subordinates to interact in a highly informal manner."
+        },
+        "answer": "A",
+        "explanation": "A) A high number of skilled and educated locals suggests that Walmart would be\nable to find competent managers in Chile. The interaction between managers and subordinates\ndoes not necessarily explain why locals should be hired as managers instead of expatriates."
+    },
+    {
+        "chapter": "17",
+        "question_number": "35)",
+        "description": "Which of the following is the primary disadvantage of using expatriates to fill foreign\nsubsidiary management positions?",
+        "options": {
+            "A": "high costs associated with relocation",
+            "B": "time and effort required for training",
+            "C": "inability to create short-term results",
+            "D": "security concerns"
+        },
+        "answer": "A",
+        "explanation": "A) The cost of posting someone abroad is very high due to travel, relocation,\nhousing, and salary."
+    },
+    {
+        "chapter": "17",
+        "question_number": "36)",
+        "description": "All of the following are reasons that firms rely heavily on locals to fill foreign subsidiary\nmanagement positions EXCEPT ________.",
+        "options": {
+            "A": "pressure from local government",
+            "B": "lower costs than using expatriates",
+            "C": "improved public relations in community",
+            "D": "high level of skills and technical qualifications"
+        },
+        "answer": "D",
+        "explanation": "D) The cost of using expatriates is a key reason that firms use locals. Local\ngovernments often pressure firms to use locals, and doing so improves the firm's PR in the\ncommunity. The drawback of locals is that they likely do not have the necessary technical\nqualifications and require extensive training."
+    },
+    {
+        "chapter": "17",
+        "question_number": "37)",
+        "description": "In January 2009, Walmart acquired a controlling interest in Chile's leading food retailer.\nSince then, Walmart has opened the first environmentally friendly supermarket in Chile that uses\nenergy efficient technology throughout the store. Walmart is planning to open additional stores\nin Chile over the next seven years. Walmart's top executives are considering the idea of\ntransferring U.S. managers to Chile to oversee the construction and establishment of the new\nstores.\nWhich of the following, if true, best supports the argument of using expatriates to establish the\nnew Walmart stores in Chile?",
+        "options": {
+            "A": "Local candidates with the necessary managerial experience are difficult to find in Chile.",
+            "B": "Walmart uses an online recruiting system to facilitate human resources activities.",
+            "C": "The State Department has issued travel alerts for Americans traveling in Chile.",
+            "D": "Walmart wants to develop good relationships with the local community."
+        },
+        "answer": "A",
+        "explanation": "A) The primary reason to use expatriates instead of locals is when qualified local\ncandidates cannot be found. Hiring locals instead of expatriates would most likely help improve\ncommunity relations."
+    },
+    {
+        "chapter": "17",
+        "question_number": "38)",
+        "description": "Sara, who is originally from India, works in Texas for Dell as an IT manager. Dell, which\nhas a localization policy, recently announced that management positions are available in its\nBangalore, India facility. If Sara, who wants to return to India, is offered the Bangalore position,\nshe would most likely be categorized as a(n) ________.",
+        "options": {
+            "A": "commuter employee",
+            "B": "independent contractor",
+            "C": "third-country national",
+            "D": "permanent transferee"
+        },
+        "answer": "D",
+        "explanation": "D) About 78% of employers have some form of \"localization\" policy. This is a\npolicy of transferring a home-country national employee to a foreign subsidiary as a \"permanent\ntransferee.\" In this case, Sara is a U.S. Dell employee originally from India. If she moves back\nshe would be a permanent transferee."
+    },
+    {
+        "chapter": "17",
+        "question_number": "39)",
+        "description": "Which of the following terms refers to having local employees abroad do jobs that the firm's\ndomestic employees previously did in-house?",
+        "options": {
+            "A": "adapting",
+            "B": "offshoring",
+            "C": "enlarging",
+            "D": "diversifying"
+        },
+        "answer": "B",
+        "explanation": "B) Offshoring means having local employees abroad do jobs that the firm's\ndomestic employees previously did in-house. Offshoring is an increasingly popular staffing\noption."
+    },
+    {
+        "chapter": "17",
+        "question_number": "40)",
+        "description": "Call centers that service customers for firms like software and computer hardware companies\nare increasingly using employees in India to staff the telephones. This is an example of\n________.",
+        "options": {
+            "A": "outsourcing",
+            "B": "offshoring",
+            "C": "downsizing",
+            "D": "international staffing"
+        },
+        "answer": "B",
+        "explanation": "B) Offshoring means having local employees abroad do jobs that the firm's\ndomestic employees previously did in-house. Offshoring is a popular staffing option, especially\nfor call centers."
+    },
+    {
+        "chapter": "17",
+        "question_number": "41)",
+        "description": "Which of the following corporate divisions plays the greatest role in offshoring?",
+        "options": {
+            "A": "marketing",
+            "B": "accounting",
+            "C": "manufacturing",
+            "D": "human resources"
+        },
+        "answer": "D",
+        "explanation": "D) When developing foreign markets or opening new manufacturing facilities,\nmarketing, sales, and production executives play the pivotal roles. Offshoring mostly involves\nHR management as firms seek to gain cost advantages. Firms look to their HR managers to help\nidentify high-quality, low-cost talent abroad, and to provide the necessary information on skills,\nforeign wage rates, and working conditions."
+    },
+    {
+        "chapter": "17",
+        "question_number": "42)",
+        "description": "Which of the following terms refers to the belief that home country attitudes, management\nstyle, knowledge, evaluation criteria, and managers are superior to anything the host country has\nto offer?",
+        "options": {
+            "A": "polycentric",
+            "B": "ethnocentric",
+            "C": "geocentric",
+            "D": "monocentric"
+        },
+        "answer": "B",
+        "explanation": "B) An ethnocentric corporation believes that home-country attitudes, management\nstyle, knowledge, evaluation criteria, and managers are superior to anything the host country\nmight have to offer."
+    },
+    {
+        "chapter": "17",
+        "question_number": "43)",
+        "description": "A corporation that believes that only host country managers can ever really understand the\nculture and behavior of the host country market would be referred to as ________.",
+        "options": {
+            "A": "polycentric",
+            "B": "ethnocentric",
+            "C": "geocentric",
+            "D": "monocentric"
+        },
+        "answer": "A",
+        "explanation": "A) A polycentric-oriented firm would staff its foreign subsidiaries with host-\ncountry nationals, and its home office with parent-country nationals."
+    },
+    {
+        "chapter": "17",
+        "question_number": "44)",
+        "description": "Samsung tends to follow an ethnocentric staffing model. From which group will it most\nlikely hire for upper-level management positions at its Texas facility?",
+        "options": {
+            "A": "home-country nationals",
+            "B": "host-country nationals",
+            "C": "third-country nationals",
+            "D": "local citizens"
+        },
+        "answer": "A",
+        "explanation": "A) With an ethnocentric staffing policy, Samsung fills key management jobs with\nhome-country nationals. Managers would be citizens of South Korea where Samsung has its\nheadquarters."
+    },
+    {
+        "chapter": "17",
+        "question_number": "45)",
+        "description": "Which of the following is the LEAST likely reason that a firm would choose an ethnocentric\nstaffing policy?",
+        "options": {
+            "A": "lack of qualified host-country upper-management candidates",
+            "B": "goal of reducing misunderstandings with locals",
+            "C": "need to transfer core competencies effectively",
+            "D": "desire to maintain a unified corporate culture"
+        },
+        "answer": "B",
+        "explanation": "B) Reasons given for ethnocentric staffing policies include lack of qualified host-\ncountry senior management talent, a desire to maintain a unified corporate culture and tighter\ncontrol, and the desire to transfer the parent firm's core competencies to a foreign subsidiary\nmore expeditiously. A polycentric-oriented firm would likely reduce the local cultural\nmisunderstandings that might occur with ethnocentric staffing."
+    },
+    {
+        "chapter": "17",
+        "question_number": "46)",
+        "description": "Mercedes sent a team of executives from Germany to oversee the start-up of its U.S.\noperations. Which of the following terms best describes the values of Mercedes' top executives?",
+        "options": {
+            "A": "polycentric",
+            "B": "monocentric",
+            "C": "ethnocentric",
+            "D": "geocentric"
+        },
+        "answer": "C",
+        "explanation": "C) With an ethnocentric staffing policy, the firm fills key management jobs with\nparent-country nationals. Mercedes sent German executives to manage an American facility, so\nits executives have ethnocentric values."
+    },
+    {
+        "chapter": "17",
+        "question_number": "47)",
+        "description": "What value classification refers to a belief that the best manager for a specific position could\nbe in any of the countries in which the firm operates?",
+        "options": {
+            "A": "polycentric",
+            "B": "ethnocentric",
+            "C": "geocentric",
+            "D": "monocentric"
+        },
+        "answer": "C",
+        "explanation": "C) A geocentric staffing policy seeks the best people for key jobs throughout the\nfirm, regardless of nationality. This can let the global firm use its human resources more\nefficiently by transferring the best person to the open job, wherever he or she may be."
+    },
+    {
+        "chapter": "17",
+        "question_number": "48)",
+        "description": "With a geocentric staffing policy, a firm is most likely able to ________.",
+        "options": {
+            "A": "provide effective training",
+            "B": "recruit recent college graduates",
+            "C": "use its human resources efficiently",
+            "D": "strengthen its image within a local community"
+        },
+        "answer": "C",
+        "explanation": "C) A geocentric staffing policy fills positions with the best people from within the\norganization, regardless of nationality. This can let the global firm use its human resources more\nefficiently by transferring the best person to the open job, wherever he or she may be."
+    },
+    {
+        "chapter": "17",
+        "question_number": "49)",
+        "description": "In January 2009, Walmart acquired a controlling interest in Chile's leading food retailer.\nSince then, Walmart has opened the first environmentally friendly supermarket in Chile that uses\nenergy efficient technology throughout the store. Walmart is planning to open additional stores\nin Chile over the next seven years. Walmart's top executives are considering the idea of\ntransferring U.S. managers to Chile to oversee the construction and establishment of the new\nstores.\nWhich of the following, if true, supports the assertion that Walmart is an ethnocentrically\noriented corporation?",
+        "options": {
+            "A": "Walmart usually succeeds on an international level because the firm actively works to support\nlocal charities.",
+            "B": "Walmart rarely experiences cultural misunderstandings because of its tendency to hire locals\nto fill management positions.",
+            "C": "Walmart aims to maintain a unified organizational culture by filling foreign management\npositions with Americans.",
+            "D": "Adaptability screening eliminates problems associated with transferring Walmart managers\nand their families abroad."
+        },
+        "answer": "C",
+        "explanation": "C) An ethnocentric company fills key management positions with home-country\nnationals to maintain a unified culture and tight control."
+    },
+    {
+        "chapter": "17",
+        "question_number": "50)",
+        "description": "The most common reason that an expatriate fails at an international assignment is ________.",
+        "options": {
+            "A": "incompetence",
+            "B": "technical demands",
+            "C": "inability of spouse to adjust",
+            "D": "language difficulties"
+        },
+        "answer": "C",
+        "explanation": "C) In one study, U.S. managers listed, in descending order of importance, reasons\nfor expatriates leaving early: inability of spouse to adjust, managers' inability to adjust, other\nfamily problems, managers' personal or emotional immaturity, and inability to cope with larger\noverseas responsibility."
+    },
+    {
+        "chapter": "17",
+        "question_number": "51)",
+        "description": "Which of the following qualities is most closely linked to an employee's success on an\ninternational work assignment?",
+        "options": {
+            "A": "technical skills",
+            "B": "responsibility",
+            "C": "intelligence",
+            "D": "flexibility"
+        },
+        "answer": "D",
+        "explanation": "D) Flexibility and adaptability are crucial to expatriate success."
+    },
+    {
+        "chapter": "17",
+        "question_number": "52)",
+        "description": "Which of the following terms refers to the process of assessing an employee's probable\nsuccess in handling a foreign transfer?",
+        "options": {
+            "A": "skills placement testing",
+            "B": "adaptability screening",
+            "C": "management assessment",
+            "D": "performance appraisal"
+        },
+        "answer": "B",
+        "explanation": "B) Adaptability screening attempts to assess the assignee's and his or her spouse's\nprobable success in handling a foreign transfer."
+    },
+    {
+        "chapter": "17",
+        "question_number": "53)",
+        "description": "In January 2009, Walmart acquired a controlling interest in Chile's leading food retailer.\nSince then, Walmart has opened the first environmentally friendly supermarket in Chile that uses\nenergy efficient technology throughout the store. Walmart is planning to open additional stores\nin Chile over the next five years. Walmart's top executives are considering the idea of\ntransferring U.S. managers to Chile to oversee the construction and establishment of the new\nstores.\nWhich of the following, if true, undermines the argument of using expatriates to establish the\nnew Walmart stores in Chile?",
+        "options": {
+            "A": "Adaptability screening tests indicate that three potential candidates are bilingual and travel\noverseas frequently.",
+            "B": "Walmart offers overseas candidates extensive training on cultural differences and adaptation\nskills.",
+            "C": "The most qualified Walmart managers have no foreign travel experience and do not speak\nSpanish.",
+            "D": "A balance sheet approach is used by Walmart, but workers do not receive hardship\nallowances for moving to Chile."
+        },
+        "answer": "C",
+        "explanation": "C) Foreign travel experience and language skills demonstrate an ability to live and\nwork with other cultures. If the most qualified candidates lack that experience, then using\nexpatriates is probably a bad idea."
+    },
+    {
+        "chapter": "17",
+        "question_number": "54)",
+        "description": "According to research, all of the following will most likely help spouses of expatriates adjust\nto living in foreign countries EXCEPT ________.",
+        "options": {
+            "A": "close family relationships",
+            "B": "pre-school age children",
+            "C": "scheduled vacations",
+            "D": "language training"
+        },
+        "answer": "C",
+        "explanation": "C) Language fluency helps spouses adjust as do preschool-age children. A strong\nbond of closeness between the spouse and the expat partner is also helpful. Scheduled vacations\nare less likely to improve the adjustment to life overseas."
+    },
+    {
+        "chapter": "17",
+        "question_number": "55)",
+        "description": "Which term refers to a group of geographically dispersed co-workers that uses a desktop\nvideoconferencing system to communicate and accomplish tasks for the firm?",
+        "options": {
+            "A": "virtual team",
+            "B": "telecommuter group",
+            "C": "permanent transferee",
+            "D": "short-term international team"
+        },
+        "answer": "A",
+        "explanation": "A) Virtual teams are groups of geographically dispersed co-workers who interact\nusing a combination of telecommunications and information technologies to accomplish an\norganizational task. With desktop videoconferencing systems often the heart of such systems,\ncommunication among team members can embrace the body language and nuances of face-to-\nface communications."
+    },
+    {
+        "chapter": "17",
+        "question_number": "56)",
+        "description": "What is the primary problem associated with virtual teams at international firms?",
+        "options": {
+            "A": "scheduling meetings",
+            "B": "agreeing on important issues",
+            "C": "facilitating group communication",
+            "D": "building trust among team members"
+        },
+        "answer": "D",
+        "explanation": "D) The main challenges that virtual teams face are people-related. These include\nbuilding trust, cohesion, team identity, and overcoming the isolation among team members.\nDesktop videoconferencing systems enable team members to communicate with each other and\nenable members to see the body language and nuances of face-to-face communications."
+    },
+    {
+        "chapter": "17",
+        "question_number": "57)",
+        "description": "U.S. employers have most likely experienced an increase in successful expatriate\nassignments in the last two decades because they have ________.",
+        "options": {
+            "A": "focused on job performance as the main selection criteria",
+            "B": "increased the number of selection criteria for global assignees",
+            "C": "provided global assignees with local managers to serve as mentors",
+            "D": "allowed HR managers to have more control of the global hiring process"
+        },
+        "answer": "B",
+        "explanation": "B) Traditional expatriate selection focused on job performance in the home\ncountry. However, in recent decades, U.S. firms have increased the number of selection criteria\nused to choose global assignees. Employers now regularly use selection criteria such as\ntechnical/professional skills, expatriates' willingness to go, experience in the country, personality\nfactors (including flexibility), leadership skills, the ability to work with teams, and previous\nperformance appraisals in the selection process."
+    },
+    {
+        "chapter": "17",
+        "question_number": "77)",
+        "description": "Before departing for an overseas assignment, an employee would most likely benefit from\n________ training.",
+        "options": {
+            "A": "technical",
+            "B": "interpersonal",
+            "C": "cross-cultural",
+            "D": "career development"
+        },
+        "answer": "C",
+        "explanation": "C) Assignees benefit from training on the culture and language of the country in\nwhich they will be living. Such training helps them adapt and to work more effectively with\nlocals."
+    },
+    {
+        "chapter": "17",
+        "question_number": "78)",
+        "description": "All of the following are the primary benefits of providing ongoing training to employees on\noverseas assignments EXCEPT ________.",
+        "options": {
+            "A": "offering educational opportunities",
+            "B": "developing relationships with co-workers",
+            "C": "cultivating corporate values and standards",
+            "D": "providing spousal networking opportunities"
+        },
+        "answer": "D",
+        "explanation": "D) Managers abroad continue to need traditional skills-oriented development to\nhelp them grow professionally, hone their skills, and have the same educational opportunities\nthat stateside co-workers have. In addition, seminars help managers form bonds with colleagues\naround the world and cultivate corporate values. Providing spouses the chance to network is not\na primary benefit."
+    },
+    {
+        "chapter": "17",
+        "question_number": "79)",
+        "description": "Most North American companies use the ________ approach to formulating expatriate pay.",
+        "options": {
+            "A": "equitable wage rate",
+            "B": "balance sheet",
+            "C": "performance",
+            "D": "total package"
+        },
+        "answer": "B",
+        "explanation": "B) The most common approach to formulating expatriate pay is to equalize\npurchasing power across countries, a technique known as the balance sheet approach. More than\n85% of North American companies reportedly use this approach."
+    },
+    {
+        "chapter": "17",
+        "question_number": "80)",
+        "description": "Which approach to formulating expatriate pay involves estimating the employee's expenses\nin the home country and the host country?",
+        "options": {
+            "A": "balance sheet",
+            "B": "mobility allowance",
+            "C": "performance pay",
+            "D": "hardship method"
+        },
+        "answer": "A",
+        "explanation": "A) The balance sheet approach focuses on four groups of expenses—income taxes,\nhousing, goods and services, and discretionary expenses. The employer estimates what each of\nthese four expenses is in the expatriate's home country, and what each will be in the host country.\nThe employer then pays any differences."
+    },
+    {
+        "chapter": "17",
+        "question_number": "81)",
+        "description": "Which of the following terms refers to paying a portion of an expatriate's salary in home-\ncountry currency and a portion in local currency?",
+        "options": {
+            "A": "balance sheet approach",
+            "B": "split pay approach",
+            "C": "hardship premium",
+            "D": "foreign-service premium"
+        },
+        "answer": "B",
+        "explanation": "B) When using the balance sheet approach, firms often help the expatriate manage\nhis or her home and foreign financial obligations with the split pay approach. The employer pays\npart of a person's actual pay in home-country currency and part in the local currency."
+    },
+    {
+        "chapter": "17",
+        "question_number": "82)",
+        "description": "Which of the following is NOT one of the primary expense groups used in the balance sheet\napproach to formulating expatriate pay?",
+        "options": {
+            "A": "taxes",
+            "B": "housing",
+            "C": "disposable income",
+            "D": "discretionary expenses"
+        },
+        "answer": "C",
+        "explanation": "C) The balance sheet approach focuses on four groups of expenses—income taxes,\nhousing, goods and services, and discretionary expenses. Disposable income is not a category."
+    },
+    {
+        "chapter": "17",
+        "question_number": "83)",
+        "description": "________ are financial payments over and above regular base pay.",
+        "options": {
+            "A": "Foreign service premiums",
+            "B": "Hardship allowances",
+            "C": "Balance sheet payments",
+            "D": "Mobility premiums"
+        },
+        "answer": "A",
+        "explanation": "A) Foreign service premiums are financial payments over and above regular base\npay, typically ranging between 10% and 30% of base pay."
+    },
+    {
+        "chapter": "17",
+        "question_number": "84)",
+        "description": "JJP Enterprises seeks to entice one of its star managers to move to Iraq to oversee a\nconstruction project. The firm will most likely offer a ________ because of the difficult living\nand working conditions in Iraq.",
+        "options": {
+            "A": "cost-of-living allowance",
+            "B": "performance bonus",
+            "C": "hardship allowance",
+            "D": "mobility premium"
+        },
+        "answer": "C",
+        "explanation": "C) Hardship allowances compensate expatriates for hard living and working\nconditions at certain foreign locations."
+    },
+    {
+        "chapter": "17",
+        "question_number": "85)",
+        "description": "Which of the following terms refers to a lump-sum payment given to employees as a reward\nfor moving from one assignment to another?",
+        "options": {
+            "A": "hardship allowance",
+            "B": "foreign service premium",
+            "C": "cost-of-living allowance",
+            "D": "mobility premium"
+        },
+        "answer": "D",
+        "explanation": "D) Mobility premiums are typically lump-sum payments to reward employees for\nmoving from one assignment to another."
+    },
+    {
+        "chapter": "17",
+        "question_number": "86)",
+        "description": "Jim Simmons, an American, has worked for a U.S. firm's Italian operations for two years\nwith great success. Now, the company wants Jim to relocate to France to establish a new\ndivision. The company will most likely offer Jim a ________ to reward him for moving from\none assignment to another.",
+        "options": {
+            "A": "hardship allowance",
+            "B": "foreign service premium",
+            "C": "cost-of-living increase",
+            "D": "mobility premium"
+        },
+        "answer": "D",
+        "explanation": "D) Mobility premiums are typically lump-sum payments to reward employees for\nmoving from one assignment to another."
+    },
+    {
+        "chapter": "17",
+        "question_number": "87)",
+        "description": "All of the following characterize European labor relations EXCEPT ________.",
+        "options": {
+            "A": "limited number of bargaining units",
+            "B": "informal recognition of labor unions",
+            "C": "bargaining through employer associations",
+            "D": "industry-wide collective bargaining"
+        },
+        "answer": "A",
+        "explanation": "A) Unions in Europe are influential, and labor-management bargaining and\nrelations reflect this fact. Collective bargaining in Western Europe tends to be industry-wide,\nwhich leads to bargaining through employer associations. Union recognition is less formal than\nin the United States."
+    },
+    {
+        "chapter": "17",
+        "question_number": "88)",
+        "description": "Which of the following is most likely NOT covered by kidnapping and ransom insurance\npolicies?",
+        "options": {
+            "A": "abductions",
+            "B": "ransoms",
+            "C": "crisis teams",
+            "D": "weapons"
+        },
+        "answer": "D",
+        "explanation": "D) K&R insurance typically covers several costs associated with kidnappings,\nabductions, or extortion attempts. These costs might include, for instance, hiring a crisis team,\nthe actual cost of the ransom payment to the kidnappers or extortionists, insuring the ransom\nmoney in transit, legal expenses, and employee death or dismemberment."
+    },
+    {
+        "chapter": "17",
+        "question_number": "89)",
+        "description": "Frank Williams is being sent to Saudi Arabia for two years to work for his company's Saudi\naffiliate. Which of the following suggestions should Frank follow to minimize his chances of\nbeing the victim of a kidnapping?",
+        "options": {
+            "A": "Take the same route to and from work.",
+            "B": "Arrive at the airport close to departure time.",
+            "C": "Wait at the airport in a main traffic area.",
+            "D": "Leave work at the same time each day."
+        },
+        "answer": "B",
+        "explanation": "B) Security experts suggest that business travelers arrive at airports as close to\ndeparture time as possible and wait in areas away from the main flow of traffic where they're not\nas noticeable. Employees should also vary their departure and arrival times and take different\nroutes to and from work."
+    },
+    {
+        "chapter": "17",
+        "question_number": "90)",
+        "description": "________ refers to bringing a manager back home after a foreign assignment has been\ncompleted.",
+        "options": {
+            "A": "Expatriation",
+            "B": "Repatriation",
+            "C": "Mediation",
+            "D": "Job rotation"
+        },
+        "answer": "B",
+        "explanation": "B) Expatriation refers to sending a worker to work overseas, while repatriation is\nthe process of bringing the employee back to his or her home country. Repatriation programs\nhelp employees and their families make smooth adjustments."
+    },
+    {
+        "chapter": "17",
+        "question_number": "91)",
+        "description": "A formal repatriation program should do all of the following EXCEPT ________.",
+        "options": {
+            "A": "assist employees with relocation logistics",
+            "B": "seek compensation and benefits on behalf of employees",
+            "C": "help employees update their resumes and make career plans",
+            "D": "reassure employees of the company's concern for their welfare"
+        },
+        "answer": "B",
+        "explanation": "B) Repatriation programs are supported by an employee's firm, so seeking\ncompensation and benefits is not part of the activities. However, repatriation programs should\nhelp employees with the logistics of moving back, help them with career planning, and reassure\nthem that the firm cares."
+    },
+    {
+        "chapter": "17",
+        "question_number": "92)",
+        "description": "Which of the following is a true statement regarding expatriates?",
+        "options": {
+            "A": "Most expatriates require at least one year of psychological help after returning home.",
+            "B": "Most expatriates avoid traveling abroad after returning to their home country.",
+            "C": "Most expatriates and their families prefer open-ended work assignments.",
+            "D": "Most expatriates quit within three years of returning home."
+        },
+        "answer": "D",
+        "explanation": "D) One of the most worrisome facts about sending employees abroad is that 40%\nto 60% of them will probably quit within 3 years of returning home."
+    },
+    {
+        "chapter": "17",
+        "question_number": "101)",
+        "description": "What are the top drivers of employee engagement around the globe?",
+        "options": {
+            "A": "career opportunities",
+            "B": "recognition",
+            "C": "company reputation",
+            "D": "setting goals"
+        },
+        "answer": "A",
+        "explanation": "A) Career opportunities was the number-one key driver of employee engagement\nin all regions of the world, underscoring the universal importance of providing such\nopportunities."
+    },
+    {
+        "chapter": "17",
+        "question_number": "102)",
+        "description": "The current global average of employee engagement is:",
+        "options": {
+            "A": "23%",
+            "B": "44%",
+            "C": "61%",
+            "D": "83%"
+        },
+        "answer": "C",
+        "explanation": "C) Recently, the trend was for employee engagement (highly and moderately\nengaged) in all regions of the world to be converging around the current global average of about\n61% of employees engaged. So, workers everywhere are becoming about equally engaged."
+    },
+    {
+        "chapter": "17",
+        "question_number": "104)",
+        "description": "Which of the following was determined by a study of six international firms that have\nsuccessfully established global HR systems?",
+        "options": {
+            "A": "Firms should focus on expatriation and repatriation programs to ease the transition period for\nemployees working abroad.",
+            "B": "Firms should develop HR systems that are universally acceptable and that can be effectively\nimplemented in any location.",
+            "C": "Firms rely more heavily on expatriates than locals in foreign subsidiaries, so it is unnecessary\nto make changes to existing HR policies.",
+            "D": "Firms with foreign subsidiaries should adhere to local customs regarding screening, hiring,\nand training applicants."
+        },
+        "answer": "B",
+        "explanation": "B) The study's overall conclusion was that employers who successfully implement\nglobal HR systems do so by applying several best practices. This enables them to install uniform\nglobal human resource policies and practices around the world. The basic idea is to develop\nsystems that are acceptable to employees in units around the world and ones that the employers\ncan implement more effectively."
+    },
+    {
+        "chapter": "17",
+        "question_number": "105)",
+        "description": "Which of the following is a best practice in ensuring success in actually implementing\nglobally consistent human resource policies and practices?",
+        "options": {
+            "A": "\"Keep it consistent.\"",
+            "B": "\"Provide instruction from above.\"",
+            "C": "\"You can't communicate enough.\"",
+            "D": "\"Form global HR networks.\""
+        },
+        "answer": "C",
+        "explanation": "C) \"You can't communicate enough\" is crucial as there's a need for constant\ncontact with the decision makers in each country, as well as the people who will be\nimplementing and using the actual system."
+    },
+    {
+        "chapter": "17",
+        "question_number": "106)",
+        "description": "Which of the follow is a step in \"Making the Global HR System More Acceptable?\"",
+        "options": {
+            "A": "Identify crucial executive behaviors.",
+            "B": "Remember that it's more important to standardize ends and competencies than specific\nmethods.",
+            "C": "Dedicate adequate resources.",
+            "D": "Try to work within the context of a strong corporate culture."
+        },
+        "answer": "D",
+        "explanation": "D) In \"Making the Global HR System More Acceptable\" trying to work within the\ncontext of a strong corporate culture is valuable as companies that do so find it easier to obtain\nagreement among far-flung employees."
+    },
+    {
+        "chapter": "17",
+        "question_number": "107)",
+        "description": "What is the first step in developing a more effective global HR system?",
+        "options": {
+            "A": "adapting pay policies",
+            "B": "forming global HR networks",
+            "C": "identifying crucial executive behaviors",
+            "D": "remembering that truly global organizations find it easier to install global systems"
+        },
+        "answer": "B",
+        "explanation": "B) The first step in developing a more effective global HR system is to form global\nHR networks."
+    }
+]

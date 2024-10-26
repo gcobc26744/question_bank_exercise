@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "3",
+        "question_number": "1)",
+        "description": "________ defines the nature of the company's business in terms of how it will match its\ninternal strengths and weaknesses with its external opportunities and threats in order to maintain\na competitive position.",
+        "options": {
+            "A": "Financial auditing",
+            "B": "Strategic planning",
+            "C": "Employee benchmarking",
+            "D": "Employee testing"
+        },
+        "answer": "B",
+        "explanation": "B) Strategic planning is the company's overall planning for how it will match its\ninternal strengths and weaknesses with its external opportunities and threats in order to maintain\na competitive position."
+    },
+    {
+        "chapter": "3",
+        "question_number": "2)",
+        "description": "________ involves setting objectives, making forecasts, reviewing alternative courses of\naction, evaluating options and implementing the plan.",
+        "options": {
+            "A": "The management planning process",
+            "B": "Financial auditing",
+            "C": "Employee testing",
+            "D": "Employee benchmarking"
+        },
+        "answer": "A",
+        "explanation": "A) The basic management planning process involves setting objectives, making\nforecasts, reviewing alternative courses of action, evaluating options and implementing the plan.\nPlanning is always goal-directed."
+    },
+    {
+        "chapter": "3",
+        "question_number": "3)",
+        "description": "What is the first step in the basic planning process?",
+        "options": {
+            "A": "evaluating the possible alternatives",
+            "B": "implementing a course of action",
+            "C": "setting an objective",
+            "D": "comparing options"
+        },
+        "answer": "C",
+        "explanation": "C) The first step of management planning is to set an objective or a goal."
+    },
+    {
+        "chapter": "3",
+        "question_number": "4)",
+        "description": "Which of the following is NOT part of the basic managerial planning?",
+        "options": {
+            "A": "evaluation of best options",
+            "B": "establishment of clear objectives",
+            "C": "implementation of the plan",
+            "D": "building corporate hierarchies"
+        },
+        "answer": "D",
+        "explanation": "D) The basic management planning process involves setting objectives, making\nbasic planning forecasts, reviewing alternative courses of action, evaluating which options are\nbest and then choosing and implementing the plan. However, managerial planning is hindered by\nthe hierarchy of a corporation, which requires that plans meet budgetary requirements and match\nthe long-term goals of the firm."
+    },
+    {
+        "chapter": "3",
+        "question_number": "5)",
+        "description": "Which term indicates the course of action for getting from where you are to where you want to\ngo?",
+        "options": {
+            "A": "goal",
+            "B": "plan",
+            "C": "proposition",
+            "D": "assessment"
+        },
+        "answer": "B",
+        "explanation": "B) A plan shows the course of action for getting from where you are to where you\nwant to go—in other words, to the goal. Planning is always \"goal-directed.\""
+    },
+    {
+        "chapter": "3",
+        "question_number": "6)",
+        "description": "What is a company's plan for how it will match its internal strengths and weaknesses with\nexternal opportunities and threats to maintain a competitive advantage?",
+        "options": {
+            "A": "strategic plan",
+            "B": "situation analysis",
+            "C": "SWOT analysis",
+            "D": "tactical plan"
+        },
+        "answer": "A",
+        "explanation": "A) A strategic plan is a firm's plan for assessing internal strengths and weaknesses\nwith external opportunities and threats. The essence of strategic planning involves asking,\n\"Where are we now as a business and where do we want to be?\" Managers then develop specific\nstrategies for taking a firm where it wants to be."
+    },
+    {
+        "chapter": "3",
+        "question_number": "7)",
+        "description": "A course of action that a firm can pursue to achieve its strategic aims is known as a ________.",
+        "options": {
+            "A": "vision",
+            "B": "goal",
+            "C": "strategy",
+            "D": "mission"
+        },
+        "answer": "C",
+        "explanation": "C) A strategy is a course of action taken by a firm to achieve strategic aims."
+    },
+    {
+        "chapter": "3",
+        "question_number": "8)",
+        "description": "Strategic management is best defined as the process of identifying and executing the\norganization's strategic plan by matching the company's capabilities with its ________.",
+        "options": {
+            "A": "environmental demands",
+            "B": "competitive standards",
+            "C": "natural resources",
+            "D": "hierarchical skills"
+        },
+        "answer": "A",
+        "explanation": "A) Strategic management is the process of identifying and executing the\norganization's strategic plan by matching the company's capabilities with the demands of its\nenvironment. Industry standards, resources, and corporate hierarchies are less relevant."
+    },
+    {
+        "chapter": "3",
+        "question_number": "9)",
+        "description": "All of the following are steps involved in the strategic management process EXCEPT\n________.",
+        "options": {
+            "A": "evaluating the firm's internal and external situation",
+            "B": "asking, \"Where are we now as a business?\"",
+            "C": "formulating a new business direction",
+            "D": "offshoring low-skill jobs"
+        },
+        "answer": "D",
+        "explanation": "D) While offshoring low-skill jobs may be a strategy for some firms to lower\nexpenditures, it is not a specific step involved in the strategic management process."
+    },
+    {
+        "chapter": "3",
+        "question_number": "10)",
+        "description": "What is the first step in the strategic management process?",
+        "options": {
+            "A": "formulating a strategy",
+            "B": "asking, \"Where are we now as a business?\"",
+            "C": "evaluating the strategic plan",
+            "D": "implementing an environmental scan"
+        },
+        "answer": "B",
+        "explanation": "B) The first step in the strategic planning process is asking, \"Where are we now as\na business?\""
+    },
+    {
+        "chapter": "3",
+        "question_number": "11)",
+        "description": "Which of the following is a simple guide used to compile relevant information about a\ncompany's environment including economic, competitive, and political trends that may affect a\nfirm?",
+        "options": {
+            "A": "workforce requirement matrix",
+            "B": "environmental scan worksheet",
+            "C": "external resource system table",
+            "D": "potential globalization network"
+        },
+        "answer": "B",
+        "explanation": "B) Environmental scan worksheets are a guide for compiling information about the\ncompany's environment. This includes the economic, competitive, and political trends that may\naffect the company."
+    },
+    {
+        "chapter": "3",
+        "question_number": "12)",
+        "description": "John wants to perform external and internal audits as part of the strategic management\nprocess. What is a frequently used tool to organize relevant information on positive and negative\naspects of the company and environment?",
+        "options": {
+            "A": "BCG matrix",
+            "B": "QSPM matrix",
+            "C": "SWOT chart",
+            "D": "EPS/EBIT table"
+        },
+        "answer": "C",
+        "explanation": "C) The SWOT chart is a tool frequently used by managers who are responsible for\nperforming external and internal audits. Managers use it to compile and organize the company\nstrengths, weaknesses, opportunities, and threats."
+    },
+    {
+        "chapter": "3",
+        "question_number": "13)",
+        "description": "Which of the following provides a summary of a firm's intended direction and shows, in\nbroad terms, \"what we want to become\"?",
+        "options": {
+            "A": "mission statement",
+            "B": "strategic plan",
+            "C": "vision statement",
+            "D": "marketing plan"
+        },
+        "answer": "C",
+        "explanation": "C) A firm's vision statement is a general statement about the intended direction of\nthe firm and what the business should look like in the future."
+    },
+    {
+        "chapter": "3",
+        "question_number": "14)",
+        "description": "The sales director at WebMD is calculating annual sales revenue targets and the number of\nnew medical-related content providers that the firm needs to maintain a competitive advantage.\nIn which step of the strategic management process is the sales director involved?",
+        "options": {
+            "A": "evaluating the firm's internal and external strengths",
+            "B": "defining the business and its mission",
+            "C": "choosing specific strategies or courses of action",
+            "D": "evaluating the strategic plan"
+        },
+        "answer": "C",
+        "explanation": "C) The sales director is in the process of translating the firm's mission, which is to\nmaintain a competitive advantage, choosing specific strategies or courses of action. This step is\nthe fifth one in the strategic process, and it occurs after the manager makes a strategic choice."
+    },
+    {
+        "chapter": "3",
+        "question_number": "15)",
+        "description": "The ________ of the California Energy Commission indicates that the organization assesses\nand acts through public and private partnerships to improve energy systems that promote a strong\neconomy and a healthy environment.",
+        "options": {
+            "A": "mission statement",
+            "B": "strategic plan",
+            "C": "code of ethics",
+            "D": "vision statement"
+        },
+        "answer": "A",
+        "explanation": "A) A mission statement addresses the question, \"What business are we in?\"\nMission statements explain the scope of an organization's product or services, and they may also\naddress issues of vertical integration, geographic coverage, and competitive advantage."
+    },
+    {
+        "chapter": "3",
+        "question_number": "25)",
+        "description": "A company's ________ strategy identifies the portfolio of businesses that comprise a firm\nand the ways in which these businesses relate to each other.",
+        "options": {
+            "A": "functional",
+            "B": "business unit",
+            "C": "corporate-level",
+            "D": "competitive"
+        },
+        "answer": "C",
+        "explanation": "C) Managers use three types of strategies for the three different levels of a\ncompany. Corporate-level strategy identifies the portfolio of businesses that comprise a firm and\nhow these businesses relate to each other."
+    },
+    {
+        "chapter": "3",
+        "question_number": "26)",
+        "description": "A diversification corporate strategy implies that a firm will ________.",
+        "options": {
+            "A": "expand by adding new product lines",
+            "B": "reduce the company's size to increase market share",
+            "C": "save money by producing its own raw materials",
+            "D": "increase profits by offering one popular product"
+        },
+        "answer": "A",
+        "explanation": "A) A diversification corporate strategy suggests that a firm will expand by adding\nnew product lines. For example, PepsiCo has diversified over the years by adding chips and\nQuaker Oats to its product offerings."
+    },
+    {
+        "chapter": "3",
+        "question_number": "27)",
+        "description": "Harley-Davidson sells a line of boots, helmets, and leather jackets indicating that the firm is\npursuing which of the following strategies?",
+        "options": {
+            "A": "consolidation",
+            "B": "geographic expansion",
+            "C": "diversification",
+            "D": "horizontal integration"
+        },
+        "answer": "C",
+        "explanation": "C) A diversification corporate strategy suggests that a firm will expand by adding\nnew product lines."
+    },
+    {
+        "chapter": "3",
+        "question_number": "28)",
+        "description": "When Apple opened its own Apple stores, this was an example of ________.",
+        "options": {
+            "A": "market penetration",
+            "B": "concentration",
+            "C": "vertical integration",
+            "D": "consolidation"
+        },
+        "answer": "C",
+        "explanation": "C) Vertical integration is a strategy that involves expansion through producing raw\nmaterial or selling product directly."
+    },
+    {
+        "chapter": "3",
+        "question_number": "29)",
+        "description": "Winchester Rugs operates a Web site called www.buyrugsdirect.com, so Winchester Rugs is\nmost likely using a strategy of ________.",
+        "options": {
+            "A": "consolidation",
+            "B": "geographic expansion",
+            "C": "vertical integration",
+            "D": "concentration"
+        },
+        "answer": "C",
+        "explanation": "C) A vertical integration strategy means that a firm expands by producing its own\nraw materials or, in the case of Winchester Rugs, selling its products directly instead of using a\nretailer."
+    },
+    {
+        "chapter": "3",
+        "question_number": "30)",
+        "description": "Which of the following activities most likely indicates that a firm is implementing a vertical\nintegration strategy?",
+        "options": {
+            "A": "selling unprofitable divisions",
+            "B": "producing raw materials",
+            "C": "aggressively selling a new product",
+            "D": "purchasing a competitor's firm"
+        },
+        "answer": "B",
+        "explanation": "B) Vertical integration strategies are methods used for expanding a firm that\ntypically include either selling products directly or producing raw materials rather than relying\non suppliers."
+    },
+    {
+        "chapter": "3",
+        "question_number": "31)",
+        "description": "The 2008 announcement by Starbucks that it would be closing approximately 600 of its\nstores suggests the firm was using a ________ strategy.",
+        "options": {
+            "A": "consolidation",
+            "B": "diversification",
+            "C": "geographic expansion",
+            "D": "vertical integration"
+        },
+        "answer": "A",
+        "explanation": "A) Starbucks is trying to reduce its size by eliminating some of its stores, so the\nfirm is using a strategy of consolidation. Diversification and geographic expansion would\ninvolve expanding Starbucks with new products or opening stores in new locations rather than\nclosing stores."
+    },
+    {
+        "chapter": "3",
+        "question_number": "32)",
+        "description": "Sweet Leaf Tea, a Texas-based maker of bottled iced tea, is a small but fast-growing firm\nthat has gained a loyal following for its use of fresh, organic ingredients in its beverages.\nAlthough beverage industry experts recommended that Sweet Leaf replace the organic cane\nsugar and honey it uses with less costly high-fructose corn syrup, Sweet Leaf refused because of\nthe company's mission to provide a high-quality, organic beverage to consumers. The 11-year\nold company has 50 employees, and its products are available in 30% of the U.S. market. Sweet\nLeaf Tea recently received multi-million dollar investments which will enable the business to\nexpand its national presence.\nWhich of the following, if true, would best support the argument that Sweet Leaf Tea should\nimplement a corporate-level strategy of concentration?",
+        "options": {
+            "A": "Sweet Leaf Tea can develop a national name by adding new product lines, such as organic\nsnack foods and organic coffee.",
+            "B": "Sweet Leaf Tea's marketing research indicates that customers would purchase the organic\nbeverages more frequently if the prices were lower.",
+            "C": "Market data suggests that customers really only want the tea itself, not related products.",
+            "D": "Sweet Leaf Tea's competitors primarily focus their marketing and distribution efforts on\nregional grocery-store chains rather than big box national retailers."
+        },
+        "answer": "C",
+        "explanation": "C) A corporate-level strategy of concentration means that Sweet Leaf would offer\none product or product line, usually in one market. The customers' interest in only the tea\nsuggests such a concentration is warranted."
+    },
+    {
+        "chapter": "3",
+        "question_number": "33)",
+        "description": "Sweet Leaf Tea, a Texas-based maker of bottled iced tea, is a small but fast-growing firm\nthat has gained a loyal following for its use of fresh, organic ingredients in its beverages.\nAlthough beverage industry experts recommended that Sweet Leaf replace the organic cane\nsugar and honey it uses with less costly high-fructose corn syrup, Sweet Leaf refused because of\nthe company's mission to provide a high-quality, organic beverage to consumers. The 11-year\nold company has 50 employees, and its products are available in 30% of the U.S. market. Sweet\nLeaf Tea recently received multi-million dollar investments which will enable the business to\nexpand its national presence.\nWhich of the following, if true, would most likely undermine the argument that Sweet Leaf Tea\nshould implement a corporate-level strategy of vertical integration?",
+        "options": {
+            "A": "Sweet Leaf Tea lacks the facilities or knowledge to produce the raw ingredients for its\nbeverages.",
+            "B": "Market research suggests that Sweet Leaf Tea customers primarily purchase only one flavor\nof tea.",
+            "C": "Most loyal customers of Sweet Leaf Tea purchase the beverage at neighborhood convenience\nstores.",
+            "D": "Sugar farmers used by Sweet Leaf Tea have agreed to a fixed price for the next five years so\nthat the company can keep prices low."
+        },
+        "answer": "A",
+        "explanation": "A) A corporate-level strategy of vertical integration would require Sweet Leaf to\nexpand by either producing its own raw materials or selling its products directly. If the company\nlacks the facilities and knowledge to produce raw materials or the price of sugar is guaranteed to\nremain stable for five years, then vertical integration is a bad idea."
+    },
+    {
+        "chapter": "3",
+        "question_number": "34)",
+        "description": "Sweet Leaf Tea, a Texas-based maker of bottled iced tea, is a small but fast-growing firm\nthat has gained a loyal following for its use of fresh, organic ingredients in its beverages.\nAlthough beverage industry experts recommended that Sweet Leaf replace the organic cane\nsugar and honey it uses with less costly high-fructose corn syrup, Sweet Leaf refused because of\nthe company's mission to provide a high-quality, organic beverage to consumers. The 11-year\nold company has 50 employees, and its products are available in 30% of the U.S. market. Sweet\nLeaf Tea recently received multi-million dollar investments which will enable the business to\nexpand its national presence.\nWhich of the following, if true, best supports the idea that Sweet Leaf Tea has implemented a\ncompetitive strategy of differentiation?",
+        "options": {
+            "A": "New Sweet Leaf Tea customers are initially attracted to the unique labels and logo on the\nbottles.",
+            "B": "Loyal customers of Sweet Leaf Tea seek products that are USDA certified organic despite the\nassociated higher costs.",
+            "C": "Other brands of bottled iced tea compete with Sweet Leaf Tea by offering new flavors at\ncompetitive prices.",
+            "D": "Sweet Leaf Tea sells both lemonade and teas in a variety of flavors that appeal to consumers\nof all ages."
+        },
+        "answer": "B",
+        "explanation": "B) Differentiation is a business-level strategy that occurs when a firm seeks to be\nunique in its industry along dimensions that are widely valued by buyers. Sweet Leaf has\ndeveloped a customer base among individuals who only buy organic products and are willing to\npay more for them, so it has differentiated itself from other beverage firms."
+    },
+    {
+        "chapter": "3",
+        "question_number": "35)",
+        "description": "A company's ________ strategy identifies how to build and strengthen the business's long-\nterm competitive position in the marketplace.",
+        "options": {
+            "A": "functional",
+            "B": "corporate-level",
+            "C": "horizontal",
+            "D": "competitive"
+        },
+        "answer": "D",
+        "explanation": "D) A business-level or competitive strategy identifies how to build and strengthen\nthe business's long-term competitive position in the marketplace. For example, the competitive\nstrategy identifies how Pizza Hut will compete with Papa John's or how Walmart will compete\nwith Target."
+    },
+    {
+        "chapter": "3",
+        "question_number": "36)",
+        "description": "Which of the following refers to any factors that allow a company to differentiate its product\nor service from those of its competitors to increase market share?",
+        "options": {
+            "A": "functional strategy",
+            "B": "competitive advantage",
+            "C": "distinctive competency",
+            "D": "related diversification"
+        },
+        "answer": "B",
+        "explanation": "B) A competitive advantage refers to the factors that allow a firm to differentiate\nits product or service from competitors to gain market share. Managers aim to achieve\ncompetitive advantages for each of their businesses through cost leadership, differentiation, and\nfocus."
+    },
+    {
+        "chapter": "3",
+        "question_number": "37)",
+        "description": "A company's business-level strategy identifies the ________.",
+        "options": {
+            "A": "ways to strengthen a firm's long-term competitive position in the marketplace",
+            "B": "tools for diversifying a business portfolio through the acquisition of MNEs",
+            "C": "means to becoming a low-cost leader within a highly competitive industry",
+            "D": "ways to carve out a market niche in order to compete for high-end customers"
+        },
+        "answer": "A",
+        "explanation": "A) A competitive or business-level strategy identifies how a firm will build and\nstrengthen its competitive position in the marketplace, such as how Walmart will compete with\nTarget."
+    },
+    {
+        "chapter": "3",
+        "question_number": "38)",
+        "description": "Companies like Ferrari are known as ________ because they carve out a market niche and\ncompete by providing a product that customers can attain in no other way.",
+        "options": {
+            "A": "cost leaders",
+            "B": "focusers",
+            "C": "visionaries",
+            "D": "market leaders"
+        },
+        "answer": "B",
+        "explanation": "B) Focusers is a term used to describe firms that carve out market niches and\ncompete by providing unique products or services. Ferrari provides customers with a unique\nautomobile that is not readily available anywhere else."
+    },
+    {
+        "chapter": "3",
+        "question_number": "39)",
+        "description": "Which of the following strategies identifies the broad activities that each department will\npursue in order to help a business attain its competitive goals?",
+        "options": {
+            "A": "competitive",
+            "B": "business-level",
+            "C": "corporate-level",
+            "D": "functional"
+        },
+        "answer": "D",
+        "explanation": "D) Functional strategies identify what each department must do to help the\nbusiness accomplish its strategic goals. Each department should operate within the framework of\nthe company's overall strategic plan and mission."
+    },
+    {
+        "chapter": "3",
+        "question_number": "40)",
+        "description": "A firm's functional strategies identify the broad activities that each ________ will do in order\nto help the business accomplish its strategic goals.",
+        "options": {
+            "A": "supplier",
+            "B": "department",
+            "C": "executive",
+            "D": "employee"
+        },
+        "answer": "B",
+        "explanation": "B) Functional strategies stem from a firm's competitive strategies, and they\nidentify the activities that each department within a firm will pursue in order to help a business\naccomplish its competitive goals. Departments such as manufacturing, sales, and human resource\nmanagement would be given directives that correspond with a firm's business-level strategy."
+    },
+    {
+        "chapter": "3",
+        "question_number": "41)",
+        "description": "John wants his shoe store to adopt the strategy of having the lowest prices on shoes in town.\nJohn is adopting which competitive strategy?",
+        "options": {
+            "A": "focusers",
+            "B": "differentiation",
+            "C": "cost leadership",
+            "D": "providing input to top management about industry trends"
+        },
+        "answer": "C",
+        "explanation": "C) Cost leadership means becoming the low-cost leader in an industry. Walmart is\nan example."
+    },
+    {
+        "chapter": "3",
+        "question_number": "42)",
+        "description": "What is the primary reason that mergers and acquisitions fail?",
+        "options": {
+            "A": "technology",
+            "B": "financing",
+            "C": "personnel",
+            "D": "stock prices"
+        },
+        "answer": "C",
+        "explanation": "C) The most cited reason for failed mergers and acquisitions is personnel problems\nrather than financial or technical issues. Failure to prepare and train employees of both\ncompanies for a merger or acquisition may lead to employee resistance and declining morale and\nproductivity."
+    },
+    {
+        "chapter": "3",
+        "question_number": "43)",
+        "description": "Critical human resource tasks during mergers and acquisitions include all the following\nEXCEPT:",
+        "options": {
+            "A": "retaining key talent",
+            "B": "merging the firms' cultures",
+            "C": "choosing top management",
+            "D": "enforcing current rules"
+        },
+        "answer": "D",
+        "explanation": "D) Critical human resource merger or acquisition tasks include choosing top\nmanagement, communicating changes to employees, merging the firms' cultures, and retaining\nkey talent. Rules can often change during such a process."
+    },
+    {
+        "chapter": "3",
+        "question_number": "44)",
+        "description": "All of the following are services that human resource consulting companies provide during\nmergers and acquisitions EXCEPT ________.",
+        "options": {
+            "A": "aligning compensation programs",
+            "B": "overseeing database recovery systems",
+            "C": "helping to determine which employee is best for which role in the new organization",
+            "D": "identifying key talent and suitable retention strategies"
+        },
+        "answer": "B",
+        "explanation": "B) Human resource consulting companies such as Towers Watson assist firms with\nmerger-related human resource management services. For example, they identify potential\npension shortfalls, identify key talent and suitable retention strategies, help clients combine\npayroll systems, and help determine which employee is best for which role in the new\norganization."
+    },
+    {
+        "chapter": "3",
+        "question_number": "45)",
+        "description": "Lauren is identifying what each department in her company must do to help the business\naccomplish its strategic goals. These are known as ________ strategies.",
+        "options": {
+            "A": "competitive advantage",
+            "B": "competitive",
+            "C": "functional",
+            "D": "vertical integration"
+        },
+        "answer": "C",
+        "explanation": "C) Functional strategies identify what each department must do to help the\nbusiness accomplish its strategic goals."
+    },
+    {
+        "chapter": "3",
+        "question_number": "54)",
+        "description": "________ is a strategic planning tool that shows how each department performance\ncontributes to achieve the company's overall strategic goal.",
+        "options": {
+            "A": "A strategic objective",
+            "B": "Visionary strategy",
+            "C": "Vertical strategy",
+            "D": "A strategy map"
+        },
+        "answer": "D",
+        "explanation": "D) A strategy map is a planning tool that summarizes how each department's\nperformance contributes to achieving the company's overall strategic goals."
+    },
+    {
+        "chapter": "3",
+        "question_number": "55)",
+        "description": "Formulating and executing human resource policies and practices that produce the employee\ncompetencies and behaviors a company needs to achieve its strategic aims is known as\n________.",
+        "options": {
+            "A": "strategic human resource management",
+            "B": "human resource performance systems",
+            "C": "high-performance personnel management",
+            "D": "personnel management by objectives"
+        },
+        "answer": "A",
+        "explanation": "A) Strategic human resource management means formulating and executing\nhuman resource policies and practices that produce the employee competencies and behaviors\nthe company needs to achieve its strategic aims."
+    },
+    {
+        "chapter": "3",
+        "question_number": "56)",
+        "description": "The primary purpose of strategic human resource management is to ________.",
+        "options": {
+            "A": "develop human resource policies that align with industry standards",
+            "B": "integrate a company's strategic plan with its human resource strategies",
+            "C": "create stringent appraisal systems that highlight employee weaknesses",
+            "D": "use offshoring to reduce human resource costs and to initiate globalization"
+        },
+        "answer": "B",
+        "explanation": "B) Strategic human resource management is intended to link a firm's strategic plan\nwith its human resource strategies. When creating human resource management policies and\nactivities, a manager needs to produce the employee competencies and behaviors that the\ncompany needs to achieve its strategic aims."
+    },
+    {
+        "chapter": "3",
+        "question_number": "57)",
+        "description": "In order to generate the desired workforce skill, competencies, and behaviors that a firm\nneeds to achieve its strategic goals, human resource management must first develop ________.",
+        "options": {
+            "A": "strategic plans",
+            "B": "HR policies",
+            "C": "employee skills",
+            "D": "company norms"
+        },
+        "answer": "A",
+        "explanation": "A) Developing strategic plans and goals is the first step of strategic human\nresource management."
+    },
+    {
+        "chapter": "3",
+        "question_number": "58)",
+        "description": "John is a manager is looking at HR scorecard data through a ________, which presents the\nmanager with desktop graphs and charts, showing a computerized picture of how the company is\ndoing on all the metrics from the HR scorecard process.",
+        "options": {
+            "A": "digital dashboard",
+            "B": "strategy map",
+            "C": "HR audit",
+            "D": "mission plan"
+        },
+        "answer": "A",
+        "explanation": "A) A digital dashboard presents the manager with desktop graphs and charts,\nshowing a computerized picture of how the company is doing on all the metrics from the HR\nscorecard process."
+    },
+    {
+        "chapter": "3",
+        "question_number": "59)",
+        "description": "Which of the following is the final step in the strategic human resource management\nprocess?",
+        "options": {
+            "A": "The manager asks, \"What employee skills and behaviors will we need to achieve these plans\nand goals?\"",
+            "B": "The manager formulates strategic plans and goals.",
+            "C": "The manager asks, \"Specifically what recruitment, selection, training, and other HR policies\nand practices should we put in place so as to produce the required employee skills and\nbehaviors?\"",
+            "D": "The manager asks, \"How much profit can we make on this?\""
+        },
+        "answer": "C",
+        "explanation": "C) The final step in the strategic human resource management process is when the\nmanager asks, \"Specifically what recruitment, selection, training, and other HR policies and\npractices should we put in place so as to produce the required employee skills and behaviors?\""
+    },
+    {
+        "chapter": "3",
+        "question_number": "60)",
+        "description": "Human resource strategies are the ________ used to support a firm's strategic goals.",
+        "options": {
+            "A": "visions and objectives",
+            "B": "policies and practices",
+            "C": "missions and goals",
+            "D": "theories and tools"
+        },
+        "answer": "B",
+        "explanation": "B) Human resource strategies are the policies and practices developed to support\nthe employee competencies and behaviors that a firm needs to accomplish its strategic aims."
+    },
+    {
+        "chapter": "3",
+        "question_number": "61)",
+        "description": "The ________ is a process for assigning financial and nonfinancial goals or metrics to the\nhuman resource management-related strategy-map chain of activities required for achieving the\ncompany's strategic aims.",
+        "options": {
+            "A": "HR scorecard",
+            "B": "vision statement",
+            "C": "digital dashboard",
+            "D": "benchmarking process"
+        },
+        "answer": "A",
+        "explanation": "A) The HR scorecard process is a process for assigning financial and nonfinancial\ngoals or metrics to the human resource management-related strategy-map chain of activities\nrequired for achieving the company's strategic aims."
+    },
+    {
+        "chapter": "3",
+        "question_number": "62)",
+        "description": "Which of the following is a strategic planning tool that offers an overview of how each\ndepartment's performance contributes to achieving the company's overall strategic goals?",
+        "options": {
+            "A": "digital dashboard",
+            "B": "HR scorecard",
+            "C": "strategy map",
+            "D": "HR audit"
+        },
+        "answer": "C",
+        "explanation": "C) The strategy map summarizes how each department's performance contributes\nto achieving the company's overall strategic goals."
+    },
+    {
+        "chapter": "3",
+        "question_number": "63)",
+        "description": "Which of the following refers to a process for assigning financial and nonfinancial goals to\nthe HR management-related chain of activities required for achieving the company's strategic\naims and for monitoring results?",
+        "options": {
+            "A": "strategy map",
+            "B": "HR scorecard",
+            "C": "HR feedback scale",
+            "D": "digital dashboard"
+        },
+        "answer": "B",
+        "explanation": "B) The HR scorecard is a process for assigning financial and nonfinancial goals to\nthe HR management-related chain of activities required for achieving the company's strategic\naims and for monitoring results."
+    },
+    {
+        "chapter": "3",
+        "question_number": "64)",
+        "description": "A ________ presents a manager with desktop graphs and charts that illustrate where the\ncompany stands on metrics from the HR scorecard process.",
+        "options": {
+            "A": "strategy map",
+            "B": "business plan",
+            "C": "scanning worksheet",
+            "D": "digital dashboard"
+        },
+        "answer": "D",
+        "explanation": "D) The digital dashboard is comprised of desktop graphs and charts that illustrate\nwhere the company stands on metrics from the HR scorecard process. A digital dashboard on a\ncomputer usually displays real-time trends for strategy map activities which enable managers to\ntake corrective action."
+    },
+    {
+        "chapter": "3",
+        "question_number": "65)",
+        "description": "The concise measurement system used by companies to show the quantitative standards the\nfirm uses to measure HR activities, employee behaviors resulting from the activities, and the\nstrategically relevant organizational outcomes of those employee behaviors is called a(n)\n________.",
+        "options": {
+            "A": "evaluation system",
+            "B": "HR scorecard",
+            "C": "appraisal system",
+            "D": "evaluation benchmark"
+        },
+        "answer": "B",
+        "explanation": "B) Managers use HR scorecards to quantify the relationships between HR\nactivities, resulting employee behaviors, and resulting firm-wide strategic outcomes and\nperformance. HR scorecards quantify the strategy map."
+    },
+    {
+        "chapter": "3",
+        "question_number": "66)",
+        "description": "Which of the following is used to manage employee performance and to align all employees\nwith the key objectives a firm needs to achieve its strategic goals?",
+        "options": {
+            "A": "functional planning system",
+            "B": "HR scorecard",
+            "C": "annual HR benchmarks",
+            "D": "high-performance work system"
+        },
+        "answer": "B",
+        "explanation": "B) HR scorecards are used to manage employee performance and to align all\nemployees with the key objectives a firm needs to achieve its strategic goals. The HR scorecard\nprocess enables managers to assign financial and nonfinancial goals, monitor and assess\nperformances, and quickly take corrective action. Benchmarking is used to make comparisons\nwith comparable companies."
+    },
+    {
+        "chapter": "3",
+        "question_number": "72)",
+        "description": "Which of the following terms refers to the quantitative measure of a human resource\nmanagement yardstick such as employee turnover or qualified applicants per position?",
+        "options": {
+            "A": "human resource audits",
+            "B": "human resource metrics",
+            "C": "management by objectives",
+            "D": "human resource scorecards"
+        },
+        "answer": "B",
+        "explanation": "B) A human resource metric is the quantitative measure of a human resource\nmanagement yardstick such as employee turnover, qualified applicants per position, or hours of\ntraining per employee. Such metrics are used to assess a firm's HR performance and to compare\none company's HR performance with another."
+    },
+    {
+        "chapter": "3",
+        "question_number": "73)",
+        "description": "The use of human resource metrics is essential for ________.",
+        "options": {
+            "A": "management by objectives",
+            "B": "emergent employee behaviors",
+            "C": "corporate-level strategies",
+            "D": "evidence-based management"
+        },
+        "answer": "D",
+        "explanation": "D) Using concrete, quantifiable evidence that is available from human resource\nmetrics is essential to evidence-based management. Evidence-based management involves the\nuse of data, facts, analytics, scientific rigor, critical evaluation, and critically evaluated\nresearch/case studies to support human resource management proposals, decisions, practices, and\nconclusions."
+    },
+    {
+        "chapter": "3",
+        "question_number": "74)",
+        "description": "Which of the following terms refers to the process of comparing and analyzing the practices\nof one firm with those of a high-performing company?",
+        "options": {
+            "A": "benchmarking",
+            "B": "diversifying",
+            "C": "strategizing",
+            "D": "outsourcing"
+        },
+        "answer": "A",
+        "explanation": "A) Benchmarking refers to comparing and analyzing the practices of high-\nperforming companies to your own in order to understand what they do that makes them better."
+    },
+    {
+        "chapter": "3",
+        "question_number": "75)",
+        "description": "Which of the following refers to an analysis by which an organization measures where it\ncurrently stands and determines what it has to accomplish to improve its HR functions?",
+        "options": {
+            "A": "HR methodology",
+            "B": "HR benchmark",
+            "C": "HR checklist",
+            "D": "HR audit"
+        },
+        "answer": "D",
+        "explanation": "D) An HR audit is an analysis by which an organization measures where it\ncurrently stands and determines what it has to accomplish to improve its HR functions."
+    },
+    {
+        "chapter": "3",
+        "question_number": "76)",
+        "description": "All of the following are commonly addressed in an HR audit EXCEPT ________.",
+        "options": {
+            "A": "exempt workers",
+            "B": "job descriptions",
+            "C": "accounting expenses",
+            "D": "workers' compensation benefits"
+        },
+        "answer": "C",
+        "explanation": "C) Although HR audits vary in scope and focus, most cover such issues as exempt\nand non-exempt workers, job descriptions, and benefits. Accounting expenses are less likely to\nbe addressed in an HR audit."
+    },
+    {
+        "chapter": "3",
+        "question_number": "77)",
+        "description": "Which term refers to software applications used to analyze and draw conclusions from HR\ndata?",
+        "options": {
+            "A": "data mines",
+            "B": "talent analytics",
+            "C": "HR scorecards",
+            "D": "digital dashboards"
+        },
+        "answer": "B",
+        "explanation": "B) Employers increasingly use workforce analytics (or \"talent analytics\") software\napplications to analyze their human resources data and to draw conclusions from it. Data mining\ntechniques are used in talent analytics software applications."
+    },
+    {
+        "chapter": "3",
+        "question_number": "78)",
+        "description": "Executives at Hartford Clothing, a retail department store chain, want to find out what\nproducts their customers buy, when they purchase products, and what days of the week are most\npopular for shopping. Executives want to discover customer patterns and make predictions about\ntheir customers' buying habits. What would be the most effective tool for Hartford?",
+        "options": {
+            "A": "data mining system",
+            "B": "talent value model",
+            "C": "financial audit",
+            "D": "strategy map"
+        },
+        "answer": "A",
+        "explanation": "A) Data mining is \"the set of activities used to find new, hidden, or unexpected\npatterns in data.\" Data mining systems use tools like statistical analysis and intelligent agents to\nsift through data looking for relationships. Department stores often use data mining to make\npredictions about their customers' shopping habits."
+    },
+    {
+        "chapter": "3",
+        "question_number": "79)",
+        "description": "Which of the following questions would LEAST likely be answered by the use of workforce\nanalytics software?",
+        "options": {
+            "A": "Which departments need improvement?",
+            "B": "What hiring policies are standard in the industry?",
+            "C": "How many workers will the firm need in five years?",
+            "D": "Why do employees choose to leave the organization?"
+        },
+        "answer": "B",
+        "explanation": "B) Employers increasingly use workforce analytics (or \"talent analytics\") software\napplications to analyze their human resources data and discover patterns and to draw conclusions\nfrom it. Such software can help identify departmental needs, estimate future workforce\nrequirements, and predict employee turnover. Industry-wide hiring policies are less likely to be\naddressed."
+    },
+    {
+        "chapter": "3",
+        "question_number": "80)",
+        "description": "An HR manager conducting an HR audit on compensation would most likely search for\n________.",
+        "options": {
+            "A": "current job descriptions",
+            "B": "workforce health and safety training",
+            "C": "completed benefit enrollment forms",
+            "D": "compliance with state and federal laws"
+        },
+        "answer": "D",
+        "explanation": "D) When auditing for compensation compliance, a manager is most likely ensuring\nthat the firm is meeting all state and federal laws regarding overtime and timecards. Job\ndescriptions, health and safety, and benefits would most likely be addressed in other types of HR\naudits."
+    },
+    {
+        "chapter": "3",
+        "question_number": "81)",
+        "description": "Like the scientific method, evidence-based HR management should have all of the following\ncharacteristics EXCEPT ________.",
+        "options": {
+            "A": "use of data",
+            "B": "experimentation",
+            "C": "subjectivity",
+            "D": "prediction"
+        },
+        "answer": "C",
+        "explanation": "C) Evidence-based HR management should be objective rather than subjective to\nensure validity. Like scientific experiments, evidence-based management requires objectivity,\nexperimentation, quantification, explanation, prediction, and replication."
+    },
+    {
+        "chapter": "3",
+        "question_number": "82)",
+        "description": "What tool might be best used to assess recruitment effectiveness?",
+        "options": {
+            "A": "computerized applicant tracking systems",
+            "B": "benchmarking",
+            "C": "data mines",
+            "D": "strategy map"
+        },
+        "answer": "A",
+        "explanation": "A) Many employers do track and analyze recruitment data with the help of\ncomputerized applicant tracking systems (ATS)."
+    },
+    {
+        "chapter": "3",
+        "question_number": "93)",
+        "description": "Which of the following terms refers to a set of human resource management policies and\npractices that promote organizational effectiveness?",
+        "options": {
+            "A": "management by objectives system",
+            "B": "human resource metric",
+            "C": "high-performance work system",
+            "D": "strategic human resource map"
+        },
+        "answer": "C",
+        "explanation": "C) A high-performance work system is a set of human resource management\npolicies and practices that promote organizational effectiveness. Such HPWSs differ from less\nproductive systems and are often a distinguishing characteristic of high-performing firms."
+    },
+    {
+        "chapter": "3",
+        "question_number": "94)",
+        "description": "High-performance work organizations are most likely characterized by all of the following\nEXCEPT ________.",
+        "options": {
+            "A": "using more selection tests",
+            "B": "empowered front-line workers",
+            "C": "extensive training",
+            "D": "commitment to high production rates"
+        },
+        "answer": "D",
+        "explanation": "D) High-performance work organizations are characterized by paying more,\ntraining more, using more sophisticated recruitment and hiring practices and using more self-\nmanaging work teams. Being committed to high production rates is not necessarily a\ncharacteristic of an HPWS."
+    },
+    {
+        "chapter": "3",
+        "question_number": "95)",
+        "description": "All of the following practices are most likely implemented by companies with high-\nperformance work systems EXCEPT ________.",
+        "options": {
+            "A": "hiring employees based on validated selection tests",
+            "B": "providing pay increases based on service years",
+            "C": "extensive training of the workforce",
+            "D": "utilizing self-managing work teams"
+        },
+        "answer": "B",
+        "explanation": "B) In comparison to low-performance companies, high-performance companies are\nmore likely to use validated selection tests when hiring employees, fill jobs internally, and use\nself-managing work teams. Pay increases are more likely to be based on job performance rather\nthan the number of years an employee has worked for a firm."
+    },
+    {
+        "chapter": "3",
+        "question_number": "96)",
+        "description": "Reese Enterprises seeks to fill upper-level positions internally whenever possible and uses\nvalidated selection tests when considering external hires. This most likely suggests the company\nis developing a ________.",
+        "options": {
+            "A": "high-performance work system",
+            "B": "scorecard management system",
+            "C": "benchmark and metric analysis",
+            "D": "management by objectives strategy"
+        },
+        "answer": "A",
+        "explanation": "A) A firm that attempts to fill upper-level positions internally and uses validated\nselection tests for external candidates is most likely implementing a high-performance work\nsystem. Metrics and benchmarks are frequently used to identify and create the policies and\npractices of HPWSs, but the manner in which jobs are filled does not necessarily indicate the use\nof metrics and benchmarks."
+    },
+    {
+        "chapter": "3",
+        "question_number": "97)",
+        "description": "MAX Computers manufactures affordable laptops, desktops, and tablets at its factory in\nArizona. MAX has experienced a moderate amount of financial success, but upper management\nwants the firm to grow at a faster rate and become a bigger player in the highly competitive\ncomputer market. The firm's greatest problems relate to its employees. Employee turnover is\nhigh—most employees at MAX leave within two years or less of being hired. In addition, the\nrate of productivity among employees is not as high as executives would like. The vice president\nof human resources is considering moving MAX towards a high-performance work system.\nWhich of the following best supports the argument that MAX should move towards a high-\nperformance work system?",
+        "options": {
+            "A": "MAX competitors regularly use benchmarking to compare their employees to those in other\nfirms.",
+            "B": "MAX customers purchase new computers every two years according to online customer\nsurveys.",
+            "C": "Outsourcing clerical tasks would enable MAX to raise employee salaries and increase\nproductivity.",
+            "D": "Using advanced recruitment and hiring practices will allow MAX to improve employee\nproductivity."
+        },
+        "answer": "D",
+        "explanation": "D) A high-performance work system is a set of HR management policies and\npractices that jointly produce superior employee performance. HPWSs typically pay more, train\nemployees more, use more advanced recruitment and hiring practices, and use self-managing\nwork teams. MAX would improve employee productivity and reduce turnovers if it effectively\nrecruited and tested applicants to make sure they were the right people for the job."
+    },
+    {
+        "chapter": "3",
+        "question_number": "98)",
+        "description": "MAX Computers manufactures affordable laptops and desktops at its factory in Arizona.\nMAX has experienced a moderate amount of financial success, but upper management wants the\nfirm to grow at a faster rate and become a bigger player in the highly competitive computer\nmarket. The firm's greatest problems relate to its employees. Employee turnover is high—most\nemployees at MAX leave within two years or less of being hired. In addition, the rate of\nproductivity among employees is not as high as executives would like. The vice president of\nhuman resources is considering moving MAX towards a high-performance work system.\nWhich of the following questions is most relevant to MAX's decision to move toward a high-\nperformance work system?",
+        "options": {
+            "A": "How would the implementation of self-managing work teams affect employee morale and\nwork standards at MAX?",
+            "B": "How will qualitative performance measures address the needs of MAX employees in regards\nto the firm's benefits plan?",
+            "C": "What roles should line managers, staff managers, and HR managers at MAX play in\nperformance appraisals?",
+            "D": "What economic and demographic trends in the U.S. are related to the employee turnover rate\nat MAX?"
+        },
+        "answer": "A",
+        "explanation": "A) HPWSs typically pay more, train employees more, use more advanced\nrecruitment and hiring practices, and use self-managing work teams. By answering the question\nabout employee morale and work standards, it would become clear that MAX should move\ntowards a HPWS and self-managing work teams. Economic trends, benefits plans, and\nmanagerial roles in performance appraisals are less relevant to a HPWS."
+    },
+    {
+        "chapter": "3",
+        "question_number": "99)",
+        "description": "Which of the following is most likely a true statement about high-performance companies?",
+        "options": {
+            "A": "Employees receive extensive training.",
+            "B": "Employee turnover is extremely high.",
+            "C": "Only executives are eligible for incentive pay.",
+            "D": "The majority of jobs are filled externally."
+        },
+        "answer": "A",
+        "explanation": "A) In a comparison of low-performance and high-performance companies, HPWSs\ntypically pay more, train employees more, use more advanced recruitment and hiring practices,\nand use self-managing work teams."
+    },
+    {
+        "chapter": "3",
+        "question_number": "100)",
+        "description": "The primary purpose of implementing high-performance practices such as recruiting,\nscreening, and training is to ________.",
+        "options": {
+            "A": "foster a strong organizational culture",
+            "B": "create management opportunities for new hires",
+            "C": "develop a trained, flexible, and self-motivated workforce",
+            "D": "utilize benchmarks to compare personnel skills within an industry"
+        },
+        "answer": "C",
+        "explanation": "C) High-performance practices generally aspire to help workers to manage\nthemselves. The primary purpose of recruiting, screening, training, and other human resource\npractices is to foster a trained, empowered, self-motivated, and flexible workforce."
+    },
+    {
+        "chapter": "3",
+        "question_number": "108)",
+        "description": "According to the text, approximately what percentage of the U.S. workforce feels engaged?",
+        "options": {
+            "A": "5%",
+            "B": "30%",
+            "C": "50%",
+            "D": "75%"
+        },
+        "answer": "B",
+        "explanation": "B) Depending on the study, only about 21-30% of employees nationally are\nengaged, with one Gallop poll finding 30% engaged."
+    },
+    {
+        "chapter": "3",
+        "question_number": "109)",
+        "description": "Which of the following is NOT one of the steps KIA UK used in their employee\nengagement HR strategy?",
+        "options": {
+            "A": "set measurable objectives",
+            "B": "focused on bonus-based compensation",
+            "C": "held an extensive leadership development program",
+            "D": "improved internal communications"
+        },
+        "answer": "B",
+        "explanation": "B) Kia UK made a number of changes to its compensation and other policies but in\nfact eliminated bonuses and substituted fixed-rate percentage-based salary increases."
+    }
+]

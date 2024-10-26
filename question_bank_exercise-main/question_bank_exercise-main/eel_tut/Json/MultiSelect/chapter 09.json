@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "9",
+        "question_number": "1)",
+        "description": "Which of the following terms refers to the process of evaluating an employee's current and/or\npast performance relative to his or her performance standards?",
+        "options": {
+            "A": "employee selection",
+            "B": "performance appraisal",
+            "C": "employee orientation",
+            "D": "organizational development"
+        },
+        "answer": "B",
+        "explanation": "B) Performance appraisal means evaluating an employee's current and/or past\nperformance relative to his or her performance standards. Performance appraisal always involves\nsetting work standards, assessing the employee's actual performance relative to those standards,\nand providing feedback to the employee."
+    },
+    {
+        "chapter": "9",
+        "question_number": "2)",
+        "description": "The primary purpose of providing employees with feedback during a performance appraisal is\nto motivate employees to ________.",
+        "options": {
+            "A": "apply for managerial positions",
+            "B": "remove any performance deficiencies",
+            "C": "revise their performance standards",
+            "D": "enroll in work-related training programs"
+        },
+        "answer": "B",
+        "explanation": "B) The purpose of providing feedback to the employee is to motivate him or her to\neliminate performance deficiencies or to continue to perform above par."
+    },
+    {
+        "chapter": "9",
+        "question_number": "3)",
+        "description": "Which of the following is NOT one of the recommended guidelines for setting effective\nemployee goals?",
+        "options": {
+            "A": "creating specific goals",
+            "B": "assigning measurable goals",
+            "C": "administering consequences for failure to meet goals",
+            "D": "encouraging employees to participate in setting goals"
+        },
+        "answer": "C",
+        "explanation": "C) Effective goals should be specific, measurable, attainable, relevant, and timely.\nGoals should be challenging but doable, and employee participation should be encouraged.\nGiving consequences for failing to meet goals is not recommended and unlikely to motivate\nemployees."
+    },
+    {
+        "chapter": "9",
+        "question_number": "4)",
+        "description": "SMART goals are best described as ________.",
+        "options": {
+            "A": "specific, measurable, attainable, relevant, and timely",
+            "B": "straightforward, meaningful, accessible, real, and tested",
+            "C": "strategic, moderate, achievable, relevant, and timely",
+            "D": "supportive, meaningful, attainable, real, and timely"
+        },
+        "answer": "A",
+        "explanation": "A) The acronym SMART stands for specific, measurable, attainable, relevant, and\ntimely."
+    },
+    {
+        "chapter": "9",
+        "question_number": "5)",
+        "description": "All of the following are reasons for appraising an employee's performance EXCEPT\n________.",
+        "options": {
+            "A": "correcting any work-related deficiencies",
+            "B": "creating an organizational strategy map",
+            "C": "determining appropriate salary and bonuses",
+            "D": "making decisions about promotions"
+        },
+        "answer": "B",
+        "explanation": "B) Most employers still base pay and promotional decisions on the employee's\nappraisal. Appraisals also let the boss and subordinate develop a plan for correcting any\ndeficiencies, and serve a useful career planning purpose. Creating a strategy map is not a likely\npurpose for conducting a performance appraisal."
+    },
+    {
+        "chapter": "9",
+        "question_number": "6)",
+        "description": "In most organizations, who is primarily responsible for appraising an employee's\nperformance?",
+        "options": {
+            "A": "employee's direct supervisor",
+            "B": "company appraiser",
+            "C": "human resources manager",
+            "D": "employee's subordinates"
+        },
+        "answer": "A",
+        "explanation": "A) The supervisor—not HR—usually does the actual appraising, and a supervisor\nwho rates his or her employees too high or too low (or all average) is doing a disservice to them\nand to the company. Subordinates rate supervisors in some organizations, but the upward\nfeedback is not the primary appraisal of the supervisor."
+    },
+    {
+        "chapter": "9",
+        "question_number": "7)",
+        "description": "Which of the following is most likely NOT a role played by the HR department in the\nperformance appraisal process?",
+        "options": {
+            "A": "conducting appraisals of employees",
+            "B": "monitoring the appraisal system's effectiveness",
+            "C": "providing performance appraisal training to supervisors",
+            "D": "ensuring the appraisal system's compliance with EEO laws"
+        },
+        "answer": "A",
+        "explanation": "A) Supervisors, rather than HR managers, conduct the actual appraisals. However,\nthe HR department monitors the system's effectiveness and compliance with EEO laws. HR\nmanagers also provide supervisors with tools, advice, and training in regards to performance\nappraisals."
+    },
+    {
+        "chapter": "9",
+        "question_number": "8)",
+        "description": "What is the first step of any performance appraisal?",
+        "options": {
+            "A": "giving feedback",
+            "B": "setting work standards",
+            "C": "making plans to provide training",
+            "D": "assessing the employee's performance"
+        },
+        "answer": "B",
+        "explanation": "B) Performance appraisal always involves the three-step performance appraisal\nprocess: (1) setting work standards, (2) assessing the employee's actual performance relative to\nthose standards, and (3) providing feedback to the employee with the aim of helping him or her\nto eliminate performance deficiencies or to continue to perform above par."
+    },
+    {
+        "chapter": "9",
+        "question_number": "9)",
+        "description": "________ means making sure that the manager and the subordinate agree on the subordinate's\njob standards and the appraisal method to be used.",
+        "options": {
+            "A": "SMART goals",
+            "B": "Organizational development",
+            "C": "Defining the job",
+            "D": "Forced distribution"
+        },
+        "answer": "C",
+        "explanation": "C) Defining the job means making sure that you and your subordinate agree on his\nor her duties and job standards and on the appraisal method you will use."
+    },
+    {
+        "chapter": "9",
+        "question_number": "10)",
+        "description": "Who is in the best position to observe and evaluate an employee's performance for the\npurposes of a performance appraisal?",
+        "options": {
+            "A": "customers",
+            "B": "rating committees",
+            "C": "top management",
+            "D": "immediate supervisor"
+        },
+        "answer": "D",
+        "explanation": "D) Supervisors' ratings are the heart of most appraisals. The supervisor usually is\nin the best position to evaluate the subordinate's performance and is responsible for that person's\nperformance."
+    },
+    {
+        "chapter": "9",
+        "question_number": "11)",
+        "description": "Employee performance appraisals are conducted by all of the following EXCEPT ________.",
+        "options": {
+            "A": "peers",
+            "B": "competitors",
+            "C": "subordinates",
+            "D": "rating committees"
+        },
+        "answer": "B",
+        "explanation": "B) Performance appraisals are primarily performed by supervisors. However, firms\nare increasingly using peers, rating committees, and subordinates to conduct appraisals.\nCompetitors are not used for performance appraisals."
+    },
+    {
+        "chapter": "9",
+        "question_number": "12)",
+        "description": "Peer appraisals have been shown to result in a ________.",
+        "options": {
+            "A": "reduction of social loafing",
+            "B": "reduction of group cohesion",
+            "C": "decrease in task motivation",
+            "D": "decrease in group satisfaction"
+        },
+        "answer": "A",
+        "explanation": "A) Peer appraisals have been shown to improve social loafing, group viability,\ncohesion, task motivation, and satisfaction. Employees are often motivated to meet the\nexpectations of their colleagues."
+    },
+    {
+        "chapter": "9",
+        "question_number": "13)",
+        "description": "In most firms, a rating committee used for performance appraisals consists of ________\nmembers.",
+        "options": {
+            "A": "2-3",
+            "B": "4-5",
+            "C": "6-8",
+            "D": "9-10"
+        },
+        "answer": "B",
+        "explanation": "B) A rating committee usually consists of the employee's immediate supervisor\nand three or four other supervisors."
+    },
+    {
+        "chapter": "9",
+        "question_number": "14)",
+        "description": "What usually occurs when employees rate themselves for performance appraisals?",
+        "options": {
+            "A": "Ratings are reliable but invalid.",
+            "B": "Ratings are subject to halo effects.",
+            "C": "Ratings are higher than when provided by supervisors.",
+            "D": "Ratings are about the same as when determined by peers."
+        },
+        "answer": "C",
+        "explanation": "C) Employees usually rate themselves higher than they are rated by supervisors or\npeers. Self-ratings are neither reliable nor valid in most cases."
+    },
+    {
+        "chapter": "9",
+        "question_number": "15)",
+        "description": "Which of the following terms refers to the process of allowing subordinates to rate their\nsupervisor's performance anonymously?",
+        "options": {
+            "A": "supplemental evaluation",
+            "B": "upward feedback",
+            "C": "paired evaluation",
+            "D": "peer evaluation"
+        },
+        "answer": "B",
+        "explanation": "B) Many employers let subordinates anonymously rate their supervisor's\nperformance, a process some call upward feedback. The process helps top managers diagnose\nmanagement styles, identify potential \"people\" problems, and take corrective action with\nindividual managers as required."
+    },
+    {
+        "chapter": "9",
+        "question_number": "16)",
+        "description": "According to research, what is the typical result of upward feedback?",
+        "options": {
+            "A": "Firms are protected against biased appraisals.",
+            "B": "Managers get defensive.",
+            "C": "Managers improve their performance.",
+            "D": "Managers seek to find out who gave them bad ratings."
+        },
+        "answer": "C",
+        "explanation": "C) The evidence suggests that upward feedback improves managers' performance.\nOne study focused on 252 managers during five annual administrations of an upward feedback\nprogram. Managers who were initially rated poor or moderate \"showed significant improvements\nin [their] upward feedback ratings over the five-year period.\""
+    },
+    {
+        "chapter": "9",
+        "question_number": "17)",
+        "description": "Which of the following terms refers to a performance appraisal based on surveys from peers,\nsupervisors, subordinates, and customers?",
+        "options": {
+            "A": "360-degree feedback",
+            "B": "team appraisals",
+            "C": "upward feedback",
+            "D": "rating committee"
+        },
+        "answer": "A",
+        "explanation": "A) Many firms expand the idea of upward and peer feedback into \"360-degree\nfeedback.\" Here ratings are collected \"all around\" an employee, from supervisors, subordinates,\npeers, and internal or external customers."
+    },
+    {
+        "chapter": "9",
+        "question_number": "18)",
+        "description": "Oshman manufactures small kitchen appliances, such as blenders, toasters, and mixers. The\nfirm has nearly 80,000 employees in 22 countries. Employees receive annual performance\nappraisals from their supervisors that combine critical incidents with a graphic rating scale.\nHowever, the firm's CEO advocates shifting from performance appraisals to performance\nmanagement in an attempt to make Oshman more competitive and performance driven.\nWhich of the following, if true, best supports the argument to replace Oshman's traditional\nappraisal methods with the performance management approach?",
+        "options": {
+            "A": "Oshman's competitors in the small appliance industry monitor the performance of their\nemployees through electronic performance monitoring systems.",
+            "B": "Oshman executives want to align the firm's strategic plan with individual employee goals and\ndevelopment needs.",
+            "C": "Oshman has experienced problems associated with central tendency and bias, and the firm\nwants to ensure that appraisals are legally sound.",
+            "D": "Oshman uses management by objectives as a primary appraisal method and requires\nsupervisors to develop SMART goals."
+        },
+        "answer": "B",
+        "explanation": "B) Performance management refers to the continuous process of aligning the\nperformance of individuals and teams with an organization's goals. Performance management\ndoes not necessarily eliminate problems like central tendency and bias. Instead, the approach\nfocuses on monitoring an employee's performance and making sure it matches the needs of the\nfirm."
+    },
+    {
+        "chapter": "9",
+        "question_number": "31)",
+        "description": "Which of the following is the easiest and most popular technique for appraising employee\nperformance?",
+        "options": {
+            "A": "alternation ranking",
+            "B": "graphic rating scale",
+            "C": "forced distribution",
+            "D": "constant sum rating scale"
+        },
+        "answer": "B",
+        "explanation": "B) The graphic rating scale is the simplest and most popular method for appraising\nperformance. A graphic rating scale lists traits and a range of performance values for each trait.\nThe supervisor rates each subordinate by circling or checking the score that best describes the\nsubordinate's performance for each trait."
+    },
+    {
+        "chapter": "9",
+        "question_number": "32)",
+        "description": "Which performance appraisal technique lists traits and a range of performance values for\neach trait?",
+        "options": {
+            "A": "behaviorally anchored rating scale",
+            "B": "graphic rating scale",
+            "C": "forced distribution",
+            "D": "critical incident"
+        },
+        "answer": "B",
+        "explanation": "B) A graphic rating scale lists traits (such as \"quality and reliability\" or\n\"teamwork\") and a range of performance values (from \"unsatisfactory\" to \"outstanding,\" or\n\"below expectations\" to \"role model\") for each trait. The supervisor rates each subordinate by\ncircling or checking the score that best describes the subordinate's performance for each trait.\nThe assigned values for the traits are then totaled."
+    },
+    {
+        "chapter": "9",
+        "question_number": "33)",
+        "description": "Wilson Consulting is a management consulting firm with seventy employees. As associate\nvice president of marketing, Suzanne Boyle is responsible for conducting performance appraisals\nof the twelve employees under her direct supervision. Suzanne plans to use a graphic rating scale\nto evaluate the performance of her subordinates.\nWhich of the following, if true, best supports the argument that a graphic rating scale is the most\nappropriate performance appraisal tool for Suzanne to use?",
+        "options": {
+            "A": "The firm wants Suzanne to evaluate her subordinates on an ongoing basis and to keep a log of\ncritical incidents.",
+            "B": "Suzanne wants to ensure that the firm is protected from employee discrimination lawsuits, so\nshe has conducted a job analysis of each position.",
+            "C": "Suzanne wants a quantitative rating of each employee based on competencies important to the\nfirm, such as problem-solving skills.",
+            "D": "Employees in Suzanne's department participated in developing their own performance\nstandards when they were first hired by the firm."
+        },
+        "answer": "C",
+        "explanation": "C) Graphic rating scales with competency-based appraisal forms enable an\nemployer to focus on the extent to which an employee exhibits the competencies essential for the\njob. Graphic rating scales do not track critical incidents, and they are not the best tool for\nprotecting a firm from legal charges because of problems with bias, central tendency, and halo\neffect."
+    },
+    {
+        "chapter": "9",
+        "question_number": "34)",
+        "description": "All of the following are usually measured by a graphic rating scale EXCEPT ________.",
+        "options": {
+            "A": "generic dimensions of performance",
+            "B": "performance of co-workers",
+            "C": "achievement of objectives",
+            "D": "job-related competencies"
+        },
+        "answer": "B",
+        "explanation": "B) A paired comparison method involves making comparisons of employees with\ntheir co-workers. The graphic rating scale measures four job-relevant job dimensions including\ngeneric job dimensions, a job's actual duties, competencies, and objectives."
+    },
+    {
+        "chapter": "9",
+        "question_number": "35)",
+        "description": "Which performance appraisal tool requires supervisors to categorize employees from best to\nworst on various traits?",
+        "options": {
+            "A": "graphic rating scale",
+            "B": "critical incident method",
+            "C": "alternation ranking method",
+            "D": "electronic performance monitoring"
+        },
+        "answer": "C",
+        "explanation": "C) The alternation ranking method involves ranking employees from best to worst\non a particular trait, choosing highest, then lowest, until all are ranked."
+    },
+    {
+        "chapter": "9",
+        "question_number": "36)",
+        "description": "The most popular method for ranking employees is the ________ method.",
+        "options": {
+            "A": "graphic ranking scale",
+            "B": "alternation ranking",
+            "C": "paired comparison",
+            "D": "forced distribution"
+        },
+        "answer": "B",
+        "explanation": "B) It is usually easier to distinguish between the worst and best employees, and the\nalternation ranking method is the most popular choice for supervisors. Paired comparison and\nforced distribution are less popular methods for ranking employees from best to worst on a trait\nor traits. A graphic rating, not ranking, scale is a popular appraisal tool."
+    },
+    {
+        "chapter": "9",
+        "question_number": "37)",
+        "description": "Kendra needs to rate five of her subordinates. She makes a chart of all possible pairs of\nemployees for each trait being evaluated. Then, she indicates the better employee of each pair\nwith a positive symbol on the chart. Finally, she totals the number of positive symbols for each\nemployee. Which method of performance appraisal has Kendra most likely used?",
+        "options": {
+            "A": "graphic ranking scale",
+            "B": "alternation ranking",
+            "C": "paired comparison",
+            "D": "forced distribution"
+        },
+        "answer": "C",
+        "explanation": "C) The paired comparison method helps make the ranking method more precise.\nFor every trait (quantity of work, quality of work, and so on), you pair and compare every\nsubordinate with every other subordinate."
+    },
+    {
+        "chapter": "9",
+        "question_number": "38)",
+        "description": "Which performance appraisal tool is being used when a supervisor places predetermined\npercentages of appraisees into various performance categories?",
+        "options": {
+            "A": "behaviorally anchored rating scale",
+            "B": "graphic ranking scale",
+            "C": "alternation ranking",
+            "D": "forced distribution"
+        },
+        "answer": "D",
+        "explanation": "D) The forced distribution method is similar to grading on a curve. With this\nmethod, you place predetermined percentages of appraisees into various performance categories."
+    },
+    {
+        "chapter": "9",
+        "question_number": "39)",
+        "description": "John, the supervisor of the manufacturing department at a computer firm, is in the process of\nevaluating his staff's performance. He has determined that 15% of the group will be identified as\nhigh performers, 20% as above average performers, 30% as average performers, 20% as below\naverage performers, and 15% as poor performers. Which performance appraisal tool has John\nchosen to use?",
+        "options": {
+            "A": "behaviorally anchored rating scale",
+            "B": "forced distribution",
+            "C": "alternation ranking",
+            "D": "paired comparison"
+        },
+        "answer": "B",
+        "explanation": "B) The forced distribution method is similar to grading on a curve. With this\nmethod, you place predetermined percentages of appraisees into various performance categories."
+    },
+    {
+        "chapter": "9",
+        "question_number": "40)",
+        "description": "Which of the following measurement methods is similar to grading on a curve?",
+        "options": {
+            "A": "forced distribution",
+            "B": "graphic rating scale",
+            "C": "constant sums rating",
+            "D": "behaviorally anchored rating scale"
+        },
+        "answer": "A",
+        "explanation": "A) The forced distribution method is similar to grading on a curve. With this\nmethod, you place predetermined percentages of appraisees into various performance categories."
+    },
+    {
+        "chapter": "9",
+        "question_number": "41)",
+        "description": "Which of the following is one of the primary complaints regarding the use of the forced\ndistribution method for performance appraisals?",
+        "options": {
+            "A": "difficult to implement",
+            "B": "harm to employee morale",
+            "C": "high costs of administration",
+            "D": "time consuming to administer"
+        },
+        "answer": "B",
+        "explanation": "B) The biggest complaints regarding the forced distribution method are that it\ndamages morale. The tool is not difficult to implement, time consuming, or costly."
+    },
+    {
+        "chapter": "9",
+        "question_number": "42)",
+        "description": "Which performance appraisal tools require a supervisor to maintain a log of positive and\nnegative examples of a subordinate's work-related behavior?",
+        "options": {
+            "A": "alternation ranking",
+            "B": "paired comparison",
+            "C": "critical incident",
+            "D": "graphic rating"
+        },
+        "answer": "C",
+        "explanation": "C) With the critical incident method, the supervisor keeps a log of positive and\nnegative examples (critical incidents) of a subordinate's work-related behavior. Every six months\nor so, supervisor and subordinate meet to discuss the latter's performance, using the incidents as\nexamples."
+    },
+    {
+        "chapter": "9",
+        "question_number": "43)",
+        "description": "Which of the following is a downside of the critical incident method of compiling incidents?",
+        "options": {
+            "A": "doesn't provide examples of excellent work performance",
+            "B": "doesn't produce relative ratings for pay raise purposes",
+            "C": "doesn't make the supervisor think about the subordinate's appraisal all year",
+            "D": "doesn't compile examples of ineffective work performance"
+        },
+        "answer": "B",
+        "explanation": "B) Compiling incidents provides a number of useful examples but doesn't produce\nrelative ratings for pay raise purposes."
+    },
+    {
+        "chapter": "9",
+        "question_number": "44)",
+        "description": "Wilson Consulting is a management consulting firm with 70 employees. As associate vice\npresident of marketing, Suzanne Boyle is responsible for conducting performance appraisals of\nthe 12 employees under her direct supervision. Suzanne plans to use the critical incident method\nto evaluate the performance of her subordinates.\nWhich of the following, if true, most likely undermines the argument that the critical incident\nmethod is the most appropriate performance appraisal tool for Suzanne to use?",
+        "options": {
+            "A": "Employee performance standards are closely aligned with Wilson Consulting's long-term\nstrategic plans.",
+            "B": "Suzanne will be conducting performance appraisals in conjunction with the HR manager to\nensure EEO compliance.",
+            "C": "Wilson Consulting will be allowing employees to rate themselves as part of its organizational\ndevelopment strategy.",
+            "D": "Due to economic difficulties, the firm will be laying off the two lowest performing employees\nin Suzanne's department."
+        },
+        "answer": "D",
+        "explanation": "D) A firm that will be laying off the two lowest performing employees needs\nemployees to be ranked from best to worst, and the critical incident method makes ranking\ndifficult."
+    },
+    {
+        "chapter": "9",
+        "question_number": "45)",
+        "description": "Which appraisal method combines the benefits of narrative critical incidents and quantified\nscales by assigning scale points with specific examples of good or poor performance?",
+        "options": {
+            "A": "behaviorally anchored rating scale",
+            "B": "constant sums rating scale",
+            "C": "alternation ranking",
+            "D": "forced distribution"
+        },
+        "answer": "A",
+        "explanation": "A) Behaviorally anchored rating scale (BARS) is an appraisal method that aims at\ncombining the benefits of narrative critical incidents and quantified ratings by anchoring a\nquantified scale with specific narrative examples of good and poor performance."
+    },
+    {
+        "chapter": "9",
+        "question_number": "46)",
+        "description": "Which of the following best describes a behaviorally anchored rating scale?",
+        "options": {
+            "A": "chart of paired subordinates ranked in order of performance",
+            "B": "combination of narrative critical incidents and quantified performance scales",
+            "C": "diary of positive and negative examples of a subordinate's work performance",
+            "D": "list of subordinates from highest to lowest based on specific performance traits"
+        },
+        "answer": "B",
+        "explanation": "B) Behaviorally anchored rating scale (BARS) is an appraisal method that aims at\ncombining the benefits of narrative critical incidents and quantified ratings by anchoring a\nquantified scale with specific narrative examples of good and poor performance."
+    },
+    {
+        "chapter": "9",
+        "question_number": "47)",
+        "description": "The first step in developing a behaviorally anchored rating scale is to ________.",
+        "options": {
+            "A": "develop performance dimensions",
+            "B": "write critical incidents",
+            "C": "reallocate incidents",
+            "D": "scale incidents"
+        },
+        "answer": "B",
+        "explanation": "B) Writing about critical incidents is the first step in BARS. A supervisor will ask\npersons who know the job (jobholders and/or supervisors) to describe specific illustrations\n(critical incidents) of effective and ineffective job performance."
+    },
+    {
+        "chapter": "9",
+        "question_number": "48)",
+        "description": "Stacey is using a behaviorally anchored rating scale as a performance appraisal tool. She has\nalready asked employees and supervisors to describe critical incidents of effective and\nineffective job performance. What should Stacey most likely do next?",
+        "options": {
+            "A": "create a final appraisal instrument",
+            "B": "develop performance dimensions",
+            "C": "reallocate the incidents",
+            "D": "rate the incidents"
+        },
+        "answer": "B",
+        "explanation": "B) Developing performance dimensions is the second step of the BARS process.\nStacey should have these people group the incidents into 5 or 10 dimensions and then define\neach dimension, such as \"salesmanship skills.\""
+    },
+    {
+        "chapter": "9",
+        "question_number": "49)",
+        "description": "Wilson Consulting is a management consulting firm with 70 employees. As associate vice\npresident of marketing, Suzanne Boyle is responsible for conducting performance appraisals of\nthe 12 employees under her direct supervision. Suzanne plans to use the behaviorally anchored\nrating scale (BARS) to evaluate the performance of her subordinates.\nWhich of the following, if true, supports the argument that BARS is the most appropriate\nperformance appraisal tool for Suzanne to use?",
+        "options": {
+            "A": "Suzanne wants to provide her subordinates with specific examples of their good and poor job\nperformance during the appraisal interview.",
+            "B": "Suzanne encourages her subordinates to review and make comments about their appraisal\nduring a formal appeals process.",
+            "C": "Wilson Consulting recently installed an electronic performance monitoring system to help\nsupervisors conduct appraisals.",
+            "D": "Suzanne provides her subordinates with upward feedback as a way to illustrate the ratings she\nassigns to each employee."
+        },
+        "answer": "A",
+        "explanation": "A) BARS, the most accurate appraisal tool, uses critical incidents as support for\nratings, which helps supervisors explain appraisals more clearly to subordinates during the\nappraisal interview. Upward feedback is feedback about supervisors provided by subordinates."
+    },
+    {
+        "chapter": "9",
+        "question_number": "50)",
+        "description": "What is the primary goal of using mixed standard scales?",
+        "options": {
+            "A": "improving validity",
+            "B": "reducing rating errors",
+            "C": "clarifying performance standards",
+            "D": "illustrating feedback for subordinates"
+        },
+        "answer": "B",
+        "explanation": "B) Mixed standard scales generally list just a few behavioral examples for each\nperformance dimension. The employer then \"mixes\" the resulting behavioral example statements\nwhen listing them. The aim is to reduce rating errors such as leniency, by making it less obvious\nto the supervisor (1) what performance dimensions he or she is rating, and (2) whether the\nbehavioral example statements represent high, medium, or low performance."
+    },
+    {
+        "chapter": "9",
+        "question_number": "51)",
+        "description": "Which of the following terms refers to setting specific measurable goals with each employee\nand then periodically reviewing the progress made?",
+        "options": {
+            "A": "behaviorally anchored rating scale",
+            "B": "management by objective",
+            "C": "mixed standard scales",
+            "D": "forced distribution"
+        },
+        "answer": "B",
+        "explanation": "B) MBO requires the manager to set specific measurable, organizationally relevant\ngoals with each employee, and then periodically discuss the latter's progress toward these goals."
+    },
+    {
+        "chapter": "9",
+        "question_number": "52)",
+        "description": "All of the following are benefits of using computerized or Web-based performance appraisal\nsystems EXCEPT ________.",
+        "options": {
+            "A": "merging examples with performance ratings",
+            "B": "helping managers maintain computerized notes",
+            "C": "combining different performance appraisal tools",
+            "D": "enabling managers to monitor employees' computers"
+        },
+        "answer": "D",
+        "explanation": "D) Employers increasingly use computerized or Web-based performance appraisal\nsystems. These enable managers to keep computerized notes on subordinates during the year,\nmerge notes with ratings, and generate written text to support each part of the appraisal. Most\nappraisal software combines several appraisal methods."
+    },
+    {
+        "chapter": "9",
+        "question_number": "53)",
+        "description": "Which of the following enables supervisors to oversee the amount of computerized data an\nemployee is processing each day?",
+        "options": {
+            "A": "computerized performance appraisal system",
+            "B": "online management assessment center",
+            "C": "digitized high-performance work center",
+            "D": "electronic performance monitoring system"
+        },
+        "answer": "D",
+        "explanation": "D) Electronic performance monitoring (EPM) systems use computer network\ntechnology to allow managers access to their employees' computers and telephones. They thus\nallow managers to monitor the employees' rate, accuracy, and time spent working online."
+    },
+    {
+        "chapter": "9",
+        "question_number": "54)",
+        "description": "Nick supervises a team of data entry specialists. Lately, productivity has been down, and\nNick believes his subordinates are not working as efficiently as possible. Which of the following\ntools would provide Nick with daily information about each employee's rate, accuracy, and time\nspent entering data?",
+        "options": {
+            "A": "digital dashboard device",
+            "B": "electronic performance monitoring system",
+            "C": "Web-based management oversight device",
+            "D": "electronic performance support system"
+        },
+        "answer": "B",
+        "explanation": "B) Electronic performance monitoring (EPM) systems use computer network\ntechnology to allow managers access to their employees' computers and telephones. They thus\nallow managers to monitor the employees' rate, accuracy, and time spent working online."
+    },
+    {
+        "chapter": "9",
+        "question_number": "55)",
+        "description": "Which term refers to ranking of employees from best to worst on a trait or traits, choosing\nhighest than lowest until all are ranked?",
+        "options": {
+            "A": "performance management",
+            "B": "paired comparison",
+            "C": "alternation ranking",
+            "D": "direction sharing"
+        },
+        "answer": "C",
+        "explanation": "C) The alternation ranking method is ranking employees from best to worst on a\ntrait or traits."
+    },
+    {
+        "chapter": "9",
+        "question_number": "71)",
+        "description": "Graphic rating scales are subject to all of the following problems EXCEPT ________.",
+        "options": {
+            "A": "unclear standards",
+            "B": "halo effects",
+            "C": "complexity",
+            "D": "leniency"
+        },
+        "answer": "C",
+        "explanation": "C) The graphic rating scale is the simplest and most popular method for appraising\nperformance. However, graphic-type rating scales in particular are susceptible to several\nproblems including unclear standards, halo effect, central tendency, leniency or strictness, and\nbias."
+    },
+    {
+        "chapter": "9",
+        "question_number": "72)",
+        "description": "Which of the following terms refers to an appraisal that is too open to interpretation?",
+        "options": {
+            "A": "unclear standards",
+            "B": "halo effects",
+            "C": "leniency",
+            "D": "biased"
+        },
+        "answer": "A",
+        "explanation": "A) An appraisal that is too open to interpretation has unclear standards. Specific\nstandards are likely to result in consistent and more easily explained performance appraisals."
+    },
+    {
+        "chapter": "9",
+        "question_number": "73)",
+        "description": "Which of the following is the best way for a supervisor to correct a performance appraisal\nproblem caused by unclear standards?",
+        "options": {
+            "A": "focusing on performance instead of personality traits",
+            "B": "using graphic rating scales to rank employees",
+            "C": "using descriptive phrases to illustrate traits",
+            "D": "allowing employees to rate themselves first"
+        },
+        "answer": "C",
+        "explanation": "C) The best way to fix a problem associated with unclear standards is to include\ndescriptive phrases that define or illustrate each trait. Specificity results in more consistent and\nmore easily explained appraisals."
+    },
+    {
+        "chapter": "9",
+        "question_number": "74)",
+        "description": "Which of the following is a performance appraisal problem that occurs when a supervisor's\nrating of a subordinate on one trait biases the rating of that person on other traits?",
+        "options": {
+            "A": "recency effect",
+            "B": "halo effect",
+            "C": "central tendency",
+            "D": "stereotyping"
+        },
+        "answer": "B",
+        "explanation": "B) Experts define halo effect as \"the influence of a rater's general impression on\nratings of specific ratee qualities.\" For example, supervisors often rate unfriendly employees\nlower on all traits, rather than just on \"gets along well with others.\""
+    },
+    {
+        "chapter": "9",
+        "question_number": "75)",
+        "description": "Jason is a conscientious employee, but he is viewed by most of his co-workers as unfriendly.\nJason's supervisor rates him low on the traits \"gets along well with others\" and \"quality of work.\"\nWhich of the following problems has most likely affected Jason's performance appraisal?",
+        "options": {
+            "A": "central tendency",
+            "B": "leniency",
+            "C": "halo effect",
+            "D": "recency effect"
+        },
+        "answer": "C",
+        "explanation": "C) Experts define halo effect as \"the influence of a rater's general impression on\nratings of specific ratee qualities.\" Central tendency refers to rating all employees average.\nRecency effect means focusing on the most recent behavior of an employee rather than his or her\nperformance over a year."
+    },
+    {
+        "chapter": "9",
+        "question_number": "76)",
+        "description": "A supervisor who frequently rates all employees as average on performance appraisals most\nlikely has a problem known as ________.",
+        "options": {
+            "A": "halo effect",
+            "B": "stereotyping",
+            "C": "central tendency",
+            "D": "leniency"
+        },
+        "answer": "C",
+        "explanation": "C) Central tendency refers to the tendency of supervisors to rate all employees the\nsame way, such as rating them all average."
+    },
+    {
+        "chapter": "9",
+        "question_number": "77)",
+        "description": "The best way to reduce the problem of central tendency in performance appraisals is to\n________.",
+        "options": {
+            "A": "rank employees",
+            "B": "use graphic rating scales",
+            "C": "limit the number of appraisals",
+            "D": "appraise personal characteristics"
+        },
+        "answer": "A",
+        "explanation": "A) Ranking employees instead of using graphic rating scales can reduce the\nproblem of central tendency. Ranking means you can't rate all employees as average."
+    },
+    {
+        "chapter": "9",
+        "question_number": "78)",
+        "description": "Which performance appraisal problem is associated with supervisors giving all of their\nsubordinates consistently high ratings?",
+        "options": {
+            "A": "central tendency",
+            "B": "leniency",
+            "C": "strictness",
+            "D": "halo effect"
+        },
+        "answer": "B",
+        "explanation": "B) Some supervisors tend to rate all their subordinates consistently high or low.\nLeniency refers to giving high ratings, while strictness refers to giving low ratings."
+    },
+    {
+        "chapter": "9",
+        "question_number": "79)",
+        "description": "The ________ problem occurs when supervisors tend to rate all their subordinates\nconsistently low.",
+        "options": {
+            "A": "central tendency",
+            "B": "leniency",
+            "C": "strictness",
+            "D": "halo effect"
+        },
+        "answer": "C",
+        "explanation": "C) Some supervisors tend to rate all their subordinates consistently high or low.\nLeniency refers to giving high ratings, while strictness refers to giving low ratings. Central\ntendency refers to giving average scores."
+    },
+    {
+        "chapter": "9",
+        "question_number": "80)",
+        "description": "Which of the follow is the best method for reducing the problems of leniency or strictness in\nperformance appraisals?",
+        "options": {
+            "A": "keep critical incident logs",
+            "B": "require multiple appraisals",
+            "C": "impose a performance distribution",
+            "D": "reconsider the timing of the appraisal"
+        },
+        "answer": "C",
+        "explanation": "C) Enforcing a performance distribution is one way of correcting\nleniency/strictness problems. Another option is to rank employees."
+    },
+    {
+        "chapter": "9",
+        "question_number": "81)",
+        "description": "Which of the following has most likely occurred when a supervisor conducting a\nperformance appraisal is influenced by a subordinate's individual differences such as age, sex,\nand race?",
+        "options": {
+            "A": "bias",
+            "B": "halo affect",
+            "C": "central tendency",
+            "D": "unclear standards"
+        },
+        "answer": "A",
+        "explanation": "A) Bias refers to the tendency to allow individual differences such as age, race, and\nsex to affect the appraisal ratings that employees receive. Halo effect, unclear standards, and\ncentral tendency are other problems associated with performance appraisals."
+    },
+    {
+        "chapter": "9",
+        "question_number": "82)",
+        "description": "Which of the following is LEAST likely to cause a supervisor's performance appraisal of a\nsubordinate to be biased?",
+        "options": {
+            "A": "purpose of the appraisal",
+            "B": "location and time of the appraisal",
+            "C": "personal characteristics of the subordinate",
+            "D": "relationship between supervisor and subordinate"
+        },
+        "answer": "B",
+        "explanation": "B) Appraisal bias has been shown to be caused by the appraisal's purpose but not\nthe location or time of the appraisal. The personality of the supervisor, personal characteristics of\nthe subordinate, and relationship between the two parties all tend to lead to bias."
+    },
+    {
+        "chapter": "9",
+        "question_number": "83)",
+        "description": "All of the following guidelines will most likely improve the effectiveness of a performance\nappraisal EXCEPT ________.",
+        "options": {
+            "A": "maintaining a diary of employees' performance during the year",
+            "B": "using a graphic rating scale to ensure fair and consistent ratings",
+            "C": "knowing the advantages and disadvantages of different appraisal tools",
+            "D": "developing a plan to assist employees with performance improvement"
+        },
+        "answer": "B",
+        "explanation": "B) Graphic rating scales do not necessarily lead to effective performance\nappraisals, and they are susceptible to problems like bias and central tendency. Keeping a diary,\nknowing which tool to use and forming a performance improvement plan are all methods for\nimproving the effectiveness of a performance appraisal."
+    },
+    {
+        "chapter": "9",
+        "question_number": "84)",
+        "description": "Stephanie manages the accounting department at an advertising agency. She needs to\nconduct performance appraisals for the eight employees in her department. Stephanie wants a\nperformance appraisal tool that is highly accurate, ranks employees, and uses critical incidents to\nhelp explain ratings to appraisees. Which performance appraisal tool is best suited for Stephanie?",
+        "options": {
+            "A": "graphic rating scale",
+            "B": "alternation ranking method",
+            "C": "critical incident method",
+            "D": "behaviorally anchored rating scale"
+        },
+        "answer": "D",
+        "explanation": "D) For those for whom accuracy is a great concern, BARS are superior, but require\nmuch more time to develop and use. The integration of critical incidents helps a supervisor\nexplain ratings to appraisees. Graphic rating scales and alternation rankings do not include\ncritical incidents, while the critical incident method includes examples without rankings."
+    },
+    {
+        "chapter": "9",
+        "question_number": "85)",
+        "description": "Which of the following is the primary advantage of using graphic rating scales as\nperformance appraisal tools?",
+        "options": {
+            "A": "eliminates central tendency errors",
+            "B": "offers extremely high rate of accuracy",
+            "C": "provides quantitative rating for each employee",
+            "D": "links with mutually agreed upon performance objectives"
+        },
+        "answer": "C",
+        "explanation": "C) Graphic rating scales are simple to use and provide quantitative ratings for each\nemployee. However the tool has problems with central tendency and unclear standards."
+    },
+    {
+        "chapter": "9",
+        "question_number": "86)",
+        "description": "All of the following are considered best practices for administering fair performance\nappraisals EXCEPT ________.",
+        "options": {
+            "A": "explaining how subordinates can improve their performance",
+            "B": "basing the appraisal on observable job behaviors",
+            "C": "using subjective performance data for appraisals",
+            "D": "training supervisors how to conduct appraisals"
+        },
+        "answer": "C",
+        "explanation": "C) Appraisals should be based on objective rather than subjective performance\ndata and also on observable job behaviors. Appraisers should explain how subordinates can\nimprove their performance, clarify in advance the performance objectives, and train supervisors\nin how to conduct appraisals."
+    },
+    {
+        "chapter": "9",
+        "question_number": "87)",
+        "description": "Which of the following would most likely result in a legally questionable appraisal process?",
+        "options": {
+            "A": "basing appraisals on subjective supervisory observations",
+            "B": "administering and scoring appraisals in a standardized fashion",
+            "C": "using job performance dimensions that are too clearly defined",
+            "D": "assigning specific trait names when using graphic rating scales"
+        },
+        "answer": "A",
+        "explanation": "A) Courts have ruled in favor of employees when performance appraisals were\nbased on subjective factors such as age, sex, or gender rather than actual job performance.\nPerformance appraisals are more legally sound if based on clearly specified job performance\ndimensions."
+    },
+    {
+        "chapter": "9",
+        "question_number": "92)",
+        "description": "In a brief essay, discuss how a supervisor can develop and conduct a performance appraisal\nthat is legally defensible.\nAnswer: Supervisors should conduct a job analysis to establish criteria and standards for\nsuccessful performance and incorporate these criteria and standards into a rating system. It is\nimportant to communicate performance standards to employees and supervisors in writing and\navoid abstract trait names when using graphic rating scales. Steps to ensure the appraisal are\nlegally defensible are these:\nBase the performance appraisal criteria on a job analysis. At the start of the period, communicate\nperformance standards to employee in writing. Using a single overall rating of performance is\nnot acceptable to the courts. Include an employee appeals process. One appraiser should never\nhave absolute authority to determine a person's actions. Document all information bearing on a\npersonnel decision in writing. Also train supervisors. If formal rater training is not possible, at\nleast prove rates with written instruction on how to use the rating scale.\nDifficulty: Moderate\nChapter: 9\nObjective: 3\nAACSB: Application of Knowledge\nLearning Outcome: 9.3 Give examples of potential appraisal problems and how to deal with\nthem.\n93) Which of the following best describes the purpose of an appraisal interview?",
+        "options": {
+            "A": "training supervisors in the rating process",
+            "B": "identifying potential interpersonal problems",
+            "C": "making plans to correct employee weaknesses",
+            "D": "discussing and scheduling training programs"
+        },
+        "answer": "C",
+        "explanation": "C) The appraisal typically culminates in an appraisal interview. Here, the\nsupervisor and the subordinate review the appraisal and make plans to remedy deficiencies and\nreinforce strengths."
+    },
+    {
+        "chapter": "9",
+        "question_number": "94)",
+        "description": "You are conducting an appraisal interview with an employee whose performance is\nsatisfactory but for whom promotion is not possible. Which incentive listed below would be the\nLEAST effective option for maintaining satisfactory performance in this situation?",
+        "options": {
+            "A": "time off",
+            "B": "small bonus",
+            "C": "recognition",
+            "D": "professional development"
+        },
+        "answer": "D",
+        "explanation": "D) For employees whose performance is satisfactory but for whom promotion is\nnot possible, the objective is to maintain satisfactory performance. The best option is usually to\nfind incentives that are important to the person and sufficient to maintain performance, such as\nextra time off, a small bonus, and recognition."
+    },
+    {
+        "chapter": "9",
+        "question_number": "95)",
+        "description": "When conducting an appraisal interview, supervisors should do all of the following EXCEPT\n________.",
+        "options": {
+            "A": "ask open-ended questions",
+            "B": "give specific examples of poor performance",
+            "C": "write up an action plan with goals and dates",
+            "D": "compare the person's performance to that of other employees"
+        },
+        "answer": "D",
+        "explanation": "D) When a supervisor conducts an appraisal interview, it is advisable to speak in\nterms of objective work data with specific examples of poor performance. A supervisor should\nalso ask the employee open-ended questions to encourage conversation and write up an action\nplan. It is inappropriate to compare a person's performance with another person."
+    },
+    {
+        "chapter": "9",
+        "question_number": "96)",
+        "description": "When a supervisor must criticize a subordinate in an appraisal interview, it is most important\nfor the supervisor to ________.",
+        "options": {
+            "A": "limit negative feedback to once every year",
+            "B": "provide specific examples of critical incidents",
+            "C": "acknowledge the supervisor's personal biases in the situation",
+            "D": "hold the meeting with other people who can document the situation"
+        },
+        "answer": "B",
+        "explanation": "B) When you must criticize, it should be done privately and should include\nexamples of critical incidents and specific suggestions of what to do and why. Avoid once-a-year\n\"critical broadsides\" by giving feedback periodically, so that the formal review contains no\nsurprises. Criticism should be objective and free of personal bias."
+    },
+    {
+        "chapter": "9",
+        "question_number": "97)",
+        "description": "When an employee's performance is so poor that a written warning is required, the warning\nshould ________.",
+        "options": {
+            "A": "identify the standards by which the employee is judged",
+            "B": "provide examples of employees who met the standards",
+            "C": "provide examples of times when the employee met the standards",
+            "D": "be written by a labor law attorney in accordance with federal guidelines"
+        },
+        "answer": "A",
+        "explanation": "A) Written warnings should identify the employee's standards, make it clear that\nthe employee was aware of the standard, specify any deficiencies relative to the standard, and\nshow the employee had an opportunity to correct his or her performance."
+    },
+    {
+        "chapter": "9",
+        "question_number": "104)",
+        "description": "The continuous process of identifying, measuring, and developing the performance of\nindividuals and teams and aligning their performance with the organization's goals is known as\n________.",
+        "options": {
+            "A": "strategic management",
+            "B": "performance analysis",
+            "C": "performance appraisal",
+            "D": "performance management"
+        },
+        "answer": "D",
+        "explanation": "D) Performance management is the continuous process of identifying, measuring,\nand developing the performance of individuals and teams and aligning their performance with\nthe organization's goals."
+    },
+    {
+        "chapter": "9",
+        "question_number": "105)",
+        "description": "Which component of performance management refers to communicating a firm's higher-\nlevel goals throughout the organization and then translating them into departmental and\nindividual goals?",
+        "options": {
+            "A": "goal alignment",
+            "B": "performance monitoring",
+            "C": "direction sharing",
+            "D": "developmental support"
+        },
+        "answer": "C",
+        "explanation": "C) Direction sharing means communicating the company's higher-level goals\n(including its vision, mission, and strategy) throughout the company and then translating these\ninto doable departmental, team, and individual goals."
+    },
+    {
+        "chapter": "9",
+        "question_number": "106)",
+        "description": "Oshman manufactures small kitchen appliances, such as blenders, toasters, and mixers. The\nfirm has nearly 80,000 employees in 22 countries. Employees receive annual performance\nappraisals from their supervisors that combine critical incidents with a graphic rating scale.\nHowever, the firm's CEO advocates shifting from performance appraisals to performance\nmanagement in an attempt to make Oshman more competitive and performance driven.\nAll of the following questions are relevant to Oshman's decision to replace its traditional\nappraisal methods with the performance management approach EXCEPT:",
+        "options": {
+            "A": "What technology is available to help managers gain immediate access to employee\nperformance data?",
+            "B": "How would work procedures need to be modified to provide more frequent feedback to\nemployees?",
+            "C": "How would the firm's mission and vision translate into departmental, team, and individual\ngoals?",
+            "D": "What procedures are already in place to effectively identify and measure critical incidents?"
+        },
+        "answer": "D",
+        "explanation": "D) Issues related to performance management include the technology used to\nmonitor employee performance, methods for providing feedback, development of goals, and\nincentives. Identifying critical incidents is an issue related to traditional appraisal methods rather\nthan performance management."
+    },
+    {
+        "chapter": "9",
+        "question_number": "107)",
+        "description": "A supervisor working for a firm that uses performance management should most likely\nexpect to ________.",
+        "options": {
+            "A": "conduct annual performance appraisals",
+            "B": "compare team goals to industry standards",
+            "C": "re-evaluate how employees accomplish tasks",
+            "D": "use paper forms to handle performance appraisals"
+        },
+        "answer": "C",
+        "explanation": "C) Performance management means continuously re-evaluating and (if need be)\nmodifying how the employee and team get their work done. Depending on the issue, this may\nmean additional training, changing work procedures, or instituting new incentive plans, for in-\nstance. Performance management also involves continuous rather than annual performance\nappraisals, which are managed through computerized systems."
+    },
+    {
+        "chapter": "9",
+        "question_number": "108)",
+        "description": "Which of the following is NOT one of performance management's six basic elements?",
+        "options": {
+            "A": "habit creation",
+            "B": "goal alignment",
+            "C": "ongoing feedback",
+            "D": "direction sharing"
+        },
+        "answer": "A",
+        "explanation": "A) Habit creation is not one of the basic elements of performance management."
+    }
+]

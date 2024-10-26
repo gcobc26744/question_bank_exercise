@@ -1,0 +1,212 @@
+[
+    {
+        "chapter": "11",
+        "question_number": "45)",
+        "description": "Financial benefits like employer-paid insurance and vacations are not a part of employee compensation.",
+        "answer": "FALSE",
+        "explanation": "Employee compensation refers to all forms of pay going to employees and arising from their employment. It has two main components, direct financial payments (wages, salaries, incentives, commissions, and bonuses) and indirect financial payments (financial benefits like employer-paid insurance and vacations)."
+    },
+    {
+        "chapter": "11",
+        "question_number": "46)",
+        "description": "Indirect payments that contribute to an employee's compensation include variable pay like commissions and bonuses.",
+        "answer": "FALSE",
+        "explanation": "Employee compensation refers to all forms of pay going to employees and arising from their employment. It has two main components, direct financial payments like salaries, commissions, and bonuses and indirect financial payments, which include health benefits."
+    },
+    {
+        "chapter": "11",
+        "question_number": "47)",
+        "description": "Direct financial payments may be based on increments of time and on performance.",
+        "answer": "TRUE",
+        "explanation": "Direct financial payments include wages, salaries, and commissions. They may be based on time worked or on performance, such as units produced."
+    },
+    {
+        "chapter": "11",
+        "question_number": "48)",
+        "description": "Performance-based pay is more popular than time-based pay among most employers in the U.S.",
+        "answer": "FALSE",
+        "explanation": "Time-based pay is still the foundation of most employers' pay plans. Blue-collar workers get hourly or daily wages, for instance, and others, like managers, tend to be salaried and paid by the week, month, or year. The second direct payment option is to pay for performance, which ties compensation to the amount of production the worker turns out."
+    },
+    {
+        "chapter": "11",
+        "question_number": "49)",
+        "description": "According to the Davis-Bacon Act, when employees work more than 40 hours per week, employers must pay overtime at a rate of at least one-and-a-half times the normal pay for any hours worked over 40 in a workweek.",
+        "answer": "FALSE",
+        "explanation": "According to provisions in the Fair Labor Standards Act, employers must pay overtime at a rate of at least one-and-a-half times normal pay for any hours worked over 40 in a workweek. The Davis-Bacon Act sets wage rates for laborers employed by contractors working for the federal government."
+    },
+    {
+        "chapter": "11",
+        "question_number": "50)",
+        "description": "Employers prefer to give time off in lieu of overtime pay because they only have to grant the same number of hours off as the employee worked overtime, while overtime pay is calculated at 150% of normal pay.",
+        "answer": "FALSE",
+        "explanation": "According to the FLSA, both overtime pay and time off for overtime work must be calculated at the one-and-a-half times rate."
+    },
+    {
+        "chapter": "11",
+        "question_number": "51)",
+        "description": "Because the minimum wage is set by the Fair Labor Standards Act, there is no variation from state to state in the minimum wage paid to hourly workers.",
+        "answer": "FALSE",
+        "explanation": "The FLSA sets a minimum wage, which sets a floor for employees covered by the act. Many states and cities have their own minimum wage laws, so the minimum wage varies from state to state."
+    },
+    {
+        "chapter": "11",
+        "question_number": "52)",
+        "description": "According to the FLSA, agricultural employees, live-in maids, and taxi drivers are always eligible for overtime pay.",
+        "answer": "FALSE",
+        "explanation": "However, certain employees are always exempt from overtime pay provisions. They include, among others, agricultural employees, live-in household employees, taxicab drivers, and motion picture theater employees."
+    },
+    {
+        "chapter": "11",
+        "question_number": "53)",
+        "description": "The Equal Pay Act states that employees of one sex may not be paid wages at a rate lower than that paid to employees of the opposite sex for doing roughly equivalent work.",
+        "answer": "TRUE",
+        "explanation": "The Equal Pay Act is an amendment to the Fair Labor Standards Act. The Equal Pay Act states that employees of one sex may not be paid wages at a rate lower than that paid to employees of the opposite sex for doing roughly equivalent work."
+    },
+    {
+        "chapter": "11",
+        "question_number": "54)",
+        "description": "Portability rights refer to an employee's ability to transfer his or her vested rights from one organization to another.",
+        "answer": "TRUE",
+        "explanation": "ERISA sets regulations regarding vesting rights and portability rights. Vesting refers to the equity or ownership the employees build up in their pension plans should their employment terminate before retirement, and portability rights is an employee's ability to transfer his or her vested rights from one organization to another."
+    },
+    {
+        "chapter": "11",
+        "question_number": "55)",
+        "description": "While laws exist to protect against discrimination in compensation based on gender and age, no law protects against such discrimination against persons with disabilities.",
+        "answer": "FALSE",
+        "explanation": "The Americans with Disabilities Act prohibits discrimination against qualified persons with disabilities in all aspects of employment, including compensation."
+    },
+    {
+        "chapter": "11",
+        "question_number": "56)",
+        "description": "The provision of the Family and Medical Leave Act that entitles employees to take up to 12 weeks of unpaid, job-protected leave for the birth of a child only applies to women.",
+        "answer": "FALSE",
+        "explanation": "The Family and Medical Leave Act aims to entitle eligible employees, both men and women, to take up to 12 weeks of unpaid, job-protected leave for the birth of a child or for the care of a child, spouse, or parent."
+    },
+    {
+        "chapter": "11",
+        "question_number": "57)",
+        "description": "According to the court system, the test that distinguishes an independent contractor from an employee is whether or not the firm provides the worker with health insurance benefits.",
+        "answer": "FALSE",
+        "explanation": "There is no single rule or test for determining whether an individual is an independent contractor or a bona fide employee. Instead, the courts will look at the total activity or situation. The major consideration is this: The more the employer controls what the worker does and how he or she does it, the more likely it is that the courts will find the worker is actually an employee. Health insurance benefits are not a distinguishing factor."
+    },
+    {
+        "chapter": "11",
+        "question_number": "58)",
+        "description": "Wage rate has been the main issue negotiated by unions in collective bargaining.",
+        "answer": "TRUE",
+        "explanation": "Historically, the wage rate has been the main issue in collective bargaining. However, unions also negotiate other pay-related issues, including time off with pay, income security, cost-of-living adjustments, and health care benefits."
+    },
+    {
+        "chapter": "11",
+        "question_number": "59)",
+        "description": "A union is entitled to know the salary of each employee it is representing.",
+        "answer": "TRUE",
+        "explanation": "The Wagner Act created the National Labor Relations Board (NLRB) to oversee employer practices and ensure that employees receive their rights. Employers must give the union a written explanation of the employer's wage curves and provide the union with its members' salaries."
+    },
+    {
+        "chapter": "11",
+        "question_number": "60)",
+        "description": "External equity refers to how fair the job's pay rate is when compared to other jobs within the same company.",
+        "answer": "FALSE",
+        "explanation": "External equity refers to how a job's pay rate in one company compares to the job's pay rate in other companies. Internal equity refers to how fair the job's pay rate is when compared to other jobs within the same company."
+    },
+    {
+        "chapter": "11",
+        "question_number": "75)",
+        "description": "The market-based approach to setting rates involves conducting formal or informal salary surveys to determine what others in the relevant labor markets are paying for particular jobs.",
+        "answer": "TRUE",
+        "explanation": "Employers use two basic approaches to setting pay rates: market-based approaches and job evaluation methods. Many firms, particularly smaller ones, simply use a market-based approach. Doing so involves conducting formal or informal salary surveys to determine what others in the relevant labor markets are paying for particular jobs. They then use these figures to price their own jobs."
+    },
+    {
+        "chapter": "11",
+        "question_number": "76)",
+        "description": "Salary surveys are used by firms to collect data on employee benefits as well as wage rates for the purpose of pricing jobs.",
+        "answer": "TRUE",
+        "explanation": "Salary surveys are aimed at determining prevailing wage rates. A good salary survey provides specific wage rates for specific jobs. Formal written questionnaire surveys are the most comprehensive, but telephone surveys and newspaper ads are also sources of information."
+    },
+    {
+        "chapter": "11",
+        "question_number": "77)",
+        "description": "The Equal Pay Act focuses on three compensable factors—know-how, problem solving, and accountability.",
+        "answer": "FALSE",
+        "explanation": "The Equal Pay Act emphasizes four compensable factors—skills, effort, responsibility, and working conditions."
+    },
+    {
+        "chapter": "11",
+        "question_number": "78)",
+        "description": "An advantage of the job classification method is that the objective nature of the system makes it easy to write the class and grade descriptions.",
+        "answer": "FALSE",
+        "explanation": "The disadvantage of the classification method is that it is difficult to write the class or grade descriptions, and considerable judgment is required to apply them. Yet many employers use this method with success."
+    },
+    {
+        "chapter": "11",
+        "question_number": "79)",
+        "description": "If a job evaluation committee uses the ranking method, then the pay grade consists of all jobs that fall within two or three ranks.",
+        "answer": "TRUE",
+        "explanation": "A pay grade is comprised of jobs of approximately equal difficulty or importance as established by job evaluation. With the ranking method, the grade consists of all jobs that fall within two or three ranks."
+    },
+    {
+        "chapter": "11",
+        "question_number": "80)",
+        "description": "Large corporations are more likely than small businesses to use a market-based approach to setting pay rates because it is easier for a large firm to conduct formal job evaluations.",
+        "answer": "FALSE",
+        "explanation": "Employers use two basic approaches to setting pay rates: market-based approaches and job evaluation approaches. Many firms, particularly smaller ones, simply use a market-based approach. The market-based approach bases pay rates on what other firms are paying and does not involve conducting a job evaluation."
+    },
+    {
+        "chapter": "11",
+        "question_number": "91)",
+        "description": "Job evaluations are used to determine the pay scale of all employees in an organization from hourly workers to the CEO.",
+        "answer": "FALSE",
+        "explanation": "For top executive jobs (especially the CEO), job evaluation typically has little relevance, but job evaluations are used for other positions in a firm. Top executive compensation depends on job complexity, the employer's ability to pay, and the executive's human capital."
+    },
+    {
+        "chapter": "11",
+        "question_number": "92)",
+        "description": "Most organizations use a market-pricing approach when determining compensation for professional employees such as engineers and scientists.",
+        "answer": "TRUE",
+        "explanation": "Most employers use a market-pricing approach when compensating professional employees. They price professional jobs in the marketplace as best they can, to establish the values for benchmark jobs. Then they slot these benchmark jobs and their other professional jobs into a salary structure."
+    },
+    {
+        "chapter": "11",
+        "question_number": "102)",
+        "description": "Advocates of competency-based pay assert that the system encourages employees to develop the knowledge, skills, and behaviors a firm needs to achieve its strategic goals.",
+        "answer": "TRUE",
+        "explanation": "Experts assert that paying for competencies enables companies to encourage employees to develop the competencies the companies require to achieve their strategic aims."
+    },
+    {
+        "chapter": "11",
+        "question_number": "103)",
+        "description": "The primary advantage of broadbanding is that it provides greater flexibility into employee assignments.",
+        "answer": "TRUE",
+        "explanation": "Companies create broadbands for several reasons. The basic advantage is that it injects greater flexibility into employee assignments. It is especially sensible where firms organize into self-managing teams."
+    },
+    {
+        "chapter": "11",
+        "question_number": "104)",
+        "description": "In the broadest sense, comparable worth may mean comparing jobs that are very dissimilar such as nursing to fire fighting.",
+        "answer": "TRUE",
+        "explanation": "Comparable worth refers to the requirement to pay men and women equal wages for jobs that are of comparable (rather than strictly equal) value to the employer. Thus, comparable worth may mean comparing quite dissimilar jobs, such as nurses to truck mechanics or secretaries to technicians."
+    },
+    {
+        "chapter": "11",
+        "question_number": "105)",
+        "description": "A key issue in comparable worth is whether women should be paid equal wages for jobs that are truly equal to men's or just comparable to men's jobs.",
+        "answer": "TRUE",
+        "explanation": "The question \"comparable worth\" seeks to address is this: Should you pay women who are performing jobs equal to men's or just comparable to men's the same as men? If it's only for equal jobs, then the tendency may be to limit women's pay to that of the other, lower-paid jobs in which women tend to predominate."
+    },
+    {
+        "chapter": "11",
+        "question_number": "106)",
+        "description": "Due to federal legislation, greater opportunities for higher learning, and more women in the workforce, women in the U.S. earn approximately 90% as much as men.",
+        "answer": "FALSE",
+        "explanation": "Women in the United States earn only about 80% as much as men despite more opportunities for education and an increase of working women."
+    },
+    {
+        "chapter": "11",
+        "question_number": "107)",
+        "description": "Competency-based pay systems offer employers more flexibility but are less efficient than traditional job evaluation methods.",
+        "answer": "TRUE",
+        "explanation": "Job evaluation is more efficient than competency-based pay systems. However, competency-based pay offers firms more flexibility because workers are compensated for their skills and knowledge rather than a specific job title."
+    }
+]

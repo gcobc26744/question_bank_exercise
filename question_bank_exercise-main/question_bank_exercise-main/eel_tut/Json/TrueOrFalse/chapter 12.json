@@ -1,0 +1,205 @@
+[
+    {
+        "chapter": "12",
+        "question_number": "20)",
+        "description": "Robert Katz popularized the use of financial incentives for workers whose production exceeds some predetermined standard.",
+        "answer": "FALSE",
+        "explanation": "Frederick Taylor popularized the use of financial incentives in the late 1800s."
+    },
+    {
+        "chapter": "12",
+        "question_number": "21)",
+        "description": "Most firms link employees' pay to performance because financial incentives are extremely successful at motivating employees to perform above required standards.",
+        "answer": "FALSE",
+        "explanation": "Studies suggest that employees don't see a strong connection between pay and performance, and their performance is not particularly influenced by the company's incentive plan. About 83% of companies with such programs say their programs are only somewhat successful or not successful at all."
+    },
+    {
+        "chapter": "12",
+        "question_number": "22)",
+        "description": "According to Herzberg's theory, a manager would be able to motivate an employee with challenging tasks.",
+        "answer": "TRUE",
+        "explanation": "Herzberg's theory states that the best way to motivate someone is to organize the job so that doing it provides the challenge and recognition needed to help satisfy \"higher-level\" needs for things like accomplishment and recognition."
+    },
+    {
+        "chapter": "12",
+        "question_number": "23)",
+        "description": "In Herzberg's Hygiene-Motivator theory, working conditions are motivator factors, and challenging assignments are hygiene factors.",
+        "answer": "FALSE",
+        "explanation": "Hygiene factors are factors outside the job itself, such as working conditions, salary, and incentive pay. Motivator factors include challenging tasks, feedback, and recognition."
+    },
+    {
+        "chapter": "12",
+        "question_number": "24)",
+        "description": "Herzberg's Hygiene-Motivator theory is based on a needs theory.",
+        "answer": "TRUE",
+        "explanation": "Frederick Herzberg said the best way to motivate someone is to organize the job so that doing it provides the feedback and challenge that helps satisfy the person's \"higher-level\" needs for things like accomplishment and recognition. Satisfying \"lower-level\" needs for things like better pay and working conditions just keeps the person from becoming dissatisfied. Herzberg's theory is based on a theory of needs."
+    },
+    {
+        "chapter": "12",
+        "question_number": "25)",
+        "description": "According to Herzberg's motivation theory, good working conditions will prevent dissatisfaction but will not lead to feelings of satisfaction.",
+        "answer": "TRUE",
+        "explanation": "Frederick Herzberg said the best way to motivate someone is to organize the job so that doing it provides the feedback and challenge that helps satisfy the person's \"higher-level\" needs for things like accomplishment and recognition. Satisfying \"lower-level\" needs for things like better pay and working conditions just keeps the person from becoming dissatisfied."
+    },
+    {
+        "chapter": "12",
+        "question_number": "26)",
+        "description": "The work of Edward Deci suggests that managers should primarily rely on extrinsic rewards to motivate employees.",
+        "answer": "FALSE",
+        "explanation": "Psychologist Edward Deci's work highlights another potential downside to relying too heavily on extrinsic rewards: They may backfire. Deci found that extrinsic rewards could at times actually detract from the person's intrinsic motivation."
+    },
+    {
+        "chapter": "12",
+        "question_number": "27)",
+        "description": "Vroom's expectancy theory observes that people will not pursue rewards that they find unattractive or where their chances of success are very low.",
+        "answer": "TRUE",
+        "explanation": "An important motivational fact is that, in general, people won't pursue rewards they find unattractive, or where the odds of success are very low. Psychologist Victor Vroom's expectancy motivation theory echoes these common sense observations."
+    },
+    {
+        "chapter": "12",
+        "question_number": "28)",
+        "description": "According to Vroom's theory, if expectancy, instrumentality, or valence is equal to zero, there will be no employee motivation.",
+        "answer": "TRUE",
+        "explanation": "In Vroom's theory, motivation is thus a product of three things: Motivation = (E × I × V), where E represents expectancy, I instrumentality, and V valence. If E or I or V is zero or inconsequential, there will be no motivation."
+    },
+    {
+        "chapter": "12",
+        "question_number": "29)",
+        "description": "Behavior modification is based on the idea that people will repeat behavior for which they are punished.",
+        "answer": "FALSE",
+        "explanation": "According to Skinner's theory, behavior that appears to lead to a positive consequence (reward) tends to be repeated, while behavior that appears to lead to a negative consequence (punishment) tends not to be repeated."
+    },
+    {
+        "chapter": "12",
+        "question_number": "30)",
+        "description": "Behavior modification principles can be useful to managers who seek to change employee behavior through rewards or punishments linked to performance.",
+        "answer": "TRUE",
+        "explanation": "Behavior modification means changing behavior through rewards or punishments that are contingent on performance. Managers apply Skinner's principles of behavior modification when overseeing employees."
+    },
+    {
+        "chapter": "12",
+        "question_number": "31)",
+        "description": "If an employee earns an incentive in the form of a prize or cash award, the value of the award is not included when calculating the employee's overtime pay.",
+        "answer": "FALSE",
+        "explanation": "Under the Fair Labor Standards Act, if the performance-based pay is in the form of a prize or cash award, the employer generally must include the value of that award when calculating the worker's overtime pay for that pay period."
+    },
+    {
+        "chapter": "12",
+        "question_number": "47)",
+        "description": "The complicated nature of piecework makes it an unpopular individual incentive plan among employers.",
+        "answer": "FALSE",
+        "explanation": "Piecework is the oldest and still most popular individual incentive plan. The straightforward plan requires an employer to pay the worker a sum (called a piece rate) for each unit he or she produces."
+    },
+    {
+        "chapter": "12",
+        "question_number": "48)",
+        "description": "The standard hour plan is like the piece rate plan except instead of getting a rate per piece, the employee gets a premium equal to the percent by which his or her performance exceeds the standard.",
+        "answer": "TRUE",
+        "explanation": "The standard hour plan is a plan by which a worker is paid a basic hourly rate but is paid an extra percentage of his or her rate for production exceeding the standard per hour or per day. It is similar to piecework payment but based on a percent premium."
+    },
+    {
+        "chapter": "12",
+        "question_number": "49)",
+        "description": "With a standard hour plan, employers do not need to recalculate piece rates when changes are made to the hourly pay rate.",
+        "answer": "TRUE",
+        "explanation": "Some firms find that expressing the incentive in percentages reduces the workers' tendency to link their production standard to pay (thus making the standard easier to change). It also eliminates the need to recalculate piece rates whenever hourly wage rates are changed."
+    },
+    {
+        "chapter": "12",
+        "question_number": "50)",
+        "description": "Employers are shifting away from piecework in many industries due to the incentive plan's poor reputation.",
+        "answer": "TRUE",
+        "explanation": "In the garment industry and other industries, the term piecework has a dreadful reputation because the hourly pay didn't always fulfill the Wage and Hour Act's minimum wage requirements. For these and other reasons, more employers are moving to other plans."
+    },
+    {
+        "chapter": "12",
+        "question_number": "51)",
+        "description": "All merit raises become part of an employee's base salary.",
+        "answer": "TRUE",
+        "explanation": "A merit raise is any salary increase the firm awards to an individual employee based on his or her individual performance. It usually becomes part of the employee's base salary."
+    },
+    {
+        "chapter": "12",
+        "question_number": "52)",
+        "description": "According to the FLSA, merit pay can only be given to exempt, nonmanagement employees at a company.",
+        "answer": "FALSE",
+        "explanation": "Although the term merit pay can apply to the incentive raises given to any employee—exempt or nonexempt, office or factory, management or nonmanagement—the term is more often used for white-collar employees and particularly professional, office, and clerical employees."
+    },
+    {
+        "chapter": "12",
+        "question_number": "53)",
+        "description": "Lump sum merit increases can be a more significant motivator than traditional merit pay because the amount seems greater when received all at once.",
+        "answer": "TRUE",
+        "explanation": "Lump-sum merit increases can also be more dramatic motivators than a traditional merit raise. For example, a 5% lump-sum merit payment to a $30,000 employee is $1,500 cash, as opposed to a traditional weekly merit payout of $29 for 52 weeks."
+    },
+    {
+        "chapter": "12",
+        "question_number": "54)",
+        "description": "In order for a firm to have an effective incentive plan, there should be a clear relationship between employee effort and quantity or quality of output.",
+        "answer": "TRUE",
+        "explanation": "It makes sense to use an incentive plan when there is a clear relationship between employee effort and the quantity or quality of output."
+    },
+    {
+        "chapter": "12",
+        "question_number": "55)",
+        "description": "Dual-career ladders are effective tools for managing the professional pay of working mothers who desire a work-life balance.",
+        "answer": "FALSE",
+        "explanation": "Dual-career ladders are another way to manage professionals' pay but not necessarily working mothers. At many employers, a bigger salary and bonus requires re-routing from, say, engineering into management. However, not all professionals want such paths. Therefore, many employers institute dual career paths, in other words one path for managers, and another for technical experts."
+    },
+    {
+        "chapter": "12",
+        "question_number": "74)",
+        "description": "Annual bonus plans are long-term incentives, and stock options are short-term incentives.",
+        "answer": "FALSE",
+        "explanation": "Most firms have annual bonus plans aimed at motivating managers' short-term performance. Short-term bonuses can easily result in plus or minus adjustments of 25% or more to total pay. Stock options are a type of long-term incentive."
+    },
+    {
+        "chapter": "12",
+        "question_number": "75)",
+        "description": "Cash, stock, stock options, stock appreciation rights, and phantom stock are known as \"golden handcuffs\" because they are long-term incentives for executives.",
+        "answer": "TRUE",
+        "explanation": "Long-term incentives are also \"golden handcuffs\"—they motivate executives to stay with the company by letting them accumulate capital that they can only cash in after a certain number of years. Popular long-term incentives include cash, stock, stock options, stock appreciation rights, and phantom stock."
+    },
+    {
+        "chapter": "12",
+        "question_number": "76)",
+        "description": "Experts assert that stock options encourage executives to take dangerous risks and are to blame for many corporate scandals.",
+        "answer": "TRUE",
+        "explanation": "Many blame stock options for contributing to corporate scandals, in which executives allegedly manipulated the dates they received their options to maximize their returns. Options may also encourage executives to take perilous risks in pursuit of higher, short-term profits."
+    },
+    {
+        "chapter": "12",
+        "question_number": "77)",
+        "description": "Golden parachutes are large payments companies make to executives in connection with a change in company ownership or control.",
+        "answer": "TRUE",
+        "explanation": "Golden parachutes are extraordinary (large) payments companies make to executives in connection with a change in company ownership or control."
+    },
+    {
+        "chapter": "12",
+        "question_number": "104)",
+        "description": "Studies suggest that team incentive plans enhance productivity because the work load is equally distributed among team members, which fosters cooperation.",
+        "answer": "FALSE",
+        "explanation": "Most large employers use team incentive plans, but studies suggest they are counterproductive. Inequity is the issue because usually a few people do the work but everyone shares the reward."
+    },
+    {
+        "chapter": "12",
+        "question_number": "105)",
+        "description": "The Scanlon plan is a type of gainsharing plan.",
+        "answer": "TRUE",
+        "explanation": "The Scanlon plan is one early version of a gainsharing plan. Gainsharing is an incentive plan that engages many or all employees in a common effort to achieve a company's productivity objectives, with any resulting cost-savings gains shared among employees and the company."
+    },
+    {
+        "chapter": "12",
+        "question_number": "106)",
+        "description": "Research suggests that employee stock ownership plans discourage employees from developing a sense of ownership in and commitment to the firm, which is why the programs are decreasing in popularity.",
+        "answer": "FALSE",
+        "explanation": "Research suggests that ESOPs encourage employees to develop a sense of ownership in and commitment to the firm."
+    },
+    {
+        "chapter": "12",
+        "question_number": "107)",
+        "description": "Gainsharing is an incentive plan where employee efforts that result in cost-savings gains are shared among employees and the company.",
+        "answer": "TRUE",
+        "explanation": "Gainsharing is an incentive plan that engages many or all employees in a common effort to achieve a company's productivity objectives, with any resulting cost-savings gains shared among employees and the company."
+    }
+]

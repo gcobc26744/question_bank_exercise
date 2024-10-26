@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "10",
+        "question_number": "1)",
+        "description": "Which of the following terms refers to educating, instructing, and training subordinates,\nusually related to daily tasks?",
+        "options": {
+            "A": "mentoring",
+            "B": "coaching",
+            "C": "appraising",
+            "D": "grading"
+        },
+        "answer": "B",
+        "explanation": "B) Coaching means educating, instructing, and training subordinates. Coaching\nfocuses on teaching daily tasks that you can easily relearn."
+    },
+    {
+        "chapter": "10",
+        "question_number": "2)",
+        "description": "What is defined as the occupational positions a person holds over the years?",
+        "options": {
+            "A": "a psychological contract",
+            "B": "a promotion",
+            "C": "reality shock",
+            "D": "a career"
+        },
+        "answer": "D",
+        "explanation": "D) A career is the occupational positions a person holds over the years."
+    },
+    {
+        "chapter": "10",
+        "question_number": "3)",
+        "description": "John feels that he owes his organization hard work and loyalty while the company owes him\nfair treatment and satisfactory work conditions. This is an example of:",
+        "options": {
+            "A": "career planning",
+            "B": "exit interview",
+            "C": "psychological contract",
+            "D": "transfer"
+        },
+        "answer": "C",
+        "explanation": "C) The psychological contract is \"an unwritten agreement that exists between\nemployers and employees.\" The psychological contract identifies each party's mutual\nexpectations."
+    },
+    {
+        "chapter": "10",
+        "question_number": "4)",
+        "description": "The process of advising, counseling, and guiding employees is known as ________.",
+        "options": {
+            "A": "coaching",
+            "B": "appraising",
+            "C": "assessing",
+            "D": "mentoring"
+        },
+        "answer": "D",
+        "explanation": "D) Mentoring means having experienced senior people advising, counseling, and\nguiding employees' longer-term career development."
+    },
+    {
+        "chapter": "10",
+        "question_number": "5)",
+        "description": "________ focuses on helping an employee make long-term career plans, while ________\naddresses an employee's short-term job skills.",
+        "options": {
+            "A": "Mentoring; coaching",
+            "B": "Coaching; mentoring",
+            "C": "Recruiting; coaching",
+            "D": "Appraising; training"
+        },
+        "answer": "A",
+        "explanation": "A) Mentoring means advising, counseling, and guiding an employee towards long-\nterm career goals. Coaching means educating, instructing, and training subordinates in\nperforming short-term job-related skills."
+    },
+    {
+        "chapter": "10",
+        "question_number": "6)",
+        "description": "Which of the following is NOT supported by research as to what supervisors can do to be\nbetter mentors?",
+        "options": {
+            "A": "set high standards",
+            "B": "invest the time and effort the mentoring relationship requires",
+            "C": "steer protégés into important projects",
+            "D": "focus on controlling the mentor"
+        },
+        "answer": "D",
+        "explanation": "D) Research suggests that mentors need to actually share control with the mentees."
+    },
+    {
+        "chapter": "10",
+        "question_number": "7)",
+        "description": "Dick's Sporting Goods is a sports and fitness retailer with over 300 stores in 34 states. After\nbeginning as a small bait and tackle shop in 1948, Dick's has grown to become a leader in the\nsports and fitness retail industry. Many career opportunities are available in Dick's in areas as\ndiverse as IT, product development, merchandising, and store management. Top management at\nDick's realizes the importance of hiring and retaining quality employees. As a result, the firm has\ndecided to implement policies, practices, and programs that support employees' career needs.\nWhich of the following, if true, would best support the argument that Dick's should assign a\ncoach to each new employee?",
+        "options": {
+            "A": "The turnover rate of newly hired hourly employees at Dick's Sporting Goods is higher than\nthe industry average.",
+            "B": "Many new employees at Dick's Sporting Goods have expressed interest in the firm's tuition\nreimbursement program.",
+            "C": "Dick's Sporting Goods has integrated preretirement counseling and succession planning into\nits career management practices.",
+            "D": "Dick's Sporting Goods uses talent management software to place new employees in the most\nappropriate positions."
+        },
+        "answer": "A",
+        "explanation": "A) A high turnover rate of newly hired hourly employees suggests that employees\nare quitting because they do not know how to perform their jobs. Coaching involves educating,\ninstructing, and training subordinates on short-term job-related skills, and it would most likely\nhelp reduce the turnover rate."
+    },
+    {
+        "chapter": "10",
+        "question_number": "8)",
+        "description": "Which of the following is the main difference between coaching and mentoring?",
+        "options": {
+            "A": "Coaching focuses on work-related behaviors.",
+            "B": "Mentoring focuses on teamwork related skills.",
+            "C": "Coaching focuses on teaching daily tasks.",
+            "D": "Mentoring is more effective for women."
+        },
+        "answer": "C",
+        "explanation": "C) Mentoring focuses on employees' longer-term career development while\ncoaching focuses on teaching daily tasks that a worker can easily relearn."
+    },
+    {
+        "chapter": "10",
+        "question_number": "9)",
+        "description": "________ is a process for enabling employees to better understand and develop their career\nskills and interests and to use these skills and interests most effectively within the company and\nafterwards.",
+        "options": {
+            "A": "Career management",
+            "B": "Career development",
+            "C": "Career planning",
+            "D": "Performance management"
+        },
+        "answer": "A",
+        "explanation": "A) Career management is a process for enabling employees to better understand\nand develop their career skills and interests and to use these skills and interests most effectively\nwithin the company and after they leave the firm. Specific career management activities might\ninclude providing realistic career oriented appraisals, posting open jobs, and offering formal\ncareer development activities."
+    },
+    {
+        "chapter": "10",
+        "question_number": "10)",
+        "description": "Which of the following terms refers to the lifelong series of activities that contribute to a\nperson's career exploration, establishment, success, and fulfillment?",
+        "options": {
+            "A": "performance management",
+            "B": "career development",
+            "C": "career management",
+            "D": "career planning"
+        },
+        "answer": "B",
+        "explanation": "B) Career development is the lifelong series of activities that contribute to a\nperson's career exploration, establishment, success, and fulfillment."
+    },
+    {
+        "chapter": "10",
+        "question_number": "11)",
+        "description": "Which of the following is a specific example of a career development activity?",
+        "options": {
+            "A": "job evaluation",
+            "B": "training workshop",
+            "C": "college recruitment",
+            "D": "performance appraisal"
+        },
+        "answer": "B",
+        "explanation": "B) Career development is the lifelong series of activities that contribute to a\nperson's career exploration, establishment, success, and fulfillment. A training workshop is a\nspecific method for career development."
+    },
+    {
+        "chapter": "10",
+        "question_number": "12)",
+        "description": "Which of the following best describes career planning?",
+        "options": {
+            "A": "a deliberate process through which someone becomes aware of personal skills, interests,\nknowledge, and motivations and establishes action plans to attain specific career goals",
+            "B": "the lifelong series of activities that contribute to a person's career exploration, establishment,\nsuccess, and fulfillment",
+            "C": "a process of helping employees to better understand and develop their career skills and\ninterests and to use these skills and interests most effectively",
+            "D": "the process of educating, instructing, and training subordinates as they develop their career\ninterests and job skills"
+        },
+        "answer": "A",
+        "explanation": "A) Career planning is the deliberate process through which someone becomes\naware of his or her personal skills, interests, knowledge, motivations, and other characteristics."
+    },
+    {
+        "chapter": "10",
+        "question_number": "13)",
+        "description": "Jackie is working with a coach to identify her personal skills and interests. Afterwards, she\nwill investigate opportunities that fit her skills and interests and set specific career goals. In\nwhich of the following activities is Jackie most likely participating?",
+        "options": {
+            "A": "career management",
+            "B": "career development",
+            "C": "career planning",
+            "D": "job training"
+        },
+        "answer": "C",
+        "explanation": "C) Career planning is the deliberate process through which someone becomes\naware of his or her personal skills, interests, knowledge, motivations, and other characteristics\nand establishes action plans to attain specific goals."
+    },
+    {
+        "chapter": "10",
+        "question_number": "14)",
+        "description": "Employers benefit from offering career development programs to employees in all of the\nfollowing ways EXCEPT ________.",
+        "options": {
+            "A": "supporting recruitment efforts",
+            "B": "boosting employee commitment",
+            "C": "enhancing employee strengths",
+            "D": "facilitating performance analysis"
+        },
+        "answer": "D",
+        "explanation": "D) Performance analysis refers to verifying and correcting an employee's\nperformance deficiency, but it is not a benefit of career development programs. Firms that offer\ncareer development programs boost employee commitment, support recruitment and retention\nefforts, and equip employees with useful skills."
+    },
+    {
+        "chapter": "10",
+        "question_number": "15)",
+        "description": "Dick's Sporting Goods is a sports and fitness retailer with over 300 stores in 34 states. After\nbeginning as a small bait and tackle shop in 1948, Dick's has grown to become a leader in the\nsports and fitness retail industry. Many career opportunities are available in Dick's in areas as\ndiverse as IT, product development, merchandising, and store management. Top management at\nDick's realizes the importance of hiring and retaining quality employees. As a result, the firm has\ndecided to implement policies, practices, and programs that support employees' career needs.\nWhich of the following, if true, would best support the argument that Dick's should add a career\ndevelopment aspect to its human resource activities?",
+        "options": {
+            "A": "Dick's Sporting Goods' current policies and practices categorize the firm as a high-\nperformance work system.",
+            "B": "Dick's Sporting Goods' performance appraisals will include development plans and individual\ngoal setting.",
+            "C": "Dick's Sporting Goods' sales volume and hourly employee needs typically fluctuate\nthroughout the year.",
+            "D": "Dick's Sporting Goods' will screen potential candidates using structured situational\ninterviews."
+        },
+        "answer": "B",
+        "explanation": "B) Performance appraisals with a traditional focus include ratings and rewards, but\nfirms that have a career development focus add development plans and individual goal setting.\nSuch additions can better equip employees and support their career development needs more\neffectively than traditional appraisals. Career development is the lifelong series of activities that\ncontribute to a person's career exploration, establishment, success, and fulfillment."
+    },
+    {
+        "chapter": "10",
+        "question_number": "16)",
+        "description": "Dick's Sporting Goods is a sports and fitness retailer with over 300 stores in 34 states. After\nbeginning as a small bait and tackle shop in 1948, Dick's has grown to become a leader in the\nsports and fitness retail industry. Many career opportunities are available in Dick's in areas as\ndiverse as IT, product development, merchandising, and store management. Top management at\nDick's realizes the importance of hiring and retaining quality employees. As a result, the firm has\ndecided to implement policies, practices, and programs that support employees' career needs.\nAll of the following questions are relevant to Dick's Sporting Goods' decision to implement a\ncareer development program EXCEPT:",
+        "options": {
+            "A": "What is the average length of time that an employee works for Dick's Sporting Goods?",
+            "B": "How would the profits of Dick's Sporting Goods be affected by a change in hiring practices?",
+            "C": "What are the career needs and opportunities available to minorities and women employed by\nDick's Sporting Goods?",
+            "D": "What will be the effect on recruiting and placement if employees' interests and attitudes are\ntaken into consideration by the HR department at Dick's Sporting Goods?"
+        },
+        "answer": "B",
+        "explanation": "B) Issues such as recruiting, employee commitment, career development needs,\nand promotion processes are all relevant to a decision to implement a career development\nprogram. Profits and hiring practices are less relevant to the decision."
+    },
+    {
+        "chapter": "10",
+        "question_number": "17)",
+        "description": "In regards to an employee's career development, it is the primary responsibility of the\n________ to make career plans, set goals, and utilize development opportunities.",
+        "options": {
+            "A": "employer",
+            "B": "employee",
+            "C": "recruiter",
+            "D": "HR manager"
+        },
+        "answer": "B",
+        "explanation": "B) Employees are responsible for making career plans, setting goals, and utilizing\ndevelopment opportunities in respect to their own career development. Managers are responsible\nfor providing feedback and developmental assignments, and the employer should provide\ntraining opportunities. No employee should abandon this task to others."
+    },
+    {
+        "chapter": "10",
+        "question_number": "18)",
+        "description": "All of the following are the role of the employer in an employee's career development\nEXCEPT ________.",
+        "options": {
+            "A": "communicating policies and procedures",
+            "B": "analyzing interests, values, and skills",
+            "C": "providing performance feedback",
+            "D": "offering a variety of career paths"
+        },
+        "answer": "B",
+        "explanation": "B) It is the role of the employee to analyze his or her interests, values, and skills.\nEmployers are responsible for communicating the firm's policies, providing training and\nfeedback, and offering various career paths."
+    },
+    {
+        "chapter": "10",
+        "question_number": "19)",
+        "description": "Which of the following is primarily the role of the manager in an employee's career\ndevelopment?",
+        "options": {
+            "A": "providing career information",
+            "B": "seeking development opportunities",
+            "C": "providing academic assistance programs",
+            "D": "providing accurate performance feedback"
+        },
+        "answer": "D",
+        "explanation": "D) It is the role of the manager to provide timely and accurate performance\nfeedback to subordinates. Employees are responsible for seeking development opportunities.\nEmployers should provide career information and academic assistance when appropriate."
+    },
+    {
+        "chapter": "10",
+        "question_number": "20)",
+        "description": "Which of the following is the organization's role in an employee's career development?",
+        "options": {
+            "A": "providing mentoring opportunities to support growth",
+            "B": "participating in career development discussions",
+            "C": "providing timely performance feedback",
+            "D": "establishing goals and career plans"
+        },
+        "answer": "A",
+        "explanation": "A) It is the responsibility of an organization to provide mentoring opportunities to\nsupport an employee's growth. The employee is responsible for establishing career plans.\nManagers should discuss career development with employees and provide performance feedback\nin a timely manner."
+    },
+    {
+        "chapter": "10",
+        "question_number": "21)",
+        "description": "Which of the following refers to an organized learning event in which participants conduct\nself-assessments, set goals, and develop action plans?",
+        "options": {
+            "A": "competency-based job analysis",
+            "B": "career planning workshop",
+            "C": "job instruction training",
+            "D": "management retreat"
+        },
+        "answer": "B",
+        "explanation": "B) A career planning workshop is \"a planned learning event in which participants\nare expected to be actively involved, completing career planning exercises and inventories and\nparticipating in career skills practice sessions.\" A typical workshop includes a self-assessment,\nan environmental assessment, goal-setting, and action-planning."
+    },
+    {
+        "chapter": "10",
+        "question_number": "22)",
+        "description": "All of the following are types of career development initiatives implemented by employers\nEXCEPT ________.",
+        "options": {
+            "A": "401(k) plans",
+            "B": "career coaches",
+            "C": "appraisal committees",
+            "D": "mentoring"
+        },
+        "answer": "A",
+        "explanation": "A) Several employers provide 401(k)-type lifelong learning accounts for their\nemployees to use for career-related education, but 401(k) plans are not oriented towards career\ndevelopment."
+    },
+    {
+        "chapter": "10",
+        "question_number": "23)",
+        "description": "All of the following are typical activities of career coaches EXCEPT helping employees to\n________.",
+        "options": {
+            "A": "make 1-5 year career plans",
+            "B": "identify development needs",
+            "C": "obtain networking opportunities",
+            "D": "negotiate with firms for higher salaries"
+        },
+        "answer": "D",
+        "explanation": "D) Career coaches help individual employees identify their development needs and\nobtain the training, professional development, and networking opportunities that they need to\nsatisfy those needs. Career coaches generally help employees create 1- to 5-year plans showing\nwhere their careers with the firm may lead. Career coaches are not likely to be involved with\nsalary negotiations."
+    },
+    {
+        "chapter": "10",
+        "question_number": "24)",
+        "description": "Which of the following would most likely increase employee commitment?",
+        "options": {
+            "A": "document the psychological contract",
+            "B": "create Web-based efficiency programs",
+            "C": "establish a career development program",
+            "D": "promise lifetime employment to managers"
+        },
+        "answer": "C",
+        "explanation": "C) The employer's career development efforts, taken as a whole, should send the\nsignal that the employer cares about the employee's career success, and thus deserves the\nemployee's commitment."
+    },
+    {
+        "chapter": "10",
+        "question_number": "25)",
+        "description": "All of the following are characteristics of effective mentors EXCEPT ________.",
+        "options": {
+            "A": "developing a trustworthy relationship",
+            "B": "guiding protégés into important projects",
+            "C": "focusing on the protégé's daily tasks",
+            "D": "setting high standards for protégés"
+        },
+        "answer": "C",
+        "explanation": "C) Coaching, not mentoring, focuses on daily tasks. Effective mentors set high\nstandards, are willing to invest the time and effort the mentoring relationship requires, and\nactively steer protégés into important projects, teams, and jobs. Effective mentoring requires\ntrust, and the level of trust reflects the mentor's professional competency, consistency, ability to\ncommunicate, and readiness to share control."
+    },
+    {
+        "chapter": "10",
+        "question_number": "26)",
+        "description": "Based on research studies, which of the following is most likely a true statement about\nmentoring programs?",
+        "options": {
+            "A": "Traditional mentoring programs are more effective for male than for female employees.",
+            "B": "When the mentor and protégé work in different departments, mentoring is more effective.",
+            "C": "Protégés have more respect for mentors who work two levels above their own rank in a firm.",
+            "D": "Required mentoring relationships are more effective than informal mentoring relationships."
+        },
+        "answer": "A",
+        "explanation": "A) Studies suggest that traditional mentoring is less effective for women than it is\nfor men. For example, in one survey of employees who had \"active mentoring relationships\" in\none recent year, 72% of the men received one or more promotions in the ensuing two years,\ncompared with 65% of the women. Mentoring is more useful when mentors and protégés are in\nthe same department. Trust is the main component of an effective mentoring relationship, not\nseniority. It makes little difference in the extent or quality of mentoring whether protégés\nvolunteer to take part or are assigned formally to mentors."
+    },
+    {
+        "chapter": "10",
+        "question_number": "27)",
+        "description": "Michele's firm does not have a formal mentoring program. However, entry-level employees,\nsuch as Michele, are encouraged to form relationships with experienced workers. Michele wants\nto make sure that she has an effective mentor relationship. Which of the following mentor\nrelationship guidelines would NOT be recommended to Michele?",
+        "options": {
+            "A": "Build trust.",
+            "B": "Share control between mentor and mentee.",
+            "C": "Clarify what you expect in terms of advice.",
+            "D": "Bring personal problems to mentor."
+        },
+        "answer": "D",
+        "explanation": "D) Because the supervisor is usually not a psychologist or trained career advisor, a\nmentor should often avoid giving advice on personal problems."
+    },
+    {
+        "chapter": "10",
+        "question_number": "28)",
+        "description": "What do firms use to coordinate career planning efforts, succession plans, and employees'\ncareer interests?",
+        "options": {
+            "A": "outplacement counseling",
+            "B": "coaching",
+            "C": "reality shock",
+            "D": "integrated talent management software"
+        },
+        "answer": "D",
+        "explanation": "D) Integrated talent management software helps to achieve coordination between\nsuccession plans and employee career interests."
+    },
+    {
+        "chapter": "10",
+        "question_number": "29)",
+        "description": "Which of the following is most likely to occur when a new employee's high expectations and\nenthusiasm confront the reality of a boring job?",
+        "options": {
+            "A": "halo effect",
+            "B": "reality shock",
+            "C": "disparate rejection",
+            "D": "cognitive dissonance"
+        },
+        "answer": "B",
+        "explanation": "B) Reality shock refers to what occurs when a new employee's expectations and\nenthusiasm confront the reality of a boring or otherwise unattractive work situation."
+    },
+    {
+        "chapter": "10",
+        "question_number": "30)",
+        "description": "Reality shock can most likely be prevented by providing new employees with ________.",
+        "options": {
+            "A": "flexible schedules",
+            "B": "performance appraisals",
+            "C": "reassignments",
+            "D": "accurate job previews"
+        },
+        "answer": "D",
+        "explanation": "D) Realistic job previews, challenging first jobs, and an experienced mentor to\nhelp the new employee learn the ropes are important methods for avoiding reality shock."
+    },
+    {
+        "chapter": "10",
+        "question_number": "50)",
+        "description": "With a(n) ________, a supervisor and employee jointly merge the employee's past\nperformance, career preferences, and developmental needs into a formal career plan.",
+        "options": {
+            "A": "career-oriented appraisal",
+            "B": "exit interview",
+            "C": "promotion",
+            "D": "employee qualification databank"
+        },
+        "answer": "A",
+        "explanation": "A) With career-oriented appraisals, the supervisor and employee jointly merge the\nlatter's past performance, career preferences, and developmental needs into a formal career plan."
+    },
+    {
+        "chapter": "10",
+        "question_number": "51)",
+        "description": "Which of the following statements most likely suggests that an employee is engaged?",
+        "options": {
+            "A": "\"I work with intensity.\"",
+            "B": "\"I take frequent breaks.\"",
+            "C": "\"I daydream at my desk.\"",
+            "D": "\"I enjoy talking to co-workers.\""
+        },
+        "answer": "A",
+        "explanation": "A) Engaged employees are focused and work with intensity at their jobs.\nDisengaged workers take unnecessary breaks, daydream, and make idle conversation with co-\nworkers."
+    },
+    {
+        "chapter": "10",
+        "question_number": "52)",
+        "description": "The tool managers use to meet employees' career development where the manager and\nemployee jointly merge the latter's past performance, career preferences, and developmental\nneeds into a formal career plan is called:",
+        "options": {
+            "A": "orientation sessions",
+            "B": "career-oriented appraisals",
+            "C": "interest inventories",
+            "D": "graphic-rating scales"
+        },
+        "answer": "B",
+        "explanation": "B) In career-oriented appraisals the supervisor and employee jointly merge the\nlatter's past performance, career preferences, and developmental needs into a formal career plan."
+    },
+    {
+        "chapter": "10",
+        "question_number": "55)",
+        "description": "The rate at which employees leave a firm is best known as ________.",
+        "options": {
+            "A": "downsizing",
+            "B": "retirement",
+            "C": "turnover",
+            "D": "retention"
+        },
+        "answer": "C",
+        "explanation": "C) Turnover is the rate that workers leave an employer. Turnover occurs for many\nreasons and it is costly."
+    },
+    {
+        "chapter": "10",
+        "question_number": "56)",
+        "description": "Which of the following industries has one of the highest turnover rates, at around 100% per\nyear?",
+        "options": {
+            "A": "food services",
+            "B": "financial services",
+            "C": "healthcare services",
+            "D": "educational services"
+        },
+        "answer": "A",
+        "explanation": "A) The turnover in many food service organizations is around 100% per year. In\ncontrast, voluntary turnover in the educational services industry is about 12%."
+    },
+    {
+        "chapter": "10",
+        "question_number": "57)",
+        "description": "As an employer, what is the primary benefit of cutting a high turnover rate?",
+        "options": {
+            "A": "selling stock",
+            "B": "saving money",
+            "C": "attracting applicants",
+            "D": "meeting legal obligations"
+        },
+        "answer": "B",
+        "explanation": "B) High turnover rates have tangible and intangible costs for employers.\nRecruiting, screening, interviewing, testing, and training are costly. Intangible costs, such as lost\nproductivity and supervising a new worker, waste time."
+    },
+    {
+        "chapter": "10",
+        "question_number": "58)",
+        "description": "Which term refers to actions intended to place physical or psychological distance between\nemployees and their work environments?",
+        "options": {
+            "A": "employee disengagement",
+            "B": "workplace separation",
+            "C": "job withdrawal",
+            "D": "attrition"
+        },
+        "answer": "C",
+        "explanation": "C) Job withdrawal has been defined as \"actions intended to place physical or\npsychological distance between employees and their work environments.\" Poor attendance and\nvoluntary turnover are two job withdrawal examples."
+    },
+    {
+        "chapter": "10",
+        "question_number": "59)",
+        "description": "A(n) ________ describes the criteria by which the firm awards promotions.",
+        "options": {
+            "A": "job posting policy",
+            "B": "employee qualification databank",
+            "C": "formal promotion policy",
+            "D": "9-box plot"
+        },
+        "answer": "C",
+        "explanation": "C) The formal promotion policy describes the criteria by which the firm awards\npromotions."
+    },
+    {
+        "chapter": "10",
+        "question_number": "60)",
+        "description": "Robin, the HR manager at Rightway Enterprises, believes that job withdrawal has become a\nsignificant problem at the firm. Robin most likely came to this conclusion after observing all of\nthe following employee behaviors EXCEPT ________.",
+        "options": {
+            "A": "frequent vacation time requests",
+            "B": "idle employee conversations",
+            "C": "undeserved work breaks",
+            "D": "excessive absences"
+        },
+        "answer": "A",
+        "explanation": "A) Poor attendance and voluntary turnover are two job withdrawal examples.\nOther types of job withdrawal include \"taking undeserved work breaks, spending time in idle\nconversation and neglecting aspects of the job one is obligated to perform.\" Requesting vacation\nis not necessarily indicative of job withdrawal."
+    },
+    {
+        "chapter": "10",
+        "question_number": "61)",
+        "description": "Which of the following would most likely reduce voluntary turnover?",
+        "options": {
+            "A": "performance appraisal systems",
+            "B": "high unemployment rates",
+            "C": "numerous job opportunities",
+            "D": "downsizing requirements"
+        },
+        "answer": "B",
+        "explanation": "B) High unemployment reduces voluntary turnover, and some locales have fewer\njob opportunities (and thus turnover) than do others."
+    },
+    {
+        "chapter": "10",
+        "question_number": "62)",
+        "description": "What is a crucial first step in retaining employees over time?",
+        "options": {
+            "A": "providing employees with proper training",
+            "B": "discussing career plans with workers",
+            "C": "selecting the right workers",
+            "D": "identifying worker goals"
+        },
+        "answer": "C",
+        "explanation": "C) Retention starts up front, in the selection and hiring of the right employees.\nSelection refers not just to the worker but to choosing the right supervisors as well."
+    },
+    {
+        "chapter": "10",
+        "question_number": "63)",
+        "description": "According to research cited in the text, what is the primary reason that top-performing/high\ncommitment employees gave for voluntarily leaving an organization?",
+        "options": {
+            "A": "career development",
+            "B": "work-life balance",
+            "C": "promotions",
+            "D": "salary"
+        },
+        "answer": "D",
+        "explanation": "D) The five top reasons high commitment/top-performing employees gave for\nleaving (ranked from high to low) were pay, promotional opportunities, work-life balance, career\ndevelopment, and health-care benefits."
+    },
+    {
+        "chapter": "10",
+        "question_number": "64)",
+        "description": "Apex Carpet has a very high voluntary turnover rate, which executives at the firm want\nreduced. What is the most effective way to retain top-performing employees at Apex?",
+        "options": {
+            "A": "conducting more performance reviews",
+            "B": "developing new recruitment strategies",
+            "C": "establishing a talent management program",
+            "D": "revising the organization's mission statement"
+        },
+        "answer": "C",
+        "explanation": "C) Employers can address turnover issues by instituting effective and\ncomprehensive talent management (recruitment, selection, training, appraisal, and compensation)\npractices. The manager should understand that retaining employees is a talent management issue,\nand that the best retention strategies are therefore multifunctional."
+    },
+    {
+        "chapter": "10",
+        "question_number": "65)",
+        "description": "Apex Carpet has a very high voluntary turnover rate, which executives at the firm want\nreduced. Which of the following should Apex most likely do first in its attempt to retain top-\nperforming employees?",
+        "options": {
+            "A": "administer attitude surveys to all employees",
+            "B": "provide an across-the-board wage increase",
+            "C": "evaluate the firm's promotion methods",
+            "D": "develop online training courses"
+        },
+        "answer": "A",
+        "explanation": "A) Identifying the issues is an important first retention strategy. Many employers\nroutinely administer attitude surveys to monitor employees' feelings about matters such as\nsupervision and pay. Salary, promotions, and training may not necessarily be the reasons for high\nturnover."
+    },
+    {
+        "chapter": "10",
+        "question_number": "66)",
+        "description": "Retaining employees is a ________ issue and the best retention strategies are therefore\nmultifunctional.",
+        "options": {
+            "A": "talent management",
+            "B": "career management",
+            "C": "strategic management",
+            "D": "human resources management"
+        },
+        "answer": "A",
+        "explanation": "A) Retaining employees is a talent management issue, and the best retention\nstrategies are therefore multifunctional. Turnovers (both voluntary and involuntary) often start\nwith poor selection decisions, compounded by inadequate training, insensitive appraisals, and\ninequitable pay."
+    },
+    {
+        "chapter": "10",
+        "question_number": "70)",
+        "description": "Miranda wants to make partner at her law firm. However, she is worried because 70-hour\nwork weeks are the norm for someone striving to make partner. Miranda wants to be fair to her\nfamily as well as excel at work. The best way for the law firm to address this problem is by\n________.",
+        "options": {
+            "A": "providing Miranda with a female career coach",
+            "B": "persuading Miranda to temporarily work in a less competitive law firm",
+            "C": "offering a flexible career track that allows Miranda to periodically reduce her work load",
+            "D": "providing a career planning workshop to help Miranda determine a more appropriate\noccupation"
+        },
+        "answer": "C",
+        "explanation": "C) Inflexible promotional ladders can put women—who often have more\nresponsibility for child-raising chores—at a disadvantage. One solution is to institute career\ntracks (including reduced hours and more flexible year-round work schedules) that enable\nwomen to periodically reduce their time at work, but remain on a partner track. Career coaches\nand career planning workshops are more appropriate for people who are not sure about the\ndirection of their careers, which is not Miranda's problem."
+    },
+    {
+        "chapter": "10",
+        "question_number": "71)",
+        "description": "Chelsea Bank employs a diverse group of employees, and the firm wants all of its workers to\nhave equal career advancement opportunities. Which of the following most likely undermines\nChelsea Bank's attempt to meet the career development needs of its diverse workforce?",
+        "options": {
+            "A": "scheduling meetings in the early morning or late evening",
+            "B": "offering career advancement seminars for women and minorities",
+            "C": "identifying mentors for women and minorities",
+            "D": "adopting flexible year-round work schedules"
+        },
+        "answer": "A",
+        "explanation": "A) Early morning or late evening meetings can be stressful for employees with\nchildren because of childcare issues. Career advancement seminars, mentors, and flexible\nschedules are all effective methods for meeting the various career development needs of a\ndiverse workforce."
+    },
+    {
+        "chapter": "10",
+        "question_number": "72)",
+        "description": "Smith Industries has established a career development program for its employees that offers\ncareer coaching and workshops. However, a recent employee survey indicates that many women\nstill feel dissatisfied about their career opportunities at the firm. Which of the following would\nmost likely improve the attitudes of female employees at Smith Industries?",
+        "options": {
+            "A": "Smith installs an electronic performance support system for telecommuters.",
+            "B": "Smith provides hardship allowances to all minority employees.",
+            "C": "Smith increases the number of performance appraisals.",
+            "D": "Smith implements a flexible career track system."
+        },
+        "answer": "D",
+        "explanation": "D) Inflexible promotional ladders can put women—who often have more\nresponsibility for child-raising chores—at a disadvantage. One solution is to institute flexible\ncareer tracks that enable women to periodically reduce their time at work, but remain on a\npartner track. Although performance appraisals can be used to discuss career needs, merely\nincreasing the number of appraisals will not likely improve the attitudes of women."
+    },
+    {
+        "chapter": "10",
+        "question_number": "73)",
+        "description": "Which of the following best explains the meaning of the term \"glass ceiling\"?",
+        "options": {
+            "A": "formal corporate policies that prevent women from receiving the training needed to advance\ntheir careers",
+            "B": "spoken opinions by corporate leaders that women lack the knowledge and skills required for\ncareer advancement",
+            "C": "structural yet subtle barriers in corporate environments that inhibit the rise of talented women\nto leadership positions",
+            "D": "inadequate educational opportunities which ultimately limit the network opportunities\navailable to women in the workforce"
+        },
+        "answer": "C",
+        "explanation": "C) Many refer to the subtle and not-so-subtle barriers to women's career progress\nas the glass ceiling. Several types of career development programs—fast-track programs,\nindividual career counseling, and career planning workshops—are less available to women than\nto men."
+    },
+    {
+        "chapter": "10",
+        "question_number": "74)",
+        "description": "While women constitute more than 40% of the workforce, they hold only about ________ of\ntop management positions.",
+        "options": {
+            "A": "2%",
+            "B": "13%",
+            "C": "25%",
+            "D": "30%"
+        },
+        "answer": "A",
+        "explanation": "A) Women still don't reach the top of the career ladder in numbers proportionate to\ntheir numbers in U.S. industry. Women constitute more than 40% of the workforce, but hold less\nthan 2% of top management positions."
+    },
+    {
+        "chapter": "10",
+        "question_number": "75)",
+        "description": "Dick's Sporting Goods is a sports and fitness retailer with over 300 stores in 34 states. After\nbeginning as a small bait and tackle shop in 1948, Dick's has grown to become a leader in the\nsports and fitness retail industry. Many career opportunities are available in Dick's in areas as\ndiverse as IT, product development, merchandising, and store management. Top management at\nDick's realizes the importance of hiring and retaining quality employees. As a result, the firm has\ndecided to implement policies, practices, and programs that support employees' career needs.\nWhich of the following, if true, would best support the argument that the firm should institute a\nflexible career track program?",
+        "options": {
+            "A": "Executive positions at Dick's Sporting Goods are rewarded for a combination of seniority and\ncompetency.",
+            "B": "Situational interviews are used at Dick's Sporting Goods to screen potential store managers.",
+            "C": "Executive positions at Dick's Sporting Goods are predominantly held by men.",
+            "D": "Over half of all Dick's Sporting Goods stores are run by female managers."
+        },
+        "answer": "C",
+        "explanation": "C) A firm with few female executives may have inflexible promotional ladders that\nput women with child-raising duties at a disadvantage. If Dick's implemented a flexible career\ntrack with reduced hours and flexible work schedules, women would most likely stay at the firm\nand rise to high-level positions."
+    },
+    {
+        "chapter": "10",
+        "question_number": "76)",
+        "description": "ABC Consulting has a formal mentoring program in which senior-level managers are paired\nwith less-experienced employees. Which of the following employees most likely needs a\nmentor?",
+        "options": {
+            "A": "Raj, who is uncertain how to navigate office politics",
+            "B": "Jason, who does not perform tasks as quickly as required",
+            "C": "Michele, who is experiencing personal problems at home",
+            "D": "Haley, who is working and attending graduate school simultaneously"
+        },
+        "answer": "A",
+        "explanation": "A) Mentoring traditionally means having experienced senior people advising,\ncounseling, and guiding employees' longer-term career development. An employee who agonizes\nover which career to pursue or how to navigate office politics might need mentoring. Jason\nwould benefit from coaching rather than mentoring, and Haley already has a career plan.\nMentors should not discuss personal problems."
+    },
+    {
+        "chapter": "10",
+        "question_number": "77)",
+        "description": "Which of the following terms refers to advancements to positions of increased\nresponsibility?",
+        "options": {
+            "A": "transfers",
+            "B": "appraisals",
+            "C": "promotions",
+            "D": "recruitments"
+        },
+        "answer": "C",
+        "explanation": "C) Promotions traditionally refer to advancements to positions of increased\nresponsibility. Transfers are reassignments to similar positions within a firm."
+    },
+    {
+        "chapter": "10",
+        "question_number": "78)",
+        "description": "Which of the following terms refers to reassignments to similar positions in other parts of a\nfirm?",
+        "options": {
+            "A": "transfers",
+            "B": "layoffs",
+            "C": "dismissals",
+            "D": "promotions"
+        },
+        "answer": "A",
+        "explanation": "A) Transfers are reassignments to similar positions within a firm."
+    },
+    {
+        "chapter": "10",
+        "question_number": "79)",
+        "description": "Competence rather than seniority is most likely the basis for promotion when ________.",
+        "options": {
+            "A": "corporate competitiveness is necessary",
+            "B": "union agreements are involved",
+            "C": "civil service regulations apply",
+            "D": "compensation packages are limited"
+        },
+        "answer": "A",
+        "explanation": "A) Today's focus on competitiveness favors competency. However, union\nagreements sometimes contain clauses that emphasize seniority, and civil service regulations that\nstress seniority rather than competency often govern promotions in many public-sector\norganizations."
+    },
+    {
+        "chapter": "10",
+        "question_number": "80)",
+        "description": "What can diminish positive feelings toward the promotion process?",
+        "options": {
+            "A": "rewards",
+            "B": "responsibilities",
+            "C": "secrecy",
+            "D": "job descriptions"
+        },
+        "answer": "C",
+        "explanation": "C) Most people crave promotion, which usually means more pay, responsibility,\nand (often) job satisfaction. Yet the promotion process isn't always a positive experience.\nUnfairness or secrecy can diminish the process."
+    },
+    {
+        "chapter": "10",
+        "question_number": "81)",
+        "description": "Which of the following is the simplest and most often used method for predicting the future\nperformance of a candidate for promotion?",
+        "options": {
+            "A": "prior performance",
+            "B": "aptitude tests",
+            "C": "assessment centers",
+            "D": "psychological exams"
+        },
+        "answer": "A",
+        "explanation": "A) Most employers use prior performance as a guide, and assume that (based on\nexemplary prior performance) the person will do well on the new job. This is the simplest\nmethod. Many others use tests or assessment centers to evaluate promotable employees and to\nidentify those with executive potential."
+    },
+    {
+        "chapter": "10",
+        "question_number": "82)",
+        "description": "All of the following are characteristic of a formal promotion process EXCEPT ________.",
+        "options": {
+            "A": "open positions are posted",
+            "B": "promotion criteria are made available",
+            "C": "job postings are circulated to all employees",
+            "D": "promotions are based on unpublished requirements"
+        },
+        "answer": "D",
+        "explanation": "D) Informal promotion processes are based on unpublished criteria. With formal\npromotion processes, employers set formal, published promotion policies and procedures, and\nemployees receive a formal promotion policy describing the criteria by which the firm awards\npromotions. A job posting policy states the firm will post open positions and their requirements,\nand circulate these to all employees."
+    },
+    {
+        "chapter": "10",
+        "question_number": "83)",
+        "description": "Tanya accused a male superior of sexual harassment. Later, Tanya was turned down for a\npromotion because the accused superior persuaded Tanya's current supervisor not to promote\nTanya. This is most likely an example of ________.",
+        "options": {
+            "A": "demotion",
+            "B": "retaliation",
+            "C": "dissonance",
+            "D": "defensive behavior"
+        },
+        "answer": "B",
+        "explanation": "B) The U.S. Circuit Court of Appeals case allowed a claim of retaliation to proceed\nwhen a female employee provided evidence that her employer turned her down for promotion\nbecause a supervisor she had previously accused of sexual harassment made comments that\npersuaded her current supervisor not to promote her."
+    },
+    {
+        "chapter": "10",
+        "question_number": "84)",
+        "description": "According to the court system, promotions based on subjective assessments ________.",
+        "options": {
+            "A": "support employers in adverse impact claims",
+            "B": "violate the Americans with Disabilities Act",
+            "C": "must be supported by objective evidence",
+            "D": "are valid under the Civil Rights Act of 1991"
+        },
+        "answer": "C",
+        "explanation": "C) Courts have indicated that while subjective reasons can justify \"adverse\nemployment decisions, an employer must articulate any clear and reasonably specific factual\nbases upon which it based its decision.\" In other words, you should be able to provide objective\nevidence supporting your subjective assessment for promotion."
+    },
+    {
+        "chapter": "10",
+        "question_number": "85)",
+        "description": "An employer may transfer an employee for all these reasons EXCEPT ________.",
+        "options": {
+            "A": "to vacate a position that is no longer needed",
+            "B": "personal enrichment",
+            "C": "to find a better fit position for the employee",
+            "D": "to give a displaced employee a chance for another assignment"
+        },
+        "answer": "B",
+        "explanation": "B) Personal enrichment is a reason an employee may seek a transfer, not the\nemployer."
+    },
+    {
+        "chapter": "10",
+        "question_number": "86)",
+        "description": "Why are an increasing number of firms focusing on retirement planning?",
+        "options": {
+            "A": "concerns about future labor shortages",
+            "B": "surveys of current employee attitudes",
+            "C": "modifications to the promotion process",
+            "D": "increases in health insurance premiums"
+        },
+        "answer": "A",
+        "explanation": "A) Retirement planning is a significant long-term issue for employers. In the\nUnited States, the number of 25- to 34-year-olds is growing relatively slowly, and the number of\n35- to 44-year olds is declining. So, with many employees in their 50s and 60s moving toward\ntraditional retirement age, employers face a longer-term labor shortage."
+    },
+    {
+        "chapter": "10",
+        "question_number": "87)",
+        "description": "All of the following are true statements about retirement EXCEPT ________.",
+        "options": {
+            "A": "most employees who plan to work after 65 must do so for financial reasons",
+            "B": "most employees expect to continue working after normal retirement age",
+            "C": "most employees who plan to work after 65 want a part-time position",
+            "D": "many retirement age workers want to stay active through working"
+        },
+        "answer": "A",
+        "explanation": "A) Seventy eight percent of employees in one survey said they expect to continue\nworking in some capacity after normal retirement age (64% said they want to do so part-time).\nOnly about a third said they plan to continue work for financial reasons; about 43% said they just\nwanted to remain active."
+    },
+    {
+        "chapter": "10",
+        "question_number": "88)",
+        "description": "All of the following methods are used by firms to recruit and retain retirement-age workers\nEXCEPT ________.",
+        "options": {
+            "A": "implementing phased retirement programs",
+            "B": "offering them flexible work arrangements",
+            "C": "using psychometric selection tests",
+            "D": "offering them part-time positions"
+        },
+        "answer": "C",
+        "explanation": "C) Firms trying to recruit or retain older workers are using techniques such as\ncreating a culture that honors experience, offering them part-time positions, hiring them as\nconsultants or temporary workers, offering them flexible work arrangements, encouraging them\nto work past traditional retirement age, providing training to upgrade skills, and instituting a\nphased retirement program."
+    },
+    {
+        "chapter": "10",
+        "question_number": "99)",
+        "description": "________ is reducing, usually dramatically, the number of people employed by a firm.",
+        "options": {
+            "A": "Career development",
+            "B": "Coaching",
+            "C": "Transfer",
+            "D": "Downsizing"
+        },
+        "answer": "D",
+        "explanation": "D) Downsizing means reducing, usually dramatically, the number of people\nemployed by a firm."
+    },
+    {
+        "chapter": "10",
+        "question_number": "100)",
+        "description": "Pablo Industries needs to send home a number of workers due to lack of work, although it\nexpects they will return at a future time. This is an example of a:",
+        "options": {
+            "A": "transfer",
+            "B": "downsizing",
+            "C": "promotion",
+            "D": "layoff"
+        },
+        "answer": "D",
+        "explanation": "D) Layoffs are when the employer sends workers home for a time for lack of work\nand is usually not a permanent dismissal (although it may turn out to be). Rather, it is a\ntemporary one, which the employer expects will be short term."
+    },
+    {
+        "chapter": "10",
+        "question_number": "101)",
+        "description": "Roberto is leaving Smith Industries and before he actually leaves the company wants to do\na meeting where they elicit information aimed at giving the employer insights into the company.\nThis is known as a(n):",
+        "options": {
+            "A": "layoff",
+            "B": "transfer",
+            "C": "exit interview",
+            "D": "termination interview"
+        },
+        "answer": "C",
+        "explanation": "C) Exit interviews are interviews, usually conducted by a human resource\nprofessional just prior to the employee leaving, that elicit information aimed at giving employers\ninsights into their companies."
+    },
+    {
+        "chapter": "10",
+        "question_number": "102)",
+        "description": "When an employer arranges for an outside firm to provide terminated employees with\ncareer planning and job search skills it is called:",
+        "options": {
+            "A": "outplacement counseling",
+            "B": "a layoff",
+            "C": "a transfer",
+            "D": "career management"
+        },
+        "answer": "A",
+        "explanation": "A) Outplacement counseling is when the employer arranges for an outside firm to\nprovide terminated employees with career planning and job search skills."
+    },
+    {
+        "chapter": "10",
+        "question_number": "103)",
+        "description": "Willful disregard or disobedience of the boss's authority or legitimate orders is known as\n________.",
+        "options": {
+            "A": "dismissal",
+            "B": "terminate at will",
+            "C": "reality shock",
+            "D": "insubordination"
+        },
+        "answer": "D",
+        "explanation": "D) Insubordination is willful disregard or disobedience of the boss's authority or\nlegitimate orders or criticizing the boss in public."
+    },
+    {
+        "chapter": "10",
+        "question_number": "104)",
+        "description": "Dwight has just been in an interview in which he was informed of the fact that he had been\ndismissed. This is called a(n):",
+        "options": {
+            "A": "exit interview",
+            "B": "termination interview",
+            "C": "outplacement interview",
+            "D": "reality shock interview"
+        },
+        "answer": "B",
+        "explanation": "B) The exit interview in which an employee is informed of the fact that he or she\nhas been dismissed."
+    }
+]

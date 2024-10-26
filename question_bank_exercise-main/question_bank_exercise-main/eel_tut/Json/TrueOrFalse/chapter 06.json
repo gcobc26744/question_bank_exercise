@@ -1,0 +1,212 @@
+[
+    {
+        "chapter": "6",
+        "question_number": "23)",
+        "description": "EEO laws require nondiscriminatory selection procedures for protected groups.",
+        "answer": "TRUE",
+        "explanation": "During the hiring process, managers need to consider EEO laws, negligent hiring, and defamation. EEO laws require nondiscriminatory selection procedures."
+    },
+    {
+        "chapter": "6",
+        "question_number": "24)",
+        "description": "Tests administered for hiring purposes should be both valid and reasonable if used by a firm that adheres to evidence-based human resources.",
+        "answer": "FALSE",
+        "explanation": "Reliability and validity are the two requirements of tests. Whether or not a test is reasonable is a matter of opinion."
+    },
+    {
+        "chapter": "6",
+        "question_number": "25)",
+        "description": "A reliable test is one that yields consistent scores when a person takes two alternate forms of the test or when he or she takes the same test on two or more different occasions.",
+        "answer": "TRUE",
+        "explanation": "Reliability of a test refers to its consistency. Therefore, when a person takes two alternate forms of the test or when he or she takes the same test on two or more different occasions and earns similar scores, the test is most likely reliable."
+    },
+    {
+        "chapter": "6",
+        "question_number": "26)",
+        "description": "An internal comparison estimate measures a test's internal consistency.",
+        "answer": "TRUE",
+        "explanation": "The internal comparison estimate measures the internal consistency or reliability of a test. Internal consistency is one reason that you find apparently repetitive questions on some test questionnaires."
+    },
+    {
+        "chapter": "6",
+        "question_number": "27)",
+        "description": "Equivalent form estimates compare test scores from the same test administered at two points in time to determine test equivalence.",
+        "answer": "FALSE",
+        "explanation": "An equivalent form estimate occurs when you administer a test and then administer what experts believe to be an equivalent test later."
+    },
+    {
+        "chapter": "6",
+        "question_number": "28)",
+        "description": "Content validity is based on showing that the scores on the test are related to job performance.",
+        "answer": "FALSE",
+        "explanation": "Criterion validity is a type of validity based on showing that scores on the test (predictors) are related to job performance (criterion). A test that is content valid contains a fair sample of the tasks and skills actually needed for a specific job."
+    },
+    {
+        "chapter": "6",
+        "question_number": "29)",
+        "description": "Test validity in employment testing is demonstrated through criterion validity and content validity.",
+        "answer": "TRUE",
+        "explanation": "The validity of a test is shown through criterion validity and content validity. Content validity indicates that a test is a fair sample of the job's content. Criterion validity relates to the idea that performance on a test equates to performance on the job."
+    },
+    {
+        "chapter": "6",
+        "question_number": "30)",
+        "description": "Organization-person fit is the primary concern of most employers during the selection process.",
+        "answer": "FALSE",
+        "explanation": "Job-person fit is usually the main consideration in selection, but employers should care about organization-person fit as well. Candidates should have the necessary skills for a job, and they should also fit well with the organizational culture."
+    },
+    {
+        "chapter": "6",
+        "question_number": "31)",
+        "description": "There are five steps in the validation process beginning with analyzing the job and concluding with administering the test.",
+        "answer": "FALSE",
+        "explanation": "Although the first step of the validation process begins with job analysis, the last step is revalidating. Administering the test is the third step."
+    },
+    {
+        "chapter": "6",
+        "question_number": "32)",
+        "description": "A test battery is based on a combination of several tests that can then measure an array of predictors.",
+        "answer": "TRUE",
+        "explanation": "Employers usually don't start with just one test but choose several tests and combine them into a test battery. The test battery aims to measure an array of possible predictors, such as aggressiveness, extroversion, and numerical ability."
+    },
+    {
+        "chapter": "6",
+        "question_number": "33)",
+        "description": "Employers concerned about ethical and EEO violations may purchase employment tests that have been validated.",
+        "answer": "TRUE",
+        "explanation": "Given the EEO and ethical issues involved, many firms use a professional, such as a licensed industrial psychologist or purchase validated tests from companies such as Psychological Assessment Resources."
+    },
+    {
+        "chapter": "6",
+        "question_number": "34)",
+        "description": "Concurrent validation is the most dependable way to validate a selection test.",
+        "answer": "FALSE",
+        "explanation": "Predictive validation is a more dependable way to validate a selection test than concurrent validation. The test is administered before you hire them."
+    },
+    {
+        "chapter": "6",
+        "question_number": "35)",
+        "description": "To use predictive validation, one administers the test to applicants before they are hired. The applicants are then hired using existing selection techniques but not the new tests in development. Later, job performance measures are compared to the test scores under development.",
+        "answer": "TRUE",
+        "explanation": "Predictive validation is the second and more dependable way to validate a test. Here you administer the test to applicants before you hire them. Then hire these applicants using only existing selection techniques, not the results of the new tests. After they have been on the job for some time, measure their performance and compare it to their earlier test scores. You can then determine whether you could have used their performance on the new test to predict their subsequent job performance."
+    },
+    {
+        "chapter": "6",
+        "question_number": "36)",
+        "description": "If there is a correlation between test and job performance, one can develop an expectancy chart to illustrate the relationship between test scores and job performance graphically.",
+        "answer": "TRUE",
+        "explanation": "Any correlations between test and job performance can be illustrated on an expectancy chart."
+    },
+    {
+        "chapter": "6",
+        "question_number": "37)",
+        "description": "The strong correlation between test results and job performance has led to numerous expert recommendations that tests be used as the only selection tool in the hiring process.",
+        "answer": "FALSE",
+        "explanation": "Although correlations exist in some tests, most experts recommend that tests be used as supplements rather than as primary hiring tools. Interviews and background checks are also important to use in the hiring process."
+    },
+    {
+        "chapter": "6",
+        "question_number": "38)",
+        "description": "Selection tests must be validated in the organization that uses them regardless of the validity shown in other similar organizations.",
+        "answer": "FALSE",
+        "explanation": "It's best to validate them in your own organization. However, the fact that the same tests have proven valid in similar organizations—called validity generalization—is usually adequate."
+    },
+    {
+        "chapter": "6",
+        "question_number": "39)",
+        "description": "Selection tests should be used as supplements to other tools like interviews and background checks.",
+        "answer": "TRUE",
+        "explanation": "Tests should serve as supplemental tools in the selection process in addition to interviews and background checks."
+    },
+    {
+        "chapter": "6",
+        "question_number": "40)",
+        "description": "The American Psychological Association's standards for educational and psychological tests are legally enforceable.",
+        "answer": "FALSE",
+        "explanation": "Test takers have rights to privacy and feedback under the American Psychological Association's (APA) standard for educational and psychological tests; these guide psychologists but are not legally enforceable."
+    },
+    {
+        "chapter": "6",
+        "question_number": "41)",
+        "description": "The Federal Privacy Act allows federal employees to view their personnel files.",
+        "answer": "TRUE",
+        "explanation": "According to the Federal Privacy Act, employees of the federal government may inspect their personnel files. The law also limits the disclosure of personnel information without the employee's consent, among other things."
+    },
+    {
+        "chapter": "6",
+        "question_number": "42)",
+        "description": "Criterion validity shows a relationship between how well a person performs on a selection test and how well a person performs on the job.",
+        "answer": "TRUE",
+        "explanation": "Criterion validity involves demonstrating statistically a relationship between scores on a selection procedure and job performance of a sample of workers. For example, it means demonstrating that those who do well on the test also do well on the job, and that those who do poorly on the test do poorly on the job."
+    },
+    {
+        "chapter": "6",
+        "question_number": "43)",
+        "description": "According to the Uniform Guidelines, employers are required to prove the validity of selection procedures for all assessments.",
+        "answer": "FALSE",
+        "explanation": "The Uniform Guidelines require users to produce evidence of validity only when adverse impact is shown to exist. If there is no adverse impact, there is no validation requirement under the Guidelines."
+    },
+    {
+        "chapter": "6",
+        "question_number": "70)",
+        "description": "Although inexpensive to develop, assessment centers are infrequently used by employers because such tests have a weak correlation with future job performance.",
+        "answer": "FALSE",
+        "explanation": "Assessment centers are expensive to develop and take much longer than conventional tests. However, assessment center performance shows a unique and substantial contribution to the prediction of future job success."
+    },
+    {
+        "chapter": "6",
+        "question_number": "71)",
+        "description": "Interest inventories are useful for career planning because they compare the interests of the test taker to the interests of people in various occupations.",
+        "answer": "TRUE",
+        "explanation": "Interest inventories compare your interests with those of people in various occupations. Interest inventories are irreplaceable in career planning, since a person will likely do better in jobs that involve activities in which he or she is interested."
+    },
+    {
+        "chapter": "6",
+        "question_number": "72)",
+        "description": "Applicant tracking systems compile resumes, track applicants during the hiring process, and screen out applicants who do not meet minimum job requirements.",
+        "answer": "TRUE",
+        "explanation": "Applicant tracking systems do more than compile incoming Web-based résumés and track applicants during the hiring process. They should also help with the testing and screening."
+    },
+    {
+        "chapter": "6",
+        "question_number": "89)",
+        "description": "Most small businesses find it cost-effective to conduct validity studies of the selection tools they use.",
+        "answer": "FALSE",
+        "explanation": "Many employers, particularly smaller ones, won't find it cost-effective to conduct validity studies for the selection tools they use. These employers must identify tests and other screening tools that have been shown to be valid in other settings (companies), and then bring them in-house in the hopes that they'll be valid there, too."
+    },
+    {
+        "chapter": "6",
+        "question_number": "104)",
+        "description": "Managers cannot be sued for defamation when giving bad references because only employers are held responsible by state and federal courts.",
+        "answer": "FALSE",
+        "explanation": "First-line supervisors and managers, not just employers, are potentially at risk for defamation lawsuits. A communication is defamatory if it is false and tends to harm the reputation of another by lowering the person in the estimation of the community or by deterring other persons from associating or dealing with him or her."
+    },
+    {
+        "chapter": "6",
+        "question_number": "105)",
+        "description": "Most employers report preferring written references to telephone references because written letters provide more candid information about job candidates.",
+        "answer": "FALSE",
+        "explanation": "Telephone references typically provide more candid information than written references. Employers are able to ask follow up questions during a phone conversation, which is more likely to provide useful information about an applicant."
+    },
+    {
+        "chapter": "6",
+        "question_number": "106)",
+        "description": "Employment screening services are useful in the selection process because they have access to a job applicant's credit history, driving record, and workers' compensation claims history.",
+        "answer": "TRUE",
+        "explanation": "It is easy to have employment screening services check out applicants. Numerous firms do this. Top providers use databases to access information about matters such as workers' compensation and credit histories, and conviction and driving records."
+    },
+    {
+        "chapter": "6",
+        "question_number": "107)",
+        "description": "The Privacy Act is the main directive at the federal level that governs how employers acquire and use applicants' and employees' background information.",
+        "answer": "FALSE",
+        "explanation": "The Fair Credit Reporting Act is the main directive at the federal level that governs how employers acquire and use background information gathered for employment purposes."
+    },
+    {
+        "chapter": "6",
+        "question_number": "108)",
+        "description": "In order to be legally eligible to work in the United States, a person must be a U.S. citizen.",
+        "answer": "FALSE",
+        "explanation": "Employees hired in the United States must prove they are eligible to work in the United States. However, a person does not have to be a U.S. citizen to be employable. They may be eligible if they have a work permit."
+    }
+]

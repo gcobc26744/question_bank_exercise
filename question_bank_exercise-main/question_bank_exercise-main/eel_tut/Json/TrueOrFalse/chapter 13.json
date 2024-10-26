@@ -1,0 +1,184 @@
+[
+    {
+        "chapter": "13",
+        "question_number": "18)",
+        "description": "Benefits are an important aspect of employee compensation, and they involve the direct financial payments employees receive for remaining with an employer.",
+        "answer": "FALSE",
+        "explanation": "Benefits are indirect financial and nonfinancial payments employees receive for continuing their employment with the company. Direct financial payments are salaries and bonuses."
+    },
+    {
+        "chapter": "13",
+        "question_number": "19)",
+        "description": "Health care costs have dropped significantly in recent years due to government intervention and the increased use of HMOs.",
+        "answer": "FALSE",
+        "explanation": "Health care costs are rising, not dropping. Since 2012, health care premiums have risen about 4%, to a total of $15,745 for family coverage and may rise more under the new Patient Protection Affordable Care Act."
+    },
+    {
+        "chapter": "13",
+        "question_number": "20)",
+        "description": "Employee benefits account for a little over one-third of wages and salaries.",
+        "answer": "TRUE",
+        "explanation": "Employee benefits account for approximately 37% of wages and salaries (or about 28% of total payrolls)."
+    },
+    {
+        "chapter": "13",
+        "question_number": "21)",
+        "description": "Legally required benefits, such as unemployment insurance, are more costly to employers than health insurance.",
+        "answer": "TRUE",
+        "explanation": "Legally required benefits (like unemployment insurance) are the most expensive benefits costs, followed by health insurance."
+    },
+    {
+        "chapter": "13",
+        "question_number": "22)",
+        "description": "Supplemental pay benefits can provide employees with time-off-with-pay for jury duty, vacations, funerals, and military responsibilities.",
+        "answer": "TRUE",
+        "explanation": "Pay for time not worked—also called supplemental pay benefits—is the most costly benefit, because of the large amount of time off that most employees receive. Common time-off-with-pay periods include holidays, vacations, jury duty, funeral leave, military duty, personal days, sick leave, sabbatical leave, and maternity leave."
+    },
+    {
+        "chapter": "13",
+        "question_number": "23)",
+        "description": "Most employees in America receive fourteen days of leave after working for a company for one year.",
+        "answer": "FALSE",
+        "explanation": "On average, American workers get 9 days of leave after 1 year's employment."
+    },
+    {
+        "chapter": "13",
+        "question_number": "24)",
+        "description": "Documenting employee absences, conducting exit interviews, and requiring written approval for personal leave are employer methods for controlling unemployment insurance costs.",
+        "answer": "TRUE",
+        "explanation": "Employers spend thousands of dollars on unemployment taxes, which would not be necessary if they protected themselves with extensive documentation. Employers can control unemployment insurance costs by recording employees' absences, requiring advance written approval for personal leave, and conducting exit interviews to produce information for protesting unemployment claims."
+    },
+    {
+        "chapter": "13",
+        "question_number": "25)",
+        "description": "Federal law requires private sector employers to grant a minimum amount of paid vacation leave.",
+        "answer": "FALSE",
+        "explanation": "It is up to the discretion of private firms to decide how many leave days to offer employees, if any."
+    },
+    {
+        "chapter": "13",
+        "question_number": "26)",
+        "description": "Pooled paid leave plans combine sick leave, vacation, and personal days into a single leave pool and have been blamed for increasing employee absenteeism.",
+        "answer": "FALSE",
+        "explanation": "Pooled plans lump together sick leave, vacation, and personal days, and they have been shown to reduce employee absences."
+    },
+    {
+        "chapter": "13",
+        "question_number": "27)",
+        "description": "The stipulations of the Family and Medical Leave Act apply to private employers of 50 or more employees.",
+        "answer": "TRUE",
+        "explanation": "Private employers of 50 or more employees must provide eligible employees (women or men) up to 12 weeks of unpaid leave for their own serious illness, the birth or adoption of a child, or the care of a seriously ill child, spouse, or parent."
+    },
+    {
+        "chapter": "13",
+        "question_number": "28)",
+        "description": "Since leaves associated with the Family and Medical Leave Act do not require employers to pay salaries, employers are not financially affected.",
+        "answer": "FALSE",
+        "explanation": "FMLA leaves are usually unpaid, but they're not costless. The costs associated with hiring temporary replacements, training them, and compensating for their lower productivity can be considerable."
+    },
+    {
+        "chapter": "13",
+        "question_number": "53)",
+        "description": "In addition to the funds contributed by employers, each state also contributes to funds for workers' compensation.",
+        "answer": "FALSE",
+        "explanation": "Every state has its own workers' compensation law and commission, and some run their own insurance programs. However, most require employers to carry workers' compensation insurance with private, state-approved insurance companies. Neither the state nor the federal government contributes any funds for workers' compensation."
+    },
+    {
+        "chapter": "13",
+        "question_number": "54)",
+        "description": "In most states, workers' compensation benefits have no time limit, so injured employees may receive monetary and medical compensation for the duration of their employment.",
+        "answer": "FALSE",
+        "explanation": "Most states have a time limit—such as 500 weeks—for which benefits can be paid."
+    },
+    {
+        "chapter": "13",
+        "question_number": "55)",
+        "description": "If an employee is injured at work due to a blatant disregard for company safety policies, the company is not required to pay workers' compensation.",
+        "answer": "FALSE",
+        "explanation": "For workers' compensation to cover an injury or work-related illness, one must only prove that it arose while the worker was on the job. It does not matter that he or she may have been at fault."
+    },
+    {
+        "chapter": "13",
+        "question_number": "56)",
+        "description": "Employers are prohibited from inquiring about an applicant's past workers' compensation history by the Americans with Disabilities Act.",
+        "answer": "TRUE",
+        "explanation": "ADA provisions generally prohibit employers from inquiring about an applicant's workers' compensation history."
+    },
+    {
+        "chapter": "13",
+        "question_number": "57)",
+        "description": "Disability insurance provides income protection for salary loss due to illness or accident.",
+        "answer": "TRUE",
+        "explanation": "Disability insurance provides income protection for salary loss due to illness or accident. Benefits usually range from 50% to 75% of the employee's base pay if he or she is disabled."
+    },
+    {
+        "chapter": "13",
+        "question_number": "58)",
+        "description": "The Consolidated Omnibus Budget Reconciliation Act requires the government to provide health insurance to terminated or retired employees and their families through the Medicare system.",
+        "answer": "FALSE",
+        "explanation": "The Consolidated Omnibus Budget Reconciliation Act requires most private employers to continue to make health benefits available to separated employees and their families for a time, generally 18 months after separation. The former employee must pay for the coverage."
+    },
+    {
+        "chapter": "13",
+        "question_number": "59)",
+        "description": "The Medicare Modernization Act allows employers to establish tax-free health savings accounts.",
+        "answer": "TRUE",
+        "explanation": "The Medicare Modernization Act of 2003 allows employers to establish tax-free health savings accounts (HSA).The assumption is that this will motivate employees to utilize less expensive health care options, and thus avoid big deductibles."
+    },
+    {
+        "chapter": "13",
+        "question_number": "80)",
+        "description": "Social Security provides health benefits to terminated employees and their families for 18 months following the employee's separation from the firm.",
+        "answer": "FALSE",
+        "explanation": "COBRA provides health benefits to retired and terminated employees and their families for 18 months following the employee's separation from the firm. Social Security provides income for retirees."
+    },
+    {
+        "chapter": "13",
+        "question_number": "81)",
+        "description": "A primary benefit of 401(k) plans is that payments made by employees into the plan are pretax, so the employee pays no tax on those dollars until after he or she retires or withdraws the money.",
+        "answer": "TRUE",
+        "explanation": "Payroll deductions for 401(k) plans are pretax, so the employee pays no tax on those dollars until after he or she retires (or removes the money from the 401(k) plan)."
+    },
+    {
+        "chapter": "13",
+        "question_number": "82)",
+        "description": "There is no limit to the amount an employee can contribute pre-tax into a 401(k) plan each year.",
+        "answer": "FALSE",
+        "explanation": "Employees deduct any amount up to the legal maximum. The IRS sets an annual dollar limit, which is currently about $15,000."
+    },
+    {
+        "chapter": "13",
+        "question_number": "83)",
+        "description": "Portability makes it easy for employees who leave one firm to work for another firm to take their accumulated pension funds with them.",
+        "answer": "TRUE",
+        "explanation": "Portability—making it easier for employees who leave the firm prior to retirement to take their accumulated pension funds with them—is enhanced by switching from defined benefit to defined contribution plans."
+    },
+    {
+        "chapter": "13",
+        "question_number": "84)",
+        "description": "The Pension Benefits Guarantee Corporation guarantees both defined benefit plans and defined contribution plans.",
+        "answer": "FALSE",
+        "explanation": "ERISA established the Pension Benefits Guarantee Corporation (PBGC) to oversee and insure a pension if a plan terminates without sufficient funds. The PBGC guarantees only defined benefit plans, not defined contribution plans."
+    },
+    {
+        "chapter": "13",
+        "question_number": "108)",
+        "description": "The more flexible a work schedule, the greater the effectiveness of the program.",
+        "answer": "FALSE",
+        "explanation": "Studies have found that highly flexible programs are actually less effective than less flexible ones."
+    },
+    {
+        "chapter": "13",
+        "question_number": "109)",
+        "description": "Telecommuting involves employees using technology to work away from the office.",
+        "answer": "TRUE",
+        "explanation": "Telecommuting involves employees using technology to work away from the office. This will often be computers, cellphones, tablets, and information technology."
+    },
+    {
+        "chapter": "13",
+        "question_number": "110)",
+        "description": "When groups of employees accept a temporary reduction in work hours in order to prevent layoffs, the employees are job sharing.",
+        "answer": "FALSE",
+        "explanation": "Job sharing allows two or more people to share a single full-time job. Work sharing refers to a temporary reduction in work hours by a group of employees during economic downturns as a way to prevent layoffs."
+    }
+]

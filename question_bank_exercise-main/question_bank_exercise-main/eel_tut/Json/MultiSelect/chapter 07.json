@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "7",
+        "question_number": "1)",
+        "description": "Which of the following is the most commonly used selection tool?",
+        "options": {
+            "A": "telephone reference",
+            "B": "reference letter",
+            "C": "interview",
+            "D": "personality test"
+        },
+        "answer": "C",
+        "explanation": "C) Interviews are the most widely used selection procedure. Not all managers use\ntests, reference checks, or situational tests, but most interview a person before hiring."
+    },
+    {
+        "chapter": "7",
+        "question_number": "2)",
+        "description": "Which of the following refers to a procedure designed to predict future job performance based\non an applicant's oral responses to oral inquiries?",
+        "options": {
+            "A": "work sample simulation",
+            "B": "selection interview",
+            "C": "reference check",
+            "D": "arbitration"
+        },
+        "answer": "B",
+        "explanation": "B) A selection interview is a procedure designed to predict future job performance\nbased on applicant's oral responses to oral inquires."
+    },
+    {
+        "chapter": "7",
+        "question_number": "3)",
+        "description": "When an interview is used to predict future job performance on the basis of an applicant's oral\nresponses to oral inquiries, it is called a ________ interview.",
+        "options": {
+            "A": "screening",
+            "B": "selection",
+            "C": "benchmark",
+            "D": "background"
+        },
+        "answer": "B",
+        "explanation": "B) Selection interviews are designed to predict future job performance based on\nthe applicant's oral responses to oral inquiries. Interviews may be one-on-one or may be\nconducted in group settings."
+    },
+    {
+        "chapter": "7",
+        "question_number": "4)",
+        "description": "According to the text, selection interviews are classified by all of the following factors\nEXCEPT ________.",
+        "options": {
+            "A": "administration",
+            "B": "structure",
+            "C": "content",
+            "D": "length"
+        },
+        "answer": "D",
+        "explanation": "D) Selection interviews are classified according to how structured they are, their\n\"content\"—the types of questions they contain, and how the firm administers the interviews.\nLength is not a category."
+    },
+    {
+        "chapter": "7",
+        "question_number": "5)",
+        "description": "What is the type of interview which lists the questions ahead of time?",
+        "options": {
+            "A": "structured interview",
+            "B": "unstructured interview",
+            "C": "situational interview",
+            "D": "behavioral interview"
+        },
+        "answer": "A",
+        "explanation": "A) Structured (or directive) interviews list the questions ahead of time and may\neven list and weight possible answers for appropriateness."
+    },
+    {
+        "chapter": "7",
+        "question_number": "6)",
+        "description": "Which of the following is another term for an unstructured interview?",
+        "options": {
+            "A": "directive",
+            "B": "nondirective",
+            "C": "unformatted",
+            "D": "administrative"
+        },
+        "answer": "B",
+        "explanation": "B) In unstructured or nondirective interviews, the manager follows no set format.\nA few questions might be specified in advance, but they're usually not, and there is seldom a\nformal guide for scoring \"right\" or \"wrong\" answers."
+    },
+    {
+        "chapter": "7",
+        "question_number": "7)",
+        "description": "Which of the following is an advantage of using a nondirective format when interviewing job\ncandidates?",
+        "options": {
+            "A": "allows candidates to ask questions",
+            "B": "uses a manager's time more effectively",
+            "C": "pursues points of interest as they develop",
+            "D": "scores and compares candidates with consistency"
+        },
+        "answer": "C",
+        "explanation": "C) In unstructured or nondirective interviews, the manager follows no set format\nand there is seldom a formal guide for scoring \"right\" or \"wrong\" answers. With unstructured\ninterviews, an interviewer can pursue points of interest as they develop and ask follow up\nquestions because of the format's flexibility."
+    },
+    {
+        "chapter": "7",
+        "question_number": "8)",
+        "description": "Which of the following is the primary disadvantage of using structured interviews during the\nemployee selection process?",
+        "options": {
+            "A": "higher potential for bias",
+            "B": "limited validity and reliability",
+            "C": "inconsistency across candidates",
+            "D": "reduced opportunities for asking follow-up questions"
+        },
+        "answer": "D",
+        "explanation": "D) Structured interviews when followed blindly limit the interviewer's chance to\nask follow-up questions. Structured interviews are typically reliable, valid, consistent, and have a\nlower potential for bias. As a result, they have a greater ability to withstand legal challenges."
+    },
+    {
+        "chapter": "7",
+        "question_number": "9)",
+        "description": "How do situational interviews differ from behavioral interviews?",
+        "options": {
+            "A": "Situational interviews are based on an applicant's responses to actual past situations.",
+            "B": "Situational interviews are based on how an applicant might behave in a hypothetical situation.",
+            "C": "Situational interviews ask applicants job-related questions to assess their knowledge and\nskills.",
+            "D": "Behavioral interviews ask applicants to describe their emotions in different hypothetical\nsituations."
+        },
+        "answer": "B",
+        "explanation": "B) Situational interviews ask applicants to describe how they would react to a\nhypothetical situation today or tomorrow, and behavioral interviews ask applicants to describe\nhow they reacted to actual situations in the past."
+    },
+    {
+        "chapter": "7",
+        "question_number": "10)",
+        "description": "Which of the following statements is representative of what might be asked in a behavioral\ninterview?",
+        "options": {
+            "A": "\"Consider a time when you were faced with an angry client. What did you do to turn the\nsituation around?\"",
+            "B": "\"We are concerned with employee pilferage. As a manager here, how would you go about\ndiscouraging this behavior?\"",
+            "C": "\"Employees in this division are frequently under a great deal of pressure. How do you think\nyou would handle the stress of the position?\"",
+            "D": "\"What would you do if a subordinate threatened to sue the company for discrimination?\""
+        },
+        "answer": "A",
+        "explanation": "A) Behavioral questions start with phrases like, \"Can you think of a time when . . .\nWhat did you do?\" Situational questions start with phrases such as, \"Suppose you were faced\nwith the following situation . . . What would you do?\""
+    },
+    {
+        "chapter": "7",
+        "question_number": "11)",
+        "description": "What type of interview would most likely include the statement, \"Tell me about a time when\nyou worked successfully in a team environment\"?",
+        "options": {
+            "A": "situational",
+            "B": "behavioral",
+            "C": "puzzle",
+            "D": "stress"
+        },
+        "answer": "B",
+        "explanation": "B) Behavioral interview questions ask applicants to describe how they reacted to\nactual situations in the past."
+    },
+    {
+        "chapter": "7",
+        "question_number": "12)",
+        "description": "Which of the following statements is representative of what might be asked in a situational\ninterview?",
+        "options": {
+            "A": "\"Tell me about a time you showed leadership in a difficult situation.\"",
+            "B": "\"Suppose you were confronted with an angry customer who threatened to sue the company.\nWhat would you do?\"",
+            "C": "\"Can you think of a time when you were especially proud of your management skills? Tell me\nabout that.\"",
+            "D": "\"In this position, you are responsible for hiring and firing subordinates. Have you ever fired\nanyone before? Describe how you handled the situation.\""
+        },
+        "answer": "B",
+        "explanation": "B) Situational questions start with phrases such as, \"Suppose you were faced with\nthe following situation . . . What would you do?\" Behavioral questions start with phrases like,\n\"Can you think of a time when . . . What did you do?\""
+    },
+    {
+        "chapter": "7",
+        "question_number": "13)",
+        "description": "What type of interview would most likely include the following statement? \"Imagine that\nyou have just been assigned the task of winning the business of our competition's biggest client.\nHow would you proceed?\"",
+        "options": {
+            "A": "behavioral",
+            "B": "stress",
+            "C": "puzzle",
+            "D": "situational"
+        },
+        "answer": "D",
+        "explanation": "D) Situational interviews ask questions based on hypothetical events. Behavioral\ninterview questions ask applicants to describe how they reacted to actual situations in the past.\nPuzzle questions require applicants to solve a problem, and stress questions may be invasive and\nrude."
+    },
+    {
+        "chapter": "7",
+        "question_number": "14)",
+        "description": "In a stress interview, the interviewer ________.",
+        "options": {
+            "A": "provides an applicant with a task to complete in a set amount of time",
+            "B": "tries to make the applicant uncomfortable in order to spot sensitivity",
+            "C": "gives a word problem to see how the candidate thinks under pressure",
+            "D": "describes a hypothetical situation to assess how the applicant responds"
+        },
+        "answer": "B",
+        "explanation": "B) In a stress interview, the interviewer seeks to make the applicant uncomfortable\nwith occasionally rude questions. The aim is supposedly to spot sensitive applicants and those\nwith low (or high) stress tolerance."
+    },
+    {
+        "chapter": "7",
+        "question_number": "15)",
+        "description": "Which of the following questions would most likely be asked during a stress interview?",
+        "options": {
+            "A": "\"I see that you switched colleges four times before finally earning your degree. I think that\nreflects an inability to make good decisions and remain focused. What do you think?\"",
+            "B": "\"Can you tell me about a time in the past when you used leadership skills to handle a difficult\nsituation?\"",
+            "C": "\"Mike and Todd have $21 between them. Mike has $20 more than Todd has. How much does\nMike have and how much does Todd have?\"",
+            "D": "\"Why are you leaving your current position and changing careers?\""
+        },
+        "answer": "A",
+        "explanation": "A) In a stress interview, the interviewer seeks to make the applicant uncomfortable\nwith occasionally rude questions. The aim is supposedly to spot sensitive applicants and those\nwith low (or high) stress tolerance."
+    },
+    {
+        "chapter": "7",
+        "question_number": "16)",
+        "description": "What type of interview would most likely include the following: \"It must be difficult to leave\na company after such strong accusations of unethical behavior. Tell me about that\"?",
+        "options": {
+            "A": "situational",
+            "B": "behavioral",
+            "C": "stress",
+            "D": "puzzle"
+        },
+        "answer": "C",
+        "explanation": "C) In a stress interview, the interviewer seeks to make the applicant uncomfortable\nwith rude questions. The aim is supposedly to spot sensitive applicants and those with low (or\nhigh) stress tolerance."
+    },
+    {
+        "chapter": "7",
+        "question_number": "17)",
+        "description": "Which of the following terms refers to a group of interviewers working together to question\nand rate one applicant?",
+        "options": {
+            "A": "serial interview",
+            "B": "board interview",
+            "C": "sequential interview",
+            "D": "mass interview"
+        },
+        "answer": "B",
+        "explanation": "B) A panel interview, also known as a board interview, is an interview conducted\nby a team of interviewers, who together interview each candidate and then combine their ratings\ninto a final panel score."
+    },
+    {
+        "chapter": "7",
+        "question_number": "18)",
+        "description": "Kevin is interviewing for a position as a public relations specialist in a communications firm.\nHe first meets with the HR manager. Afterwards, he meets with the department manager. Finally,\nhe meets with the company president. Kevin is most likely experiencing a ________ interview.",
+        "options": {
+            "A": "board",
+            "B": "panel",
+            "C": "serial",
+            "D": "mass"
+        },
+        "answer": "C",
+        "explanation": "C) In a sequential or serial interview, several persons interview the applicant, in\nsequence, one-on-one, and then make their hiring decision. Board or panel interviews involve\nmultiple interviewers questioning a candidate at the same time. With a mass interview, a panel\ninterviews several candidates simultaneously."
+    },
+    {
+        "chapter": "7",
+        "question_number": "19)",
+        "description": "In a ________ interview, a panel questions several candidates simultaneously.",
+        "options": {
+            "A": "formal",
+            "B": "topical",
+            "C": "panel",
+            "D": "mass"
+        },
+        "answer": "D",
+        "explanation": "D) With a mass interview, a panel interviews several candidates simultaneously.\nThe panel poses a problem and then watches to see which candidate takes the lead in formulating\nan answer."
+    },
+    {
+        "chapter": "7",
+        "question_number": "20)",
+        "description": "Dr. Ross is interviewing for a position as Assistant Professor of Biology. His interview is\nconducted by a team of other faculty members in the department who interview him\nsimultaneously and then combine their ratings into one score. This is an example of a ________\ninterview.",
+        "options": {
+            "A": "serial",
+            "B": "panel",
+            "C": "one-on-one",
+            "D": "mass"
+        },
+        "answer": "B",
+        "explanation": "B) A panel interview, also known as a board interview, is an interview conducted\nby a team of interviewers, who together interview each candidate and then combine their ratings\ninto a final panel score. This contrasts with the one-on-one interview (in which one interviewer\nmeets one candidate) and a serial interview (where several interviewers assess a single candidate\none-on-one, sequentially). A mass interview involves a panel interviewing several candidates\nsimultaneously."
+    },
+    {
+        "chapter": "7",
+        "question_number": "21)",
+        "description": "An employer can most likely increase the reliability of a panel interview by ________.",
+        "options": {
+            "A": "using an unstructured interview format",
+            "B": "interviewing multiple candidates simultaneously",
+            "C": "providing interviewers with scoring sheets and sample answers",
+            "D": "requiring candidates to participate in work sampling techniques"
+        },
+        "answer": "C",
+        "explanation": "C) Structured panel interviews are more reliable and valid than unstructured ones.\nPanel interviews in which members use scoring sheets with descriptive scoring examples for\nsample answers are more reliable and valid than those that don't."
+    },
+    {
+        "chapter": "7",
+        "question_number": "22)",
+        "description": "Ellen is interviewing along with several other talented candidates for a position as a\njournalist at a newspaper. A team of interviewers will meet with all the candidates at once. The\nteam will pose problems to the candidates and see which candidate takes the lead in formulating\nan answer. This is most likely an example of a ________ interview.",
+        "options": {
+            "A": "serial",
+            "B": "board",
+            "C": "mass",
+            "D": "panel"
+        },
+        "answer": "C",
+        "explanation": "C) A mass interview involves a panel interviewing several candidates\nsimultaneously. A panel interview, also known as a board interview, is an interview conducted\nby a team of interviewers, who together interview each candidate and then combine their ratings\ninto a final panel score."
+    },
+    {
+        "chapter": "7",
+        "question_number": "23)",
+        "description": "With phone and tablet video functionalities FaceTime™ and Skype™, Web-based \"in-\nperson\" interview use is widespread; In a recent year about ________ of candidates took such\ninterviews .",
+        "options": {
+            "A": "2%",
+            "B": "7%",
+            "C": "18%",
+            "D": "45%"
+        },
+        "answer": "C",
+        "explanation": "C) With phone and tablet video functionalities and FaceTime™ and Skype™,\nWeb-based \"in-person\" interview use widespread; about 18% of candidates took such interviews\nin one recent year."
+    },
+    {
+        "chapter": "7",
+        "question_number": "24)",
+        "description": "All of the following are common characteristics of computerized selection interviews\nEXCEPT ________.",
+        "options": {
+            "A": "questions presented rapidly",
+            "B": "response times measured for any delays",
+            "C": "questions focused on experience and skills",
+            "D": "essay questions based on hypothetical situations"
+        },
+        "answer": "D",
+        "explanation": "D) Most such interviews present a series of multiple-choice questions regarding\nbackground, experience, education, skills, knowledge, and work attitudes."
+    },
+    {
+        "chapter": "7",
+        "question_number": "25)",
+        "description": "Career FAQs lists things that interviewees should keep in mind when doing an online video\ninterview. Which of the following is NOT one of them?",
+        "options": {
+            "A": "clean up the room",
+            "B": "use a new computer",
+            "C": "do a dry run",
+            "D": "look presentable"
+        },
+        "answer": "B",
+        "explanation": "B) As being prepared for an online video interview is important, using an\nunfamiliar computer can lead to problems if the interviewee doesn't know its functions well. The\ninterviewee doesn't want technology to get in the way of a successful interview."
+    },
+    {
+        "chapter": "7",
+        "question_number": "26)",
+        "description": "Which of the following interview formats will most likely result in the highest validity?",
+        "options": {
+            "A": "structured, situational",
+            "B": "unstructured, situational",
+            "C": "structured, behavioral",
+            "D": "unstructured, behavioral"
+        },
+        "answer": "A",
+        "explanation": "A) Structured interviews (particularly structured interviews using situational\nquestions) are more valid than unstructured interviews for predicting job performance.\nSituational interviews yield a higher mean validity than do job-related or behavioral interviews,\nwhich in turn yield a higher mean validity than do \"psychological\" interviews, which focus more\non motives and interests."
+    },
+    {
+        "chapter": "7",
+        "question_number": "27)",
+        "description": "The primary purpose of conducting a stress interview is to determine ________.",
+        "options": {
+            "A": "why an applicant wants to work for the firm",
+            "B": "how an applicant solves complex problems",
+            "C": "why an applicant lied on the resume",
+            "D": "how an applicant handles criticism"
+        },
+        "answer": "D",
+        "explanation": "D) Stress interviews may help unearth hypersensitive applicants who might\noverreact to mild criticism with anger and abuse. Puzzle questions are used to determine how\napplicants handle pressure."
+    },
+    {
+        "chapter": "7",
+        "question_number": "28)",
+        "description": "Which of the following statements is most likely true?",
+        "options": {
+            "A": "Interpersonal skills are difficult to judge from phone interviews.",
+            "B": "Phone interviews can generate spontaneous answers from candidates.",
+            "C": "Candidates prefer phone interviews more than face-to-face interviews.",
+            "D": "Interviewers usually judge candidates the same in phone and face-to-face interviews."
+        },
+        "answer": "B",
+        "explanation": "B) Candidates, who are often surprised by an unexpected call from the recruiter,\ntend to give answers that are spontaneous. Phone interviews can actually be more accurate than\nface-to-face interviews for judging an applicant's interpersonal skills. In a typical study,\ninterviewers tended to evaluate applicants more favorably in telephone versus face-to-face\ninterviews, particularly where the interviewees were less physically attractive. The applicants\nthemselves preferred the face-to-face interviews."
+    },
+    {
+        "chapter": "7",
+        "question_number": "29)",
+        "description": "Which of the following is a common characteristic of computerized interviews?",
+        "options": {
+            "A": "multiple-choice questions",
+            "B": "puzzle questions",
+            "C": "follow-up questions",
+            "D": "open-ended questions"
+        },
+        "answer": "A",
+        "explanation": "A) Most computerized interviews present a series of multiple-choice questions\nregarding background, experience, education, skills, knowledge, and work attitudes."
+    },
+    {
+        "chapter": "7",
+        "question_number": "30)",
+        "description": "Which of the following most likely combines aspects of behavioral and situational\nquestioning?",
+        "options": {
+            "A": "computerized interviews",
+            "B": "panel interviews",
+            "C": "mass interviews",
+            "D": "case interviews"
+        },
+        "answer": "D",
+        "explanation": "D) By having candidates explain how they would address the case \"clients'\"\nproblems, the case interview combines elements of behavioral and situational questioning to\nprovide a more realistic assessment of the candidate's consulting skills."
+    },
+    {
+        "chapter": "7",
+        "question_number": "31)",
+        "description": "The primary purpose for conducting a case interview is to ________.",
+        "options": {
+            "A": "provide a candidate with a realistic job preview",
+            "B": "form a realistic assessment of a candidate's skills",
+            "C": "ensure that a candidate's needs are expressed",
+            "D": "determine how a candidate handles criticism"
+        },
+        "answer": "B",
+        "explanation": "B) By having candidates explain how they would address the case \"clients'\"\nproblems, the case interview combines elements of behavioral and situational questioning to\nprovide a more realistic assessment of the candidate's consulting skills. Case interviews are less\nlikely to provide a realistic job preview, allow candidates to express their needs, or determine if a\ncandidate is hypersensitive."
+    },
+    {
+        "chapter": "7",
+        "question_number": "45)",
+        "description": "Which of the following traits is most likely to be assessed accurately during an interview?",
+        "options": {
+            "A": "intelligence",
+            "B": "agreeableness",
+            "C": "conscientiousness",
+            "D": "emotional stability"
+        },
+        "answer": "B",
+        "explanation": "B) Interviews are better for revealing some traits than others. Interviewers are able\nto size up the interviewee's extroversion and agreeableness but not conscientiousness,\nintelligence, and emotional stability."
+    },
+    {
+        "chapter": "7",
+        "question_number": "46)",
+        "description": "According to studies, which of the following has the most influence on the outcome of a job\ninterview?",
+        "options": {
+            "A": "thank-you notes sent from the candidate to the interviewer",
+            "B": "an interviewer's first impression of the candidate",
+            "C": "favorable information about the candidate",
+            "D": "a candidate's extroverted personality"
+        },
+        "answer": "B",
+        "explanation": "B) Perhaps the most consistent research finding is that interviewers tend to jump to\nconclusions—make snap judgments—about candidates during the first few minutes of the\ninterview or even before the interview starts, based on test scores or résumé data. Being\nextroverted is not beneficial for all jobs, and unfavorable information is more influential than\nfavorable information about a candidate."
+    },
+    {
+        "chapter": "7",
+        "question_number": "47)",
+        "description": "Which of the following refers to an error of judgment on the part of the interviewer due to\ninterviewing one or more very good or very bad candidates just before the interview in question?",
+        "options": {
+            "A": "context error",
+            "B": "contrast error",
+            "C": "recency error",
+            "D": "primacy error"
+        },
+        "answer": "B",
+        "explanation": "B) Candidate-order or contrast error means that the order in which you see\napplicants affects how you rate them. An interviewer is more likely to rate a candidate\nincorrectly based on the candidates that are interviewed just before."
+    },
+    {
+        "chapter": "7",
+        "question_number": "48)",
+        "description": "During an interview, Tanya discusses her numerous accomplishments at previous jobs and\npraises the interviewer frequently. Tanya is most likely using ________.",
+        "options": {
+            "A": "impression management",
+            "B": "talent management",
+            "C": "mixed motives",
+            "D": "behavior modification"
+        },
+        "answer": "A",
+        "explanation": "A) Psychologists call using techniques like ingratiation and self-promotion\n\"impression management.\" Self-promotion means promoting one's own skills and abilities to\ncreate the impression of competency, and ingratiation involves praising and agreeing with the\ninterviewer."
+    },
+    {
+        "chapter": "7",
+        "question_number": "49)",
+        "description": "When interviewing an applicant with a disability who uses assistive technology, which of the\nfollowing questions should NOT be asked?",
+        "options": {
+            "A": "Have you ever experienced any problems between your technology and an employer's\ninformation system?",
+            "B": "How have you addressed any barriers or obstacles that you may have encountered in previous\njobs?",
+            "C": "What is the severity and exact nature of your disability and how does the technology assist\nyou?",
+            "D": "What specific technology have you successfully used in previous jobs that facilitated your\nwork?"
+        },
+        "answer": "C",
+        "explanation": "C) Under the Americans with Disabilities Act, the interviewer must limit his or her\nquestions to whether the applicant has any physical or mental impairment that may interfere with\nhis or her ability to perform the job's essential tasks. An interviewer should not ask about the\nseverity or nature of an applicant's disability."
+    },
+    {
+        "chapter": "7",
+        "question_number": "50)",
+        "description": "Which of the following terms refers to individuals asked by the EEOC to apply for\nemployment which they do not intend to accept, for the sole purpose of uncovering unlawful\ndiscriminatory hiring practices?",
+        "options": {
+            "A": "spies",
+            "B": "moles",
+            "C": "testers",
+            "D": "insiders"
+        },
+        "answer": "C",
+        "explanation": "C) The use of employment discrimination \"testers\" makes nondiscriminatory\ninterviewing even more important. As defined by the EEOC, testers are \"individuals who apply\nfor employment which they do not intend to accept, for the sole purpose of uncovering unlawful\ndiscriminatory hiring practices.\" Although they're not really seeking employment, testers have\nlegal standing with the courts and with the EEOC."
+    },
+    {
+        "chapter": "7",
+        "question_number": "51)",
+        "description": "Which of the following best describes telegraphing during an interview?",
+        "options": {
+            "A": "drawing out the most useful information from an applicant",
+            "B": "searching for hidden meanings in an applicant's answers",
+            "C": "smiling at an applicant to suggest a desired answer",
+            "D": "allowing an applicant to dominate an interview"
+        },
+        "answer": "C",
+        "explanation": "C) Some interviewers inadvertently telegraph the expected answers, as in: \"This\njob calls for handling a lot of stress. You can do that, can't you?\" or using subtle cues (like a\nsmile or nod) to telegraph the desired answer."
+    },
+    {
+        "chapter": "7",
+        "question_number": "52)",
+        "description": "Which of the following characteristics of an interview would most likely raise concerns\nabout interview discrimination?",
+        "options": {
+            "A": "job-related questions",
+            "B": "multiple interviewers",
+            "C": "subjective interview questions",
+            "D": "standardized interview administration"
+        },
+        "answer": "C",
+        "explanation": "C) With charges of interview discrimination, courts will most likely assess whether\nthe interview process is structured and consistently applied. A structured and fair process\ninvolves objective/job-related questions, standardized interview administration, and involves\nmultiple interviewers."
+    },
+    {
+        "chapter": "7",
+        "question_number": "53)",
+        "description": "Which of the following applicant characteristics is LEAST likely to be assessed accurately\nduring a selection interview?",
+        "options": {
+            "A": "extroversion",
+            "B": "agreeableness",
+            "C": "job knowledge",
+            "D": "conscientiousness"
+        },
+        "answer": "D",
+        "explanation": "D) Studies indicate that interviews are better for revealing some traits than others.\nInterviewers are able to size up an interviewee's extroversion, knowledge, and agreeableness.\nHowever, conscientiousness and emotional stability are difficult to assess."
+    },
+    {
+        "chapter": "7",
+        "question_number": "54)",
+        "description": "Which of the following would most likely increase candidate-order errors?",
+        "options": {
+            "A": "applicant gender",
+            "B": "recruiting pressure",
+            "C": "poor first impression",
+            "D": "lack of job knowledge"
+        },
+        "answer": "B",
+        "explanation": "B) Candidate-order error means that the order in which you see applicants affects\nhow you rate them. Pressure to hire accentuates this problem. Researchers told one group of\nmanagers to assume they were behind in their recruiting quota. They told a second group they\nwere ahead of their quota. Those \"behind\" evaluated the same recruits much more highly than\ndid those \"ahead.\""
+    },
+    {
+        "chapter": "7",
+        "question_number": "67)",
+        "description": "What is the best way to avoid most interview errors?",
+        "options": {
+            "A": "conduct panel interviews",
+            "B": "use a structured interviewing format",
+            "C": "utilize computerized interviewing technology",
+            "D": "ask only situational questions during the interview"
+        },
+        "answer": "B",
+        "explanation": "B) The single biggest rule for conducting effective selection interviews is to\nstructure the interview around job-relevant situational and behavioral questions. There is little\ndoubt that the structured situational interview—a series of job-relevant questions with\npredetermined answers that interviewers ask of all applicants for the job—produces superior\nresults."
+    },
+    {
+        "chapter": "7",
+        "question_number": "68)",
+        "description": "George Reyes has recently been hired as the vice president of marketing at Great Toys, a\nmid-size firm that specializes in classic wooden toys. The CEO of Great Toys wants to expand\nthe firm's presence in the toy market, which is highly competitive. As a result, the marketing\ndepartment's budget has been significantly increased. George plans to use some of the additional\nfunds to hire a new media planner. George is considering the idea of conducting a structured\nsituational interview in the hiring process.\nWhich of the following, if true, best supports the argument that George should use a structured\nsituational interview to hire a media planner?",
+        "options": {
+            "A": "Great Toys' HR department has developed a job description for the new media planner\nposition.",
+            "B": "Great Toys' competitors typically face legal issues in the hiring process stemming from the\nADA.",
+            "C": "Great Toys' employees typically remain with the company for many years because they feel\ncomfortable with the organizational culture.",
+            "D": "Great Toys' executives want to ensure that the interview process is fair to all candidates and\nthat the best candidate is hired."
+        },
+        "answer": "D",
+        "explanation": "D) Structured situational interviews produce superior results compared to other\ninterviewing methods. Job descriptions are necessary for the process, but they are useful for all\ntypes of interviews."
+    },
+    {
+        "chapter": "7",
+        "question_number": "69)",
+        "description": "George Reyes has recently been hired as the vice president of marketing at Great Toys, a\nmid-size firm that specializes in classic wooden toys. The CEO of Great Toys wants to expand\nthe firm's presence in the toy market, which is highly competitive. As a result, the marketing\ndepartment's budget has been significantly increased. George plans to use some of the additional\nfunds to hire a new media planner. George is considering the idea of conducting a structured\nsituational interview in the hiring process.\nWhich of the following most likely undermines the argument that George should use a structured\nsituational interview to hire a media planner?",
+        "options": {
+            "A": "The HR department prefers handling job evaluations without the assistance of managers.",
+            "B": "George and the HR manager lack the time required to participate in a lengthy interview\nprocess.",
+            "C": "George worked as a media planner at another firm and is familiar with the tasks involved in\nthe job.",
+            "D": "Great Toys has used headhunters in the past to fill executive-level positions at the firm."
+        },
+        "answer": "B",
+        "explanation": "B) Structured situational interviews produce superior results compared to other\ninterviewing methods. However, the process is very time consuming and involves many people,\nso if George lacks the time, another interviewing option should be found."
+    },
+    {
+        "chapter": "7",
+        "question_number": "70)",
+        "description": "A series of job-relevant questions with predetermined answers that interviewers ask of all\napplicants for a job is known as a ________.",
+        "options": {
+            "A": "nondirective situational interview",
+            "B": "structured behavioral interview",
+            "C": "nondirective behavioral interview",
+            "D": "structured situational interview"
+        },
+        "answer": "D",
+        "explanation": "D) A series of job-relevant questions with predetermined answers that interviewers\nask of all applicants for a job is known as a structured situational interview. People familiar with\nthe job develop questions based on the job's actual duties."
+    },
+    {
+        "chapter": "7",
+        "question_number": "71)",
+        "description": "When developing a structured situational interview, the first step in the process is ________.",
+        "options": {
+            "A": "rating the job's main duties",
+            "B": "creating interview questions",
+            "C": "analyzing the job",
+            "D": "creating benchmark answers"
+        },
+        "answer": "C",
+        "explanation": "C) The first step in developing a structured situational interview involves\nanalyzing the job. An individual should write a job description with a list of job duties, required\nknowledge, skills, abilities, and other worker qualifications."
+    },
+    {
+        "chapter": "7",
+        "question_number": "72)",
+        "description": "What is the second step in the procedure for developing a guide for a structured situational\ninterview?",
+        "options": {
+            "A": "rate the job's main duties",
+            "B": "create interview questions",
+            "C": "create benchmark answers",
+            "D": "appoint the interview panel"
+        },
+        "answer": "A",
+        "explanation": "A) Identifying the job's main duties is the second step of the process. To do so, an\ninterviewer rates each job duty based on its importance to job success and on the time required to\nperform it compared to other tasks."
+    },
+    {
+        "chapter": "7",
+        "question_number": "73)",
+        "description": "In a structured situational interview, interview questions should primarily address ________.",
+        "options": {
+            "A": "essential job duties",
+            "B": "occupational benefits",
+            "C": "salary requirements",
+            "D": "personality issues"
+        },
+        "answer": "A",
+        "explanation": "A) Most questions for a structured situational interview should focus on essential\njob duties. Questions may be situational, behavioral, job knowledge, or willingness questions."
+    },
+    {
+        "chapter": "7",
+        "question_number": "74)",
+        "description": "After creating questions for a structured situational interview, ________ need to be\ndeveloped for scoring purposes.",
+        "options": {
+            "A": "grade definitions",
+            "B": "alternative rankings",
+            "C": "benchmark answers",
+            "D": "human resource metrics"
+        },
+        "answer": "C",
+        "explanation": "C) Each question requires an ideal or benchmark answer for rating purposes.\nBenchmark answers would likely include examples of a good, marginal, and poor answer."
+    },
+    {
+        "chapter": "7",
+        "question_number": "75)",
+        "description": "Which of the following is a true statement regarding structured situational interviews?",
+        "options": {
+            "A": "Answers are compared to industry standards.",
+            "B": "Hypothetical questions are typically avoided.",
+            "C": "Job descriptions are written after the interview.",
+            "D": "Interviews are usually conducted by a panel."
+        },
+        "answer": "D",
+        "explanation": "D) Employers generally conduct structured situational interviews using a panel,\nrather than one-on-one. Hypothetical questions are included, and job descriptions are written in\nadvance of the interview."
+    },
+    {
+        "chapter": "7",
+        "question_number": "76)",
+        "description": "Which of the following is an example of a job knowledge question?",
+        "options": {
+            "A": "\"What are the legal restrictions regarding the use of telemarketing for consumers who have a\npast relationship with a company?\"",
+            "B": "\"Suppose you were confronted with an angry customer who threatened to sue the company.\nWhat would you do?\"",
+            "C": "\"Mike and Todd have $21 between them. Mike has $20 more than Todd has. How much has\nMike and how much has Todd?\"",
+            "D": "\"Can you tell me about a time in the past when you used leadership skills to handle a difficult\nsituation?\""
+        },
+        "answer": "A",
+        "explanation": "A) Job knowledge questions assess knowledge essential to job performance.\nBehavioral questions ask candidates how they've handled similar situations."
+    },
+    {
+        "chapter": "7",
+        "question_number": "77)",
+        "description": "How many interviewers usually make up a panel interview?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3-6",
+            "D": "8-10"
+        },
+        "answer": "C",
+        "explanation": "C) A panel interview, also known as a board interview, is conducted by a team of\nthree to six members during the interview."
+    },
+    {
+        "chapter": "7",
+        "question_number": "78)",
+        "description": "What is the first step in conducting an effective interview?",
+        "options": {
+            "A": "knowing the job",
+            "B": "developing relevant questions",
+            "C": "establishing rapport with candidates",
+            "D": "asking technical questions"
+        },
+        "answer": "A",
+        "explanation": "A) The first step in conducting an effective interview is knowing the job, which\ncan be done by studying the job description. Developing and asking questions and establishing\nrapport are steps that occur later in the process."
+    },
+    {
+        "chapter": "7",
+        "question_number": "79)",
+        "description": "In order to conduct an effective interview, interviewers should NOT ask job candidates about\ntheir ________.",
+        "options": {
+            "A": "knowledge",
+            "B": "lifelong goals",
+            "C": "willingness",
+            "D": "motivation"
+        },
+        "answer": "B",
+        "explanation": "B) Use job knowledge, situational, or behavioral questions, and know enough\nabout the job to be able to evaluate the interviewee's answers. Questions that simply ask for\nopinions and attitudes, goals and aspirations, and self-descriptions and self-evaluations allow\ncandidates to present themselves in an overly favorable manner."
+    },
+    {
+        "chapter": "7",
+        "question_number": "80)",
+        "description": "Which of the following is the most likely outcome of using the same questions with all\ncandidates being interviewed?",
+        "options": {
+            "A": "responses improved",
+            "B": "weaknesses revealed",
+            "C": "reliability limited",
+            "D": "bias reduced"
+        },
+        "answer": "D",
+        "explanation": "D) Using the same questions with all candidates reduces bias because of the\nobvious fairness of giving all the candidates the exact same opportunity. Using the same\nquestions with all candidates improves reliability."
+    },
+    {
+        "chapter": "7",
+        "question_number": "81)",
+        "description": "Which question below is an example of a situational question?",
+        "options": {
+            "A": "\"Suppose you were giving a sales presentation and a difficult technical question arose that\nyou could not answer. What would you do?\"",
+            "B": "\"Based on your past work experience, what is the most significant action you have ever taken\nto help out a co-worker?\"",
+            "C": "\"What work experiences, training, or other qualifications do you have for working in a\nteamwork environment?\"",
+            "D": "\"What factors should one consider when developing a television advertising campaign?\""
+        },
+        "answer": "A",
+        "explanation": "A) Situational questions pose hypothetical situations to the candidate. The other\nquestions focus on knowledge and past behaviors."
+    },
+    {
+        "chapter": "7",
+        "question_number": "82)",
+        "description": "Which question below is an example of a behavioral question?",
+        "options": {
+            "A": "\"Can you tell me about a time when you solved a really difficult problem?\"",
+            "B": "\"What is your attitude about working with a sales team instead of independently?\"",
+            "C": "\"What factors do you consider before underwriting an insurance policy for a new client?\"",
+            "D": "\"What are your long-term goals and aspirations as a social worker?\""
+        },
+        "answer": "A",
+        "explanation": "A) Behavioral questions address the candidate's actual actions in the past, such as\nhow he or she handled a problem."
+    },
+    {
+        "chapter": "7",
+        "question_number": "83)",
+        "description": "All of the following will most likely improve the structure of an interview EXCEPT\n________.",
+        "options": {
+            "A": "using the same questions for all candidates",
+            "B": "rating candidate answers against a scale",
+            "C": "asking candidates to describe themselves",
+            "D": "using a standardized interview form"
+        },
+        "answer": "C",
+        "explanation": "C) Asking all candidates the same job-related questions and rating them against a\nscale improves the interview's structure. A standardized interview form also improves structure.\nQuestions asking candidates to describe themselves will not likely reveal weaknesses, and they\nfail to improve the structure of the interview."
+    },
+    {
+        "chapter": "7",
+        "question_number": "84)",
+        "description": "Consider the question: \"Can you provide an example of a specific instance where you\nprovided leadership in a difficult situation?\" What type of question is this?",
+        "options": {
+            "A": "background question",
+            "B": "behavioral question",
+            "C": "situational question",
+            "D": "job knowledge question"
+        },
+        "answer": "B",
+        "explanation": "B) Behavioral questions ask about a candidate's past behavior."
+    },
+    {
+        "chapter": "7",
+        "question_number": "85)",
+        "description": "Consider the question: \"What factors should be considered when developing a customer\ndatabase?\" What type of question is this?",
+        "options": {
+            "A": "background question",
+            "B": "past behavior question",
+            "C": "situational question",
+            "D": "job knowledge question"
+        },
+        "answer": "D",
+        "explanation": "D) Job knowledge questions assess knowledge essential to job performance.\nBackground questions address a candidate's experience and training."
+    },
+    {
+        "chapter": "7",
+        "question_number": "86)",
+        "description": "All of the following are guidelines for conducting an effective interview EXCEPT ________.",
+        "options": {
+            "A": "taking brief notes during the interview",
+            "B": "scheduling a private room for the interview",
+            "C": "showing courtesy and friendliness towards the candidate",
+            "D": "asking the candidate questions that require yes or no answers"
+        },
+        "answer": "D",
+        "explanation": "D) Scheduling a private room, reviewing a candidate's qualifications, showing\ncourtesy, and taking notes are ways to conduct an effective interview. Candidates should be\nasked open-ended rather than yes or no questions."
+    },
+    {
+        "chapter": "7",
+        "question_number": "87)",
+        "description": "Which of the following is recommended advice for conducting an effective interview?",
+        "options": {
+            "A": "Telegraph the desired answer to the candidate.",
+            "B": "Allow the candidate to control the interview.",
+            "C": "Ask the candidate for specific examples.",
+            "D": "Ask the candidate about work-related injuries."
+        },
+        "answer": "C",
+        "explanation": "C) Effective interviewers ask candidates for specific examples. It is inappropriate\nto telegraph desired answers or ask about work-related injuries."
+    },
+    {
+        "chapter": "7",
+        "question_number": "88)",
+        "description": "Which of the following best explains why most firms do not provide rejected applicants with\ndetailed explanations about the employment decision?",
+        "options": {
+            "A": "lack of technical abilities",
+            "B": "adherence to federal laws",
+            "C": "concerns about legal disputes",
+            "D": "time required of line managers"
+        },
+        "answer": "C",
+        "explanation": "C) Most firms are concerned about the legal ramifications of providing rejected\napplicants with too much information. Firms are reluctant to give rejected applicants information\nthat can be used to dispute the decision."
+    },
+    {
+        "chapter": "7",
+        "question_number": "89)",
+        "description": "Marion Franklin is the CEO of a local real estate company, Action Realty. The community\nhas seen an increase in population over the last two years, and new neighborhoods are being built\nas a result. Marion's staff of realtors is very busy, and Marion needs to hire a new agent.\nAlthough Marion has hired agents in the past, they have not always turned out to be as successful\nas she had hoped. Marion is considering making changes to the way she interviews job\ncandidates.\nWhich of the following best supports the argument that Marion should use structured interviews?",
+        "options": {
+            "A": "Marion likes applicants to evaluate themselves and to describe their goals.",
+            "B": "Marion is viewed as a fair employer by most of her subordinates.",
+            "C": "Marion lacks highly effective interviewing skills.",
+            "D": "Marion's best agent has recently retired."
+        },
+        "answer": "C",
+        "explanation": "C) In structured interviews, all interviewers generally ask all applicants the same\nquestions, which helps less talented interviewers conduct better interviews. The opinion of\nMarion's employees and recent retirements are less relevant."
+    },
+    {
+        "chapter": "7",
+        "question_number": "90)",
+        "description": "Marion Franklin is the CEO of a local real estate company, Action Realty. The community\nhas seen an increase in population over the last two years, and new neighborhoods are being built\nas a result. Marion's staff of realtors is very busy, and Marion needs to hire a new agent.\nAlthough Marion has hired agents in the past, they have not always turned out to be as successful\nas she had hoped. Marion is considering making changes to the way she interviews job\ncandidates.\nWhich of the following would most likely improve the reliability and validity of Marion's\nselection process?",
+        "options": {
+            "A": "asking all applicants the same questions",
+            "B": "holding Web-assisted interviews with candidates",
+            "C": "conducting stress interviews by a group of interviewers",
+            "D": "using the speed dating approach to interviewing applicants"
+        },
+        "answer": "A",
+        "explanation": "A) In structured interviews, all interviewers generally ask all applicants the same\nquestions. Partly because of this, these interviews tend to be more reliable and valid."
+    },
+    {
+        "chapter": "7",
+        "question_number": "91)",
+        "description": "Marion Franklin is the CEO of a local real estate company, Action Realty. The community\nhas seen an increase in population over the last two years, and new neighborhoods are being built\nas a result. Marion's staff of realtors is very busy, and Marion needs to hire a new agent.\nAlthough Marion has hired agents in the past, they have not always turned out to be as successful\nas she had hoped. Marion is considering using the streamlined interview process to hire a new\nreal estate agent.\nWhich of the following questions would be most relevant for Marion to ask if she wants an\nemployee with extensive knowledge in real estate?",
+        "options": {
+            "A": "How do you handle sellers who believe their home is more valuable than it really is?",
+            "B": "What are the loan options you would suggest for first-time home buyers?",
+            "C": "What is the most frustrating aspect of being a realtor?",
+            "D": "What motivated you to become a real estate agent?"
+        },
+        "answer": "B",
+        "explanation": "B) Asking candidates what loan options are available for first-time buyers will\nassess job knowledge. The other questions are less about knowledge and more about the\ncandidate's motivation and personality."
+    },
+    {
+        "chapter": "7",
+        "question_number": "92)",
+        "description": "Which type of interview questions are most likely designed to probe an applicant's\nmotivation to meet the job's requirements through activities such as physical labor, customer\nservice, and frequent travel?",
+        "options": {
+            "A": "willingness",
+            "B": "behavioral",
+            "C": "personality",
+            "D": "job knowledge"
+        },
+        "answer": "A",
+        "explanation": "A) Willingness questions gauge the applicant's willingness and motivation to meet\nthe job's requirements—to do repetitive physical work or to travel, for instance."
+    },
+    {
+        "chapter": "7",
+        "question_number": "93)",
+        "description": "Antone is applying for a job with Boscom Manufacturing as a chemical engineer. During the\ninterview, Antone is asked the following question: \"How does extreme heat affect hydrochloric\nacid?\" The interviewer is most likely trying to assess Antone's ________.",
+        "options": {
+            "A": "motivation",
+            "B": "flexibility",
+            "C": "knowledge",
+            "D": "leadership"
+        },
+        "answer": "C",
+        "explanation": "C) Knowledge and experience are often probed with situational questions.\nManagers want to find out if the candidate has the knowledge to perform a job."
+    },
+    {
+        "chapter": "7",
+        "question_number": "94)",
+        "description": "The following are interviewing errors to avoid EXCEPT ________.",
+        "options": {
+            "A": "asking prepared questions",
+            "B": "first impressions",
+            "C": "pressure to hire",
+            "D": "not clarifying what the job involves"
+        },
+        "answer": "A",
+        "explanation": "A) Interviewing errors to avoid include first impressions, (snap judgments), not\nclarifying what the job involves and requires, candidate-order error and pressure to hire,\nnonverbal behavior and impression management."
+    },
+    {
+        "chapter": "7",
+        "question_number": "95)",
+        "description": "A manager who begins an interview by asking the applicant about the weather is most likely\nattempting to ________.",
+        "options": {
+            "A": "seek a spontaneous answer from the candidate",
+            "B": "identify the candidate's leadership abilities",
+            "C": "assess the candidate's interpersonal skills",
+            "D": "put the candidate at ease"
+        },
+        "answer": "D",
+        "explanation": "D) The main reason for the interview is to find out about the applicant. To do this,\nstart by putting the person at ease. Greet the candidate and start the interview by asking a\nnoncontroversial question, perhaps about the weather or the traffic conditions that day."
+    }
+]

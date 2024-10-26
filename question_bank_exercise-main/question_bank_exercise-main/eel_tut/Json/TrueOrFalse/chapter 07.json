@@ -1,0 +1,212 @@
+[
+    {
+        "chapter": "7",
+        "question_number": "32)",
+        "description": "The interview is the most widely used personnel selection procedure.",
+        "answer": "TRUE",
+        "explanation": "The personal interview is the most widely used selection procedure. Not all HR managers use tests or reference checks, but nearly all conduct personal interviews with job candidates."
+    },
+    {
+        "chapter": "7",
+        "question_number": "33)",
+        "description": "Nondirective interviews follow no set format so the interviewer can ask follow-up questions and pursue points of interest as they develop.",
+        "answer": "TRUE",
+        "explanation": "In unstructured (or nondirective) interviews, the manager follows no set format. A few questions might be specified in advance, but they're usually not, and there is seldom a formal guide for scoring \"right\" or \"wrong\" answers."
+    },
+    {
+        "chapter": "7",
+        "question_number": "34)",
+        "description": "Nonstructured interviews are preferred to directive interviews because they are more reliable and valid.",
+        "answer": "FALSE",
+        "explanation": "Structured interviews are known as directive interviews, and they are considered more reliable than unstructured interviews."
+    },
+    {
+        "chapter": "7",
+        "question_number": "35)",
+        "description": "Nondirective interviews can be described as little more than a general conversation.",
+        "answer": "TRUE",
+        "explanation": "Nondirective or unstructured interviews follow no format and are similar to a general conversation."
+    },
+    {
+        "chapter": "7",
+        "question_number": "36)",
+        "description": "All structured interviews specify acceptable answers for each question.",
+        "answer": "FALSE",
+        "explanation": "Some structured interviews may include possible answers with scores, but not in all cases."
+    },
+    {
+        "chapter": "7",
+        "question_number": "37)",
+        "description": "Behavioral interviews ask interviewees to describe how they would react to a hypothetical situation at some point in the future.",
+        "answer": "FALSE",
+        "explanation": "Situational interviews ask candidates to address hypothetical problems, while behavioral interviews focus on how a candidate reacted in the past."
+    },
+    {
+        "chapter": "7",
+        "question_number": "38)",
+        "description": "In a stress interview, the interviewer seeks to make the applicant uncomfortable with rude questions.",
+        "answer": "TRUE",
+        "explanation": "In a stress interview, the interviewer seeks to make the applicant uncomfortable with occasionally rude questions. The aim is supposedly to spot sensitive applicants and those with low (or high) stress tolerance."
+    },
+    {
+        "chapter": "7",
+        "question_number": "39)",
+        "description": "The majority of selection interviews are one-on-one and sequential.",
+        "answer": "TRUE",
+        "explanation": "Most selection interviews are one-on-one and sequential. In a one-on-one interview, two people meet alone. In a sequential (or serial) interview, several persons interview the applicant, in sequence, one-on-one, and then make their hiring decision."
+    },
+    {
+        "chapter": "7",
+        "question_number": "40)",
+        "description": "Studies suggest that interviewers tend to evaluate applicants less favorably in telephone interviews than in face-to-face interviews.",
+        "answer": "FALSE",
+        "explanation": "In a typical study, interviewers tended to evaluate applicants more favorably in telephone versus face-to-face interviews, particularly where the interviewees were less physically attractive. Telephone interviews can actually be more accurate than face-to-face interviews for judging an applicant's conscientiousness, intelligence, and interpersonal skills."
+    },
+    {
+        "chapter": "7",
+        "question_number": "41)",
+        "description": "A computerized selection interview presents a series of multiple-choice questions regarding background, experience, education, skills, knowledge, and work attitudes.",
+        "answer": "TRUE",
+        "explanation": "Computerized selection interviews present a series of multiple-choice questions regarding background, experience, education, skills, knowledge, and work attitudes."
+    },
+    {
+        "chapter": "7",
+        "question_number": "42)",
+        "description": "Computer-aided interviews are primarily used to administer and score essay questions.",
+        "answer": "FALSE",
+        "explanation": "Multiple-choice questions are the typical format for computerized selection interviews."
+    },
+    {
+        "chapter": "7",
+        "question_number": "55)",
+        "description": "First impressions created from a candidate's application forms or personal appearance rarely affect interviewer ratings of candidates.",
+        "answer": "FALSE",
+        "explanation": "Interviewers tend to jump to conclusions—make snap judgments—about candidates during the first few minutes of the interview. One researcher estimates that in 85% of the cases, interviewers had made up their minds before the interview even began, based on first impressions the interviewers gleaned from candidates' applications and personal appearance."
+    },
+    {
+        "chapter": "7",
+        "question_number": "56)",
+        "description": "Candidates who make an initial bad impression on an interviewer are typically able to reverse the situation if they close the interview in a strong manner.",
+        "answer": "FALSE",
+        "explanation": "Candidates who start with a poor first impression rarely change the opinion of the interviewer."
+    },
+    {
+        "chapter": "7",
+        "question_number": "57)",
+        "description": "Employers typically base decisions on false impressions and stereotypes when they fail to clarify in advance what traits and knowledge are necessary for a specific job.",
+        "answer": "TRUE",
+        "explanation": "Interviewers who don't have an accurate picture of what the job entails and what sort of candidate is best suited for it usually make their decisions based on incorrect impressions or stereotypes of what a good applicant is. They then erroneously match interviewees with their incorrect stereotypes."
+    },
+    {
+        "chapter": "7",
+        "question_number": "58)",
+        "description": "Interviewers tend to rate candidates who promote themselves and use impression management tactics more poorly on candidate-job fit.",
+        "answer": "FALSE",
+        "explanation": "Candidates often use ingratiation and other impression management tactics to persuade interviewers to like them. Such methods of praising interviewers or appearing to agree with their opinions lead interviewers to rate candidates more highly."
+    },
+    {
+        "chapter": "7",
+        "question_number": "59)",
+        "description": "When interviewing disabled people, interviewers tend to avoid directly addressing the disability, which limits an interviewer's opportunity to adequately determine whether or not a candidate can perform the job.",
+        "answer": "TRUE",
+        "explanation": "Research shows that interviewers tend to avoid directly addressing a candidate's disability, and therefore make their hiring decisions without getting all the facts."
+    },
+    {
+        "chapter": "7",
+        "question_number": "60)",
+        "description": "Under the Americans with Disabilities Act an interviewer must limit his or her questions to whether an applicant has any physical or mental impairment that may interfere with his or her ability to perform the job's essential tasks.",
+        "answer": "TRUE",
+        "explanation": "Under the Americans with Disabilities Act the interviewer must limit his or her questions to whether the applicant has any physical or mental impairment that may interfere with his or her ability to perform the job's essential tasks."
+    },
+    {
+        "chapter": "7",
+        "question_number": "61)",
+        "description": "The EEOC uses testers who apply for employment which they do not intend to accept for the purpose of uncovering unlawful discriminatory hiring practices.",
+        "answer": "TRUE",
+        "explanation": "Testers are used by the EEOC to uncover employment discrimination. They do not intend to accept employment."
+    },
+    {
+        "chapter": "7",
+        "question_number": "62)",
+        "description": "Because EEOC testers are not really seeking employment, they do not have legal standing in court to charge unlawful discriminatory hiring practices.",
+        "answer": "FALSE",
+        "explanation": "Testers of the EEOC have legal standing in the court system."
+    },
+    {
+        "chapter": "7",
+        "question_number": "63)",
+        "description": "Research indicates that interviewers typically have negative reactions towards candidates who are wheelchair-bound.",
+        "answer": "TRUE",
+        "explanation": "In general, candidates evidencing various attributes and disabilities (such as being wheelchair-bound) had less chance of obtaining a positive decision, even when the person performed very well in the structured interview."
+    },
+    {
+        "chapter": "7",
+        "question_number": "96)",
+        "description": "Interviewers tend to be more influenced by unfavorable than favorable information about a candidate.",
+        "answer": "TRUE",
+        "explanation": "Unfavorable information about a candidate usually influences interviewers more than favorable information. Their impressions are much more likely to change from favorable to unfavorable than from unfavorable to favorable."
+    },
+    {
+        "chapter": "7",
+        "question_number": "97)",
+        "description": "A structured behavioral interview contains a series of hypothetical job-oriented questions with predetermined answers that interviewers ask of all applicants for the job.",
+        "answer": "FALSE",
+        "explanation": "Structured situational interviews involve a series of job-relevant questions with predetermined answers that interviewers ask of all applicants for a job."
+    },
+    {
+        "chapter": "7",
+        "question_number": "98)",
+        "description": "When developing a structured situational interview, it is important that people familiar with the job rate the job's main duties based on importance and time.",
+        "answer": "TRUE",
+        "explanation": "People familiar with a job should rate each job duty based on its importance to job success and on the time required to perform the duty."
+    },
+    {
+        "chapter": "7",
+        "question_number": "99)",
+        "description": "Structured situational interviews contain situational questions, job knowledge questions, and willingness questions but not behavioral questions.",
+        "answer": "FALSE",
+        "explanation": "Structured situational interviews contain situational questions, job knowledge questions, willingness questions, and behavioral questions."
+    },
+    {
+        "chapter": "7",
+        "question_number": "100)",
+        "description": "Willingness questions assess an applicant's ability to meet the job requirements.",
+        "answer": "FALSE",
+        "explanation": "Willingness questions gauge the applicant's willingness and motivation to meet the job's requirements—to do repetitive physical work or to travel, for instance."
+    },
+    {
+        "chapter": "7",
+        "question_number": "101)",
+        "description": "Companies generally conduct structured situational interviews using a panel, rather than sequentially.",
+        "answer": "TRUE",
+        "explanation": "Employers generally conduct structured situational interviews using a panel, rather than one-on-one. The panel usually consists of three to six members, preferably the same ones who wrote the questions and answers."
+    },
+    {
+        "chapter": "7",
+        "question_number": "102)",
+        "description": "Interviews can be made more effective if the interviewer studies the job description and uses a standardized interview form.",
+        "answer": "TRUE",
+        "explanation": "Making sure the interviewer understands the job, structuring the interview, and using standardized interview forms improve the effectiveness of an interview."
+    },
+    {
+        "chapter": "7",
+        "question_number": "103)",
+        "description": "When rejecting a job candidate, it is best to refrain from providing an explanation detailing the reason for the rejection because most candidates view an employer more positively when they don't know the reason for the rejection.",
+        "answer": "FALSE",
+        "explanation": "In one study, rejected candidates who received an explanation detailing why the employer rejected them felt that the rejection process was fairer."
+    },
+    {
+        "chapter": "7",
+        "question_number": "108)",
+        "description": "A total selection program has the goal of selecting candidates whose totality of attributes best fits the employer's requirements.",
+        "answer": "TRUE",
+        "explanation": "A total selection program is aimed at selecting candidates whose totality of attributes best fits the employer's total requirements."
+    },
+    {
+        "chapter": "7",
+        "question_number": "109)",
+        "description": "Deciding who to extend a job offer to in the judgmental approach quantifies all the evidence and perhaps uses a formula to predict job success.",
+        "answer": "FALSE",
+        "explanation": "The statistical approach quantifies all the evidence and perhaps uses a formula to predict job success."
+    }
+]

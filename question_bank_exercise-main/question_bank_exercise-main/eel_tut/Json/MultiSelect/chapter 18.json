@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "18",
+        "question_number": "1)",
+        "description": "Human resource management in small firms is unlike HR management in large firms for all of\nthe following reasons EXCEPT ________.",
+        "options": {
+            "A": "size",
+            "B": "industry",
+            "C": "priorities",
+            "D": "informality"
+        },
+        "answer": "B",
+        "explanation": "B) Managing human resources in small firms is different from HR management in\nlarge firms for four main reasons: size, priorities, informality, and the nature of the entrepreneur.\nSmall and large firms exist within the same industry."
+    },
+    {
+        "chapter": "18",
+        "question_number": "2)",
+        "description": "Approximately what percentage of people working in the U.S. are employed by small\nbusinesses?",
+        "options": {
+            "A": "10%",
+            "B": "25%",
+            "C": "50%",
+            "D": "75%"
+        },
+        "answer": "C",
+        "explanation": "C) More than half the people working in the United States—about 68 million—\nwork for small firms."
+    },
+    {
+        "chapter": "18",
+        "question_number": "3)",
+        "description": "Which of the following is a true statement regarding HR management at small businesses?",
+        "options": {
+            "A": "Owners of firms with less than 100 employees usually handle HR tasks.",
+            "B": "Firms with less than ten employees do not have any human resources tasks.",
+            "C": "In most cases, firms with at least 30 employees can afford an HR specialist.",
+            "D": "Human resources activities in small firms tend to be extremely formal."
+        },
+        "answer": "A",
+        "explanation": "A) It's not until a company reaches the 100-employee milestone that it can afford a\nhuman resources specialist, so owners conduct most HR tasks. All businesses have HR tasks no\nmatter the size, but small firms focus more on finance, production, and marketing issues. HR at\nsmall firms tends to be informally handled."
+    },
+    {
+        "chapter": "18",
+        "question_number": "4)",
+        "description": "In most small businesses, which of the following is the lowest priority for managers?",
+        "options": {
+            "A": "sales",
+            "B": "finance",
+            "C": "production",
+            "D": "HR management"
+        },
+        "answer": "D",
+        "explanation": "D) It's not just size, but the realities of the entrepreneur's situation that drives them\nto focus on non-HR issues. Studies indicate that the lack of resources in terms of time, money,\npeople, and expertise forces managers to focus on finance, production and marketing with very\nlittle energy given to HR."
+    },
+    {
+        "chapter": "18",
+        "question_number": "5)",
+        "description": "At most small businesses, human resource management activities can best be described as\n________.",
+        "options": {
+            "A": "formal and standardized",
+            "B": "informal and flexible",
+            "C": "competitive and brief",
+            "D": "nonexistent"
+        },
+        "answer": "B",
+        "explanation": "B) Human resource management activities tend to be informal in smaller firms\nbecause entrepreneurs must be able to react quickly to changes in competitive conditions. Given\nthat, there's some logic in keeping things like compensation policies flexible."
+    },
+    {
+        "chapter": "18",
+        "question_number": "6)",
+        "description": "Which of the following terms refers to people who create businesses under risky conditions?",
+        "options": {
+            "A": "investors",
+            "B": "developers",
+            "C": "entrepreneurs",
+            "D": "visionaries"
+        },
+        "answer": "C",
+        "explanation": "C) Entrepreneurs are \"people who create businesses under risky conditions,\" and\nstarting new businesses from scratch is always risky. Entrepreneurs therefore need to be highly\ndedicated and visionary."
+    },
+    {
+        "chapter": "18",
+        "question_number": "7)",
+        "description": "According to research, which of the following characteristics is most associated with\nentrepreneurs?",
+        "options": {
+            "A": "creative",
+            "B": "indifferent",
+            "C": "controlling",
+            "D": "personable"
+        },
+        "answer": "C",
+        "explanation": "C) Entrepreneurs need to be dedicated and visionary. Researchers therefore believe\nthat small firms' relative informality partly stems from entrepreneurs' unique personalities.\nEntrepreneurs tend to be somewhat controlling."
+    },
+    {
+        "chapter": "18",
+        "question_number": "8)",
+        "description": "Which of the following is a common characteristic of HR at most small businesses?",
+        "options": {
+            "A": "dedicated HR manager responsible for recruiting",
+            "B": "strict oversight of compensation regulations",
+            "C": "intranet-based employee benefits enrollment",
+            "D": "duplication of employee data in paperwork"
+        },
+        "answer": "D",
+        "explanation": "D) For small businesses, many of which don't use human resource information\nsystems, employee data (name, address, marital status, and so on) often appears on multiple\nhuman resource management forms. This leads to duplication and inefficiencies. The other\nchoices are not characteristics of most small businesses."
+    },
+    {
+        "chapter": "18",
+        "question_number": "9)",
+        "description": "All of the following HR activities are associated with successful high-growth SMEs EXCEPT\n________.",
+        "options": {
+            "A": "emphasizing training and development",
+            "B": "conducting regular performance appraisals",
+            "C": "providing job sharing options for employees",
+            "D": "offering competitive recruitment packages"
+        },
+        "answer": "C",
+        "explanation": "C) Job sharing is not likely to be an option among SMEs. Research concluded that\nsuccessful high-growth SMEs place greater importance on training and development,\nperformance appraisals, recruitment packages, maintaining morale, and setting competitive\ncompensation levels than do low-performing firms."
+    },
+    {
+        "chapter": "18",
+        "question_number": "15)",
+        "description": "Which of the following agencies offers small businesses the use of \"FirstStep Employment\nLaw Advisor\"?",
+        "options": {
+            "A": "Department of Commerce",
+            "B": "Department of Justice",
+            "C": "Department of Labor",
+            "D": "Department of the Treasury"
+        },
+        "answer": "C",
+        "explanation": "C) The U.S. Department of Labor's \"FirstStep Employment Law Advisor\" helps\nsmall employers determine which laws apply to their business."
+    },
+    {
+        "chapter": "18",
+        "question_number": "16)",
+        "description": "The purpose of the Web site of \"FirstStep Employment Law Advisor\" is to help small\nemployers to ________.",
+        "options": {
+            "A": "determine which state regulations are relevant to their business",
+            "B": "file their tax forms and pay their federal and state taxes",
+            "C": "realize which federal laws apply to their business",
+            "D": "receive legal advice for specific HR problems"
+        },
+        "answer": "C",
+        "explanation": "C) The U.S. Department of Labor's \"FirstStep Employment Law Advisor\" helps\nsmall employers determine which laws apply to their business."
+    },
+    {
+        "chapter": "18",
+        "question_number": "17)",
+        "description": "Fred Landon owns a lawn care business and employs 35 people. Fred is unsure whether\nfederal rules regarding employee discrimination apply to his small business. The Web site of\nwhich of the following agencies would be the most useful to Fred?",
+        "options": {
+            "A": "Small Business Administration",
+            "B": "Employee Benefits Security Administration",
+            "C": "Equal Employment Opportunity Commission",
+            "D": "Occupational Safety and Health Administration"
+        },
+        "answer": "C",
+        "explanation": "C) The EEOC Web site contains information regarding how EEOC laws regarding\ndiscrimination apply to small businesses. The EEOC administers Title VII of the Civil Rights\nAct of 1964 (Title VII), the Age Discrimination in Employment Act of 1967 (ADEA), Title I of\nthe Americans with Disabilities Act of 1990 (ADA), and the Equal Pay Act of 1963."
+    },
+    {
+        "chapter": "18",
+        "question_number": "18)",
+        "description": "Elliot owns a catering business and employs 30 people. Elliot is uncertain about when to pay\novertime and how to calculate overtime wages. The Web site of which of the following would be\nthe most useful to Elliot?",
+        "options": {
+            "A": "Office of Personnel Management",
+            "B": "Department of Labor",
+            "C": "Department of Commerce",
+            "D": "Equal Employment Opportunity Commission"
+        },
+        "answer": "B",
+        "explanation": "B) The U.S. Department of Labor's \"FirstStep Employment Law Advisor\" helps\nsmall employers determine which laws apply to their business. A linked DOL site provides\ninformation on the Fair Labor Standards Act (FLSA). It contains several specific \"elaws\nadvisors.\" Each one provides practical guidance on questions such as when to pay overtime."
+    },
+    {
+        "chapter": "18",
+        "question_number": "19)",
+        "description": "Mark owns a small business that provides engineering consulting services. Mark is new to\nbusiness ownership, and he has a list of questions he would like answered. Mark has logged on\nto the EEOC Web site to search for answers. Which of Mark's questions is LEAST likely to be\naddressed on this Web site?",
+        "options": {
+            "A": "What employees are exempt from overtime pay?",
+            "B": "How do I know if EEOC laws apply to my business?",
+            "C": "What should I do if someone files a charge against my firm?",
+            "D": "What constitutes unfair treatment in the workplace?\nE) How would I resolve a discrimination charge without facing a lawsuit?"
+        },
+        "answer": "A",
+        "explanation": "A) The DOL Web site rather than the EEOC Web site would most likely provide\ninformation regarding overtime pay. The other questions address issues regarding discrimination\nand would likely be answered on the EEOC Web site."
+    },
+    {
+        "chapter": "18",
+        "question_number": "20)",
+        "description": "Jana owns a dry cleaning business and employs 25 people. She needs a safety and accident\nchecklist that is specific to the dry cleaning industry. Jana would most likely find the information\nshe needs on the ________ Web site.",
+        "options": {
+            "A": "SBA",
+            "B": "O*NET",
+            "C": "EEOC",
+            "D": "OSHA"
+        },
+        "answer": "D",
+        "explanation": "D) OSHA's site provides, among other things, easy access to the OSHA Small\nBusiness Handbook. This contains practical information for small business owners, including\nindustry-specific safety and accident checklists."
+    },
+    {
+        "chapter": "18",
+        "question_number": "21)",
+        "description": "Small business owners can use O*NET when they need help with ________.",
+        "options": {
+            "A": "writing job descriptions",
+            "B": "filing accident reports",
+            "C": "testing job applicants",
+            "D": "filing business taxes"
+        },
+        "answer": "A",
+        "explanation": "A) The Department of Labor's O*NET has an online wizard that enables business\nowners to quickly create accurate and professional job descriptions and job specifications."
+    },
+    {
+        "chapter": "18",
+        "question_number": "22)",
+        "description": "Kate is applying for a job at Logan Electronics, a small firm. Kate has been asked to take the\nWonderlic Personnel Test. What is Logan Electronics most likely trying to measure?",
+        "options": {
+            "A": "honesty and ethics",
+            "B": "psychological status",
+            "C": "general mental ability",
+            "D": "personality traits"
+        },
+        "answer": "C",
+        "explanation": "C) The Wonderlic Personnel Test measures general mental ability. With questions\nsomewhat similar to the SAT, it takes less than 15 minutes to administer the 4-page booklet."
+    },
+    {
+        "chapter": "18",
+        "question_number": "23)",
+        "description": "The Wonderlic Personnel Test is especially appropriate for small businesses because it is\n________.",
+        "options": {
+            "A": "useful for training new hires",
+            "B": "equivalent to the GRE test",
+            "C": "developed by the EEOC",
+            "D": "easy to administer"
+        },
+        "answer": "D",
+        "explanation": "D) Some tests are so easy to use they are particularly good for smaller firms. One\nis the Wonderlic Personnel Test, which measures general mental ability. With questions\nsomewhat similar to the SAT, it takes less than 15 minutes to administer the 4-page booklet."
+    },
+    {
+        "chapter": "18",
+        "question_number": "24)",
+        "description": "When Hank applied for a job with Morton Consulting, he was given the Predictive Index.\nWhat was Morton Consulting least likely attempting to measure with the Predictive Index?",
+        "options": {
+            "A": "dominance",
+            "B": "extroversion",
+            "C": "reading level",
+            "D": "blame avoidance"
+        },
+        "answer": "C",
+        "explanation": "C) The Predictive Index measures work-related personality traits, drives, and\nbehaviors—in particular dominance, extroversion, patience, and blame avoidance—on a two-\nsided sheet. The test is focused on personality rather than specific skills like reading ability."
+    },
+    {
+        "chapter": "18",
+        "question_number": "25)",
+        "description": "Which of the following is the primary benefit for a small firm that uses the online services\nprovided by testing vendors such as Wonderlic?",
+        "options": {
+            "A": "reduced testing fees",
+            "B": "increased pool of applicants",
+            "C": "highly accurate job specifications",
+            "D": "more applicant background checks"
+        },
+        "answer": "B",
+        "explanation": "B) Online options with testing vendors have many benefits, beyond just saving the\ntime the owners' employees might have to spend testing employees. For example, because it's\navailable 24/7, prospective candidates can log in and apply anytime, wherever they are. That\nmeans a larger potential pool of applicants, and hopefully more likelihood of getting an\noutstanding employee."
+    },
+    {
+        "chapter": "18",
+        "question_number": "26)",
+        "description": "What is the primary reason that small firms use the Internet for employee training programs?",
+        "options": {
+            "A": "relatively low costs",
+            "B": "OSHA guidelines",
+            "C": "SBA requirements",
+            "D": "guaranteed results"
+        },
+        "answer": "A",
+        "explanation": "A) Although small companies can't compete with the training resources of giants\nlike GE, Internet training can provide, at a relatively low cost, the sorts of professional employee\ntraining that was formerly beyond most small employers' reach. Training is offered by the SBA\nas well as private vendors that often specialize in OSHA-related courses."
+    },
+    {
+        "chapter": "18",
+        "question_number": "27)",
+        "description": "All of the following are options for small businesses looking for online training programs to\nimprove their employees' skills EXCEPT ________.",
+        "options": {
+            "A": "National Association of Manufacturers",
+            "B": "Small Business Administration",
+            "C": "American Management Association",
+            "D": "Equal Employment Opportunity Commission"
+        },
+        "answer": "D",
+        "explanation": "D) NAM, SBA, and AMA all provide online training programs. The EEOC is a\ngood source for employers to learn about EEOC laws but not for online employee training\nprograms."
+    },
+    {
+        "chapter": "18",
+        "question_number": "28)",
+        "description": "The owner of A-1 Construction paid more in workers' compensation costs than salaries last\nyear. Which of the following would most likely help the owner of A-1 Construction?",
+        "options": {
+            "A": "taking online courses through the SBA",
+            "B": "screening employees with the Predictive Index",
+            "C": "requesting a consultation with an OSHA safety expert",
+            "D": "referring to the \"FirstStep Employment Law Advisor\" for assistance"
+        },
+        "answer": "C",
+        "explanation": "C) OSHA provides free on-site safety and health services for small businesses.\nThis service uses safety experts from state governments who provide consultations, usually at the\nemployer's workplace. Employers with a high number of workers' compensation claims\nobviously have safety issues, so an OSHA consult would be beneficial."
+    },
+    {
+        "chapter": "18",
+        "question_number": "29)",
+        "description": "Which of the following is an aspect of the OSHA Sharp program?",
+        "options": {
+            "A": "free tools for attracting more job applicants",
+            "B": "legal advice for all business aspects",
+            "C": "certification process that employers have commendable levels of safety awareness",
+            "D": "Employers receive visits from inspectors after every workers' compensation claim is filed."
+        },
+        "answer": "C",
+        "explanation": "C) The OSHA Sharp program is a certification process through which OSHA\ncertifies that small employers have achieved commendable levels of safety awareness."
+    },
+    {
+        "chapter": "18",
+        "question_number": "44)",
+        "description": "According to the text, what are the three tools that small businesses can use to improve their\nHR management practices?",
+        "options": {
+            "A": "informality, adaptability, and reliability",
+            "B": "flexibility, familiarity, and informality",
+            "C": "creativity, flexibility, and adaptability",
+            "D": "familiarity, formality, and flexibility"
+        },
+        "answer": "B",
+        "explanation": "B) Smallness should translate into personal familiarity with each employee's\nstrengths, needs, and family situation. And it should translate into the luxury of being able to be\nrelatively flexible and informal in the human resource management policies and practices the\ncompany follows."
+    },
+    {
+        "chapter": "18",
+        "question_number": "45)",
+        "description": "According to research, a small business owner's familiarity with employees leads to greater\n________.",
+        "options": {
+            "A": "flexibility with HR policies",
+            "B": "financial profits and rewards",
+            "C": "clarification of expectations",
+            "D": "creativity in recruiting practices"
+        },
+        "answer": "A",
+        "explanation": "A) Because small businesses need to capitalize on their strengths, they should\ncapitalize on their smallness when dealing with employees. Smallness should translate into\npersonal familiarity with each employee's strengths, needs, and family situation. And it should\ntranslate into being relatively flexible and informal in the human resource management policies\nand practices the company follows."
+    },
+    {
+        "chapter": "18",
+        "question_number": "46)",
+        "description": "At a small business, what is the most likely benefit of a flexible, informal, and familiar work\nenvironment?",
+        "options": {
+            "A": "gaining market share quickly",
+            "B": "offering extensive benefits packages",
+            "C": "providing regular, online training courses",
+            "D": "knowing employees' strengths and needs"
+        },
+        "answer": "D",
+        "explanation": "D) Being familiar with employees means that employers are aware of their\nworkers' strengths and needs. Large firms offer more extensive benefits packages than do smaller\nones."
+    },
+    {
+        "chapter": "18",
+        "question_number": "47)",
+        "description": "Which of the following is a work-life benefit offered almost exclusively by small businesses?",
+        "options": {
+            "A": "professional development seminars",
+            "B": "disability and life insurance benefits",
+            "C": "compressed workweeks during the summer",
+            "D": "job rotation and job enrichment opportunities"
+        },
+        "answer": "C",
+        "explanation": "C) Unlike large firms, small businesses can offer employees compressed\nworkweeks or three-day weekends during the summer. Job enrichment is easier to accomplish at\na small firm, but job rotation can occur at either. The other choices are offered by both small and\nlarge firms."
+    },
+    {
+        "chapter": "18",
+        "question_number": "48)",
+        "description": "With the Streamlined Interviewing Process, which of the following is NOT one of the 4 basic\nrequired factors?",
+        "options": {
+            "A": "motivation",
+            "B": "personality",
+            "C": "teamwork skill",
+            "D": "intellectual capacity"
+        },
+        "answer": "C",
+        "explanation": "C) The four basic required factors are knowledge and experience, motivation,\nintellectual capacity, and personality."
+    },
+    {
+        "chapter": "18",
+        "question_number": "49)",
+        "description": "Approximately what percentage of small firms offer retirement benefits to employees?",
+        "options": {
+            "A": "15%",
+            "B": "35%",
+            "C": "50%",
+            "D": "75%"
+        },
+        "answer": "B",
+        "explanation": "B) Access to retirement benefits is more prevalent in large firms than small ones.\nRoughly 75% of large firms offer such benefits, while about 35% of small ones do."
+    },
+    {
+        "chapter": "18",
+        "question_number": "50)",
+        "description": "The Pension Protection Act of 2006 is available to employers with no more than ________\nemployees.",
+        "options": {
+            "A": "100",
+            "B": "250",
+            "C": "500",
+            "D": "750"
+        },
+        "answer": "C",
+        "explanation": "C) The Pension Protection Act of 2006 contains a provision for a new type of\nretirement benefit that combines traditional defined benefit and 401(k) plans. Only available to\nemployers with fewer than 500 employees, this provision exempts employers from the complex\npension rules large employers must adhere to."
+    },
+    {
+        "chapter": "18",
+        "question_number": "51)",
+        "description": "The Pension Protection Act of 2006 primarily benefits small business employers by\n________.",
+        "options": {
+            "A": "allowing them to defer tax payments",
+            "B": "eliminating fees linked to retirement plans",
+            "C": "exempting employers from complex pension rules",
+            "D": "making contributions for employers and employees into IRA plans"
+        },
+        "answer": "C",
+        "explanation": "C) Only available to employers with fewer than 500 employees, the Pension\nProtection Act of 2006 exempts employers from the complex pension rules large employers must\nadhere to."
+    },
+    {
+        "chapter": "18",
+        "question_number": "52)",
+        "description": "Charles Brown owns a small business with 60 employees. Currently his business does not\nhave a retirement plan. He wants an easy method of offering retirement benefits to his\nemployees. Which of the following would most likely be Charles' best option?",
+        "options": {
+            "A": "SIMPLE IRA plan",
+            "B": "Roth IRA plan",
+            "C": "stock options",
+            "D": "401(k) plan"
+        },
+        "answer": "A",
+        "explanation": "A) Probably the easiest way for small businesses to provide retirement benefits is\nthrough a SIMPLE IRA plan. With the SIMPLE (for Savings Incentive Match Plan for\nEmployees) IRA, employers must (and employees may) make contributions to traditional\nemployee IRAs. These plans are for employers or small businesses with 100 or fewer employees\nand no other type of retirement plan."
+    },
+    {
+        "chapter": "18",
+        "question_number": "53)",
+        "description": "Which of the following is a true statement regarding SIMPLE IRAs?",
+        "options": {
+            "A": "SIMPLE IRAS require employees to make contributions each month.",
+            "B": "Employer contributions to SIMPLE IRAS are not tax deductible.",
+            "C": "Employers usually handle the IRS paperwork for SIMPLE IRAs.",
+            "D": "SIMPLE IRAs have low administrative costs."
+        },
+        "answer": "D",
+        "explanation": "D) The plan has very low administrative costs. Employer contributions are tax\ndeductible. With a SIMPLE IRA, the employer must contribute and employees may contribute.\nThe financial institution usually handles the IRS paperwork."
+    },
+    {
+        "chapter": "18",
+        "question_number": "54)",
+        "description": "All of the following are employee recruitment tools used by most small firms EXCEPT\n________.",
+        "options": {
+            "A": "professional association Web sites",
+            "B": "local newspaper ads",
+            "C": "Internet job boards",
+            "D": "assessment centers"
+        },
+        "answer": "D",
+        "explanation": "D) Assessment centers are costly to develop and administer and are likely to be\nused by large rather than small firms. Small firms rely on Internet postings, newspaper ads, and\nthe Web sites of professional associations for recruiting applicants."
+    },
+    {
+        "chapter": "18",
+        "question_number": "55)",
+        "description": "Training programs at most small firms can best be described as ________.",
+        "options": {
+            "A": "systematic",
+            "B": "nonexistent",
+            "C": "expensive",
+            "D": "informal"
+        },
+        "answer": "D",
+        "explanation": "D) Small companies typically take a more informal approach to training and\ndevelopment. Most small firms don't systematically monitor their managers' skill needs, but\ntraining does exist."
+    },
+    {
+        "chapter": "18",
+        "question_number": "56)",
+        "description": "Approximately what percentage of small businesses have career development programs?",
+        "options": {
+            "A": "12%",
+            "B": "50%",
+            "C": "72%",
+            "D": "90%"
+        },
+        "answer": "B",
+        "explanation": "B) For small firms fewer than 50% (as opposed to 70% of large firms) had career\ndevelopment programs."
+    },
+    {
+        "chapter": "18",
+        "question_number": "57)",
+        "description": "Which of the following is NOT an informal training method suggested for small businesses?",
+        "options": {
+            "A": "internal sales seminars",
+            "B": "offer to cover the tuition for special classes",
+            "C": "provide a library of tapes and DVDs for systematic, disciplined learning during commute\ntimes",
+            "D": "encourage the sharing of best practices among associates"
+        },
+        "answer": "A",
+        "explanation": "A) Internal sales seminars was not suggested for small business, and such internal\ntraining is more likely to occur in large organizations."
+    },
+    {
+        "chapter": "18",
+        "question_number": "58)",
+        "description": "Which of the following is NOT an employee benefit that fits better with small businesses?",
+        "options": {
+            "A": "make them feel like owners",
+            "B": "consistent schedules",
+            "C": "make sure they have what they need to do their jobs",
+            "D": "constantly recognize a job well done"
+        },
+        "answer": "B",
+        "explanation": "B) Many small businesses cannot offer consistent schedules as they have small\nworkforces that need to work as issues and customer needs arise."
+    },
+    {
+        "chapter": "18",
+        "question_number": "59)",
+        "description": "Training programs at most small firms tend to focus on ________.",
+        "options": {
+            "A": "specific competencies needed at the firm",
+            "B": "long-term management skills",
+            "C": "strategy needs at the firm",
+            "D": "marketing and finance"
+        },
+        "answer": "A",
+        "explanation": "A) Research shows that smaller firms tend to focus any management development\ntraining on learning specific firm-related competencies (such as how to sell the firm's products).\nThey generally downplayed developing longer-term management skills due to a reluctance to\ninvest too much in managers who may then leave."
+    },
+    {
+        "chapter": "18",
+        "question_number": "60)",
+        "description": "All of the following are informal training methods recommended to small businesses\nEXCEPT ________.",
+        "options": {
+            "A": "paying tuition for specialized courses",
+            "B": "arranging weekly classes led by paid experts",
+            "C": "providing a library of learning-based DVDs",
+            "D": "sending employees to association meetings"
+        },
+        "answer": "B",
+        "explanation": "B) Weekly classes for all employees would be too costly and formal for most small\nfirms. The other choices are recommended informal training methods for small businesses."
+    },
+    {
+        "chapter": "18",
+        "question_number": "61)",
+        "description": "Which of the following is a recommended method for establishing fairness at a family\nbusiness?",
+        "options": {
+            "A": "requiring family members to telecommute",
+            "B": "avoiding the hiring of family members",
+            "C": "eliminating privileges for family members",
+            "D": "promoting only non-family members"
+        },
+        "answer": "C",
+        "explanation": "C) Family members should come in earlier, work harder, and stay later than other\nemployees do to make it clear that family members earned their promotions. Discord among\nfamily members at work is distracting, so issues should be confronted."
+    },
+    {
+        "chapter": "18",
+        "question_number": "62)",
+        "description": "Which of the following is the most likely result of treating family and non-family employees\nat a small business differently?",
+        "options": {
+            "A": "communication difficulties",
+            "B": "benefits discrepancies",
+            "C": "union involvement",
+            "D": "poor morale"
+        },
+        "answer": "D",
+        "explanation": "D) Treating inequitably family and nonfamily employees can undermine\nperceptions of fairness, as well as morale. It is less likely that fairness issues would lead to\ncommunication problems, benefits discrepancies, or union involvement."
+    },
+    {
+        "chapter": "18",
+        "question_number": "63)",
+        "description": "John owns a family business and wants to avoid any appearance that family members are\nbenefiting unfairly from the sacrifice of others workers. This represents the fairness step of:",
+        "options": {
+            "A": "confront family issues",
+            "B": "treat people fairly",
+            "C": "set the ground rules",
+            "D": "family first"
+        },
+        "answer": "B",
+        "explanation": "B) Treating people fairly involves working hard to avoid \"any appearance that\nfamily members are benefiting unfairly from the sacrifice of others.\""
+    },
+    {
+        "chapter": "18",
+        "question_number": "64)",
+        "description": "Roberto makes sure that all non-family member hires at his organization know what their\nresponsibilities are and their potential ability to be promoted. Roberto is engaging in the small\nbusiness fairness step of:",
+        "options": {
+            "A": "quick, scheduled meetings",
+            "B": "confront family issues",
+            "C": "set the ground rules",
+            "D": "erase privilege"
+        },
+        "answer": "C",
+        "explanation": "C) In setting the ground rules, during the hiring process the applicant should be\ninformed as to whether he or she will be essentially a placeholder, or whether there will be\npotential for promotion. At a minimum, make the expectations clear regarding matters such as\nthe level of authority and decision-making the person can expect to attain."
+    },
+    {
+        "chapter": "18",
+        "question_number": "65)",
+        "description": "Rob, the owner of A-Tech, a small software firm, plans to use the streamlined interview\nprocess to interview candidates for a programming position at the company. Rob should first\n________.",
+        "options": {
+            "A": "ask questions about significant areas in a candidate's life",
+            "B": "probe specific factors during the interview",
+            "C": "devise a plan for the interview",
+            "D": "prepare for the interview"
+        },
+        "answer": "D",
+        "explanation": "D) The first step in the streamlined interview process involves preparing for the\ninterview by considering the skills and traits required for the job."
+    },
+    {
+        "chapter": "18",
+        "question_number": "66)",
+        "description": "Managers who prepare for an interview using the streamlined interview process should focus\non all of the following factors about a candidate EXCEPT ________.",
+        "options": {
+            "A": "personality",
+            "B": "age and skills",
+            "C": "work motivation",
+            "D": "knowledge and experience"
+        },
+        "answer": "B",
+        "explanation": "B) Personality, motivation, intellectual capacity, and personality are factors that\nshould be considered. It is illegal to discriminate for or against an applicant because of age."
+    },
+    {
+        "chapter": "18",
+        "question_number": "77)",
+        "description": "Which of the following terms refers to an outside vendor that manages HR functions for\nsmall businesses?",
+        "options": {
+            "A": "professional employer organization",
+            "B": "human resource outsourcer",
+            "C": "employee leasing firm",
+            "D": "all of the above"
+        },
+        "answer": "D",
+        "explanation": "D) Many small business owners look at all the issues involved with managing\npersonnel, and decide to outsource all or most of their human resource functions to outside\nvendors. Such vendors are called professional employer organizations (PEOs), human resource\noutsourcers (HROs), or sometimes employee or staff leasing firms."
+    },
+    {
+        "chapter": "18",
+        "question_number": "78)",
+        "description": "A small business owner would most likely use a professional employer organization in order\nto ________.",
+        "options": {
+            "A": "network with industry professionals",
+            "B": "automate succession planning",
+            "C": "handle HR activities like payroll",
+            "D": "conduct organized labor activities"
+        },
+        "answer": "C",
+        "explanation": "C) PEOs handle a firm's HR management requirements like payroll."
+    },
+    {
+        "chapter": "18",
+        "question_number": "79)",
+        "description": "Jill Roberts owns a flower shop and employs 20 people. Jill lacks the time and knowledge to\nefficiently handle HR tasks like payroll and benefits management. Which of the following would\nbe most appropriate for Jill in this situation?",
+        "options": {
+            "A": "filing with COBRA",
+            "B": "finding an HMO",
+            "C": "creating a PAQ",
+            "D": "hiring a PEO"
+        },
+        "answer": "D",
+        "explanation": "D) Professional employer organizations (PEOs) are outside vendors that handle a\nfirm's HR management requirements like payroll, benefits, and tax form filing."
+    },
+    {
+        "chapter": "18",
+        "question_number": "80)",
+        "description": "Which of the following is a characteristic of a PEO?",
+        "options": {
+            "A": "PEOs become co-employers of record for the firm's employees.",
+            "B": "PEOs usually work for firms with at least 100 employees.",
+            "C": "Most PEOs charge 8% to 10% of a firm's total payroll.",
+            "D": "PEOs are legally limited to payroll tasks."
+        },
+        "answer": "A",
+        "explanation": "A) By transferring the client firm's employees to the PEO's payroll, the PEO\nbecomes the co-employer of record for the employer's employees. The PEO usually handles HR\nactivities such as recruiting, hiring, payroll, and taxes. Most PEOs focus on employers with less\nthan 100 employees and charge fees of 2% to 4% of a company's payroll."
+    },
+    {
+        "chapter": "18",
+        "question_number": "81)",
+        "description": "Which of the following is NOT one of the primary reasons that small businesses use PEOs?",
+        "options": {
+            "A": "managing overwhelming personnel-related paperwork",
+            "B": "fulfilling personnel-related legal responsibilities",
+            "C": "supporting the HR department temporarily",
+            "D": "acquiring affordable insurance and benefits"
+        },
+        "answer": "C",
+        "explanation": "C) Up to 100 or so employees, small firms typically have no dedicated HR\nmanagers or specialists, so PEOs are not hired to support an HR department temporarily. Instead,\nPEOS are hired to manage paperwork, stay in legal compliance, and gain affordable insurance."
+    },
+    {
+        "chapter": "18",
+        "question_number": "82)",
+        "description": "A ________ can help a small business eliminate extensive HR-related paperwork, stay in\ncompliance with Title VII, OSHA, and pension plan rules, and attain low-cost insurance.",
+        "options": {
+            "A": "professional employer organization",
+            "B": "human resource information system",
+            "C": "management information system",
+            "D": "transaction-processing system"
+        },
+        "answer": "A",
+        "explanation": "A) PEOs handle the HR-related paperwork of small firms and also ensure that\nfirms stay in compliance with various federal and state laws. PEOs also help small firms acquire\ninsurance at a lower rate than they could attain on their own. Information systems help eliminate\npaperwork, but they are not involved in attaining low-cost insurance."
+    },
+    {
+        "chapter": "18",
+        "question_number": "83)",
+        "description": "David owns a small architecture firm with 75 employees. He wants to use a PEO to handle\nhis firm's HR activities. David is in the process of investigating Assure Group, a PEO. Which of\nthe following best supports the argument that David should use Assure Group?",
+        "options": {
+            "A": "The Assure representative explains that the PEO has been in business for one year.",
+            "B": "The Assure representative does not ask David about his company's current HR policies.",
+            "C": "The Assure representative promises David that his company will see substantial savings.",
+            "D": "The Assure representative asks David many questions about his company's safety policies."
+        },
+        "answer": "D",
+        "explanation": "D) A reputable PEO will question an owner extensively about the firm's workplace\nsafety and human resource policies and practice because the two will be sharing liability.\nPromises of big savings, short time doing business, and disinterest in HR policies signal\nproblems."
+    },
+    {
+        "chapter": "18",
+        "question_number": "84)",
+        "description": "David owns a small architecture firm with 75 employees. He wants to use a PEO to handle\nhis firm's HR activities. David is in the process of investigating Assure Group, a PEO. Which of\nthe following undermines the argument that David should use Assure Group?",
+        "options": {
+            "A": "Assure lacks a clear credit history due to a recent corporate name change.",
+            "B": "Assure's Web site indicates that customers experience only modest savings.",
+            "C": "Assure requires business owners to complete questionnaires about workplace safety.",
+            "D": "Assure provides payroll, recruiting, and screening services to customers."
+        },
+        "answer": "A",
+        "explanation": "A) An unclear credit history and a recent name change suggests that the PEO may\nhave had problems in the past. A reputable PEO will question an owner extensively about the\nfirm's workplace safety and human resource policies and practice because the two will be sharing\nliability. Reputable PEOs will acknowledge that savings will be minimal and will belong to a\nnational association."
+    },
+    {
+        "chapter": "18",
+        "question_number": "85)",
+        "description": "David owns a small architecture firm with 75 employees. He wants to use a PEO to handle\nhis firm's HR activities. David is in the process of investigating Assure Group, a PEO. Which of\nthe following questions is LEAST relevant to David's decision regarding whether or not to hire\nAssure?",
+        "options": {
+            "A": "Will employee benefits be fully insured or partially self-funded by Assure?",
+            "B": "What HR and legal expertise is available from the Assure staff?",
+            "C": "What is the process that Assure uses to handle HR-related legal issues?",
+            "D": "How does Assure effectively communicate HR needs with its employees?"
+        },
+        "answer": "D",
+        "explanation": "D) The manner in which Assure communicates with its own employees is least\nrelevant to David's decision. David needs to ask how benefits are funded and about Assure's\nexpertise and processes before he can make a sound decision."
+    },
+    {
+        "chapter": "18",
+        "question_number": "86)",
+        "description": "All of the following are recommended activities for small business managers who are in the\nprocess of selecting a professional employer organization EXCEPT ________.",
+        "options": {
+            "A": "analyzing how the employee benefits are funded",
+            "B": "checking the professional rating assigned to the PEO",
+            "C": "assessing the PEO's staff for experience and depth",
+            "D": "asking how the PEO will provide its services"
+        },
+        "answer": "B",
+        "explanation": "B) No rating system exists for PEOs, although there are professional organizations.\nFirms should check how benefits are funded, assess the staff, and ask how the PEO will provide\nservices."
+    },
+    {
+        "chapter": "18",
+        "question_number": "94)",
+        "description": "Which of the following risks commonly associated with small businesses can most likely be\nminimized by an HR information system?",
+        "options": {
+            "A": "data entry errors",
+            "B": "personality testing",
+            "C": "college recruiting",
+            "D": "discrimination lawsuits"
+        },
+        "answer": "A",
+        "explanation": "A) For small businesses that don't use human resource information systems, any\nchange to employee data requires manually changing all forms. This is not only time-consuming\nand inefficient, but can precipitate errors. HRISs automatically update an employee's information\non all forms when a change is made to one form."
+    },
+    {
+        "chapter": "18",
+        "question_number": "95)",
+        "description": "Beth recently opened an embroidery business and has four employees who work full-time for\nher. Which of the following will Beth most likely use to manage her company's human resources\ntasks?",
+        "options": {
+            "A": "manual HR system",
+            "B": "automated HR system",
+            "C": "HR outsourcer system",
+            "D": "HR scorecard system"
+        },
+        "answer": "A",
+        "explanation": "A) Very small employers (with 10 employees or less) will probably start with a\nmanual human resource management system."
+    },
+    {
+        "chapter": "18",
+        "question_number": "96)",
+        "description": "Julie has a small accounting firm with only six employees, so she handles HR tasks\nmanually. Julie recently hired a new employee. Which of the following forms will Julie most\nlikely need on the worker's first day of employment?",
+        "options": {
+            "A": "reference check form",
+            "B": "employment agreement form",
+            "C": "vacation request form",
+            "D": "absence report form"
+        },
+        "answer": "B",
+        "explanation": "B) Julie will most likely need an employment agreement form on the first day.\nPrior to hire, she would have needed the reference check form. When the employee requests\nvacation or is absent, Julie will need to acquire those forms."
+    },
+    {
+        "chapter": "18",
+        "question_number": "97)",
+        "description": "All of the following tasks can be managed with most HR software programs EXCEPT\n________.",
+        "options": {
+            "A": "payroll",
+            "B": "attendance",
+            "C": "outplacement",
+            "D": "benefits management"
+        },
+        "answer": "C",
+        "explanation": "C) Most HR software packages are capable of handling tasks associated with\npayroll, attendance, and benefits. Outplacement counseling for laid off employees would not\nlikely be managed by an HR software program."
+    },
+    {
+        "chapter": "18",
+        "question_number": "98)",
+        "description": "Which of the following terms refers to the interrelated people, data, technology, and\norganizational procedures a firm uses to collect, process, store, and disseminate information?",
+        "options": {
+            "A": "talent management system",
+            "B": "human resources information system",
+            "C": "competency model",
+            "D": "strategy map"
+        },
+        "answer": "B",
+        "explanation": "B) The term human resources information system (HRIS) refers to the interrelated\npeople, data, technology, and organizational procedures a company uses to collect, process,\nstore, and disseminate information. Information systems may or may not be computerized."
+    },
+    {
+        "chapter": "18",
+        "question_number": "99)",
+        "description": "A(n) ________ system provides a firm's managers and accountants with detailed information\nabout short-term, daily activities, like accounts payables and order status.",
+        "options": {
+            "A": "transaction-processing",
+            "B": "executive support",
+            "C": "management information",
+            "D": "employee assistance"
+        },
+        "answer": "A",
+        "explanation": "A) Transaction-processing systems provide the company's managers and\naccountants with detailed information about short-term, daily activities, such as accounts\npayables, tax liabilities, and order status."
+    },
+    {
+        "chapter": "18",
+        "question_number": "100)",
+        "description": "A human resources information system helps managers make effective decisions by\n________.",
+        "options": {
+            "A": "providing detailed information about tax liabilities",
+            "B": "automatically updating employee records and data",
+            "C": "regularly generating standardized, summarized reports",
+            "D": "providing data about a firm's customer orders and returns"
+        },
+        "answer": "C",
+        "explanation": "C) Human resources information systems (HRIS) are interrelated components\nworking together to collect, process, store, and disseminate information to support decision\nmaking, coordination, control, analysis, and visualization of an organization's HR activities."
+    },
+    {
+        "chapter": "18",
+        "question_number": "101)",
+        "description": "________ processing allows for employees to self-enroll in all their desired benefits\nprogram over the Internet at a secured site.",
+        "options": {
+            "A": "Improved-Transaction",
+            "B": "Improved Reporting",
+            "C": "HR system integration",
+            "D": "Self"
+        },
+        "answer": "D",
+        "explanation": "D) As a company grows, a more comprehensive system becomes necessary. There\nare several reasons for installing an HRIS. Online Self Processing lets employees self-enroll in\nall their desired benefits programs over the Internet at a secure site."
+    },
+    {
+        "chapter": "18",
+        "question_number": "102)",
+        "description": "Which of the following terms refers to interrelated components working together to collect,\nprocess, store, and disseminate information to support a firm's human resource management\nactivities?",
+        "options": {
+            "A": "transaction-processing system",
+            "B": "high-performance work system",
+            "C": "human resource information system",
+            "D": "electronic performance support system"
+        },
+        "answer": "C",
+        "explanation": "C) As companies grow, they also often turn to integrated human resource\ninformation systems (HRIS). We can define an HRIS as interrelated components working\ntogether to collect, process, store, and disseminate information to support decision making,\ncoordination, control, analysis, and visualization of an organization's HRM activities."
+    },
+    {
+        "chapter": "18",
+        "question_number": "103)",
+        "description": "All of the following are reasons that firms install human resource information systems\nEXCEPT ________.",
+        "options": {
+            "A": "worker performance monitoring",
+            "B": "online self-processing",
+            "C": "transaction processing",
+            "D": "system integration"
+        },
+        "answer": "A",
+        "explanation": "A) HRIS enables firms to improve transaction processing, offer self-processing\noptions, integrate HR functions, and generate reports. An HRIS is not used to monitor the\nperformance of employees."
+    },
+    {
+        "chapter": "18",
+        "question_number": "104)",
+        "description": "Which of the following makes it possible for employees to self-enroll in a firm's benefits\nprogram through a secure Internet site?",
+        "options": {
+            "A": "executive support system",
+            "B": "management information system",
+            "C": "human resources information system",
+            "D": "electronic performance support system"
+        },
+        "answer": "C",
+        "explanation": "C) HR information systems make it possible to make the company's employees\npart of the HRIS. Employees can self-enroll in all their desired benefits programs over the\nInternet at a secure site with firms that have HRISs."
+    },
+    {
+        "chapter": "18",
+        "question_number": "105)",
+        "description": "An HRIS increases the reporting capabilities of managers because an HRIS ________.",
+        "options": {
+            "A": "allows a firm to plan its HR activities",
+            "B": "integrates separate HR tasks",
+            "C": "processes a firm's payroll",
+            "D": "works on a firm's intranet"
+        },
+        "answer": "B",
+        "explanation": "B) Because the HRIS integrates numerous individual HR tasks (training records,\nappraisals, employee personal data), installing an HRIS boosts HR's reporting capabilities."
+    },
+    {
+        "chapter": "18",
+        "question_number": "106)",
+        "description": "Which of the following is NOT a benefit of cloud-based human resource management\nsystems?",
+        "options": {
+            "A": "Employees can easily access the information from wherever they are.",
+            "B": "Company information is kept internally.",
+            "C": "The owner can easily access the information from wherever they are.",
+            "D": "Vendors can more easily update them with the latest features."
+        },
+        "answer": "B",
+        "explanation": "B) Cloud-based HRM systems offer many benefits, but they require some\ncompany information to be stored on the cloud rather than secure internal servers. This can be\nproblematic if there are data breaches on the cloud server."
+    }
+]

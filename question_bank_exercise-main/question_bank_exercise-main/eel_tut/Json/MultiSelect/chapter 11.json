@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "11",
+        "question_number": "1)",
+        "description": "Which of the following terms refers to all forms of pay or rewards going to employees and\narising from their employment?",
+        "options": {
+            "A": "salary",
+            "B": "employee benefits",
+            "C": "wage reimbursement",
+            "D": "employee compensation"
+        },
+        "answer": "D",
+        "explanation": "D) Employee compensation refers to all forms of pay going to employees and\narising from their employment. It has two main components, direct financial payments (wages,\nsalaries, incentives, commissions, and bonuses) and indirect financial payments (financial\nbenefits like employer-paid insurance and vacations)."
+    },
+    {
+        "chapter": "11",
+        "question_number": "2)",
+        "description": "Which of the following is NOT a type of direct financial payment?",
+        "options": {
+            "A": "wages",
+            "B": "insurance",
+            "C": "incentives",
+            "D": "commissions"
+        },
+        "answer": "B",
+        "explanation": "B) Employee compensation refers to all forms of pay going to employees and\narising from their employment. It has two main components, direct financial payments (wages,\nsalaries, incentives, commissions, and bonuses) and indirect financial payments (financial\nbenefits like employer-paid insurance and vacations)."
+    },
+    {
+        "chapter": "11",
+        "question_number": "3)",
+        "description": "Which of the following terms refers to pay in the form of financial benefits, such as\ninsurance?",
+        "options": {
+            "A": "direct financial payments",
+            "B": "out-of-pocket expenses",
+            "C": "indirect financial payments",
+            "D": "sales commissions"
+        },
+        "answer": "C",
+        "explanation": "C) Employee compensation has two main components: direct financial payments\n(wages, salaries, incentives, commissions, and bonuses) and indirect financial payments\n(financial benefits like employer-paid insurance and vacations)."
+    },
+    {
+        "chapter": "11",
+        "question_number": "4)",
+        "description": "John is a sales representative in a jewelry store. He typically works 40 hours per week and his\npay is completely based on his sales. He earns a 5% commission for every sale he makes. Which\nof the following terms best describes John's situation?",
+        "options": {
+            "A": "pay for performance",
+            "B": "indirect financial compensation",
+            "C": "time-based compensation",
+            "D": "piecework pay"
+        },
+        "answer": "A",
+        "explanation": "A) John earns sales commissions, which means he receives pay for performance.\nPiecework ties compensation to the number of pieces a worker produces, and John is selling\nrather than making jewelry."
+    },
+    {
+        "chapter": "11",
+        "question_number": "5)",
+        "description": "Which of the following factors has the LEAST effect on the design of an organization's pay\nplan?",
+        "options": {
+            "A": "legal",
+            "B": "union",
+            "C": "company vision",
+            "D": "company policy"
+        },
+        "answer": "C",
+        "explanation": "C) The factors that determine the design of any pay plan include legal, union,\ncompany strategy and policy, and equity. A firm's vision indicates what the firm wants to\nbecome in the future, and it has less of an impact on pay plan design than the other factors."
+    },
+    {
+        "chapter": "11",
+        "question_number": "6)",
+        "description": "Which of the following was enacted in 1931 for the purpose of setting wage rates for laborers\nand mechanics employed by contractors working for the federal government?",
+        "options": {
+            "A": "Walsh-Healey Public Contract",
+            "B": "Fair Labor Standards Act",
+            "C": "Civil Rights Act",
+            "D": "Davis-Bacon Act"
+        },
+        "answer": "D",
+        "explanation": "D) The 1931 Davis-Bacon Act allows the secretary of labor to set wage rates for\nlaborers and mechanics employed by contractors working for the federal government.\nAmendments provide for paid employee benefits."
+    },
+    {
+        "chapter": "11",
+        "question_number": "7)",
+        "description": "Which of the following sets basic labor standards for employees working on any government\ncontract that amounts to more than $10,000?",
+        "options": {
+            "A": "Davis-Bacon Act",
+            "B": "Walsh-Healey Public Contract",
+            "C": "Fair Wages Act",
+            "D": "Fair Labor Standards Act"
+        },
+        "answer": "B",
+        "explanation": "B) The 1936 Walsh-Healey Public Contract Act sets basic labor standards for\nemployees working on any government contract that amounts to more than $10,000 and\naddresses wages, safety, and overtime."
+    },
+    {
+        "chapter": "11",
+        "question_number": "8)",
+        "description": "Which compensation-related law contains provisions for minimum wage, maximum hours,\novertime pay, equal pay, record-keeping, and child labor?",
+        "options": {
+            "A": "Davis-Bacon Act",
+            "B": "Fair Wages Act",
+            "C": "Fair Labor Standards Act",
+            "D": "Walsh-Healey Public Contract"
+        },
+        "answer": "C",
+        "explanation": "C) The Fair Labor Standards Act, originally passed in 1938 and since amended\nmany times, contains minimum wage, maximum hours, overtime pay, equal pay, record-keeping,\nand child labor provisions that are familiar to most working people. It covers the majority of U.S.\nworkers—virtually all those engaged in the production and/or sale of goods for interstate and\nforeign commerce."
+    },
+    {
+        "chapter": "11",
+        "question_number": "9)",
+        "description": "Which of the following issues is NOT addressed by the Fair Labor Standards Act?",
+        "options": {
+            "A": "record-keeping",
+            "B": "overtime pay",
+            "C": "child labor",
+            "D": "termination"
+        },
+        "answer": "D",
+        "explanation": "D) The Fair Labor Standards Act, originally passed in 1938 and since amended\nmany times, contains minimum wage, maximum hours, overtime pay, equal pay, record-keeping,\nand child labor provisions that are familiar to most working people. The termination of an\nemployee is not addressed by the FLSA."
+    },
+    {
+        "chapter": "11",
+        "question_number": "10)",
+        "description": "Which law makes it illegal to discriminate against any individual with respect to\ncompensation because of race, color, religion, sex, or national origin?",
+        "options": {
+            "A": "Fair Labor Standards Act",
+            "B": "Title VII of the Civil Rights Act",
+            "C": "Equal Pay Act",
+            "D": "Taft-Hartley Act"
+        },
+        "answer": "B",
+        "explanation": "B) Title VII makes it unlawful for employers to discriminate against any individual\nwith respect to hiring, compensation, terms, conditions, or privileges of employment because of\nrace, color, religion, sex, or national origin."
+    },
+    {
+        "chapter": "11",
+        "question_number": "11)",
+        "description": "According to the Fair Labor Standards Act, what rate of normal pay would a covered\nemployee receive for working more than 40 hours in a workweek?",
+        "options": {
+            "A": "50%",
+            "B": "100%",
+            "C": "150%",
+            "D": "200%"
+        },
+        "answer": "C",
+        "explanation": "C) A provision in the FLSA governs overtime pay. It says employers must pay\novertime at a rate of at least one-and-a-half times normal pay for any hours worked over 40 in a\nworkweek."
+    },
+    {
+        "chapter": "11",
+        "question_number": "12)",
+        "description": "Jill works as a cashier at a grocery store. She earns $10 an hour (or $400 for a 40-hour\nweek). Last week, she worked 46 hours. What is the minimum amount that Jill earned last week?",
+        "options": {
+            "A": "$460",
+            "B": "$490",
+            "C": "$520",
+            "D": "$550"
+        },
+        "answer": "B",
+        "explanation": "B) The FLSA says employers must pay overtime at a rate of at least one-and-a-half\ntimes normal pay for any hours worked over 40 in a workweek. Jill worked 46 hours in one\nweek, so she was paid for 6 of those hours at a rate equal to one-and-a-half times the hourly rate\nof $10. The 6 overtime hours were at a rate of $15, so Jill earned at least $490."
+    },
+    {
+        "chapter": "11",
+        "question_number": "13)",
+        "description": "Joseph worked 6 hours of overtime this week but has decided to take time off instead of\novertime pay. How many hours will Joseph receive in time off from work?",
+        "options": {
+            "A": "3 hours",
+            "B": "6 hours",
+            "C": "9 hours",
+            "D": "18 hours"
+        },
+        "answer": "C",
+        "explanation": "C) According to the FLSA, if an employee receives time off for overtime hours\ninstead of money, the employer must compute the number of hours granted off at the one-and-a-\nhalf times rate. Jack would get 9 hours off for the 6 hours of overtime."
+    },
+    {
+        "chapter": "11",
+        "question_number": "14)",
+        "description": "Which of the following is true for employers who use independent contractors?",
+        "options": {
+            "A": "Fair Labor Standards Act overtime requirements do not apply.",
+            "B": "Social Security taxes are higher than for regular employees.",
+            "C": "Federal income taxes are charged at a reduced rate.",
+            "D": "Payroll taxes are paid by the employer."
+        },
+        "answer": "A",
+        "explanation": "A) For employers, there are advantages to claiming that someone is an independent\ncontractor. For one thing, the FLSA's overtime and most other requirements do not apply. For\nanother, the employer does not have to pay unemployment compensation payroll taxes, Social\nSecurity taxes, or city, state, and federal income taxes or compulsory workers' compensation for\nthat worker."
+    },
+    {
+        "chapter": "11",
+        "question_number": "15)",
+        "description": "In most cases, which of the following occupations is NOT exempt from the overtime\nprovisions of the Fair Labor Standards Act?",
+        "options": {
+            "A": "physicians",
+            "B": "engineers",
+            "C": "paralegals",
+            "D": "teachers"
+        },
+        "answer": "C",
+        "explanation": "C) Teachers, doctors, engineers, and architects are typically exempt from the\nFLSA overtime provisions. Paralegals are considered nonexempt."
+    },
+    {
+        "chapter": "11",
+        "question_number": "16)",
+        "description": "Which of the following jobs is most likely categorized as nonexempt from the overtime pay\nprovisions of the Fair Labor Standards Act?",
+        "options": {
+            "A": "taxicab driver",
+            "B": "personnel director",
+            "C": "newspaper writer",
+            "D": "computer systems analyst"
+        },
+        "answer": "C",
+        "explanation": "C) Newspaper writers are usually considered nonexempt, so they may earn\novertime pay. Scientists, cab drivers, personnel directors, and computer systems analysts are\ntypically exempt employees who are not eligible for overtime pay."
+    },
+    {
+        "chapter": "11",
+        "question_number": "17)",
+        "description": "Anita, a manager at a department store, needs to determine whether one of her employees is\nexempt or nonexempt under the Fair Labor Standards Act. Which of the following would be the\nbest resource for Anita?",
+        "options": {
+            "A": "organizational chart",
+            "B": "performance appraisal",
+            "C": "business plan",
+            "D": "job description"
+        },
+        "answer": "D",
+        "explanation": "D) In all but the clearest situations, managers should carefully review the job\ndescription to determine if a job is exempt or nonexempt. Make sure, for instance, that the job\ncurrently does, in fact, require that the person perform, say, an exempt-type supervisory duty."
+    },
+    {
+        "chapter": "11",
+        "question_number": "18)",
+        "description": "Which of the following states that employees of one sex may not be paid wages at a rate\nlower than that paid to employees of the opposite sex for doing roughly equivalent work?",
+        "options": {
+            "A": "Americans with Disabilities Act",
+            "B": "Title VII of the Civil Rights Act",
+            "C": "Social Security Act",
+            "D": "Equal Pay Act"
+        },
+        "answer": "D",
+        "explanation": "D) The Equal Pay Act, an amendment to the Fair Labor Standards Act, states that\nemployees of one sex may not be paid wages at a rate lower than that paid to employees of the\nopposite sex for doing roughly equivalent work."
+    },
+    {
+        "chapter": "11",
+        "question_number": "19)",
+        "description": "Which act regulates vesting rights and portability rights?",
+        "options": {
+            "A": "Fair Labor Standards Act",
+            "B": "Title VII of the Civil Rights Act",
+            "C": "Employer Retirement Income Security Act",
+            "D": "Equal Pay Act of 1963"
+        },
+        "answer": "C",
+        "explanation": "C) The Employee Retirement Income Security Act (ERISA) provided for the\ncreation of government-run, employer-financed corporations to protect employees against the\nfailure of their employers' pension plans. In addition, it sets regulations regarding vesting rights\nand regulates portability rights (the transfer of an employee's vested rights from one organization\nto another)."
+    },
+    {
+        "chapter": "11",
+        "question_number": "20)",
+        "description": "Which of the following terms refers to the ownership employees build up in their pension\nplans should their employment with a firm end prior to retirement?",
+        "options": {
+            "A": "portability",
+            "B": "equity",
+            "C": "vesting",
+            "D": "shares"
+        },
+        "answer": "C",
+        "explanation": "C) ERISA sets regulations regarding vesting rights. Vesting refers to the equity or\nownership the employees build up in their pension plans should their employment terminate\nbefore retirement."
+    },
+    {
+        "chapter": "11",
+        "question_number": "21)",
+        "description": "Which of the following laws has the LEAST amount of influence on compensation\ndecisions?",
+        "options": {
+            "A": "Americans with Disabilities Act",
+            "B": "Labor Management Relations Act",
+            "C": "Family and Medical Leave Act",
+            "D": "Age Discrimination in Employment Act"
+        },
+        "answer": "B",
+        "explanation": "B) The ADA, Family and Medical Leave Act, and the Age Discrimination in\nEmployment Act all impact compensation decisions made by organizations. The Labor\nManagement Relations Act prohibited unfair union labor practices and enumerated the rights of\nemployees as union members and has no impact on compensation issues."
+    },
+    {
+        "chapter": "11",
+        "question_number": "22)",
+        "description": "Bonnie, a data analyst, needs to take time off from work to care for her elderly mother.\nAccording to the Family and Medical Leave Act, what is the maximum number of weeks of\nunpaid, job-protected leave that Bonnie may take?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "12",
+            "D": "16"
+        },
+        "answer": "C",
+        "explanation": "C) The Family and Medical Leave Act aims to entitle eligible employees, both\nmen and women, to take up to 12 weeks of unpaid, job protected leave for the birth of a child or\nfor the care of a child, spouse, or parent."
+    },
+    {
+        "chapter": "11",
+        "question_number": "23)",
+        "description": "Which of the following gives employees the right to organize, bargain collectively, and\nengage in concerted activities for the purpose of collective bargaining?",
+        "options": {
+            "A": "Equal Pay Act",
+            "B": "Civil Rights Act",
+            "C": "Fair Labor Standards Act",
+            "D": "National Labor Relations Act"
+        },
+        "answer": "D",
+        "explanation": "D) The National Labor Relations Act of 1935 (Wagner Act) and related legislation\nand court decisions legitimized the labor movement. It gave unions legal protection, and granted\nemployees the right to unionize, to bargain collectively, and to engage in concerted activities for\nthe purpose of collective bargaining or other mutual aid or protection."
+    },
+    {
+        "chapter": "11",
+        "question_number": "24)",
+        "description": "What has historically been the key issue in collective bargaining?",
+        "options": {
+            "A": "wage rates",
+            "B": "income security",
+            "C": "health care benefits",
+            "D": "cost-of-living adjustments"
+        },
+        "answer": "A",
+        "explanation": "A) Historically, the wage rate has been the main issue in collective bargaining.\nHowever, unions also negotiate other pay-related issues, including time off with pay, income\nsecurity, cost-of-living adjustments, and health care benefits."
+    },
+    {
+        "chapter": "11",
+        "question_number": "25)",
+        "description": "Which of the following issues would LEAST likely be negotiated by unions?",
+        "options": {
+            "A": "income security",
+            "B": "time off with pay",
+            "C": "health care benefits",
+            "D": "unpaid medical leave"
+        },
+        "answer": "D",
+        "explanation": "D) Historically, the wage rate has been the main issue in collective bargaining.\nHowever, unions also negotiate other pay-related issues, including time off with pay, income\nsecurity, cost-of-living adjustments, and health care benefits. Unpaid medical leave is addressed\nby the Family and Medical Leave Act."
+    },
+    {
+        "chapter": "11",
+        "question_number": "26)",
+        "description": "Which of the following terms refers to a compensation plan that advances a firm's strategic\ngoals?",
+        "options": {
+            "A": "strategic management",
+            "B": "performance pay plan",
+            "C": "aligned reward strategy",
+            "D": "workers' compensation package"
+        },
+        "answer": "C",
+        "explanation": "C) The compensation plan should advance the firm's strategic aims, so\nmanagement should produce an aligned reward strategy. This means creating a bundle of\nrewards—a total reward package including wages, incentives, and benefits—that aims to\nproduce the employee behaviors the firm needs to support and achieve its competitive strategy."
+    },
+    {
+        "chapter": "11",
+        "question_number": "27)",
+        "description": "Homelife, a national chain of high-end furniture stores, employs nearly 800 workers. In the\npast few years, the company's market share has dropped significantly, and employee turnover has\nincreased. Upper management is considering the implementation of a new compensation policy\nin its efforts to turn the company around. Historically, the company has paid all employees\nsimilarly with some variation for seniority but no distinction between high and low performers.\nWhich of the following questions is LEAST relevant to Homelife's decision to develop an\naligned reward strategy?",
+        "options": {
+            "A": "What compensation programs should Homelife use to reinforce necessary employee\nbehaviors?",
+            "B": "How well does Homelife's current compensation program match the company's strategic\naims?",
+            "C": "What compensation programs should Homelife use to reinforce desired employee behaviors?",
+            "D": "What are the results of Homelife employee salary surveys in regards to wage satisfaction?"
+        },
+        "answer": "D",
+        "explanation": "D) An aligned reward strategy links a firm's compensation plan with its strategic\naims. Homelife can create a total reward package including wages, incentives, and benefits that\nwill generate the employee behaviors the firm needs to support and achieve its competitive\nstrategy. Questions about employee behaviors and compensation are relevant, but a question\nabout salary surveys is not."
+    },
+    {
+        "chapter": "11",
+        "question_number": "28)",
+        "description": "Which of the following is the LEAST likely way that an employer would address a cost-of-\nliving differential?",
+        "options": {
+            "A": "paying a nonrecurring amount spread over one to three years",
+            "B": "paying a nonrecurring, lump sum amount",
+            "C": "raising an employee's base salary",
+            "D": "raising commission percentages"
+        },
+        "answer": "D",
+        "explanation": "D) Employers handle cost-of-living differentials in several ways. One is to give the\ntransferred person a nonrecurring payment, usually in a lump sum or perhaps spread over one to\nthree years. Others pay a differential for ongoing costs in addition to a one-time allocation or\nsimply raise the employee's base salary."
+    },
+    {
+        "chapter": "11",
+        "question_number": "29)",
+        "description": "What theory of motivation states that people are strongly motivated to maintain a balance\nbetween what they perceive as their contributions and their rewards?",
+        "options": {
+            "A": "Two-factor theory",
+            "B": "Equity theory",
+            "C": "Learned needs theory",
+            "D": "Expectancy theory"
+        },
+        "answer": "B",
+        "explanation": "B) The equity theory of motivation postulates that people are strongly motivated to\nmaintain a balance between what they perceive as their inputs or contributions, and their\nrewards. Equity theory states that if a person perceives an inequity, a tension or drive will\ndevelop in the person's mind, and the person will be motivated to reduce or eliminate the tension\nand perceived inequity."
+    },
+    {
+        "chapter": "11",
+        "question_number": "30)",
+        "description": "Which of the following is NOT one of the forms of equity related to compensation issues?",
+        "options": {
+            "A": "group",
+            "B": "external",
+            "C": "individual",
+            "D": "procedural"
+        },
+        "answer": "A",
+        "explanation": "A) Managers address external, internal, individual, and procedural equity when\nconsidering compensation issues."
+    },
+    {
+        "chapter": "11",
+        "question_number": "31)",
+        "description": "Which form of equity refers to how a job's pay rate in one company compares to the job's\npay rate in other companies?",
+        "options": {
+            "A": "distributive",
+            "B": "internal",
+            "C": "external",
+            "D": "procedural"
+        },
+        "answer": "C",
+        "explanation": "C) External equity refers to how a job's pay rate in one company compares to the\njob's pay rate in other companies."
+    },
+    {
+        "chapter": "11",
+        "question_number": "32)",
+        "description": "Jason is an information systems technician in a town in North Carolina with a population of\n100,000. He receives an annual salary of $35,000. He recently found out that a nearby town with\na similar population pays people in the same position $40,000 annually. With which form of\nequity is Jason most concerned?",
+        "options": {
+            "A": "distributive",
+            "B": "procedural",
+            "C": "internal",
+            "D": "external"
+        },
+        "answer": "D",
+        "explanation": "D) External equity refers to how a job's pay rate in one company compares to the\njob's pay rate in other companies."
+    },
+    {
+        "chapter": "11",
+        "question_number": "33)",
+        "description": "Which form of equity refers to the fairness of a job's pay rate in comparison to other jobs\nwithin the same company?",
+        "options": {
+            "A": "external",
+            "B": "internal",
+            "C": "distributive",
+            "D": "individual"
+        },
+        "answer": "B",
+        "explanation": "B) Internal equity refers to how fair the job's pay rate is when compared to other\njobs within the same company. For instance, is the sales manager's pay fair when compared to\nwhat the production manager is earning?"
+    },
+    {
+        "chapter": "11",
+        "question_number": "34)",
+        "description": "Trevor, a sales manager at IBM, recently learned that an IBM human resources manager with\ncomparable responsibilities and spans of control earns a higher salary than Trevor. Which form\nof equity is of most concern to Trevor?",
+        "options": {
+            "A": "external",
+            "B": "internal",
+            "C": "distributive",
+            "D": "individual"
+        },
+        "answer": "B",
+        "explanation": "B) Internal equity refers to how fair the job's pay rate is when compared to other\njobs within the same company, such as between managers in different departments."
+    },
+    {
+        "chapter": "11",
+        "question_number": "35)",
+        "description": "Which form of equity refers to the fairness of an individual's pay as compared with what his\nor her co-workers are earning for the same or very similar jobs within the company, based on\neach individual's performance?",
+        "options": {
+            "A": "internal",
+            "B": "distributive",
+            "C": "individual",
+            "D": "procedural"
+        },
+        "answer": "C",
+        "explanation": "C) Individual equity refers to the fairness of an individual's pay as compared with\nwhat his or her co-workers are earning for the same or very similar jobs within the company,\nbased on each individual's performance. Internal equity refers to how fair the job's pay rate is\nwhen compared to other jobs within the same company, such as between managers in different\ndepartments."
+    },
+    {
+        "chapter": "11",
+        "question_number": "36)",
+        "description": "Audrey is a lawyer in a mid-size firm in Chicago. She recently learned that another lawyer\nwho joined the firm at the same time earns a lower salary than she does. Which form of equity is\nmost relevant to Audrey's situation?",
+        "options": {
+            "A": "internal",
+            "B": "distributive",
+            "C": "individual",
+            "D": "procedural"
+        },
+        "answer": "C",
+        "explanation": "C) Individual equity refers to the fairness of an individual's pay as compared with\nwhat his or her co-workers are earning for the same or very similar jobs within the company,\nbased on each individual's performance."
+    },
+    {
+        "chapter": "11",
+        "question_number": "37)",
+        "description": "Which form of equity refers to the perceived fairness of the processes used to make decisions\nregarding the allocation of pay?",
+        "options": {
+            "A": "internal",
+            "B": "distributive",
+            "C": "individual",
+            "D": "procedural"
+        },
+        "answer": "D",
+        "explanation": "D) Procedural equity refers to the \"perceived fairness of the processes and\nprocedures used to make decisions regarding the allocation of pay.\""
+    },
+    {
+        "chapter": "11",
+        "question_number": "38)",
+        "description": "External equity refers to ________.",
+        "options": {
+            "A": "how a job's pay rate in one company compares to the job's pay rate in other companies",
+            "B": "the fairness of an individual's pay as compared to a co-worker's pay for the same job",
+            "C": "the perceived fairness of the processes and procedures used to make decisions about\ncompensation",
+            "D": "the use of salary surveys and job evaluation comparisons to monitor pay levels within an\nindustry"
+        },
+        "answer": "A",
+        "explanation": "A) External equity refers to how a job's pay rate in one company compares to the\njob's pay rate in other companies."
+    },
+    {
+        "chapter": "11",
+        "question_number": "39)",
+        "description": "Which of the following best defines internal equity?",
+        "options": {
+            "A": "how a job's pay rate in one company compares to the job's pay rate in other companies",
+            "B": "how fair the job's pay rate is, when compared to other jobs within the same company",
+            "C": "the fairness of an individual's pay as compared to a co-worker's pay for the same job",
+            "D": "the perceived fairness of the processes and procedures used to make compensation decisions"
+        },
+        "answer": "B",
+        "explanation": "B) Internal equity refers to how fair the job's pay rate is when compared to other\njobs within the same company."
+    },
+    {
+        "chapter": "11",
+        "question_number": "40)",
+        "description": "Which of the following is used to maintain internal equity?",
+        "options": {
+            "A": "job analysis comparisons",
+            "B": "organizational charts",
+            "C": "incentive pay",
+            "D": "salary surveys"
+        },
+        "answer": "A",
+        "explanation": "A) Managers use job analysis and job evaluation comparisons of each job to\nmaintain internal equity."
+    },
+    {
+        "chapter": "11",
+        "question_number": "41)",
+        "description": "What type of equity is a manager most likely trying to maintain through the use of\nperformance appraisals and incentive pay?",
+        "options": {
+            "A": "internal",
+            "B": "external",
+            "C": "individual",
+            "D": "procedural"
+        },
+        "answer": "C",
+        "explanation": "C) Managers use performance appraisal and incentive pay to maintain individual\nequity."
+    },
+    {
+        "chapter": "11",
+        "question_number": "42)",
+        "description": "Beth, a small business owner, wants to ensure external equity when establishing pay rates.\nBeth should most likely ________.",
+        "options": {
+            "A": "use wage curves to price each pay grade",
+            "B": "compare performance appraisals",
+            "C": "conduct a salary survey",
+            "D": "check online pay sites"
+        },
+        "answer": "C",
+        "explanation": "C) The first step in establishing pay rates involves conducting a salary survey of\nwhat other employers are paying for comparable jobs to ensure external equity."
+    },
+    {
+        "chapter": "11",
+        "question_number": "43)",
+        "description": "Homelife, a national chain of high-end furniture stores, employs nearly 800 workers. In the\npast few years, the company's market share has dropped significantly, and employee turnover has\nincreased. Upper management is considering the implementation of a new compensation policy\nin its efforts to turn the company around. Historically, the company has paid all employees\nsimilarly with some variation for seniority but no distinction between high and low performers.\nWhich of the following, if true, best supports the argument that Homelife executives should\nprimarily address internal equity issues when developing a new compensation plan?",
+        "options": {
+            "A": "Homelife employees receive annual performance appraisals at which time they set career\ngoals.",
+            "B": "Salary surveys indicate dissatisfaction among the Homelife managers in different\ndepartments.",
+            "C": "Online pay sites show the pay range for sales associates at both Homelife and its competitors.",
+            "D": "Homelife pays its sales managers commissions in addition to base salaries and health\nbenefits."
+        },
+        "answer": "B",
+        "explanation": "B) Internal equity refers to how fair the job's pay rate is when compared to other\njobs within the same company. In this case, surveys indicate that managers in different\ndepartments at Homelife are dissatisfied with their earnings."
+    },
+    {
+        "chapter": "11",
+        "question_number": "44)",
+        "description": "Homelife, a national chain of high-end furniture stores, employs nearly 800 workers. In the\npast few years, the company's market share has dropped significantly, and employee turnover has\nincreased. Upper management is considering the implementation of a new compensation policy\nin its efforts to turn the company around. Historically, the company has paid all employees\nsimilarly with some variation for seniority but no distinction between high and low performers.\nWhich of the following, if true, best supports the argument that Homelife should distribute salary\nsurveys before establishing new pay rates?",
+        "options": {
+            "A": "Homelife executives want to identify benchmark jobs before determining the worth of other\njobs.",
+            "B": "Homelife executives plan to use the compensable factors emphasized by the Equal Pay Act.",
+            "C": "Computerized job evaluation systems will be used by Homelife to generate questionnaires.",
+            "D": "A wage curve needs to be established by Homelife for the purpose of federal compliance."
+        },
+        "answer": "A",
+        "explanation": "A) Employers use salary surveys to price benchmark jobs. Benchmark jobs are the\nanchor jobs around which they slot their other jobs, based on each job's relative worth to the\nfirm."
+    },
+    {
+        "chapter": "11",
+        "question_number": "65)",
+        "description": "Which of the following is used to anchor the employer's pay scale?",
+        "options": {
+            "A": "grades",
+            "B": "job metric",
+            "C": "benchmark job",
+            "D": "human resource metric"
+        },
+        "answer": "C",
+        "explanation": "C) Benchmark jobs are the anchor jobs around which employers slot their other\njobs, based on each job's relative worth to the firm."
+    },
+    {
+        "chapter": "11",
+        "question_number": "66)",
+        "description": "Which of the following terms refers to a systematic comparison done in order to determine\nthe worth of one job relative to another?",
+        "options": {
+            "A": "job analysis",
+            "B": "job evaluation",
+            "C": "job description",
+            "D": "job classification"
+        },
+        "answer": "B",
+        "explanation": "B) Job evaluation aims to determine a job's relative worth. The job evaluation is a\nformal and systematic comparison of jobs to determine the worth of one job relative to another.\nJob evaluation eventually results in a wage or salary structure or hierarchy."
+    },
+    {
+        "chapter": "11",
+        "question_number": "67)",
+        "description": "Central basic factors that establish how several jobs compare to one another and that\ndetermine the pay for each job are called ________.",
+        "options": {
+            "A": "compensable factors",
+            "B": "job evaluation factors",
+            "C": "ranking factors",
+            "D": "analysis factors"
+        },
+        "answer": "A",
+        "explanation": "A) Firms can compare several jobs by focusing on certain basic factors the jobs\nhave in common. Compensation management specialists call these compensable factors. They\nare the factors that establish how the jobs compare to one another and that determine the pay for\neach job."
+    },
+    {
+        "chapter": "11",
+        "question_number": "68)",
+        "description": "In most cases, the majority of the members on a job evaluation committee are ________.",
+        "options": {
+            "A": "managers",
+            "B": "employees",
+            "C": "HR specialists",
+            "D": "union representatives"
+        },
+        "answer": "B",
+        "explanation": "B) A job evaluation committee usually consists of about five members, most of\nwhom are employees. Management has the right to serve on such committees, but employees\nmay view this with suspicion."
+    },
+    {
+        "chapter": "11",
+        "question_number": "69)",
+        "description": "Which of the following is NOT one of the typical methods used by job evaluation\ncommittees to determine the worth of a job?",
+        "options": {
+            "A": "ranking",
+            "B": "point method",
+            "C": "job classification",
+            "D": "paired comparison"
+        },
+        "answer": "D",
+        "explanation": "D) A job evaluation committee will probably use one of the following methods:\nranking, job classification, or point method. Paired comparison is a method for ranking employee\nperformance."
+    },
+    {
+        "chapter": "11",
+        "question_number": "70)",
+        "description": "When using the job evaluation method of job classification, raters categorize jobs into groups\nof similar jobs called ________.",
+        "options": {
+            "A": "classes",
+            "B": "sections",
+            "C": "grades",
+            "D": "cohorts"
+        },
+        "answer": "A",
+        "explanation": "A) Job classification is a simple, widely used method in which raters categorize\njobs into groups with roughly the same value for pay purposes. The groups are called classes if\nthey contain similar jobs."
+    },
+    {
+        "chapter": "11",
+        "question_number": "71)",
+        "description": "Which of the following best describes the point method of job evaluation?",
+        "options": {
+            "A": "ranking each job relative to all other jobs based on pay grade",
+            "B": "categorizing jobs into grades and classes based on specific rules",
+            "C": "deciding which jobs have a higher number of compensable factors",
+            "D": "identifying and quantifying the compensable factors present in a job"
+        },
+        "answer": "D",
+        "explanation": "D) The point method is a quantitative technique that involves identifying several\ncompensable factors, each having several degrees, as well as the degree to which each of these\nfactors is present in the job."
+    },
+    {
+        "chapter": "11",
+        "question_number": "72)",
+        "description": "Which job evaluation method is a quantitative technique involving the identification of\nseveral compensable factors and the degree to which each of these factors is present in the job?",
+        "options": {
+            "A": "ranking method",
+            "B": "point method",
+            "C": "job grading method",
+            "D": "job classification method"
+        },
+        "answer": "B",
+        "explanation": "B) The point method is a quantitative job evaluation method in which a number of\ncompensable factors are identified and then the degree to which each of these factors is present\non the job is determined."
+    },
+    {
+        "chapter": "11",
+        "question_number": "73)",
+        "description": "Which job evaluation method is used by most modern employers?",
+        "options": {
+            "A": "job classification method",
+            "B": "job grading method",
+            "C": "ranking method",
+            "D": "point method"
+        },
+        "answer": "D",
+        "explanation": "D) The point method of job evaluation is the most popular job evaluation method\ntoday. Job classification, job grading, and ranking are less popular."
+    },
+    {
+        "chapter": "11",
+        "question_number": "74)",
+        "description": "What are the two primary components of computerized job evaluations?",
+        "options": {
+            "A": "compensable factors and benchmark jobs",
+            "B": "grade definitions and factor comparisons",
+            "C": "structured questionnaires and statistical models",
+            "D": "structured questionnaires and grade definitions"
+        },
+        "answer": "C",
+        "explanation": "C) Most computerized job evaluation systems have two main components. A\nstructured questionnaire and a statistical model streamline the job evaluation process."
+    },
+    {
+        "chapter": "11",
+        "question_number": "81)",
+        "description": "The point method of job evaluation is the most frequently used job evaluation method, but it\nis also associated with lawsuits involving comparable worth. In a brief essay, explain the point\nmethod of job evaluation and why it is problematic for firms in regards to comparable worth.\nAnswer: The point method is a quantitative technique. It involves identifying (1) several\ncompensable factors, each having several degrees, as well as (2) the degree to which each of\nthese factors is present in the job. Assume there are five degrees of \"responsibility\" a job could\ncontain. Further, assume you assign a different number of points to each degree of each factor.\nOnce the evaluation committee determines the degree to which each compensable factor (like\n\"responsibility\" and \"effort\") is present in the job, it can calculate a total point value for the job\nby adding up the corresponding points for each factor. The result is a quantitative point rating for\neach job. Comparable worth has implications for job evaluation. Virtually every comparable\nworth case that reached a court involved the use of the point method of job evaluation. By\nassigning points to dissimilar jobs, point plans facilitate comparability ratings among different\njobs. Perhaps the wisest approach is for employers to price their jobs as they see fit (with or\nwithout point plans), but to ensure that women have equal access to all jobs. In other words,\neliminate the wage discrimination issue by eliminating sex-segregated jobs..\nDifficulty: Hard\nChapter: 11\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 11.2 Define and give an example of how to conduct a job evaluation.\n82) Which of the following is NOT one of the compensable factors emphasized in the Equal Pay\nAct?",
+        "options": {
+            "A": "skills",
+            "B": "accountability",
+            "C": "responsibility",
+            "D": "working conditions"
+        },
+        "answer": "B",
+        "explanation": "B) The Equal Pay Act emphasizes four compensable factors—skills, effort,\nresponsibility, and working conditions."
+    },
+    {
+        "chapter": "11",
+        "question_number": "83)",
+        "description": "A ________ is comprised of jobs of approximately equal difficulty or importance as\nestablished by job evaluation.",
+        "options": {
+            "A": "wage curve",
+            "B": "benchmark",
+            "C": "pay grade",
+            "D": "class"
+        },
+        "answer": "C",
+        "explanation": "C) A pay grade is comprised of jobs of approximately equal difficulty or\nimportance as established by job evaluation."
+    },
+    {
+        "chapter": "11",
+        "question_number": "84)",
+        "description": "Which of the following shows the relationship between the value of the job and the average\npay for this job?",
+        "options": {
+            "A": "benchmark",
+            "B": "pay grade",
+            "C": "scatter plot",
+            "D": "wage curve"
+        },
+        "answer": "D",
+        "explanation": "D) The wage curve shows the pay rates currently paid for jobs in each pay grade,\nrelative to the points or rankings assigned to each job or grade by the job evaluation. You'll\ntypically use a wage curve to help assign pay rates to each pay grade (or to each job)."
+    },
+    {
+        "chapter": "11",
+        "question_number": "85)",
+        "description": "The purpose of the wage curve is to ________.",
+        "options": {
+            "A": "show the relationship between the value of the job and the current average pay rates",
+            "B": "equate jobs of similar difficulty or importance as established by job evaluation",
+            "C": "choose benchmark jobs within each pay grade",
+            "D": "cluster jobs into logical groupings"
+        },
+        "answer": "A",
+        "explanation": "A) The purpose of the wage curve is to show the relationships between the value of\nthe job as determined by one of the job evaluation methods and the current average pay rates for\nyour grades."
+    },
+    {
+        "chapter": "11",
+        "question_number": "86)",
+        "description": "Phil, the owner of Eastline Electronics, recently learned that the current rate being paid for\nthe position of engineering assistant at his firm falls significantly below the wage line. Which of\nthe following steps should Phil most likely take to correct this problem?",
+        "options": {
+            "A": "enact a pay freeze for that job",
+            "B": "assess a decrease in wages",
+            "C": "pay a one-time bonus",
+            "D": "provide a pay raise"
+        },
+        "answer": "D",
+        "explanation": "D) If the current rates being paid for any of your jobs or grades fall well above or\nbelow the wage line, raises or a pay freeze for that job may be in order. In this case, a pay raise is\nappropriate because the rate is below the wage line."
+    },
+    {
+        "chapter": "11",
+        "question_number": "87)",
+        "description": "Which of the following terms refers to a series of steps or levels within a pay grade?",
+        "options": {
+            "A": "pay metric",
+            "B": "pay range",
+            "C": "wage class",
+            "D": "wage curve"
+        },
+        "answer": "B",
+        "explanation": "B) The term pay range refers to a series of steps or levels within a pay grade. It lets\nthe employer take a more flexible stance in the labor market."
+    },
+    {
+        "chapter": "11",
+        "question_number": "88)",
+        "description": "Which of the following questions is most relevant to developing a market-competitive pay\nsystem?",
+        "options": {
+            "A": "What is the ranking of each job?",
+            "B": "What is the relevant labor market?",
+            "C": "What percentage of workers are contingent?",
+            "D": "What are the local and federal pay regulations?"
+        },
+        "answer": "B",
+        "explanation": "B) With a market-competitive pay system, the employer's actual pay rates are\ncompetitive with those in the relevant labor markets. Rankings are more relevant to the job\nevaluation method of setting pay rates."
+    },
+    {
+        "chapter": "11",
+        "question_number": "89)",
+        "description": "Richard was recently offered a position as vice president of marketing at a national retail\nchain. As a top executive at the firm, Richard will most likely be compensated with all of the\nfollowing EXCEPT ________.",
+        "options": {
+            "A": "stock options",
+            "B": "pension plans",
+            "C": "sales commissions",
+            "D": "supplemental life insurance"
+        },
+        "answer": "C",
+        "explanation": "C) Compensation for a company's top executives usually consists of four main\nelements: base pay, short-term incentives like bonuses, long-term incentives, and executive perks\nsuch as pension plans and supplemental life insurance. Sales commissions are not a typical\ncompensation for top executives."
+    },
+    {
+        "chapter": "11",
+        "question_number": "90)",
+        "description": "What is the primary purpose of offering an executive stock options in a compensation\npackage?",
+        "options": {
+            "A": "providing the executive with guaranteed bonuses",
+            "B": "encouraging the executive to increase the firm's value",
+            "C": "enabling the firm to decrease the executive's base pay",
+            "D": "offering the executive long-term retirement security"
+        },
+        "answer": "B",
+        "explanation": "B) Long-term incentives aim to encourage the executive to take actions that drive\nup the value of the company's stock and include things like stock options; these generally give\nthe executive the right to purchase stock at a specific price for a specific period."
+    },
+    {
+        "chapter": "11",
+        "question_number": "95)",
+        "description": "A company using competency-based pay compensates employees for all of the following\nEXCEPT ________.",
+        "options": {
+            "A": "behaviors",
+            "B": "job title",
+            "C": "knowledge",
+            "D": "skills"
+        },
+        "answer": "B",
+        "explanation": "B) Competency-based pay occurs when a firm pays wages based on an employee's\nknowledge, skills, behaviors, and abilities rather than for the job title that he or she holds."
+    },
+    {
+        "chapter": "11",
+        "question_number": "96)",
+        "description": "Homelife, a national chain of high-end furniture stores, employs nearly 800 workers. In the\npast few years, the company's market share has dropped significantly, and employee turnover has\nincreased. Upper management is considering the implementation of a new compensation policy\nin its efforts to turn the company around. Historically, the company has paid all employees\nsimilarly with some variation for seniority but no distinction between high and low performers.\nWhich of the following, if true, best supports the decision by Homelife executives to implement\ncompetency-based pay?",
+        "options": {
+            "A": "Homelife will be using the comparable worth method of determining pay to avoid legal\nproblems.",
+            "B": "Most Homelife managers are men, but executives hope to increase the number of minority\nwomen working for the company.",
+            "C": "Homelife plans to organize employees into teams, provide regular training, and frequently\nassess workers' skills and knowledge.",
+            "D": "In an effort to save money, Homelife will be reducing the employee training budget over the\nnext three years."
+        },
+        "answer": "C",
+        "explanation": "C) When used in conjunction with team-building and worker involvement\nprograms, competency-based pay appears to lead to higher quality and lower absenteeism.\nComparable worth and minority hiring are irrelevant to competency-based pay."
+    },
+    {
+        "chapter": "11",
+        "question_number": "97)",
+        "description": "________ means collapsing salary grades and ranges into just a few wide levels, each of\nwhich contains a relatively wide range of jobs and salary levels.",
+        "options": {
+            "A": "Comparable worth",
+            "B": "Job evaluation",
+            "C": "Broadbanding",
+            "D": "Job grading"
+        },
+        "answer": "C",
+        "explanation": "C) Broadbanding means collapsing salary grades into just a few wide levels or\nbands, each of which contains a relatively wide range of jobs and pay levels. A company may\ncreate broadbands for all its jobs or for specific groups such as managers or professionals."
+    },
+    {
+        "chapter": "11",
+        "question_number": "98)",
+        "description": "Which of the following terms refers to the requirement to pay men and women equal wages\nfor jobs of roughly equivalent value to the employer?",
+        "options": {
+            "A": "strategic compensation",
+            "B": "comparable worth",
+            "C": "broadbanding",
+            "D": "job grading"
+        },
+        "answer": "B",
+        "explanation": "B) Comparable worth refers to the requirement to pay men and women equal\nwages for jobs that are of comparable (rather than strictly equal) value to the employer.\nComparable worth may involve comparing quite dissimilar jobs."
+    },
+    {
+        "chapter": "11",
+        "question_number": "99)",
+        "description": "Which of the following job evaluation methods is associated with almost every comparable\nworth lawsuit?",
+        "options": {
+            "A": "job classification method",
+            "B": "job grading method",
+            "C": "ranking method",
+            "D": "point method"
+        },
+        "answer": "D",
+        "explanation": "D) Virtually every comparable worth case that reached a court involved the use of\nthe point method of job evaluation. By assigning points to dissimilar jobs, point plans facilitate\ncomparability ratings among different jobs."
+    },
+    {
+        "chapter": "11",
+        "question_number": "100)",
+        "description": "According to many experts, which of the following would most likely reduce the wage gap\nbetween men and women?",
+        "options": {
+            "A": "education",
+            "B": "union intervention",
+            "C": "federal legislation",
+            "D": "competency-based pay"
+        },
+        "answer": "A",
+        "explanation": "A) Education may reduce the wage gap. Studies suggest that schooling's impact on\nearnings is greater for females than for males, other things equal. This may be because education\nreduces the male–female earnings gap attributable to female discrimination."
+    },
+    {
+        "chapter": "11",
+        "question_number": "101)",
+        "description": "Which of the following is LEAST likely a benefit of using competency based pay?",
+        "options": {
+            "A": "supporting a firm's talent management process",
+            "B": "developing an efficient and legally defensible wage curve",
+            "C": "aiding in the implementation of a high-performance work system",
+            "D": "encouraging the development of skills needed for a firm's strategic goals"
+        },
+        "answer": "B",
+        "explanation": "B) First, paying for competencies enables companies to encourage employees to\ndevelop the competencies the companies require to achieve their strategic aims. Second, paying\nfor measurable competencies provides a focus for the employer's talent management process.\nThird, traditional pay plans can backfire if a high-performance work system is your goal."
+    }
+]

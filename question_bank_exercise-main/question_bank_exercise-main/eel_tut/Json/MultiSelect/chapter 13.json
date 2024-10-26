@@ -1,0 +1,912 @@
+[
+    {
+        "chapter": "13",
+        "question_number": "1)",
+        "description": "The indirect financial and nonfinancial payments employees receive for continuing their\nemployment with a company are called ________.",
+        "options": {
+            "A": "compensation",
+            "B": "salary",
+            "C": "benefits",
+            "D": "remuneration"
+        },
+        "answer": "C",
+        "explanation": "C) Benefits—indirect financial and nonfinancial payments employees receive for\ncontinuing their employment with the company—are an important part of just about everyone's\ncompensation. They include things like health and life insurance, pensions, time off with pay,\nand child-care assistance."
+    },
+    {
+        "chapter": "13",
+        "question_number": "2)",
+        "description": "Nonfinancial payments like health and life insurance, pensions, time off with pay, and child\ncare facilities are examples of ________.",
+        "options": {
+            "A": "competency-based incentives",
+            "B": "variable pay",
+            "C": "benefits",
+            "D": "bonuses"
+        },
+        "answer": "C",
+        "explanation": "C) Benefits are indirect financial and nonfinancial payments employees receive for\ncontinuing their employment with the company. They include things like health and life\ninsurance, pensions, time off with pay, and child-care assistance."
+    },
+    {
+        "chapter": "13",
+        "question_number": "3)",
+        "description": "Which of the following benefits is required by federal or state law?",
+        "options": {
+            "A": "unemployment insurance",
+            "B": "disability insurance",
+            "C": "health insurance",
+            "D": "pensions"
+        },
+        "answer": "A",
+        "explanation": "A) Federal law requires that employers provide unemployment insurance, but\ndisability insurance, health insurance, and pensions are optional for employers."
+    },
+    {
+        "chapter": "13",
+        "question_number": "4)",
+        "description": "All of the following benefits are required by federal or state law EXCEPT ________.",
+        "options": {
+            "A": "workers' compensation",
+            "B": "unemployment insurance",
+            "C": "disability insurance",
+            "D": "maternity leave"
+        },
+        "answer": "C",
+        "explanation": "C) Workers' compensation and unemployment insurance are required by federal\nand/or state laws. Maternity leave is covered under the Family Medical Leave Act. Disability\ninsurance is not required."
+    },
+    {
+        "chapter": "13",
+        "question_number": "5)",
+        "description": "Which of the following terms refers to benefits for time not worked, such as unemployment\ninsurance, vacation and holiday pay, and sick pay?",
+        "options": {
+            "A": "supplemental pay benefits",
+            "B": "employee assistance",
+            "C": "financial incentives",
+            "D": "premium benefits"
+        },
+        "answer": "A",
+        "explanation": "A) Pay for time not worked—also called supplemental pay benefits—is the most\ncostly benefit. Common time-off-with-pay periods include holidays, vacations, jury duty, funeral\nleave, military duty, personal days, sick leave, sabbatical leave, maternity leave, and\nunemployment insurance payments for laid-off or terminated employees."
+    },
+    {
+        "chapter": "13",
+        "question_number": "6)",
+        "description": "Keith works as a construction foreman, and he is viewed as a reliable, competent employee.\nKeith was recently injured in a car accident while on vacation, and his injuries are so severe that\nhe will not be able to return to work. Which of the following would most likely provide Keith\nwith benefits?",
+        "options": {
+            "A": "group life insurance",
+            "B": "unemployment insurance",
+            "C": "workers' compensation insurance",
+            "D": "supplemental unemployment benefits"
+        },
+        "answer": "B",
+        "explanation": "B) Unemployment insurance provides benefits if a person is unable to work\nthrough no fault of his or her own. Workers' compensation is for on-the-job injuries, and\nsupplemental unemployment benefits provide a guaranteed annual income when certain\nindustries are forced to shut down temporarily. Keith did not die, so group life insurance would\nprovide no benefits."
+    },
+    {
+        "chapter": "13",
+        "question_number": "7)",
+        "description": "Which of the following provides pay to an employee when he or she is temporarily out of\nwork because of illness?",
+        "options": {
+            "A": "sick leave",
+            "B": "severance pay",
+            "C": "supplemental pay",
+            "D": "workers' compensation"
+        },
+        "answer": "A",
+        "explanation": "A) Sick leave provides pay to employees when they're out of work due to illness.\nMost sick leave policies grant full pay for a specified number of sick days—usually up to about\n12 per year."
+    },
+    {
+        "chapter": "13",
+        "question_number": "8)",
+        "description": "What is the maximum number of weeks of unpaid leave that an employee may take under the\nFamily and Medical Leave Act?",
+        "options": {
+            "A": "six",
+            "B": "ten",
+            "C": "twelve",
+            "D": "sixteen"
+        },
+        "answer": "C",
+        "explanation": "C) Private employers of 50 or more employees must provide eligible employees\n(women or men) up to 12 weeks of unpaid leave for their own serious illness, the birth or\nadoption of a child, or the care of a seriously ill child, spouse, or parent."
+    },
+    {
+        "chapter": "13",
+        "question_number": "9)",
+        "description": "All of the following are true statements regarding the application of the Family and Medical\nLeave Act EXCEPT ________.",
+        "options": {
+            "A": "employers must receive advance notice and medical certification from the employee",
+            "B": "eligible employees must have worked for the employer for at least one year",
+            "C": "employees must be employed at job sites with at least 50 employees",
+            "D": "up to 12 weeks must be granted in a 12-month period"
+        },
+        "answer": "A",
+        "explanation": "A) Employers may require employees to provide advance notice and medical\ncertification, but this is not a requirement. Employees are eligible for up to 12 weeks of leave if\nthey have worked for the employer for at least 1 year and if the employer has at least 50 workers\non site."
+    },
+    {
+        "chapter": "13",
+        "question_number": "10)",
+        "description": "To be eligible for leave under the Family and Medical Leave Act, an employee must have\nworked ________ hours during the past twelve consecutive months.",
+        "options": {
+            "A": "850",
+            "B": "1000",
+            "C": "1250",
+            "D": "1600"
+        },
+        "answer": "C",
+        "explanation": "C) Employees are eligible if they have worked for the employer for at least 1 year\nand for 1,250 hours over the last 12 months."
+    },
+    {
+        "chapter": "13",
+        "question_number": "11)",
+        "description": "Eric has worked full-time for a large manufacturing company for over three years. Eric and\nhis wife have recently adopted a baby, and Eric wants to take time off from work to care for the\nchild. Which of the following laws most likely applies to Eric's situation?",
+        "options": {
+            "A": "Pregnancy Discrimination Act",
+            "B": "Family and Medical Leave Act",
+            "C": "Title VII of the Civil Rights Act",
+            "D": "Health Insurance Portability and Accountability Act"
+        },
+        "answer": "B",
+        "explanation": "B) Private employers of 50 or more employees must provide eligible employees\n(women or men) up to 12 weeks of unpaid leave for their own serious illness, the birth or\nadoption of a child, or the care of a seriously ill child, spouse, or parent."
+    },
+    {
+        "chapter": "13",
+        "question_number": "12)",
+        "description": "The Family and Medical Leave Act ________.",
+        "options": {
+            "A": "provides guidelines regarding what rates of return employers should use in computing their\npension plan values",
+            "B": "ensures that an employer must grant an employee up to 12 weeks of leave in a 12-month\nperiod for the birth or care of a newborn child, placement of a child for adoption, to care for a\nspouse, child, or parent with a serious health condition, or to care for the employee's own serious\nhealth condition",
+            "C": "prohibits an employer's health plan from using incentives to encourage employees to leave the\nhospital after childbirth after less than the legislatively-determined minimum stay",
+            "D": "sets minimum requirements for protecting individuals' health-care data accessibility and\nconfidentiality"
+        },
+        "answer": "B",
+        "explanation": "B) The FMLA of 1993 ensures that an employer must grant an employee up to 12\nweeks of leave in a 12-month period for the birth or care of a newborn child, placement of a\nchild for adoption, to care for a spouse, child, or parent with a serious health condition, or to care\nfor the employee's own serious health condition."
+    },
+    {
+        "chapter": "13",
+        "question_number": "13)",
+        "description": "Which of the following is NOT an employer cost associated with granting leave to\nemployees under the Family and Medical Leave Act?",
+        "options": {
+            "A": "paying temporary workers",
+            "B": "recruiting replacement workers",
+            "C": "paying employee for time not worked",
+            "D": "compensating for lower productivity of new workers"
+        },
+        "answer": "C",
+        "explanation": "C) FMLA leaves are usually unpaid, but they're not costless. The costs associated\nwith hiring temporary replacements, training them, and compensating for their lower\nproductivity can be considerable."
+    },
+    {
+        "chapter": "13",
+        "question_number": "14)",
+        "description": "Rita was terminated from her position as an accounts manager with Carson Financial, Inc.\nOn her last day at work, Rita received a check for $3,500. Which of the following did Rita most\nlikely receive from Carson Financial?",
+        "options": {
+            "A": "merit pay",
+            "B": "annual bonus",
+            "C": "severance pay",
+            "D": "performance pay"
+        },
+        "answer": "C",
+        "explanation": "C) Many employers provide severance pay, a one-time separation payment when\nterminating an employee. Severance pay is a humanitarian gesture, and it reduces the chances of\nlitigation from disgruntled former employees."
+    },
+    {
+        "chapter": "13",
+        "question_number": "15)",
+        "description": "All of the following are typical reasons that employers provide severance pay when\ndownsizing EXCEPT ________.",
+        "options": {
+            "A": "reducing litigation chances",
+            "B": "ensuring good public relations",
+            "C": "reassuring remaining employees",
+            "D": "adhering to government requirements"
+        },
+        "answer": "D",
+        "explanation": "D) Employers are not required to provide severance pay. It is a humanitarian\ngesture and good public relations. It also reduces the chances of litigation from disgruntled\nformer employees and helps reassure employees who stay on after the employer downsizes its\nworkforce."
+    },
+    {
+        "chapter": "13",
+        "question_number": "16)",
+        "description": "Elizabeth works at an auto manufacturing firm that recently shut down for five weeks to\nchange machinery. However, during the shutdown, Elizabeth was able to maintain her standard\nof living because of the firm's ________.",
+        "options": {
+            "A": "supplemental unemployment benefits",
+            "B": "workers' compensation insurance",
+            "C": "disability insurance",
+            "D": "severance pay"
+        },
+        "answer": "A",
+        "explanation": "A) Supplemental unemployment benefits are cash payments that supplement the\nemployee's unemployment compensation, to help the person maintain his or her standard of\nliving while out of work. They generally cover three contingencies: layoffs, reduced workweeks,\nand facility relocations."
+    },
+    {
+        "chapter": "13",
+        "question_number": "17)",
+        "description": "Which of the following requires employers to treat women affected by pregnancy, childbirth,\nor related medical conditions the same as any employee not able to work, with respect to all\nbenefits?",
+        "options": {
+            "A": "Family and Medical Leave Act",
+            "B": "Pregnancy Discrimination Act",
+            "C": "Comprehensive Omnibus Budget Reconciliation Act",
+            "D": "Health Insurance Portability and Accountability Act"
+        },
+        "answer": "B",
+        "explanation": "B) The Pregnancy Discrimination Act requires employers to treat women affected\nby pregnancy, childbirth, or related medical conditions the same as any other employees not able\nto work, with respect to all benefits. The FMLA allows employees to take medical leave for the\nbirth of a child."
+    },
+    {
+        "chapter": "13",
+        "question_number": "31)",
+        "description": "Who contributes funds for workers' compensation benefits?",
+        "options": {
+            "A": "state governments",
+            "B": "federal government",
+            "C": "insurance providers",
+            "D": "employers"
+        },
+        "answer": "D",
+        "explanation": "D) Employers must carry workers' compensation insurance, which is the source of\nworkers' compensation benefits. State governments, federal governments, and insurance\nproviders do not contribute to workers' compensation funds."
+    },
+    {
+        "chapter": "13",
+        "question_number": "32)",
+        "description": "Which of the following provides income and medical benefits to employment-related\naccident victims or their dependents?",
+        "options": {
+            "A": "severance pay",
+            "B": "family and medical leave",
+            "C": "workers' compensation",
+            "D": "health insurance benefits"
+        },
+        "answer": "C",
+        "explanation": "C) Workers' compensation laws aim to provide sure, prompt income and medical\nbenefits to work-related accident victims or their dependents, regardless of fault."
+    },
+    {
+        "chapter": "13",
+        "question_number": "33)",
+        "description": "Employers must provide employees who have work-related injuries with all of the following\nEXCEPT ________.",
+        "options": {
+            "A": "cash benefits",
+            "B": "medical services",
+            "C": "hospital services",
+            "D": "time off with full pay"
+        },
+        "answer": "D",
+        "explanation": "D) Employers must provide cash benefits and medical, surgical, and hospital\nservices. Time off with pay is not an aspect of workers' compensation claims."
+    },
+    {
+        "chapter": "13",
+        "question_number": "34)",
+        "description": "Which of the following conditions must be met for an injured employee to earn workers'\ncompensation from the employer?",
+        "options": {
+            "A": "The employee was injured while on the job.",
+            "B": "The employee suffered the injury through no fault of his or her own.",
+            "C": "The employee worked full-time for the employer for a minimum of 12 months.",
+            "D": "The employee received adequate job training to understand the position's requirements."
+        },
+        "answer": "A",
+        "explanation": "A) For workers' compensation to cover an injury or work-related illness, one must\nonly prove that it arose while the worker was on the job. It does not matter that he or she may\nhave been at fault; if the person was on the job when the injury occurred, he or she is entitled to\nworkers' compensation."
+    },
+    {
+        "chapter": "13",
+        "question_number": "35)",
+        "description": "Which of the following is a popular workers' compensation cost-control measure that\ninvolves coordinating the medical care and health insurance coverage for each injured employee?",
+        "options": {
+            "A": "nurse management",
+            "B": "case management",
+            "C": "health maintenance",
+            "D": "medical rehabilitation"
+        },
+        "answer": "B",
+        "explanation": "B) Case management is a popular cost-control option. It is \"the treatment of\ninjured workers on a case-by-case basis by an assigned manager, usually a registered nurse, who\ncoordinates with the physician and health plan to determine which care settings are the most\neffective for quality care and cost.\""
+    },
+    {
+        "chapter": "13",
+        "question_number": "36)",
+        "description": "Which health benefit is offered by almost all employers?",
+        "options": {
+            "A": "vision insurance",
+            "B": "chiropractic insurance",
+            "C": "prescription drug coverage",
+            "D": "health maintenance organization"
+        },
+        "answer": "C",
+        "explanation": "C) Prescription drug coverage is offered by 98% of employers."
+    },
+    {
+        "chapter": "13",
+        "question_number": "37)",
+        "description": "Which of the following is a prepaid health care system that provides medical services for\nemployees who pay a nominal fee?",
+        "options": {
+            "A": "PPO",
+            "B": "HMO",
+            "C": "DMO",
+            "D": "ESOP"
+        },
+        "answer": "B",
+        "explanation": "B) Many employers offer membership in a health maintenance organization\n(HMO) as a hospital/medical insurance option. It provides routine medical services to employees\nwho pay a nominal fee. PPOs require higher fees due to having more provider options."
+    },
+    {
+        "chapter": "13",
+        "question_number": "38)",
+        "description": "________ are groups of health care providers that contract with employers, insurance\ncompanies, or third-party payers to provide medical care services at a reduced fee.",
+        "options": {
+            "A": "PPOs",
+            "B": "HMOs",
+            "C": "DMOs",
+            "D": "ADDs"
+        },
+        "answer": "A",
+        "explanation": "A) Preferred provider organizations (PPOs) are a cross between HMOs and the\ntraditional doctor-patient arrangement: They are \"groups of health care providers that contract\nwith employers, insurance companies, or third-party payers to provide medical care services at a\nreduced fee.\""
+    },
+    {
+        "chapter": "13",
+        "question_number": "39)",
+        "description": "The primary difference between health maintenance organizations and preferred provider\norganizations is that ________.",
+        "options": {
+            "A": "PPOs are less costly than HMOs",
+            "B": "HMOs are more flexible than PPOs",
+            "C": "HMOs offer mental health services while PPOs do not",
+            "D": "PPOs allow patients to choose from a list of doctors without referrals"
+        },
+        "answer": "D",
+        "explanation": "D) Unlike HMOs, PPOs let employees select providers (such as doctors) from a\nrelatively wide list, and see them in their offices, often without gatekeeper doctor approval. The\nproviders agree to provide discounts and submit to certain utilization controls, such as on the\nnumber of diagnostic tests they can order."
+    },
+    {
+        "chapter": "13",
+        "question_number": "40)",
+        "description": "All of the following are the most likely reasons that mental health costs are rising EXCEPT\n________.",
+        "options": {
+            "A": "widespread drug and alcohol problems",
+            "B": "more mental health referrals by specialists",
+            "C": "mental health claims triggering health care claims",
+            "D": "laws requiring employers to offer mental health benefits"
+        },
+        "answer": "B",
+        "explanation": "B) Mental health costs are rising. Reasons include widespread drug and alcohol\nproblems, an increase in states that require employers to offer minimum mental health benefits,\nand the fact that mental health claims tend to trigger other health care claims."
+    },
+    {
+        "chapter": "13",
+        "question_number": "41)",
+        "description": "Which of the following sets minimum mental health care benefits?",
+        "options": {
+            "A": "Civil Rights Act",
+            "B": "Employee Mental Health Act",
+            "C": "Americans with Disabilities Act",
+            "D": "Mental Health Parity Act"
+        },
+        "answer": "D",
+        "explanation": "D) The Mental Health Parity Act of 1996 (as amended in 2008) sets minimum\nmental health care benefits; it also prohibits employer group health plans from adopting mental\nhealth benefits limitations without comparable limitations on medical and surgical benefits."
+    },
+    {
+        "chapter": "13",
+        "question_number": "42)",
+        "description": "Which of the following requires that most private employers continue to make health\nbenefits available to terminated or retired employees and their families for a period of time?",
+        "options": {
+            "A": "FMLA",
+            "B": "COBRA",
+            "C": "OSHA",
+            "D": "ADA"
+        },
+        "answer": "B",
+        "explanation": "B) COBRA—Consolidated Omnibus Budget Reconciliation Act—requires most\nprivate employers to continue to make health benefits available to separated employees and their\nfamilies for a time, generally 18 months after separation. The former employee must pay for the\ncoverage."
+    },
+    {
+        "chapter": "13",
+        "question_number": "43)",
+        "description": "The Consolidated Omnibus Budget Reconciliation Act ________.",
+        "options": {
+            "A": "prohibits an employer's health plan from using incentives to encourage employees to leave\nthe hospital after childbirth after less than the legislatively-determined minimum stay",
+            "B": "limits the ability of health plans to set annual or lifetime maximums on mental and nervous\ndisorder benefits",
+            "C": "requires that most private employers continue to make health benefits available to terminated\nor retired employees and their families for a period of time",
+            "D": "sets minimum requirements for protecting individuals' health-care data accessibility and\nconfidentiality"
+        },
+        "answer": "C",
+        "explanation": "C) COBRA—Consolidated Omnibus Budget Reconciliation Act—requires most\nprivate employers to continue to make health benefits available to separated employees and their\nfamilies for a time, generally 18 months after separation. The former employee must pay for the\ncoverage."
+    },
+    {
+        "chapter": "13",
+        "question_number": "44)",
+        "description": "COBRA requires most private employers to continue to make health benefits available to\nterminated or retired employees and their families for a period of time, generally ________\nmonths.",
+        "options": {
+            "A": "6",
+            "B": "12",
+            "C": "18",
+            "D": "24"
+        },
+        "answer": "C",
+        "explanation": "C) COBRA—Consolidated Omnibus Budget Reconciliation Act—requires most\nprivate employers to continue to make health benefits available to separated employees and their\nfamilies for a time, generally 18 months after separation."
+    },
+    {
+        "chapter": "13",
+        "question_number": "45)",
+        "description": "Which of the following is NOT a true statement about the Protection and Affordable Care\nAct of 2010?",
+        "options": {
+            "A": "Employers must offer health insurance coverage to employees who work at least 30 hours per\nweek.",
+            "B": "Employers will be required to pay a 20% excise tax on high-cost health insurance plans.",
+            "C": "Contributions to health care flexible spending accounts have been capped at $2,500.",
+            "D": "Health plans with dependent coverage must expand eligibility up to age 26."
+        },
+        "answer": "B",
+        "explanation": "B) In 2018, a 40% excise tax on high cost health insurance plans goes into effect.\nEmployers must offer coverage to employees including those working at least 30 hours per\nweek, contributions to health care flexible spending arrangements will be limited to $2500 as of\nJanuary 1, 2013, and individual and group health plans that already provide dependent coverage\nmust expand eligibility up to age 26."
+    },
+    {
+        "chapter": "13",
+        "question_number": "46)",
+        "description": "Which of the following represents the largest proportion of all reported disabilities?",
+        "options": {
+            "A": "respiratory diseases",
+            "B": "cardiovascular diseases",
+            "C": "mental illness",
+            "D": "cancer"
+        },
+        "answer": "C",
+        "explanation": "C) The World Health Organization estimates that more than 34 million people in\nthe United States between the ages of 18 and 64 suffer from mental illness. Mental illnesses\nrepresent about 24% of all reported disabilities, more than disabling injuries, respiratory\ndiseases, cardiovascular diseases, and cancer combined."
+    },
+    {
+        "chapter": "13",
+        "question_number": "47)",
+        "description": "Which of the following best describes the purpose of the Newborn Mother's Protection Act?",
+        "options": {
+            "A": "guarantee pension plans and health insurance coverage for female employees who have\nrecently given birth",
+            "B": "prohibit employer health plans from using incentives to encourage employees to leave the\nhospital after childbirth sooner than legally required",
+            "C": "prevent employers from discriminating against women affected by pregnancy or childbirth in\nrespect to benefits coverage",
+            "D": "set minimum requirements for accessing the health records of female employees"
+        },
+        "answer": "B",
+        "explanation": "B) The Newborn Mother's Protection Act of 1996 prohibits employers' health plans\nfrom using incentives to encourage employees to leave the hospital after childbirth after less than\nthe legislatively determined minimum stay."
+    },
+    {
+        "chapter": "13",
+        "question_number": "48)",
+        "description": "All of the following are preventive services offered by employers as part of their wellness\nprograms EXCEPT ________.",
+        "options": {
+            "A": "anti-smoking incentives",
+            "B": "low-cost immunizations",
+            "C": "case management services",
+            "D": "stress management"
+        },
+        "answer": "C",
+        "explanation": "C) Case management is a method used by employers to save money in workers'\ncompensation claims."
+    },
+    {
+        "chapter": "13",
+        "question_number": "49)",
+        "description": "In which of the following can employers and employees deposit pretax wages to pay for non-\ncatastrophic medical expenses?",
+        "options": {
+            "A": "health maintenance organizations",
+            "B": "health benefits funds",
+            "C": "health savings accounts",
+            "D": "deferred savings plans"
+        },
+        "answer": "C",
+        "explanation": "C) The Medicare Modernization Act of 2003 allows employers to establish tax-\nfree health savings accounts (HSA). After the employer, employee, or both deposit pretax (and\nthus tax sheltered) pay in the employees' HSAs, employees or their families can use their HSA\nfunds to pay for \"low dollar\" (not catastrophic) medical expenses."
+    },
+    {
+        "chapter": "13",
+        "question_number": "50)",
+        "description": "All of the following are health care cost-control methods used by employers EXCEPT\n________.",
+        "options": {
+            "A": "requiring employees to pay high premiums",
+            "B": "benefits purchasing alliances",
+            "C": "requiring disability insurance",
+            "D": "encouraging medical tourism"
+        },
+        "answer": "C",
+        "explanation": "C) Requiring disability insurance is not a common health care cost-control method."
+    },
+    {
+        "chapter": "13",
+        "question_number": "51)",
+        "description": "Which of the following provides lower rates for the employer or employee and includes all\nemployees regardless of health or physical condition?",
+        "options": {
+            "A": "workers' compensation insurance",
+            "B": "group life insurance",
+            "C": "disability insurance",
+            "D": "pension plans"
+        },
+        "answer": "B",
+        "explanation": "B) In addition to hospitalization and medical benefits, most employers provide\ngroup life insurance plans. Employees can usually obtain lower rates in a group plan. And group\nplans usually accept all employees—including new, nonprobationary ones—regardless of health\nor physical condition."
+    },
+    {
+        "chapter": "13",
+        "question_number": "52)",
+        "description": "About how many million people work part-time in the United States?",
+        "options": {
+            "A": "1",
+            "B": "5",
+            "C": "11",
+            "D": "19"
+        },
+        "answer": "D",
+        "explanation": "D) About 19 million people work part-time in the United States."
+    },
+    {
+        "chapter": "13",
+        "question_number": "63)",
+        "description": "Because health care coverage is one of the most expensive benefits employers provide, many\nemployers are trying to cut costs. What are some strategies for minimizing costs associated with\nemployee health care?\nAnswer: Employers are endeavoring to rein in health-care costs. Most cost-control efforts\nshould start by instituting methods for measuring and auditing health-care costs. One survey\nfound that although the industry standard for percentage of claims errors is 3%, the actual\npercentage of claims with errors was about 6.3%. Several possible strategies include wellness\nprograms, on-site primary care, retaining cost containment specialists, offering health savings\naccounts, high deductible plans, defined contribution health insurance plans, and accountable\ncare organizations (ACO).\nDifficulty: Hard\nChapter: 13\nObjective: 2\nAACSB: Analytical Thinking\nLearning Outcome: 13.2 Describe each of the main insurance benefits.\n64) For individuals born in 1960 or later, the full retirement age for non-discounted Social\nSecurity benefits is ________.",
+        "options": {
+            "A": "62",
+            "B": "65",
+            "C": "67",
+            "D": "70"
+        },
+        "answer": "C",
+        "explanation": "C) \"Full retirement age\" for non-discounted Social Security benefits traditionally\nwas 65—the usual age for retirement. It is now 67 for those born in 1960 or later."
+    },
+    {
+        "chapter": "13",
+        "question_number": "65)",
+        "description": "Social Security offers all of the following EXCEPT ________.",
+        "options": {
+            "A": "survivor's benefits for those insured under the Social Security Act",
+            "B": "disability payments to employees who become totally disabled",
+            "C": "tax refunds for retirees who are 55 and older",
+            "D": "Medicare program administration"
+        },
+        "answer": "C",
+        "explanation": "C) Survivor's benefits provide monthly payments to your dependents regardless of\nyour age at death, again assuming you are insured under the Social Security Act. There are also\ndisability payments to employees who become disabled totally if they meet certain requirements.\nThe Social Security system also administers the Medicare program, but tax refunds are not part\nof the Social Security system."
+    },
+    {
+        "chapter": "13",
+        "question_number": "66)",
+        "description": "How is the Social Security program funded?",
+        "options": {
+            "A": "sale of government bonds",
+            "B": "tax on employee wages",
+            "C": "tax on homeowners",
+            "D": "tax on luxury goods"
+        },
+        "answer": "B",
+        "explanation": "B) A tax on the employee's wages, shared equally by employees and employers,\nfunds Social Security. As of 2014, the maximum amount of earnings subject to Social Security\ntax was $117,000."
+    },
+    {
+        "chapter": "13",
+        "question_number": "67)",
+        "description": "Which of the following provides a fixed sum when employees reach a predetermined\nretirement age or can no longer work due to disability?",
+        "options": {
+            "A": "workers' compensation",
+            "B": "Social Security",
+            "C": "pension plan",
+            "D": "group life insurance"
+        },
+        "answer": "C",
+        "explanation": "C) Pension plans are financial programs that provide income to individuals in their\nretirement. Pension plans provide a fixed sum when employees reach a predetermined retirement\nage or when they can no longer work due to disability."
+    },
+    {
+        "chapter": "13",
+        "question_number": "68)",
+        "description": "Taxes on employee wages to fund Social Security apply to all earnings up to ________.",
+        "options": {
+            "A": "$46,500",
+            "B": "$63,700",
+            "C": "$117,000",
+            "D": "$124,300"
+        },
+        "answer": "C",
+        "explanation": "C) As of 2014, the maximum amount of earnings subject to Social Security tax\nwas $117,000. Employers and employees each pay 7.6%."
+    },
+    {
+        "chapter": "13",
+        "question_number": "69)",
+        "description": "Medicare provides a wide range of health services to people ________ or over.",
+        "options": {
+            "A": "55",
+            "B": "60",
+            "C": "65",
+            "D": "70"
+        },
+        "answer": "C",
+        "explanation": "C) The Social Security system also administers the Medicare program, which\nprovides health services to people age 65 or older."
+    },
+    {
+        "chapter": "13",
+        "question_number": "70)",
+        "description": "When an employer makes all of the contributions to the pension plan, the pension plan is\nclassified as ________.",
+        "options": {
+            "A": "qualified",
+            "B": "non-qualified",
+            "C": "defined contribution",
+            "D": "non-contributory"
+        },
+        "answer": "D",
+        "explanation": "D) Pension plans are classified in three ways: contributory versus non-contributory\nplans, qualified versus non-qualified plans, and defined contribution versus defined benefit plans.\nThe employee contributes to the contributory pension plan, while the employer makes all\ncontributions to non-contributory plans."
+    },
+    {
+        "chapter": "13",
+        "question_number": "71)",
+        "description": "A plan that contains a formula for determining retirement benefits is known as a ________.",
+        "options": {
+            "A": "defined contribution pension plan",
+            "B": "defined benefit pension plan",
+            "C": "cash balance plan",
+            "D": "401(k) plan"
+        },
+        "answer": "B",
+        "explanation": "B) With defined benefit pension plans, employees know ahead of time the pension\nbenefits they will receive (the benefit is \"defined\" or specified by amount or formula). In\ncontrast, defined contribution pension plans specify what contribution the employee and/or\nemployer will make to the employee's retirement or savings fund."
+    },
+    {
+        "chapter": "13",
+        "question_number": "72)",
+        "description": "Malcolm is interviewing for a new job and he is evaluating the quality of the pension plans\noffered for each company he is considering. One company offers a pension plan in which the\ncompany will make all contributions to the plan and will base his pension benefit on a formula\nlinked to his pay at the time of retirement and the number of years he was with the firm. This\npension plan is most likely classified as ________.",
+        "options": {
+            "A": "qualified, defined benefit",
+            "B": "non-contributory, defined benefit",
+            "C": "non-contributory, defined contribution",
+            "D": "contributory, defined benefit"
+        },
+        "answer": "B",
+        "explanation": "B) The employee contributes to the contributory pension plan, while the employer\nmakes all contributions to non-contributory plans. With defined benefit pension plans,\nemployees know ahead of time the pension benefits they will receive (the benefit is \"defined\" or\nspecified by amount or formula). Therefore, Malcolm has a non-contributory, defined benefit\npension plan."
+    },
+    {
+        "chapter": "13",
+        "question_number": "73)",
+        "description": "Jenny must contribute at least 5% of her annual salary to her pension plan, and her employer\ncontributes a set amount as well. She is given choices regarding how the money is invested.\nWhen she retires, the amount she has available will depend on how much she invested herself,\nand the rate of return on the investments she chose. This pension plan is most likely classified as\n________.",
+        "options": {
+            "A": "qualified, defined benefit",
+            "B": "non-contributory, defined benefit",
+            "C": "contributory, defined contribution",
+            "D": "contributory, non-qualified"
+        },
+        "answer": "C",
+        "explanation": "C) The employee contributes to the contributory pension plan, while the employer\nmakes all contributions to non-contributory plans. With defined benefit pension plans,\nemployees know ahead of time the pension benefits they will receive (the benefit is \"defined\" or\nspecified by amount or formula). Defined contribution pension plans specify what contribution\nthe employee and/or employer will make to the employee's retirement or savings fund.\nTherefore, Jenny has a contributory, defined contribution plan."
+    },
+    {
+        "chapter": "13",
+        "question_number": "74)",
+        "description": "A plan in which the employer's contribution to employees' retirement savings funds is\nspecified is known as a ________.",
+        "options": {
+            "A": "portable plan",
+            "B": "default investment plan",
+            "C": "defined benefit pension plan",
+            "D": "defined contribution pension plan"
+        },
+        "answer": "D",
+        "explanation": "D) Defined contribution pension plans specify what contribution the employee\nand/or employer will make to the employee's retirement or savings fund. With defined benefit\npension plans, employees know ahead of time the pension benefits they will receive (the benefit\nis \"defined\" or specified by amount or formula)."
+    },
+    {
+        "chapter": "13",
+        "question_number": "75)",
+        "description": "All of the following are characteristic of 401(k) plans EXCEPT ________.",
+        "options": {
+            "A": "categorized as a defined contribution plan",
+            "B": "deduction replaces Social Security tax",
+            "C": "pretax salary deductions invested",
+            "D": "considered a savings and thrift plan"
+        },
+        "answer": "B",
+        "explanation": "B) A 401(k) plan is a defined contribution plan and a savings and thrift plan.\nEmployees invest by making pretax salary deductions, and the plans are usually administered by\ninvestment firms. A 401(k) contribution does not replace the Social Security tax."
+    },
+    {
+        "chapter": "13",
+        "question_number": "76)",
+        "description": "Which of the following refers to a plan in which employees contribute a portion of their\nearnings to a fund and the employer typically matches the contribution in whole or part?",
+        "options": {
+            "A": "group investment plan",
+            "B": "401(k) plan",
+            "C": "deferred profit-sharing plan",
+            "D": "employee stock ownership plan"
+        },
+        "answer": "B",
+        "explanation": "B) In any savings and thrift plan, employees contribute a portion of their earnings\nto a fund, and the employer usually matches this contribution completely or in part. The 401(k)\nplan is one example of a savings and thrift plan."
+    },
+    {
+        "chapter": "13",
+        "question_number": "77)",
+        "description": "All of the following characterize cash balance plans EXCEPT ________.",
+        "options": {
+            "A": "lacks portability",
+            "B": "offers predictable benefits",
+            "C": "considered hybrid pension plans",
+            "D": "employees earn interest on contributed amounts"
+        },
+        "answer": "A",
+        "explanation": "A) Cash balance plans are hybrid plans because they combine the portability of\ndefined contribution plans and the predictable benefits of defined benefit plans. Cash balance\nplans have the portability advantages of defined contribution plans."
+    },
+    {
+        "chapter": "13",
+        "question_number": "78)",
+        "description": "Which of the following requires that pension rights be vested and protected by the Pension\nBenefits Guarantee Corporation?",
+        "options": {
+            "A": "Economic Growth and Tax Relief Conciliation Act",
+            "B": "Employee Retirement Income Security Act",
+            "C": "Job Creation and Worker Assistance Act",
+            "D": "Social Security Act"
+        },
+        "answer": "B",
+        "explanation": "B) Signed into law by President Ford in 1974, ERISA requires that pension rights\nbe vested and protected by a government agency, the PBGC. It requires that employers have\nwritten pension plan documents and adhere to certain guidelines."
+    },
+    {
+        "chapter": "13",
+        "question_number": "79)",
+        "description": "Which of the following provides guidelines regarding what rates of return employers should\nuse in computing their pension plan values?",
+        "options": {
+            "A": "Employee Retirement Income Security Act",
+            "B": "Job Creation and Worker Assistance Act",
+            "C": "Social Security Act",
+            "D": "Equal Pay Act"
+        },
+        "answer": "B",
+        "explanation": "B) The Job Creation and Worker Assistance Act provides guidelines regarding\nwhat rates of return employers should use in computing their pension plan values."
+    },
+    {
+        "chapter": "13",
+        "question_number": "87)",
+        "description": "________ provide services like financial counseling, child care referrals, elder care referrals,\nadoption assistance, mental health counseling, and life event planning.",
+        "options": {
+            "A": "Pension plans",
+            "B": "Employee assistance programs",
+            "C": "Family-friendly benefits",
+            "D": "Benefit management systems"
+        },
+        "answer": "B",
+        "explanation": "B) Employee assistance programs (EAPs) provide counseling and advisory\nservices, such as personal legal and financial services, child and elder care referrals, adoption\nassistance, mental health counseling, and life event planning. EAPs are increasingly popular,\nwith more than 60% of larger firms offering such programs."
+    },
+    {
+        "chapter": "13",
+        "question_number": "88)",
+        "description": "________ seek(s) to enable employees to balance their job and family responsibilities.",
+        "options": {
+            "A": "Sick leave",
+            "B": "Pension plans",
+            "C": "Work-life benefits",
+            "D": "Benefit management systems"
+        },
+        "answer": "C",
+        "explanation": "C) Family-friendly or work-life benefits such as child care and fitness facilities are\nattempts by firms to help employees balance work and family responsibilities."
+    },
+    {
+        "chapter": "13",
+        "question_number": "89)",
+        "description": "Which of the following benefits is NOT classified as a type of family-friendly benefit?",
+        "options": {
+            "A": "sick leave",
+            "B": "subsidized child care",
+            "C": "on-site fitness facilities",
+            "D": "elder care"
+        },
+        "answer": "A",
+        "explanation": "A) Family-friendly benefits include subsidized child care, elder care, and on-site\nfitness facilities. Sick leave is useful when a child is ill; however, sick leave is a standard aspect\nof a job and not necessarily family-friendly."
+    },
+    {
+        "chapter": "13",
+        "question_number": "93)",
+        "description": "What are the key steps for launching a successful EAP program? Should firms offer EAPs?\nWhy or why not?\nAnswer: In either case, employers and managers need to keep several issues in mind. Everyone\ninvolved with the EAP, including supervisors, secretaries, and support staff, must understand the\nimportance of confidentiality. Also, ensure files are locked, access is limited and monitored, and\nidentifying information is minimized. Be aware of legal issues. For example, in most states\ncounselors must disclose suspicions of child abuse to state agencies. Define the program's\npurpose, employee eligibility, the roles and responsibilities of EAP and employer personnel, and\nprocedures for using the plan. Also, ensure the vendors you use fulfill professional and state\nlicensing requirements. For employers, EAPs produce advantages, not just costs. Employee\nassistance programs can reduce absences by providing expert advice on issues like elder care\nreferrals.\nDifficulty: Hard\nChapter: 13\nObjective: 4\nAACSB: Application of Knowledge\nLearning Outcome: 13.4 Outline the main employees' services benefits.\n94) Why are family-friendly benefits increasingly popular? Provide examples of family-friendly\nbenefits.\nAnswer: There are many trends that increase the value of family-friendly benefits. There are\nmore households in which both adults work. There are more one-parent households. More\nwomen are in the workforce while also struggling to fulfill familial obligations. People are\nworking harder and longer with less time to manage life outside of work. Family-friendly\nbenefits can vary from organization to organization. Some examples include child care, elder\ncare, fitness facilities, sick child benefits and educational subsidies.\nDifficulty: Hard\nChapter: 13\nObjective: 4\nAACSB: Analytical Thinking\nLearning Outcome: 13.4 Outline the main employees' services benefits.\n95) Which term refers to individualized plans allowed by employers to accommodate employee\npreferences for benefits?",
+        "options": {
+            "A": "variable pay plan",
+            "B": "cafeteria benefits plan",
+            "C": "matching plan",
+            "D": "executive perquisite plan"
+        },
+        "answer": "B",
+        "explanation": "B) A cafeteria plan is one in which the employer gives each employee a benefits\nfund budget, and lets the person spend it on the benefits he or she prefers."
+    },
+    {
+        "chapter": "13",
+        "question_number": "96)",
+        "description": "Orion is a business software firm based in Atlanta that employs over 400 people. Orion has\ntraditionally provided legislatively required benefits for its employees including Social Security,\nworkers' compensation, and unemployment insurance. In addition, Orion offers employees health\nand dental insurance. Orion employees work Monday through Friday on a 9 to 5 schedule.\nOrion's top executives are considering the idea of adding a flexible benefits plan and\nimplementing a flexible work schedule.\nWhich of the following, if true, best supports the argument that Orion should offer its employees\na cafeteria benefits plan?",
+        "options": {
+            "A": "Orion lacks the resources to join a low-cost health insurance plan, so the firm belongs to a\npool with other businesses.",
+            "B": "Some Orion employees have indicated that they would like vision insurance, while others\nhave no interest in dental insurance.",
+            "C": "Orion offers its employees a PPO health insurance plan, but employees have expressed\ninterest in an HMO plan.",
+            "D": "Orion outsources its employee benefits program, so employees go through the plan's\nadministrator when filing claims."
+        },
+        "answer": "B",
+        "explanation": "B) Cafeteria plans enable employees to choose the benefits they need. If some\nworkers want vision while others want dental, then a cafeteria plan would be appropriate. Joining\nan insurance pool, PPO/HMO plans, and outsourcing benefits administration are not relevant."
+    },
+    {
+        "chapter": "13",
+        "question_number": "97)",
+        "description": "Orion is a business software firm based in Atlanta that employs over 400 people. Orion has\ntraditionally provided legislatively required benefits for its employees including Social Security,\nworkers' compensation, and unemployment insurance. In addition, Orion offers employees health\nand dental insurance. Orion employees work Monday through Friday on a 9 to 5 schedule.\nOrion's top executives are considering the idea of adding a flexible benefits plan and\nimplementing a flexible work schedule.\nWhich of the following, if true, undermines the argument that Orion should offer its employees a\ncafeteria plan?",
+        "options": {
+            "A": "A survey of Orion employees indicates that the majority of employees are very satisfied with\nthe firm's current benefit offerings.",
+            "B": "Orion experiences very few workers' compensation claims each year as compared to similarly\nsized businesses in the Atlanta area.",
+            "C": "Orion employee surveys indicate that most employees are interested in either 401(k) plans or\nRoth IRAs as methods of saving for retirement.",
+            "D": "Orion uses an employee leasing firm to handle recruiting, hiring, and benefits administration."
+        },
+        "answer": "A",
+        "explanation": "A) If Orion's employees are satisfied with the type of benefits offered by the firm,\nthen there is no need to change to a cafeteria plan. Cafeteria plans are useful when employees\nwant more choice and variety in their benefits. Workers' compensation, retirement savings, and\nemployee leasing are irrelevant issues."
+    },
+    {
+        "chapter": "13",
+        "question_number": "98)",
+        "description": "Which of the following best explains why many businesses use employee leasing firms?",
+        "options": {
+            "A": "Firms save money by hiring part-time or temporary workers.",
+            "B": "Investment opportunities are more plentiful and reliable.",
+            "C": "Small companies are able to get better insurance rates.",
+            "D": "Franchise owners can offer more flexible schedules."
+        },
+        "answer": "C",
+        "explanation": "C) Employee leasing firms (also called professional employer organizations or\nstaff leasing firms) assume all or most of the employer's human resources chores. Insurance and\nbenefits are usually the big attraction. Getting health and other insurance is a problem for smaller\nfirms, and leasing firms enable them to join a larger pool."
+    },
+    {
+        "chapter": "13",
+        "question_number": "99)",
+        "description": "Stephanie has opted to work from 7 am to 3 pm so that she can be home when her son\nfinishes school in the afternoons. Her company must offer ________ for Stephanie to have this\noption.",
+        "options": {
+            "A": "shift work",
+            "B": "flextime",
+            "C": "telecommuting",
+            "D": "compressed workweeks"
+        },
+        "answer": "B",
+        "explanation": "B) Flextime is a work schedule in which employees' workdays are built around a\ncore of midday hours, and employees determine, within limits, what other hours they will work.\nA compressed workweek involves working fewer but longer days each week."
+    },
+    {
+        "chapter": "13",
+        "question_number": "100)",
+        "description": "Which of the following is an example of a compressed workweek?",
+        "options": {
+            "A": "Maxwell works from 7 am to 3 pm Monday-Friday.",
+            "B": "Shannon works from 7 am to 5 pm Monday-Thursday.",
+            "C": "Tom works from 11 am to 7 pm five days per week.",
+            "D": "Bob works from 12 pm to 6 pm Monday-Sunday."
+        },
+        "answer": "B",
+        "explanation": "B) A compressed workweek involves working fewer but longer days each week, so\nworking four 10-hour days is an example of a compressed workweek."
+    },
+    {
+        "chapter": "13",
+        "question_number": "101)",
+        "description": "Which of the following occupations is commonly subjected to compressed workweeks?",
+        "options": {
+            "A": "engineer",
+            "B": "attorney",
+            "C": "teacher",
+            "D": "pilot"
+        },
+        "answer": "D",
+        "explanation": "D) Occupations like pilot, nurse, doctor, and firefighter typically involve\ncompressed workweek schedules, which means working fewer days but longer each day."
+    },
+    {
+        "chapter": "13",
+        "question_number": "102)",
+        "description": "Anne and Martha are both accountant supervisors at a large marketing firm. Anne works\nfrom 7:00 a.m. until 12:00 p.m. each day. Martha takes over the same position at 12:00 p.m. and\nworks until 5:00 p.m. each day. Which of the following most likely describes this type of work\narrangement?",
+        "options": {
+            "A": "flextime",
+            "B": "job sharing",
+            "C": "work sharing",
+            "D": "compressed workweek"
+        },
+        "answer": "B",
+        "explanation": "B) Job sharing allows two or more people to share a single full-time job. Anne and\nMartha share a 40-hour-per-week job, with one working mornings and the other working\nafternoons."
+    },
+    {
+        "chapter": "13",
+        "question_number": "103)",
+        "description": "Curt works at a computer firm that is experiencing financial difficulties. In an attempt to\nsave money and prevent layoffs, the firm is enforcing a temporary reduction in work hours for\nCurt's division. Curt now works 35 hours a week instead of 40. Which of the following most\nlikely describes this situation?",
+        "options": {
+            "A": "flextime",
+            "B": "job sharing",
+            "C": "work sharing",
+            "D": "compressed workweek"
+        },
+        "answer": "C",
+        "explanation": "C) Work sharing refers to a temporary reduction in work hours by a group of\nemployees during economic downturns as a way to prevent layoffs."
+    },
+    {
+        "chapter": "13",
+        "question_number": "104)",
+        "description": "Orion is a business software firm based in Atlanta that employs over 400 people. Orion has\ntraditionally provided legislatively required benefits for its employees including Social Security,\nworkers' compensation, and unemployment insurance. In addition, Orion offers employees health\nand dental insurance. Orion employees work Monday through Friday on a 9 to 5 schedule.\nOrion's top executives are considering the idea of adding a flexible benefits plan and\nimplementing a flexible work schedule.\nAll of the following questions are relevant to Orion's decision to add a cafeteria plan EXCEPT\nwhich one?",
+        "options": {
+            "A": "What benefits are available to employees at Orion's main competitors?",
+            "B": "What costs would Orion incur for switching to a cafeteria benefits plan?",
+            "C": "How would a cafeteria plan alter Orion employees' Social Security benefits?",
+            "D": "What effect would a cafeteria plan have on the coverage that Orion employees receive?"
+        },
+        "answer": "C",
+        "explanation": "C) Social Security is required, so it is irrelevant to a decision about a cafeteria\nplan. Costs and changes in coverage are important issues to consider. For recruiting and\nemployee retention purposes, Orion should be aware of what competitors offer."
+    },
+    {
+        "chapter": "13",
+        "question_number": "105)",
+        "description": "Orion is a business software firm based in Atlanta that employs over 400 people. Orion has\ntraditionally provided legislatively required benefits for its employees including Social Security,\nworkers' compensation, and unemployment insurance. In addition, Orion offers employees health\nand dental insurance. Orion employees work Monday through Friday on a 9 to 5 schedule.\nOrion's top executives are considering the idea of adding a flexible benefits plan and\nimplementing a flexible work schedule.\nWhich of the following, if true, best supports Orion's decision to offer flextime to its employees?",
+        "options": {
+            "A": "Orion's single-parent employees are frequently late when arriving to work.",
+            "B": "Orion allows some of its employees to telecommute at least one day each week.",
+            "C": "Many Orion employees must conduct business while traveling to different locations.",
+            "D": "Orion employs a large number of part-time employees, most of whom are near retirement\nage."
+        },
+        "answer": "A",
+        "explanation": "A) Flextime allows workers to shift their work schedules slightly. Single parents\nwho are late because of child care responsibilities would likely be more punctual if they could\narrange their schedules around school or daycare hours."
+    },
+    {
+        "chapter": "13",
+        "question_number": "106)",
+        "description": "Orion is a business software firm based in Atlanta that employs over 400 people. Orion has\ntraditionally provided legislatively required benefits for its employees including Social Security,\nworkers' compensation, and unemployment insurance. In addition, Orion offers employees health\nand dental insurance. Orion employees work Monday through Friday on a 9 to 5 schedule.\nOrion's top executives are considering the idea of adding a flexible benefits plan and\nimplementing a flexible work schedule.\nAll of the following questions are relevant to Orion's decision to offer flextime and job sharing\noptions to its employees EXCEPT which one?",
+        "options": {
+            "A": "What do surveys indicate regarding overall job satisfaction among Orion employees?",
+            "B": "How would the productivity level of Orion's employees most likely change?",
+            "C": "What work schedule configurations are legal?",
+            "D": "What is the average rate of employee absenteeism at Orion?"
+        },
+        "answer": "C",
+        "explanation": "C) Job satisfaction, productivity, and absenteeism are important issues to consider\nif going to a flexible work schedule. Schedule configurations rarely are a legal issue."
+    }
+]

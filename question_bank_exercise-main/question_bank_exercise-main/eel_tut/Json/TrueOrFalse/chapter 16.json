@@ -1,0 +1,198 @@
+[
+    {
+        "chapter": "16",
+        "question_number": "19)",
+        "description": "OSHA's standards are vague, which has made them difficult to enforce.",
+        "answer": "FALSE",
+        "explanation": "OSHA's standards are very complete and cover in detail just about every conceivable hazard."
+    },
+    {
+        "chapter": "16",
+        "question_number": "20)",
+        "description": "An occupational illness is any abnormal condition or disorder caused by exposure to environmental factors associated with employment.",
+        "answer": "TRUE",
+        "explanation": "An occupational illness is any abnormal condition or disorder caused by exposure to environmental factors associated with employment. This includes acute and chronic illnesses caused by inhalation, absorption, ingestion, or direct contact with toxic substances or harmful agents."
+    },
+    {
+        "chapter": "16",
+        "question_number": "21)",
+        "description": "Matthew, an electrician at Carver Industries, cut his hand while splicing wires. Matthew received first aid treatment before returning to work. Carver Industries is required by OSHA to report Matthew's injury.",
+        "answer": "FALSE",
+        "explanation": "Employers must report most occupational injuries, specifically those that result in medical treatment, loss of consciousness, restriction of work (one or more lost workdays), restriction of motion, or transfer to another job. However, if first aid is the only treatment, then the injury does not need to be reported."
+    },
+    {
+        "chapter": "16",
+        "question_number": "22)",
+        "description": "OSHA insists that occupational injuries be recorded, including ankle sprains that occur during voluntary participation in a company softball game.",
+        "answer": "TRUE",
+        "explanation": "OSHA's record-keeping requirements are fairly broad. An ankle sprain that occurs during voluntary participation in a company softball game would need to be reported."
+    },
+    {
+        "chapter": "16",
+        "question_number": "23)",
+        "description": "Investigating employee complaints of alleged violation standards is considered the highest priority for OSHA.",
+        "answer": "FALSE",
+        "explanation": "OSHA inspection priorities include, from highest to lowest, imminent dangers, catastrophes and fatal accidents, employee complaints, high-hazard industries inspections, and follow-up inspections."
+    },
+    {
+        "chapter": "16",
+        "question_number": "24)",
+        "description": "Scaffolding, fall protection, hazard communication, electrical disengagement, and respiratory problems are the most frequent OSHA inspection violation categories.",
+        "answer": "TRUE",
+        "explanation": "OSHA inspectors look for all types of violations, but some potential problem areas—such as scaffolding and fall protection—grab more of their attention. The five most frequent OSHA inspection violation areas are scaffolding, fall protection, hazard communication, lockout/tagout (electrical disengagement), and respiratory problems."
+    },
+    {
+        "chapter": "16",
+        "question_number": "25)",
+        "description": "Despite many managerial warnings, William refuses to wear a hard hat when working as an electrician for Paulson Homes. William cuts his head when he falls from scaffolding that has not been properly secured. Paulson Homes will most likely not be held liable for William's injury.",
+        "answer": "FALSE",
+        "explanation": "Although employees have a responsibility to comply with OSHA standards, they often resist; the employer usually remains liable for any penalties. William's refusal to wear a hard hat does not mean Paulson Home is not liable for his injury, especially since the scaffolding was unsafe."
+    },
+    {
+        "chapter": "16",
+        "question_number": "26)",
+        "description": "Positive reinforcement programs identify the worker behaviors that lead to accidents and then train workers to avoid these behaviors.",
+        "answer": "FALSE",
+        "explanation": "Positive reinforcement programs provide workers with continuing positive feedback, usually in the form of graphical performance reports and supervisory support, to shape the workers' safety-related behavior."
+    },
+    {
+        "chapter": "16",
+        "question_number": "34)",
+        "description": "Woodworking machines, flywheels, and saws cause the most serious workplace injuries.",
+        "answer": "TRUE",
+        "explanation": "The most serious accidents usually occur by metal and woodworking machines and saws, or around transmission machinery like gears, pulleys, and flywheels."
+    },
+    {
+        "chapter": "16",
+        "question_number": "35)",
+        "description": "Workplace accidents occur more often during night shifts than during daytime shifts.",
+        "answer": "TRUE",
+        "explanation": "Accident rates usually don't increase too noticeably during the first 5 or 6 hours of the workday. But after that, the accident rate increases faster. This is due partly to fatigue and partly to the fact that accidents occur more often during night shifts."
+    },
+    {
+        "chapter": "16",
+        "question_number": "36)",
+        "description": "People who are impulsive and highly extroverted tend to be accident prone.",
+        "answer": "TRUE",
+        "explanation": "There is growing evidence that people with specific traits may indeed be accident prone. For example, people who are impulsive, sensation seeking, extremely extroverted, and less conscientious are more likely to have accidents."
+    },
+    {
+        "chapter": "16",
+        "question_number": "37)",
+        "description": "Comfort, fit, durability, and convenience are primary concerns regarding personal protective equipment.",
+        "answer": "TRUE",
+        "explanation": "Getting employees to wear personal protective equipment (PPE) is a famously difficult chore. Wearability, reliable protection, fit, comfort, and convenience are likely to improve the use of PPE."
+    },
+    {
+        "chapter": "16",
+        "question_number": "38)",
+        "description": "The fatality rate of young workers is nearly three times that of older, more experienced workers.",
+        "answer": "FALSE",
+        "explanation": "Employers should make special provisions to assist older workers like reducing heavy lifting and boosting lighting levels. The fatality rate for older workers is about three times that of younger workers."
+    },
+    {
+        "chapter": "16",
+        "question_number": "39)",
+        "description": "Many employers today are banning mandatory overtime due to the increased likelihood of a workplace accident caused by employee fatigue.",
+        "answer": "TRUE",
+        "explanation": "In part due to reduced headcount and more people with second jobs, employee fatigue is a growing problem today. Many employers are therefore taking steps to reduce employee fatigue, such as banning mandatory overtime."
+    },
+    {
+        "chapter": "16",
+        "question_number": "58)",
+        "description": "Safety awareness programs involve trained supervisors orienting new workers regarding common safety hazards and simple prevention methods in the workplace.",
+        "answer": "TRUE",
+        "explanation": "Safety awareness programs mean trained supervisors orienting new workers arriving at a job site regarding common safety hazards and simple prevention methods."
+    },
+    {
+        "chapter": "16",
+        "question_number": "59)",
+        "description": "OSHA advocates safety incentive programs because they drastically reduce the number of workplace injuries and illnesses.",
+        "answer": "FALSE",
+        "explanation": "OSHA has argued that safety incentive programs don't cut down on actual injuries or illnesses, but only on injury and illness reporting."
+    },
+    {
+        "chapter": "16",
+        "question_number": "60)",
+        "description": "An operational safety review involves systematically identifying and eliminating dangers in the workplace before accidents occur and reducing risks to acceptable levels.",
+        "answer": "FALSE",
+        "explanation": "Operational safety reviews (or safety operations reviews) are conducted by agencies to ascertain whether units under their jurisdiction are complying with all the applicable safety laws, regulations, orders, and rules. Job hazard analysis involves a systematic approach to identifying and eliminating workplace hazards before accidents occur. Job hazard analysis focuses on the relationship between the worker, the task, the tools, and the work environment and ends by reducing the potential risks to acceptable levels."
+    },
+    {
+        "chapter": "16",
+        "question_number": "88)",
+        "description": "For dealing with hazardous substances, personal protective gear is generally the first option.",
+        "answer": "TRUE",
+        "explanation": "Personal protective gear is generally the last option for dealing with such problems. The employer must first install engineering controls (such as process enclosures or ventilation) and administrative controls (including training and improved housekeeping)."
+    },
+    {
+        "chapter": "16",
+        "question_number": "89)",
+        "description": "During the evaluation stage of industrial hygiene, a facility's health and safety officers interview employees and conduct a facility survey.",
+        "answer": "FALSE",
+        "explanation": "Industrial hygiene involves recognition, evaluation, and control. During recognition, the facility's health and safety officers must recognize possible exposure hazards. This typically involves conducting plant/facility walk-around surveys and employee interviews. Having identified a possible hazard, the evaluation phase involves determining how severe the hazard is by measuring the exposure."
+    },
+    {
+        "chapter": "16",
+        "question_number": "90)",
+        "description": "A recent survey indicates that approximately 35% of the U.S. workforce has either been hung over at work or been impaired while on the job at least once during the previous year.",
+        "answer": "FALSE",
+        "explanation": "About 15% of the U.S. workforce \"has either been hung over at work, been drinking shortly before showing up for work, or been drinking or impaired while on the job at least once during the previous year.\""
+    },
+    {
+        "chapter": "16",
+        "question_number": "91)",
+        "description": "Pre-employment drug testing tends to discourage drug users from applying for jobs or for applying with companies that perform drug tests.",
+        "answer": "TRUE",
+        "explanation": "Pre-employment drug testing also discourages those on drugs from applying for work or going to work for employers who test. One study found that more than 30% of regular drug users employed full-time said they were less likely to work for a company that conducted pre-employment screening."
+    },
+    {
+        "chapter": "16",
+        "question_number": "92)",
+        "description": "Most employers do not deal with substance abuse until after a worker is hired.",
+        "answer": "FALSE",
+        "explanation": "For many employers, dealing with substance abuse begins with substance abuse testing. It is unusual to find employers who don't at least test job candidates for substance abuse before formally hiring them."
+    },
+    {
+        "chapter": "16",
+        "question_number": "93)",
+        "description": "Tardiness and lying are early-stage behaviors that indicate a worker's possible alcoholism.",
+        "answer": "TRUE",
+        "explanation": "Arriving at work late, untrue statements, and leaving work early are early stage alcoholism signs."
+    },
+    {
+        "chapter": "16",
+        "question_number": "94)",
+        "description": "Repetitive motion disorders include disorders such as carpal tunnel syndrome and tendonitis, and result from too many uninterrupted repetitions of an activity or motion, or from unnatural motions such as twisting the arm or wrist.",
+        "answer": "TRUE",
+        "explanation": "Repetitive motion disorders include disorders such as carpal tunnel syndrome and tendonitis, and result from too many uninterrupted repetitions of an activity or motion, or from unnatural motions such as twisting the arm or wrist."
+    },
+    {
+        "chapter": "16",
+        "question_number": "105)",
+        "description": "Workplace safety relates to protecting employees from internal and external security risks such as criminal acts by outside perpetrators and terrorism.",
+        "answer": "FALSE",
+        "explanation": "Workplace security relates to protecting employees from internal and external security risks such as criminal acts by outside perpetrators and terrorism."
+    },
+    {
+        "chapter": "16",
+        "question_number": "106)",
+        "description": "About 30% of workplace attacks are committed by coworkers.",
+        "answer": "TRUE",
+        "explanation": "About 30% of workplace attacks are committed by coworkers."
+    },
+    {
+        "chapter": "16",
+        "question_number": "107)",
+        "description": "Enterprise risk management involves identifying and handling security risks, such as those associated with workplace crime and facility security.",
+        "answer": "TRUE",
+        "explanation": "Identifying security and other corporate risks falls within the domain of enterprise risk management, which means identifying risks and planning to mitigate and actually mitigating these risks. Eliminating crime and enhancing facility security are two important issues here."
+    },
+    {
+        "chapter": "16",
+        "question_number": "108)",
+        "description": "The first step of an effective and comprehensive corporate anti-crime program involves installing an advanced alarm system and metal detector at every entrance.",
+        "answer": "FALSE",
+        "explanation": "Ideally, a comprehensive corporate anticrime program should start with a company philosophy and policy on crime. In particular, make sure employees understand that no crime is acceptable and that the employer has a zero tolerance policy with respect to workers who commit crimes."
+    }
+]
